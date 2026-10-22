@@ -198,7 +198,7 @@
       border-left: 2px solid var(--gold-accent);
     }
 
-    /* PANE 2: MIDDLE (DYNAMIC OUTLINE CARDS) */
+    /* PANE 2: MIDDLE */
     .pane-middle-overview {
       flex: 1.05;
       background: var(--bg-middle);
@@ -513,40 +513,36 @@
       return text;
     }
 
-    /* DYNAMIC OUTLINE CHUNKER:
-       Splits natural outline text files into clean cards at each major section/change.
-       Recognizes sections separated by blank lines or major numbered items (1., 2., 3., GR:, XPNS:).
+    /* RESILIENT OUTLINE CHUNKER:
+       Slices text notes into clean cards at paragraph breaks, blank lines,
+       numbered lists (1., 2., 3.), or key headers (GR:, XPNS:).
     */
     function splitOverviewIntoCards(rawText) {
-      const lines = rawText.split('\n');
-      const chunks = [];
-      let currentChunk = [];
+      if (!rawText || !rawText.trim()) return [];
 
-      for (let i = 0; i < lines.length; i++) {
-        const line = lines[i];
-        const trimmed = line.trim();
+      let paragraphs = rawText.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean);
 
-        // Topic change triggers: major numbered headers (e.g. "1.", "2."), "GR:", "XPNS:", or empty lines
-        const isMajorHeader = /^(?:[0-9]+\.|\bGR\b|\bXPNS\b|Members of the managerial|Test of Supervisory)/i.test(trimmed);
+      if (paragraphs.length <= 1) {
+        const lines = rawText.split('\n');
+        const chunks = [];
+        let cur = [];
 
-        if (trimmed === '') {
-          if (currentChunk.length > 0) {
-            chunks.push(currentChunk.join('\n').trim());
-            currentChunk = [];
+        for (let i = 0; i < lines.length; i++) {
+          const l = lines[i];
+          const isHeading = /^(?:[0-9]+\.|\bGR\b|\bXPNS\b|[A-Z]\.|\#{1,3})\s*/i.test(l.trim());
+
+          if (isHeading && cur.length > 0) {
+            chunks.push(cur.join('\n').trim());
+            cur = [l];
+          } else {
+            cur.push(l);
           }
-        } else if (isMajorHeader && currentChunk.length > 0 && currentChunk.some(l => l.trim().length > 0)) {
-          chunks.push(currentChunk.join('\n').trim());
-          currentChunk = [line];
-        } else {
-          currentChunk.push(line);
         }
+        if (cur.length > 0) chunks.push(cur.join('\n').trim());
+        paragraphs = chunks.filter(Boolean);
       }
 
-      if (currentChunk.length > 0 && currentChunk.join('').trim().length > 0) {
-        chunks.push(currentChunk.join('\n').trim());
-      }
-
-      return chunks.filter(c => c.length > 0);
+      return paragraphs.length > 0 ? paragraphs : [rawText.trim()];
     }
 
     async function renderMiddleOverview() {
@@ -560,6 +556,20 @@
         canvas.innerHTML = '<div style="padding: 20px; text-align: center; color: #64748b;">Loading overview...</div>';
         try {
           const text = await fetchTextFile(item.overviewFile);
+          
+          if (!text || !text.trim()) {
+            canvas.innerHTML = `
+              <div class="info-header">
+                <div><h1 class="info-title">${item.subtopic}</h1></div>
+                <div class="badge-pill" style="align-self: center;">Overview Outline</div>
+              </div>
+              <div style="padding: 24px; text-align: center; color: #94a3b8; font-size: 0.85rem;">
+                This overview file is currently empty. Add your outline notes to <code>${item.overviewFile}</code> in GitHub.
+              </div>
+            `;
+            return;
+          }
+
           const chunks = splitOverviewIntoCards(text);
 
           let cardsHTML = '';
@@ -582,12 +592,21 @@
             </div>
           `;
         } catch (err) {
-          canvas.innerHTML = `<div style="padding: 20px; color: #ef4444; font-size: 0.8rem;">Could not load overview: <code>${item.overviewFile}</code><br><span style="color:#64748b;">${err.message}</span></div>`;
+          canvas.innerHTML = `
+            <div style="padding: 20px; color: #ef4444; font-size: 0.8rem; line-height: 1.5;">
+              <strong>Could not load overview:</strong><br>
+              <code>${item.overviewFile}</code><br><br>
+              <span style="color:#64748b;">Please verify this file exists in your <code>Overviews/</code> folder on GitHub.</span>
+            </div>
+          `;
         }
       }
     }
 
-    /* RIGHT PANE: STATE-MACHINE DIGEST PARSER (Facts, Issue, Held, Ratio, Fallo) */
+    /* RIGHT PANE: STATE MACHINE DIGEST PARSER
+       Captures Facts, Issue, Held, Ratio, and Fallo seamlessly.
+       Safely ignores sub-headers like "Verbatim Legal Basis:".
+    */
     function parseDigestTextFile(rawText, defaultTitle) {
       const lines = rawText.split('\n');
       const nonBlank = lines.map(l => l.trim()).filter(Boolean);
