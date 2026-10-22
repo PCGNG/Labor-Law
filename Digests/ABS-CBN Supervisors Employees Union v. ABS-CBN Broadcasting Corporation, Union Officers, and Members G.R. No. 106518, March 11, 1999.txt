@@ -1,0 +1,45 @@
+ABS-CBN Supervisors Employees Union v. ABS-CBN Broadcasting Corporation, Union Officers, and Members G.R.No. 106518, March 11, 1999 (304 SCRA 489) 
+Second Division, Buena, J.
+Facts
+The ABS-CBN Supervisors Employees Union concluded a Collective Bargaining Agreement (CBA) with ABS-CBN Broadcasting Corporation. The CBA contained a clause providing for a 10% check-off from the wage increases and backpay awarded to supervisory employees as a "negotiation fee" / union assessment, payable to the union's negotiating panel. Several union members challenged the deduction, arguing that the union failed to secure individual written check-off authorizations signed by each affected employee as required by Article 241(o) [now Article 250(o)] and Article 113 of the Labor Code. The Med-Arbiter and DOLE Secretary ruled that the 10% assessment could not be legally deducted from the employees' salaries without their individual written consents. The Union petitioned the Supreme Court, asserting that the general ratification of the CBA by the majority of the general membership cured the absence of individual check-off authorizations.
+Issue
+Whether the employer may deduct union negotiation assessments or special fees from an employee’s wage without individual written check-off authorizations signed by the employee.
+Held
+The deduction is illegal; an employer cannot make wage deductions for special union assessments without individual, signed, written check-off authorizations.
+
+
+
+Verbatim Legal Basis:
+
+
+Article 113, Labor Code of the Philippines:
+
+
+"Art. 113. Wage deduction. — No employer, in his own behalf or in behalf of any person, shall make any deduction from the wages of his employees, except:
+
+
+(a) In cases where the worker is insured with his consent by the employer, and the deduction is to recompense the employer for the amount paid or to be paid by him as premium on the insurance;
+
+
+(b) For union dues, in cases where the right of the worker or his union to check-off has been recognized by the employer or authorized in writing by the individual worker concerned; and 
+
+
+(c) In cases where the employer is authorized by law or regulations issued by the Secretary of Labor and Employment." 
+
+
+
+Article 241(o) [now Article 250(o)], Labor Code of the Philippines: 
+
+
+"No special assessment or other extraordinary fees may be levied upon the members of a labor organization unless authorized by a written resolution of a majority of all the members at a general membership meeting duly called for the purpose... Other than for mandatory activities under the Code, no special assessments, attorney's fees, negotiation fees or any other extraordinary fees may be checked off from any amount due to an employee without an individual written authorization duly signed by the employee. The authorization should specifically state the amount, purpose and beneficiary of the deduction." 
+Ratio
+1. Protection of Worker's Wages: Wages are the primary means of subsistence for workers and are protected against unauthorized deductions. The law explicitly distinguishes regular union dues from special assessments, attorney’s fees, and negotiation fees.
+
+
+2. Dual Mandatory Requirements: For special assessments or negotiation fees to be lawfully checked off, the law requires: (1) a general resolution approved by the majority of the membership in a meeting called for that purpose; and (2) a specific, individual written authorization signed by each worker affected. A majority ratification of the CBA does not substitute for the mandatory individual written authorizations.
+Fallo
+WHEREFORE, the petition is hereby DISMISSED, and the Order of the Secretary of Labor and Employment dated May 14, 1992 is AFFIRMED.
+
+
+
+SO ORDERED.
