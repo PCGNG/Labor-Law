@@ -1,0 +1,27 @@
+International School Alliance of Educators (ISAE) v. Hon. Leonardo A. Quisumbing, in his capacity as the Secretary of Labor and Employment; Norberto Quisumbing, Jr.; and International School, Inc.
+G.R. No. 128845, June 1, 2000
+First Division, Puno, J.
+Facts
+Private respondent International School, Inc. (the School) hired both foreign and local teachers. It categorized them into two groups: (1) foreign-hires and (2) local-hires. The School granted foreign-hires higher salaries (an approximate 25% salary differential over local hires), along with housing, transportation, travel allowances, and other fringe benefits. The School reasoned that foreign-hires had to be lured from abroad, faced dislocation costs, and maintained living standards consistent with their countries of origin. Respondent union (ISAE), acting on behalf of the local-hires, demanded equal pay for equal work during CBA negotiations. When negotiations deadlocked, the Secretary of Labor assumed jurisdiction under Article 263(g) [now renumbered] of the Labor Code and ruled that the salary distinction between foreign-hires and local-hires was valid and based on reasonable classifications.
+
+Issue	Whether the salary distinction between foreign-hires and local-hires performing identical teaching services violates the constitutional guarantee of equal protection and the labor principle of "equal pay for equal work."
+
+Held	The salary differential violates the principle of "equal pay for equal work" and infringes upon public policy and equal protection.
+
+Verbatim Legal Basis:
+
+Article XIII, Section 3, 1987 Philippine Constitution:
+
+"The State shall afford full protection to labor, local and overseas, organized and unorganized, and promote full employment and equality of employment opportunities for all. It shall guarantee the rights of all workers to self-organization, collective bargaining and negotiations, and peaceful concerted activities, including the right to strike in accordance with law. They shall be entitled to security of tenure, humane conditions of work, and a living wage."
+
+Article 248 [now renumbered Article 259] (e), Labor Code of the Philippines:
+
+"Art. 248. Unfair labor practices of employers. — It shall be unlawful for an employer to commit any of the following unfair labor practices: ... (e) To discriminate in regard to wages, hours of work and other terms and conditions of employment in order to encourage or discourage membership in any labor organization..."
+Ratio
+1. Principle of Equal Pay for Equal Work: Employees who perform substantially equal work, requiring equal skill, effort, and responsibility under similar working conditions, must receive equal remuneration. Classification must rest on substantial distinctions; when local-hires and foreign-hires perform the exact same academic load, teach the same subjects, and share identical duties, granting foreign-hires 25% higher basic compensation violates equal protection and the constitutionally protected dignity of domestic labor.
+
+2. Distinction Between Base Salary and Dislocation Benefits: While the School may validly offer housing allowances, repatriation expenses, or relocation stipends to offset the foreign-hires' dislocation costs, it cannot inject discrimination directly into the basic salary rate for identical teaching work.
+Fallo
+WHEREFORE, the petition is GRANTED IN PART. The orders of the Secretary of Labor and Employment dated June 10, 1996 and December 27, 1996 in OS-AJ-0019-96 are ANNULLED and SET ASIDE. The School is ordered to grant local-hires the same salary rate given to foreign-hires of equal qualifications performing identical work.
+
+SO ORDERED.
