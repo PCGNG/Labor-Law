@@ -24,9 +24,99 @@ Purpose: to afford the laborer a chance to get a much-needed rest to replenish h
                       	notified SSS of her pregnancy and employer or submitted the maternity notification directly to SSS-if unemployed
 
 ▪	Paternity Leave (RA 8187);
+      Coverage and Eligibility 
+a. Who are entitled? 
+⮚	Married Male Employees: Only legally married, male employees are eligible. The law does not cover common-law partners or live-in arrangements without a valid marriage contract. .Private Sector and Public Sector Employees: It covers married male employees in both private establishments and government offices. .Regular and Non-Regular Employees: There is no distinction in terms of employment status. Whether the male employee is on probationary, regular, contractual, or casual status, he is entitled to paternity leave as long as the conditions are met. .Local or Overseas Employment: The law makes no express exclusion based on work location. Thus, a married male employee working in the Philippines is covered. Meanwhile, government employees also enjoy the same benefit under relevant Civil Service rules.
+
+Conditions for Availment:
+
+⮚	Legitimate Spouse's Delivery or Miscarriage: The entitlement arises upon the birth or miscarriage of the employee's legitimate spouse.  
+⮚	Notification to Employer: The employee must notify his employer of his wife's pregnancy and the expected date of delivery within a reasonable period. Advance notice is crucial for planning and management. While the law itself is silent on the exact timing, the Department of Labor and Employment (DOLE) encourages prompt and early notice.  
+⮚	Employment at the Time of Birth/Miscarriage: The employee must be employed at the time the child is born or when the miscarriage occurs.
+
+Duration and Number of Times Availment is Allowed  
+a. Duration: 
+The law grants seven (7) calendar days of paternity leave with full pay. These seven days are intended to be consecutive calendar days, not working days.  
+b. Limitation on Frequency: 
+A married male employee can avail of the paternity leave for the first four (4) deliveries or miscarriages of his legitimate spouse. 
+This can be summarized as follows: 
+1st child: Eligible 
+2nd child: Eligible 
+3rd child: Eligible 
+4th child: Eligible 
+5th and subsequent children: No longer covered by the paternity leave benefit  
+Miscarriages (including deliveries of stillborn children) are counted as part of these four availments.
+
+Coordination With Other Leaves  
+Paternity Leave Is a Separate Benefit: Paternity leave is a benefit separate and distinct from the employee's other leave entitlements (such as service incentive leave under the Labor Code, vacation leaves, or sick leaves provided by company policy or collective bargaining agreements).  
+Non-Convertible to Cash: If unused, paternity leave cannot be converted to its cash equivalent. Unlike some accrued leave benefits that can be monetized upon separation or year-end, unused paternity leave simply lapses.
+
+
 ▪	Parental Leave for Solo Parents (RA 8972 as amended by RA 11861)
+      ⮚	7 days solo parent leave
+      ⮚	Those who fall:
+            A.	A woman who gives birth as a result of rape and other crimes against chastity even without a final conviction of the offender, provided that the mother keeps and raises the child
+            B.	Parent left solo or alone with responsibility of parenthood due to the ff: 
+            	Death of spouse 
+            	Spouse is detained or is serving sentence for a criminal conviction for at least 1 year 
+            	Due to physical and or mental incapacity as certified by a medical practitioner 
+            	Due to legal separation or de facto separation for at least 1 year, has custody of the child 
+            	Declaration of nullity or annulment of marriage-custody of the child
+            C.	Unmarried mother / father-preferred to keep and rear her / his children
+            D.	Person who solely provides parental care and support to a child or children
+            E.	Family member who assumes the responsibility of head of family as a result of death, abandonment, disappearance or prolonged absence of the parents
+
+      ⮚	Conditions for entitlement:  
+            - Has rendered at least 1 year of service 
+            - Notification of er of the availment within a reasonable period of time 
+            - Has solo parent ID and presented to employer  
+            •	Not convertible to cash if unavailed of 
+            •	If er already provides the same benefit under a company policy = credited as such and the greater benefit such prevail
+
+
 ▪	Leave for Victims of RA 9262;
+      
+            BATTERED WOMAN LEAVE (R.A. NO. 9262-ANTI-VIOLENCE AGAINST WOMEN AND THEIR CHILDREN ACT OF 2004)  
+            
+            ⮚	Female employee who is a victim of violence (physical, sexual, psychological) 
+            ⮚	Paid leave of 10 days 
+            ⮚	Extendible when necessary 
+            ⮚	Must submit a certification from the punong barangay, kagawad, prosecutor or clerk of court that an action under RA 9262 has been filed and is pending 
+            ⮚	Er who refuses-penalized under the Labor Code 
+            ⮚	Availed to attend to medical and legal concerns 
+            ⮚	Not convertible to cash
+
 ▪	Special Leave for Women (RA 9710);
+            ⮚	Women employee in the private sector, regardless of age and status- entitled to leave of 2 months with full pay based on gross monthly compensation 
+            ⮚	Due to surgery caused by gynecological disorders under the ff: - rendered at least 6 months continuous employment service for the last 12 months prior to surgery If extended leave is necessary-employee may use her earned leave credits - cannot be converted to case 
+            ⮚	Gynecological disorders = require surgical procedures like hysterectomy, mastectomy (dilation and curettage of female organs) 
+            ⮚	Can be availed of for a maximum of 2 months per year 
+            ⮚	Different from SSS sickness benefit 
+            ⮚	Cannot be taken from existing leaves 
+            ⮚	If woman undergoes surgery due to gynecological disorder during maternity leave, she is entitled only to the difference between the special leave and maternity leave benefits 
+            ⮚	Pay shall be based on her prevailing salary at the time of surgery
+
 ▪	Leave of Absence and Entitlement During the Covid-19
+In CSC Resolution No. 2101122 dated 31 December 2021, circularized through CSC Memorandum Circular No. 2, s. 2022 dated 18 January 2022, absence from work for every instance of the required quarantine period, isolation, and/or treatment for government workers who are "infected or identified as close contacts of a suspect, probable, and/or confirmed cases of COVID-19 while in the performance of their official functions, (onsite or WFH arrangement)" shall be considered as excused absence. They may be required to adopt a work-from-home arrangement depending on the nature of their work pursuant to the guidelines on alternative work arrangements contained in CSC M.C. No. 18, s. 2020.
+
+Guidelines on the Implementation of Flexible Work Arrangements as Remedial Measure Due to the Ongoing Outbreak of COVID- 19[10] 
+
+The effectivity and implementation of any of the flexible work arrangements shall be temporary in nature, subject to the prevailing conditions of the company.  
+
+Options for Flexible Work Arrangements 
+1.Reduction of Workhours and/or Workdays - normal workhours or workdays per week are reduced. 
+2.Rotation of Workers - employees are rotated or alternately provided work within the week. 
+3.Forced Leave - employees are required to go on leave for several days or weeks utilizing their leave credits, if any.  
+
+Requirements: 
+1.Prior consultation and due notice. 
+2.The terms must be acceptable to both the employer and employees. 
+3.Posting a copy of the Advisory in a conspicuous location in the workplace. 4.Notify the DOLE through the Regional / Provincial / Field Office which has jurisdiction over the workplace.
+
+VACATION AND SICK LEAVE  
+•	Matter of management prerogative of CBA 
+•	Not statutorily required  
+•	GR: non-commutative. Must be enjoyed within 1 year 
+•	Exception: when the labor contract or the established practice of the employer provides otherwise
 
 
