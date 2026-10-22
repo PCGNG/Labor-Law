@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Labor Law Reviewer | 3-Pane Syllabus View</title>
+  <title>Labor Law Reviewer by PCGNG | 3-Pane Syllabus View</title>
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -274,7 +274,7 @@
       margin: 0;
     }
 
-    /* PANE 3: RIGHT DIGEST (ENLARGED LABELS & TEXT) */
+    /* PANE 3: RIGHT DIGEST (JUSTIFIED & LARGER FONTS) */
     .pane-right-digest {
       flex: 1.35;
       background: var(--bg-right);
@@ -313,7 +313,6 @@
 
     .digest-section { margin-bottom: 28px; }
     
-    /* ENLARGED SECTION LABELS */
     .section-label {
       font-size: 1.05rem;
       font-weight: 800;
@@ -331,7 +330,6 @@
     .section-label.ratio-label { color: #f472b6; }
     .section-label.fallo-label { color: #f87171; }
 
-    /* ENLARGED DIGEST BODY TEXT (JUSTIFIED) */
     .digest-text-content {
       font-size: 1.12rem;
       line-height: 1.8;
@@ -380,9 +378,10 @@
 </head>
 <body>
 
+  <!-- TOP APP BAR -->
   <header class="app-bar">
     <div class="brand-block">
-      <span class="brand-title">⚖ Labor Law Reviewer</span>
+      <span class="brand-title">⚖ Labor Law Reviewer by PCGNG</span>
       <span class="badge-pill">3-Pane Syllabus View</span>
     </div>
     <div class="nav-actions">
@@ -390,6 +389,7 @@
     </div>
   </header>
 
+  <!-- 3-PANE WORKSPACE -->
   <main class="three-pane-container">
     <aside class="pane-left-tree">
       <div class="pane-header-strip">
@@ -409,9 +409,10 @@
       </div>
     </section>
 
+    <!-- RIGHT PANE (UPDATED TO "CASE DIGEST") -->
     <section class="pane-right-digest">
       <div class="pane-header-strip">
-        <span>⚖ Bar Exam Case Digest</span>
+        <span>⚖ Case Digest</span>
         <div style="display: flex; gap: 6px;">
           <button class="btn btn-secondary" style="padding: 2px 8px; font-size: 0.72rem;" onclick="copyRatio()">Copy Ratio</button>
         </div>
