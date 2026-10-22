@@ -1,0 +1,48 @@
+Lourdes C. Rodriguez v. Park N Ride Inc., Vicest (Phils) Inc., Grand Leisure Corp., and Spouses Vicente & Estelita B. Javier G.R. No. 222980, March 20, 2017
+Second Division, Leonen, J.
+Facts:
+In 1984, Lourdes Rodriguez was hired by the Spouses Javier as a restaurant supervisor and later served as Administrative and Finance Assistant across their various business entities, including Park N Ride, Inc. After 25 years of service, Rodriguez tendered her resignation in 2009 following an altercation with Estelita Javier concerning unliquidated cash advances. Rodriguez filed a complaint for constructive illegal dismissal, non-payment of Service Incentive Leave (SIL) pay for her entire 25 years of service, 13th month pay differentials, and damages. She claimed she was subjected to constant humiliation, shouting, and hostile working conditions. The Labor Arbiter dismissed the complaint, ruling she voluntarily resigned. The CA affirmed the absence of constructive dismissal, but awarded SIL pay limited only to the three (3) years immediately preceding her resignation, ruling that claims prior thereto had prescribed under Article 291 [now Art. 306] of the Labor Code.
+Issue:
+1. Whether petitioner Rodriguez was constructively dismissed from her employment.
+
+2. Whether her monetary claim for Service Incentive Leave (SIL) pay covering her entire 25 years of employment had prescribed under the 3-year prescriptive rule of the Labor Code.
+Held:
+1. Petitioner was not constructively dismissed; her resignation was voluntary.
+
+2. Her claim for SIL pay covering the entire 25-year duration of her employment has NOT prescribed; she is entitled to full SIL pay from 1984 to 2009.
+
+
+Verbatim Legal Basis:
+
+Article 95, Labor Code of the Philippines:
+
+"Art. 95. Right to service incentive leave. — (a) Every employee who has rendered at least one year of service shall be entitled to a yearly service incentive leave of five days with pay.
+
+(b) This provision shall not apply to those who are already enjoying the benefit herein provided, those already enjoying vacation leave with pay of at least five days and those employed in establishments regularly employing less than ten employees or in establishments exempted by the Secretary of Labor and Employment after considering the viability or financial condition of such establishment.
+
+(c) The service incentive leave shall be commutable to its money equivalent if not used or exhausted at the end of the year."
+
+
+Article 291 [now Article 306], Labor Code of the Philippines:
+
+"Art. 291. Money claims. — All money claims arising from employer-employee relations accruing during the effectivity of this Code shall be filed within three (3) years from the time the cause of action accrued; otherwise they shall be forever barred."
+Ratio:
+1. Constructive Dismissal Negated: Constructive dismissal exists when an employee is compelled to give up employment due to unbearable, discriminatory, or offensive actions taken by the employer that render continued service impossible. Natural reprimands, disagreements, or spontaneous emotional outbursts by employers regarding unliquidated funds do not equate to a hostile work environment or illegal dismissal.
+
+2. Commencement of Prescriptive Period for SIL (Auto Bus Doctrine applied): Under Article 95 of the Labor Code, unused SIL is commutable to cash at the end of the year, but the employee has the option to accumulate it over the years. Because of the unique cumulative and commutable nature of SIL, the cause of action for its monetary conversion does not accrue at the end of each calendar year. Rather, the cause of action arises only when the employer refuses to pay its cash value upon demand or upon the employee's separation from employment. Since Rodriguez filed her complaint shortly after her resignation in 2009, her claim for all 25 years of accumulated SIL had not prescribed.
+Fallo:
+WHEREFORE, the Petition is PARTIALLY GRANTED. The Court of Appeals Decision dated December 15, 2015 in CA-G.R. SP No. 125440 is AFFIRMED with MODIFICATION as to the amounts awarded. Respondents are ORDERED to pay Lourdes C. Rodriguez the following:
+
+1) Service incentive leave pay for the years 1984 to 2009;
+
+2) 13th month pay differential for the years 2006 to 2008;
+
+3) Proportionate 13th month pay for the year 2009; and
+
+4) Attorney's fees equivalent to ten percent (10%) of the total monetary award.
+
+
+All amounts awarded shall be subject to interest of six percent (6%) per annum, from the date of finality of this Decision, until fully paid.
+
+
+SO ORDERED.
