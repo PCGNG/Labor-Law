@@ -1,0 +1,30 @@
+Banco Filipino Savings and Mortgage Bank v. Bangko Sentral ng Pilipinas and Monetary Board
+G.R. No. 200678, June 4, 2018 
+Third Division, Leonen, J.
+Facts
+On March 17, 2011, the Monetary Board of the Bangko Sentral ng Pilipinas (BSP) issued Resolution No. 372-A placing Banco Filipino Savings and Mortgage Bank under receivership and directing the Philippine Deposit Insurance Corporation (PDIC) to proceed with liquidation pursuant to Section 30 of Republic Act No. 7653 (New Central Bank Act). Banco Filipino filed petitions for certiorari assailing the closure, arguing among other things that closure violated the rights of its employees to security of tenure and prejudiced their preferred claims over the bank’s assets under Article 110 of the Labor Code. The Court of Appeals sustained the validity of the BSP resolution, finding that the closure was based on established insolvency and illiquidity.
+Issue
+Whether the administrative closure and liquidation of an insolvent banking institution by the Monetary Board can be prevented or invalidated by the statutory preference of employees' wage claims under Article 110 of the Labor Code.
+Held
+The administrative closure and liquidation of a bank under the New Central Bank Act is valid and cannot be enjoined by the worker preference rule of Article 110. 
+
+
+
+Verbatim Legal Basis: 
+
+
+Section 30, Republic Act No. 7653 (The New Central Bank Act): 
+
+
+"Sec. 30. Proceedings in Receivership and Liquidation. — Whenever, upon report of the head of the supervising or examining department, the Monetary Board finds that a bank or quasi-bank: (a) is unable to pay its liabilities as they become due in the ordinary course of business... (b) has insufficient realizable assets to meet its liabilities; or (c) cannot continue in business without involving probable losses to its depositors or creditors... the Monetary Board may summarily and without need for prior hearing forbid the institution from doing business in the Philippines and designate the Philippine Deposit Insurance Corporation as receiver." 
+Ratio
+1. Special Nature of Bank Liquidation: Bank closures under Section 30 of R.A. No. 7653 are police power measures designed to protect depositors, the banking public, and the financial system. Under the "close now, hear later" doctrine, the Monetary Board’s actions are summary and distinct from ordinary civil bankruptcies.
+
+
+2. Proper Forum for Wage Claims: Article 110 of the Labor Code applies precisely during liquidation, not as a ground to prohibit or forestall liquidation. Bank employees asserting unpaid wages, separation pay, and retirement benefits must file their claims with the designated liquidator (PDIC) or the liquidation court, where their claims will be ranked against the bank's assets in accordance with applicable rules on concurrence and preference.
+Fallo
+WHEREFORE, the Petition is DENIED. The Court of Appeals Resolutions dated October 14, 2011 and February 14, 2012 in CA-G.R. SP No. 118596 are AFFIRMED.
+
+
+
+SO ORDERED.
