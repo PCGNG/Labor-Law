@@ -1,0 +1,31 @@
+Allied Banking Corporation, In the Matter of the Petition to Have Steel Corporation of the Philippines Placed under Corporate Rehabilitation v. Steel Corporation of the Philippines
+G.R. No. 191939, March 14, 2018 
+Second Division, Reyes, Jr., J.
+Facts
+Steel Corporation of the Philippines (SCP) defaulted on its massive syndicated loan obligations, prompting creditor banks—including Allied Banking Corporation—to petition the RTC for involuntary corporate rehabilitation under the Interim Rules of Procedure on Corporate Rehabilitation. The rehabilitation court issued a Stay Order suspending all claims against SCP. Subsequently, various groups, including suppliers and contracted personnel asserting labor claims, sought exemptions from the Stay Order, arguing that wage benefits and operational obligations enjoy special preference under Article 110 of the Labor Code and should be disbursed immediately outside the rehabilitation framework. The creditor bank opposed exemptions that favored selected claims outside the court-approved payment schedules.
+Issue
+Whether the preference of credit for labor claims under Article 110 of the Labor Code allows employees to enforce their monetary claims outside a corporate rehabilitation proceeding in violation of a judicial Stay Order.
+Held
+Labor claims cannot be enforced independently or outside the corporate rehabilitation proceeding while a Stay Order is in effect.
+
+
+
+Verbatim Legal Basis:
+
+
+Section 6(c), Rule 3, Interim Rules of Procedure on Corporate Rehabilitation:
+
+
+"The stay order shall: ... stay the enforcement of all claims, whether for money or otherwise and whether such enforcement is by court action or otherwise, against the debtor, its guarantors and persons not solidarily liable with the debtor..."
+
+
+
+(Reiterated in Republic Act No. 10142, the Financial Rehabilitation and Insolvency Act of 2010 [FRIA]).
+Ratio
+1. Purpose of the Stay Order (Pari Passu Principle): The core principle of corporate rehabilitation is the preservation of the distressed entity as a going concern and the equitable distribution of its assets among all creditors. A Stay Order acts as an automatic freeze on all collection efforts against the debtor to prevent the dismemberment of the company’s assets by aggressive individual creditors.
+
+
+2. Preference Operates in Liquidation, Not Rehabilitation: The preference given to workers under Article 110 of the Labor Code and the Civil Code applies in liquidation proceedings where the business has ceased and its estate is broken up. In rehabilitation, all creditors must stand on equal footing within their approved classes under the Rehabilitation Plan, and no claim can be paid ahead in violation of the judicial stay.
+Fallo
+WHEREFORE, the petition is GRANTED. The assailed orders of the Regional Trial Court are REVERSED and SET ASIDE, and the enforcement of all claims, including labor and supplier claims, is STAYED pending the final outcome of the rehabilitation proceedings.
+SO ORDERED.
