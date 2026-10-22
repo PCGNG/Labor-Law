@@ -246,4 +246,430 @@
     .info-title {
       font-family: 'Playfair Display', serif;
       font-size: 1.45rem;
-      font-weight: 80
+      font-weight: 800;
+      line-height: 1.15;
+      color: #111827;
+      text-transform: uppercase;
+    }
+
+    .info-badge-stamp { text-align: right; flex-shrink: 0; }
+    .info-badge-stamp .tag {
+      font-size: 0.65rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+      color: #475569;
+      display: block;
+    }
+    .info-badge-stamp .sub-tag { font-size: 0.62rem; font-weight: 700; color: #94a3b8; }
+
+    .info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .info-card {
+      border-radius: 8px;
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .info-card.card-facts { background-color: var(--info-card-facts); }
+    .info-card.card-turning { background-color: var(--info-card-turning); }
+    .info-card.card-issue { background-color: var(--info-card-issue); }
+    .info-card.card-rationale { background-color: var(--info-card-rationale); }
+    .info-card.card-doctrine { background-color: var(--info-card-doctrine); }
+    .info-card.card-quote { background-color: var(--info-card-quote); }
+
+    .info-card-title {
+      font-size: 0.68rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .info-card p { font-size: 0.74rem; line-height: 1.45; color: #1e293b; }
+
+    /* PANE 3: RIGHT DIGEST */
+    .pane-right-digest {
+      flex: 1.25;
+      background: var(--bg-right);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .digest-scroll-area { flex: 1; overflow-y: auto; padding: 24px 28px; }
+    .digest-meta-tag {
+      font-size: 0.7rem;
+      font-weight: 700;
+      color: var(--gold-accent);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+    }
+
+    .digest-case-heading {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      line-height: 1.25;
+      color: #fff;
+      margin-bottom: 6px;
+    }
+
+    .digest-citation {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.74rem;
+      color: #94a3b8;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .digest-section { margin-bottom: 20px; }
+    .section-label {
+      font-size: 0.72rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .section-label.facts-label { color: #fbbf24; }
+    .section-label.issue-label { color: #38bdf8; }
+    .section-label.rules-label { color: #a78bfa; }
+    .section-label.ruling-label { color: #34d399; }
+    .section-label.ratio-label { color: #f472b6; }
+    .section-label.fallo-label { color: #f87171; }
+
+    .digest-text-content {
+      font-size: 0.85rem;
+      line-height: 1.65;
+      color: #cbd5e1;
+      background: rgba(15, 23, 42, 0.45);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      padding: 12px 16px;
+      border-radius: 8px;
+    }
+
+    .verbatim-box {
+      font-style: italic;
+      border-left: 3px solid #34d399;
+      background: rgba(5, 150, 105, 0.08);
+      padding: 12px 16px;
+      border-radius: 0 8px 8px 0;
+      color: #e2e8f0;
+      font-size: 0.85rem;
+      line-height: 1.6;
+    }
+
+    .fallo-box {
+      background: rgba(239, 68, 68, 0.06);
+      border: 1px dashed rgba(239, 68, 68, 0.35);
+      border-radius: 8px;
+      padding: 12px 16px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.76rem;
+      line-height: 1.5;
+      color: #fca5a5;
+    }
+
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #263346; border-radius: 3px; }
+  </style>
+</head>
+<body>
+
+  <header class="app-bar">
+    <div class="brand-block">
+      <span class="brand-title">⚖ Labor Law Reviewer</span>
+      <span class="badge-pill">3-Pane Syllabus View</span>
+    </div>
+    <div class="nav-actions">
+      <button class="btn btn-primary" onclick="window.print()">Print / PDF</button>
+    </div>
+  </header>
+
+  <main class="three-pane-container">
+    <aside class="pane-left-tree">
+      <div class="pane-header-strip">
+        <span>📁 Syllabus Hierarchy</span>
+        <span id="caseCountBadge" class="badge-pill">Loading...</span>
+      </div>
+      <div class="tree-scroll-area" id="syllabusTreeContainer"></div>
+    </aside>
+
+    <section class="pane-middle-overview">
+      <div class="pane-header-strip">
+        <span>● Topic & Sub-Topic Overview</span>
+        <span id="middleTag" style="color: var(--gold-accent);">Doctrine Focus</span>
+      </div>
+      <div class="middle-scroll-area">
+        <div class="infographic-sheet" id="overviewCanvas"></div>
+      </div>
+    </section>
+
+    <section class="pane-right-digest">
+      <div class="pane-header-strip">
+        <span>⚖ Bar Exam Case Digest</span>
+        <div style="display: flex; gap: 6px;">
+          <button class="btn btn-secondary" style="padding: 2px 8px; font-size: 0.65rem;" onclick="copyRatio()">Copy Ratio</button>
+        </div>
+      </div>
+      <div class="digest-scroll-area" id="digestCanvas"></div>
+    </section>
+  </main>
+
+  <script>
+    // Built-in initial syllabus map so it renders immediately even before fetch completes
+    const FALLBACK_SYLLABUS = [
+      { id: "a", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "a. Coverage and Exemptions", overviewFile: "Overviews/a. Coverage and Exemptions", digestFile: "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt" },
+      { id: "b", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "b. Normal Hours of Work", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt" },
+      { id: "c", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "c. Meal Periods", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt" },
+      { id: "d", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "d. Night Shift Differential", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt" },
+      { id: "e", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "e. Overtime Work", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt" },
+      { id: "f", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "f. Undertime not offset by overtime", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt" },
+      { id: "g", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "g. Weekly Rest periods", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt" },
+      { id: "h", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "h. Holiday Pay", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt" },
+      { id: "i", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "i. Service Incentive Leave", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt" },
+      { id: "teologo-v-people", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "j. Service Charges, RA No. 11360, DO No. 242-24", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt" },
+      { id: "royal-plant-v-coca-cola", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "j. Service Charges, RA No. 11360, DO No. 242-24", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Royal Plant Workers Union v. Coca-Cola Bottlers Phil. Inc.-Cebu Plant.txt" },
+      { id: "rodriguez-v-park-n-ride", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "j. Service Charges, RA No. 11360, DO No. 242-24", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Rodriguez v. Park N Ride Inc..txt" },
+      { id: "dela-rosa-liner-v-borela", topic: "IX. CONDITIONS OF EMPLOYMENT", subtopic: "j. Service Charges, RA No. 11360, DO No. 242-24", overviewFile: "Overviews/j. Service Charges", digestFile: "Digests/Dela Rosa Liner vs Borela.txt" }
+    ];
+
+    let syllabusData = FALLBACK_SYLLABUS;
+    let selectedIndex = 9; // Teologo case by default
+    const fileCache = {};
+
+    // Initial render so page is NEVER blank
+    renderApp();
+
+    // Fetch cases.json dynamically
+    fetch('cases.json?t=' + Date.now())
+      .then(res => {
+        if (!res.ok) throw new Error("Could not find cases.json");
+        return res.json();
+      })
+      .then(data => {
+        if (Array.isArray(data) && data.length > 0) {
+          syllabusData = data;
+          renderApp();
+        }
+      })
+      .catch(err => {
+        console.warn("Using fallback syllabus:", err);
+      });
+
+    function renderApp() {
+      renderLeftTree();
+      renderMiddleOverview();
+      renderRightDigest();
+    }
+
+    function renderLeftTree() {
+      const tree = document.getElementById('syllabusTreeContainer');
+      document.getElementById('caseCountBadge').textContent = `${syllabusData.length} Entries`;
+
+      const structure = {};
+      syllabusData.forEach((item, idx) => {
+        if (!structure[item.topic]) structure[item.topic] = {};
+        if (!structure[item.topic][item.subtopic]) structure[item.topic][item.subtopic] = [];
+        structure[item.topic][item.subtopic].push({ entry: item, index: idx });
+      });
+
+      let html = '';
+      for (const [topicName, subtopics] of Object.entries(structure)) {
+        html += `
+          <div class="topic-card">
+            <div class="topic-title">
+              <span>📁</span>
+              <span style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">${topicName}</span>
+            </div>
+        `;
+
+        for (const [subtopicName, entries] of Object.entries(subtopics)) {
+          const isSubActive = entries.some(e => e.index === selectedIndex);
+          const hasMultiple = entries.length > 1;
+
+          html += `
+            <div class="subtopic-item ${isSubActive ? 'active-subtopic' : ''}" onclick="selectCase(${entries[0].index})">
+              <span>• ${subtopicName}</span>
+              ${hasMultiple ? `<span style="font-size: 0.65rem; color: #64748b;">${entries.length} cases</span>` : ''}
+            </div>
+          `;
+
+          if (hasMultiple) {
+            html += `<div class="case-sub-list">`;
+            entries.forEach(e => {
+              const isCaseActive = e.index === selectedIndex;
+              const displayName = e.entry.id.replace(/-/g, ' ');
+              html += `
+                <div class="case-node ${isCaseActive ? 'active-case' : ''}" onclick="selectCase(${e.index})">
+                  ⚖ ${displayName}
+                </div>
+              `;
+            });
+            html += `</div>`;
+          }
+        }
+        html += `</div>`;
+      }
+      tree.innerHTML = html;
+    }
+
+    async function fetchTextFile(path) {
+      if (!path) return '';
+      if (fileCache[path]) return fileCache[path];
+      
+      const res = await fetch(encodeURI(path) + '?t=' + Date.now());
+      if (!res.ok) throw new Error(`Could not load ${path} (Status: ${res.status})`);
+      const text = await res.text();
+      fileCache[path] = text;
+      return text;
+    }
+
+    function extractSection(rawText, key) {
+      const regex = new RegExp(`^${key}:\\s*([\\s\\S]*?)(?=\\n[A-Z_]+:|$)`, 'm');
+      const match = rawText.match(regex);
+      return match ? match[1].trim() : '';
+    }
+
+    async function renderMiddleOverview() {
+      const canvas = document.getElementById('overviewCanvas');
+      if (syllabusData.length === 0) return;
+
+      const item = syllabusData[selectedIndex];
+      document.getElementById('middleTag').textContent = `${item.subtopic}`;
+
+      if (item.overviewFile) {
+        canvas.innerHTML = '<div style="padding: 24px; text-align: center; color: #64748b;">Loading overview...</div>';
+        try {
+          const text = await fetchTextFile(item.overviewFile);
+          const title = extractSection(text, 'TITLE') || item.subtopic;
+          const badge = extractSection(text, 'BADGE') || 'LABOR DOCTRINE';
+          const legalBasis = extractSection(text, 'LEGAL_BASIS') || 'Labor Code of the Philippines';
+          const facts = extractSection(text, 'FACTS') || 'Overview of statutory coverage and rules.';
+          const turning = extractSection(text, 'TURNING_POINT') || 'Core dispute arising between parties.';
+          const issue = extractSection(text, 'ISSUE') || 'Core legal issue.';
+          const rationale = extractSection(text, 'RATIONALE') || 'Supreme Court reasoning.';
+          const doctrine = extractSection(text, 'DOCTRINE') || 'Controlling legal principle.';
+          const takeaway = extractSection(text, 'TAKEAWAY') || 'Key memory aid for bar review.';
+
+          canvas.innerHTML = `
+            <div class="info-header">
+              <div><h1 class="info-title">${title}</h1></div>
+              <div class="info-badge-stamp">
+                <span class="tag">${badge}</span>
+                <span class="sub-tag">${legalBasis}</span>
+              </div>
+            </div>
+            <div class="info-grid">
+              <div class="info-card card-facts"><div class="info-card-title">📅 FACTS / SCOPE</div><p>${facts}</p></div>
+              <div class="info-card card-rationale"><div class="info-card-title">⚖ RATIONALE</div><p>${rationale}</p></div>
+            </div>
+            <div class="info-grid">
+              <div class="info-card card-turning"><div class="info-card-title">⚡ TURNING POINT</div><p>${turning}</p></div>
+              <div class="info-card card-doctrine"><div class="info-card-title">🛡 DOCTRINE</div><p>${doctrine}</p></div>
+            </div>
+            <div class="info-grid">
+              <div class="info-card card-issue"><div class="info-card-title">❓ CORE ISSUE</div><p><strong>${issue}</strong></p></div>
+              <div class="info-card card-quote"><div class="info-card-title">💡 KEY TAKEAWAY</div><p style="font-weight: 700;">${takeaway}</p></div>
+            </div>
+          `;
+        } catch (err) {
+          canvas.innerHTML = `
+            <div style="padding: 24px; color: #ef4444; font-size: 0.85rem; line-height: 1.5;">
+              <strong>Notice:</strong> ${err.message}<br><br>
+              <span style="color: #64748b;">Verify the file exists at <code>${item.overviewFile}</code> in your GitHub repository.</span>
+            </div>
+          `;
+        }
+      }
+    }
+
+    async function renderRightDigest() {
+      const canvas = document.getElementById('digestCanvas');
+      if (syllabusData.length === 0) return;
+
+      const item = syllabusData[selectedIndex];
+
+      if (item.digestFile) {
+        canvas.innerHTML = '<div style="padding: 24px; text-align: center; color: #64748b;">Loading case brief...</div>';
+        try {
+          const text = await fetchTextFile(item.digestFile);
+          const title = extractSection(text, 'TITLE') || 'Case Brief';
+          const citations = extractSection(text, 'CITATIONS') || 'Supreme Court Jurisprudence';
+          const facts = extractSection(text, 'FACTS') || 'No facts provided.';
+          const issue = extractSection(text, 'ISSUE') || 'Issue not specified.';
+          const provisions = extractSection(text, 'PROVISIONS') || 'Labor Code of the Philippines';
+          const verbatim = extractSection(text, 'VERBATIM_RULING') || 'Ruling not specified.';
+          const ratio = extractSection(text, 'RATIO_DECIDENDI') || 'Ratio decidendi.';
+          const fallo = extractSection(text, 'FALLO') || 'WHEREFORE, judgment rendered accordingly.';
+
+          canvas.innerHTML = `
+            <div class="digest-meta-tag">${item.topic} › ${item.subtopic}</div>
+            <h2 class="digest-case-heading">${title}</h2>
+            <div class="digest-citation">${citations}</div>
+
+            <div class="digest-section">
+              <div class="section-label facts-label">📋 RELEVANT FACTS (BAR EXAMINATION STYLE)</div>
+              <div class="digest-text-content">${facts}</div>
+            </div>
+
+            <div class="digest-section">
+              <div class="section-label issue-label">❓ ISSUE</div>
+              <div class="digest-text-content"><strong>${issue}</strong></div>
+            </div>
+
+            <div class="digest-section">
+              <div class="section-label rules-label">📖 PROVISIONS OF LAW AND RULES RELIED UPON</div>
+              <div class="digest-text-content">${provisions}</div>
+            </div>
+
+            <div class="digest-section">
+              <div class="section-label ruling-label">⚖ VERBATIM SUPREME COURT LEGAL BASIS</div>
+              <div class="verbatim-box">${verbatim}</div>
+            </div>
+
+            <div class="digest-section">
+              <div class="section-label ratio-label">🧠 RATIO DECIDENDI</div>
+              <div class="digest-text-content" id="activeRatioText">${ratio}</div>
+            </div>
+
+            <div class="digest-section">
+              <div class="section-label fallo-label">📜 FALLO (DISPOSITIVE PORTION)</div>
+              <div class="fallo-box">${fallo}</div>
+            </div>
+          `;
+        } catch (err) {
+          canvas.innerHTML = `
+            <div style="padding: 24px; color: #ef4444; font-size: 0.85rem; line-height: 1.5;">
+              <strong>Notice:</strong> ${err.message}<br><br>
+              <span style="color: #64748b;">Verify the file exists at <code>${item.digestFile}</code> in your GitHub repository.</span>
+            </div>
+          `;
+        }
+      }
+    }
+
+    function selectCase(index) {
+      selectedIndex = index;
+      renderApp();
+    }
+
+    function copyRatio() {
+      const txt = document.getElementById('activeRatioText')?.innerText;
+      if (txt) {
+        navigator.clipboard.writeText(txt).then(() => alert("Ratio Decidendi copied!"));
+      }
+    }
+  </script>
+</body>
+</html>
