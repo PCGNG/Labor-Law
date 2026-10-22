@@ -1,0 +1,41 @@
+Republic of the Philippines v. Honorable Judge Elviro L. Peralta, Quality Container Corporation, et al.
+
+
+G.R. No. L-56595, April 8, 1987 (150 SCRA 37) 
+
+
+En Banc, Feliciano, J.
+Facts	
+Quality Container Corporation was placed under involuntary insolvency proceedings in the Court of First Instance of Manila. Three major competing claims were asserted against its liquid estate: (1) workers claiming unpaid wages under Article 110 of the Labor Code; (2) the Bureau of Internal Revenue (Republic) claiming unpaid corporate income taxes and withholding taxes; and (3) the Bureau of Customs claiming customs duties and sales taxes. The trial judge ordered that the claims of the laborers for unpaid wages be paid first in full pursuant to Article 110, ahead of the tax claims of the government. The Republic appealed, asserting that taxes enjoy absolute priority under the Civil Code and the Tax Code.
+Issue	
+What is the statutory order of priority among workers' wage claims under Article 110 of the Labor Code, government tax claims, and preferred mortgage credits within a formal judicial insolvency proceeding?
+Held
+In formal insolvency, Article 110 operates to elevate workers' claims over general unsecured claims and non-specific government claims, but NOT over taxes that constitute a direct lien on specific property or mortgage liens under the Civil Code.
+
+
+
+Verbatim Legal Basis:
+
+
+Article 2241 & Article 2242, Civil Code of the Philippines:
+
+
+"Art. 2241. With reference to specific movable property of the debtor, the following claims or liens shall be preferred: (1) Duties, taxes and fees due thereon to the State or any subdivision thereof... (4) Claims of laborers for wages, on the goods manufactured or the work done..."
+
+
+
+Article 2244, Civil Code of the Philippines:
+
+
+"Art. 2244. With reference to other property, real and personal, of the debtor, the following claims or credits shall be preferred in the order named: ... (2) Claims for regular wages and salaries of laborers or employees for one year to date of insolvency..."
+Ratio
+1. Hierarchical System of Concurrence and Preference: Under Articles 2241, 2242, and 2243 of the Civil Code, claims that attach directly to specific movable or immovable property (such as real property taxes, duties on imported goods, or recorded mortgages) must be satisfied first from the proceeds of that specific property.
+
+
+2. Operation of Article 110 on the Free Estate: Article 110 alters the ranking of general preferred claims under Article 2244. With respect to the remaining general estate (assets not subject to specific property liens), the workers' claims for wages and monetary benefits are moved ahead of the general claims of the Republic for unpaid internal revenue taxes.
+Fallo
+WHEREFORE, the Decision of respondent trial court is MODIFIED. The claims against the insolvent Quality Container Corporation shall be satisfied in the following order: (1) Specific tax liens on specific goods under Articles 2241(1) and 2242(1); (2) Labor claims for wages directly earned in producing or manufacturing specific goods under Article 2241(4); (3) Workers' wage claims on the general, unencumbered estate pursuant to Article 110 of the Labor Code; and (4) The general tax claims of the Republic under Article 2244(9) of the Civil Code.
+
+
+
+SO ORDERED.
