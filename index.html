@@ -337,8 +337,7 @@
 
     .section-label.facts-label { color: #fbbf24; }
     .section-label.issue-label { color: #38bdf8; }
-    .section-label.rules-label { color: #a78bfa; }
-    .section-label.ruling-label { color: #34d399; }
+    .section-label.held-label { color: #34d399; }
     .section-label.ratio-label { color: #f472b6; }
     .section-label.fallo-label { color: #f87171; }
 
@@ -350,6 +349,7 @@
       border: 1px solid rgba(255, 255, 255, 0.05);
       padding: 12px 16px;
       border-radius: 8px;
+      white-space: pre-wrap;
     }
 
     .verbatim-box {
@@ -361,6 +361,7 @@
       color: #e2e8f0;
       font-size: 0.85rem;
       line-height: 1.6;
+      white-space: pre-wrap;
     }
 
     .fallo-box {
@@ -372,6 +373,7 @@
       font-size: 0.76rem;
       line-height: 1.5;
       color: #fca5a5;
+      white-space: pre-wrap;
     }
 
     ::-webkit-scrollbar { width: 6px; height: 6px; }
@@ -489,7 +491,6 @@
             html += `<div class="case-sub-list">`;
             entries.forEach(e => {
               const isCaseActive = e.index === selectedIndex;
-              // Renders formal full case title from cases.json
               const displayName = e.entry.title || e.entry.id.replace(/-/g, ' ');
               html += `
                 <div class="case-node ${isCaseActive ? 'active-case' : ''}" onclick="selectCase(${e.index})" title="${displayName}">
@@ -516,8 +517,13 @@
       return text;
     }
 
-    function extractSection(rawText, key) {
-      const regex = new RegExp(`^${key}:\\s*([\\s\\S]*?)(?=\\n[A-Z_]+:|$)`, 'm');
+    /* COMPREHENSIVE TEXT SECTION PARSER:
+       Detects plain text headings with or without a colon:
+       Facts:, Issue:, Held:, Ratio:, Fallo:
+       as well as headings formatted with Markdown ### hashes.
+    */
+    function extractSectionText(rawText, headingName) {
+      const regex = new RegExp(`^(?:#{1,4}\\s*)?${headingName}[:\\s]*\\n?([\\s\\S]*?)(?=(?:^(?:#{1,4}\\s*)?(?:Facts|Issue|Held|Ruling|Verbatim Legal Basis|Ratio|Ratio Decidendi|Fallo|Wherefore)[:\\s]*\\n?|$))`, 'im');
       const match = rawText.match(regex);
       return match ? match[1].trim() : '';
     }
@@ -533,15 +539,16 @@
         canvas.innerHTML = '<div style="padding: 20px; text-align: center; color: #64748b;">Loading overview from file...</div>';
         try {
           const text = await fetchTextFile(item.overviewFile);
-          const title = extractSection(text, 'TITLE') || item.subtopic;
-          const badge = extractSection(text, 'BADGE') || 'LABOR LAW';
-          const legalBasis = extractSection(text, 'LEGAL_BASIS') || 'Labor Code of the Philippines';
-          const facts = extractSection(text, 'FACTS') || 'Overview of statutory coverage and rules.';
-          const turning = extractSection(text, 'TURNING_POINT') || 'Core operational dispute.';
-          const issue = extractSection(text, 'ISSUE') || 'Core legal issue.';
-          const rationale = extractSection(text, 'RATIONALE') || 'Supreme Court reasoning.';
-          const doctrine = extractSection(text, 'DOCTRINE') || 'Controlling legal principle.';
-          const takeaway = extractSection(text, 'TAKEAWAY') || 'Key memory aid.';
+          
+          const title = extractSectionText(text, 'TITLE') || item.subtopic;
+          const badge = extractSectionText(text, 'BADGE') || 'LABOR LAW';
+          const legalBasis = extractSectionText(text, 'LEGAL_BASIS') || 'Labor Code of the Philippines';
+          const facts = extractSectionText(text, 'FACTS') || 'Overview of statutory coverage and rules.';
+          const turning = extractSectionText(text, 'TURNING_POINT') || 'Core operational dispute.';
+          const issue = extractSectionText(text, 'ISSUE') || 'Core legal issue.';
+          const rationale = extractSectionText(text, 'RATIONALE') || 'Supreme Court reasoning.';
+          const doctrine = extractSectionText(text, 'DOCTRINE') || 'Controlling legal principle.';
+          const takeaway = extractSectionText(text, 'TAKEAWAY') || 'Key memory aid.';
 
           canvas.innerHTML = `
             <div class="info-header">
@@ -580,19 +587,23 @@
         canvas.innerHTML = '<div style="padding: 20px; text-align: center; color: #64748b;">Loading case brief from file...</div>';
         try {
           const text = await fetchTextFile(item.digestFile);
-          const title = extractSection(text, 'TITLE') || (item.title || 'Case Brief');
-          const citations = extractSection(text, 'CITATIONS') || 'Supreme Court Jurisprudence';
-          const facts = extractSection(text, 'FACTS') || 'No facts provided.';
-          const issue = extractSection(text, 'ISSUE') || 'Issue not specified.';
-          const provisions = extractSection(text, 'PROVISIONS') || 'Labor Code of the Philippines';
-          const verbatim = extractSection(text, 'VERBATIM_RULING') || 'Ruling not specified.';
-          const ratio = extractSection(text, 'RATIO_DECIDENDI') || 'Ratio decidendi.';
-          const fallo = extractSection(text, 'FALLO') || 'WHEREFORE, judgment rendered accordingly.';
+          
+          // Header detection from the first lines of the .txt
+          const lines = text.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+          const firstLine = lines[0] && !lines[0].startsWith('#') ? lines[0] : (item.title || 'Case Brief');
+          const secondLine = lines[1] && (lines[1].includes('G.R.') || lines[1].includes('Division') || lines[1].includes(',')) ? lines[1] : 'Supreme Court Jurisprudence';
+
+          // Robust extraction supporting Facts, Issue, Held, Ratio, and Fallo
+          const facts = extractSectionText(text, 'Facts') || 'No facts provided.';
+          const issue = extractSectionText(text, 'Issue') || 'Issue not specified.';
+          const held = extractSectionText(text, '(?:Held|Ruling|Verbatim Legal Basis)') || 'Ruling not specified.';
+          const ratio = extractSectionText(text, '(?:Ratio|Ratio Decidendi)') || 'Ratio decidendi.';
+          const fallo = extractSectionText(text, '(?:Fallo|Wherefore|Dispositive Portion)') || 'WHEREFORE, judgment rendered accordingly.';
 
           canvas.innerHTML = `
             <div class="digest-meta-tag">${item.topic} › ${item.subtopic}</div>
-            <h2 class="digest-case-heading">${title}</h2>
-            <div class="digest-citation">${citations}</div>
+            <h2 class="digest-case-heading">${firstLine}</h2>
+            <div class="digest-citation">${secondLine}</div>
 
             <div class="digest-section">
               <div class="section-label facts-label">📋 RELEVANT FACTS (BAR EXAMINATION STYLE)</div>
@@ -605,13 +616,8 @@
             </div>
 
             <div class="digest-section">
-              <div class="section-label rules-label">📖 PROVISIONS OF LAW AND RULES RELIED UPON</div>
-              <div class="digest-text-content">${provisions}</div>
-            </div>
-
-            <div class="digest-section">
-              <div class="section-label ruling-label">⚖ VERBATIM SUPREME COURT LEGAL BASIS</div>
-              <div class="verbatim-box">${verbatim}</div>
+              <div class="section-label held-label">⚖ VERBATIM SUPREME COURT LEGAL BASIS / HELD</div>
+              <div class="verbatim-box">${held}</div>
             </div>
 
             <div class="digest-section">
