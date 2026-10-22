@@ -184,14 +184,29 @@
     "digestFile": "Digests/Allied Banking Corporation, In the Matter of the Petition to have Steel Corporation of the Philippines Placed under Corporate Rehabilitation, G.R. No. 191939, March 14, 2018.txt"
   },
   {
-    "id": "wages-prohibitions",
+    "id": "abs-cbn-supervisors-v-corp",
     "topic": "X. WAGES",
     "subtopic": "c. Prohibition regarding wages",
-    "title": "Prohibition Regarding Wages Overview",
+    "title": "ABS-CBN Supervisors Employees Union v. ABS-CBN Broadcasting Corporation, Union Officers, and Members G.R. No. 106518, March 11, 1999 (304 SCRA 489)",
     "overviewFile": "Overviews/c. Prohibition regarding wages.txt",
-    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
+    "digestFile": "Digests/ABS-CBN Supervisors Employees Union v. ABS-CBN Broadcasting Corporation, Union Officers, and Members G.R. No. 106518, March 11, 1999.txt"
   },
   {
+    "id": "pldt-v-estranero",
+    "topic": "X. WAGES",
+    "subtopic": "c. Prohibition regarding wages",
+    "title": "Philippine Long Distance Telephone Company v. Henry Estranero G.R. No. 192518, October 15, 2014",
+    "overviewFile": "Overviews/c. Prohibition regarding wages.txt",
+    "digestFile": "Digests/Philippine Long Distance Telephone Company v. Henry Estranero G.R. No. 192518, October 15, 2014.txt"
+  },
+  {
+    "id": "coca-cola-v-ccbpi-sta-rosa",
+    "topic": "X. WAGES",
+    "subtopic": "c. Prohibition regarding wages",
+    "title": "Coca-Cola Bottlers Philippines, Inc. v. CCBPI Sta. Rosa Plant Employees Union G.R. No. 197494, March 25, 2019",
+    "overviewFile": "Overviews/c. Prohibition regarding wages.txt",
+    "digestFile": "Digests/Coca-Cola Bottlers Philippines, Inc. v. CCBPI Sta. Rosa Plant Employees Union G.R. No. 197494, March 25, 2019.txt"
+  },
     "id": "wages-determination",
     "topic": "X. WAGES",
     "subtopic": "d. Wage Studies, Wage Agreements, and Wage Determination",
