@@ -1,0 +1,26 @@
+Philippine National Bank v. Honorable Domingo Sanchez, National Labor Relations Commission, and Segundino Cruz, et al.
+G.R. No. 79974, December 18, 1989 (180 SCRA 206) 
+First Division, Cruz, J.
+Facts	
+Segundino Cruz and other employees of Aggregate Products Corporation (APC) filed complaints for unpaid wages and separation pay against APC before the NLRC. The Labor Arbiter rendered judgment in favor of the workers. To enforce the judgment, the NLRC Sheriff levied on several parcels of land and heavy machinery owned by APC. However, Philippine National Bank (PNB) intervened, claiming that the levied properties had already been extrajudicially foreclosed by PNB as the principal mortgagee of APC’s assets. PNB asserted that its recorded mortgage lien enjoyed absolute priority over the workers' unsecured money claims pursuant to the Civil Code provisions on concurrence and preference of credits. The NLRC ruled that under Article 110 of the Labor Code, workers' claims for unpaid wages enjoy first preference over all other debts, including recorded mortgage liens.
+Issue
+Whether the worker's preference under Article 110 of the Labor Code prevails over a prior registered mortgage of a creditor bank without the necessity of formal bankruptcy or insolvency proceedings.
+Held
+The worker's preference under Article 110 of the Labor Code CANNOT be invoked outside a formal bankruptcy or judicial liquidation proceeding. 
+
+
+
+Verbatim Legal Basis: 
+
+
+Article 110, Labor Code of the Philippines: 
+
+
+"Art. 110. Worker preference in case of bankruptcy. — In the event of bankruptcy or liquidation of an employer's business, his workers shall enjoy first preference as regards their wages and other monetary claims, any provisions of law to the contrary notwithstanding. Such claims shall be paid in full before claims of the government and other creditors may be paid, but after mortgage credits and other liens with respect to specific property are satisfied in accordance with the Civil Code." 
+Ratio
+1. Necessity of Bankruptcy/Insolvency Proceedings: Article 110 of the Labor Code establishes a preference of credits in favor of workers' wages, but this preference does not constitute a lien on the specific property of the employer. It can only be asserted within the framework of a formal, collective proceeding—such as insolvency, bankruptcy, or judicial liquidation—where all creditors are convened and their respective priorities determined under the Civil Code system of concurrence and preference of credits.
+
+
+2. Subordination to Mortgage Creditors: Even within insolvency proceedings, the worker's preference applies to the remaining free estate of the debtor after specially preferred mortgage liens attaching directly to specific real properties under the Civil Code have been completely satisfied. Article 110 cannot authorize an NLRC sheriff to unilaterally seize mortgaged property outside liquidation.
+Fallo
+WHEREFORE, the petition is GRANTED. The questioned resolution of the NLRC directing the sale on execution of the properties claimed by petitioner PNB is SET ASIDE, without prejudice to the right of private respondents to enforce their claims in appropriate liquidation proceedings.
