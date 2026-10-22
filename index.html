@@ -22,7 +22,6 @@
       --emerald-accent: #10b981;
       --sky-accent: #38bdf8;
       
-      /* Visual Infographic Pastel Tone Palette */
       --info-bg: #eceae3;
       --info-text: #1e293b;
       --card-color-1: #e2ede5;
@@ -513,10 +512,6 @@
       return text;
     }
 
-    /* RESILIENT OUTLINE CHUNKER:
-       Slices text notes into clean cards at paragraph breaks, blank lines,
-       numbered lists (1., 2., 3.), or key headers (GR:, XPNS:).
-    */
     function splitOverviewIntoCards(rawText) {
       if (!rawText || !rawText.trim()) return [];
 
@@ -603,10 +598,6 @@
       }
     }
 
-    /* RIGHT PANE: STATE MACHINE DIGEST PARSER
-       Captures Facts, Issue, Held, Ratio, and Fallo seamlessly.
-       Safely ignores sub-headers like "Verbatim Legal Basis:".
-    */
     function parseDigestTextFile(rawText, defaultTitle) {
       const lines = rawText.split('\n');
       const nonBlank = lines.map(l => l.trim()).filter(Boolean);
@@ -707,7 +698,13 @@
             </div>
           `;
         } catch (err) {
-          canvas.innerHTML = `<div style="padding: 20px; color: #ef4444; font-size: 0.8rem;">Could not load digest: <code>${item.digestFile}</code><br><span style="color:#64748b;">${err.message}</span></div>`;
+          canvas.innerHTML = `
+            <div style="padding: 24px; color: #ef4444; font-size: 0.85rem; line-height: 1.5;">
+              <strong>Could not load digest file:</strong><br>
+              <code>${item.digestFile}</code><br><br>
+              <span style="color: #94a3b8;">${err.message}</span>
+            </div>
+          `;
         }
       }
     }
