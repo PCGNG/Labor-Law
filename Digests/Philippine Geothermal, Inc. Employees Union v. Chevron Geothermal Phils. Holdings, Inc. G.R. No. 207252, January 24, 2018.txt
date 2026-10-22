@@ -1,0 +1,25 @@
+Philippine Geothermal, Inc. Employees Union v. Chevron Geothermal Phils. Holdings, Inc. G.R. No. 207252, January 24, 2018 
+Facts
+The Union and Chevron executed a CBA containing a stipulation for annual wage increases. A union member, payroll clerk Asterio Remolona, discovered an anomaly: despite having superior seniority and grade levels, his salary was lower than that of some newly regularized or transferred co-employees due to retroactive equity adjustments and initial hiring rates. The Union filed a grievance claiming wage distortion under Article 124 of the Labor Code, demanding an upward across-the-board adjustment of all salaries in the bargaining unit. When the grievance machinery failed, the issue was submitted to voluntary arbitration. The Voluntary Arbitrator dismissed the claim, and the CA affirmed, finding that no wage distortion existed.
+Issue
+Whether an internal salary disparity between senior employees and newly hired or reassigned co-employees within the same salary structure constitutes a legally actionable "wage distortion" under Article 124 of the Labor Code.
+Held
+The disparity does NOT constitute a statutory wage distortion under Article 124 of the Labor Code. 
+
+
+
+Verbatim Legal Basis: 
+
+
+Article 124, Labor Code of the Philippines: 
+
+
+"Art. 124. Standards/Criteria for minimum wage fixing. — ... As used herein, a wage distortion shall mean a situation where an increase in prescribed wage rates results in the elimination or severe contraction of intentional quantitative differences in wage or salary rates between and among employee groups in an establishment as to effectively obliterate the distinctions embodied in such wage structure based on skills, length of service, or other logical bases of differentiation." 
+Ratio
+1. Four Elements of Statutory Wage Distortion: For a wage distortion to exist under Article 124, the following elements must concur: (a) an existing hierarchy of positions with corresponding salary rates; (b) a significant change in the salary rate of a lower pay class without a corresponding increase in a higher class; (c) the elimination or severe contraction of the wage gap between the two classes; and (d) the change must be triggered by an increase in prescribed wage rates (i.e., by mandate of a statutory wage order or law).
+
+
+2. Cause of Distortion Must Be a Mandated Minimum Wage Increase: Disparities arising from management hiring decisions, individual merit increases, negotiated adjustments, or internal transfers are not the wage distortions contemplated by Article 124. Statutory wage distortion is created exclusively when an external government wage increase compresses or obliterates preexisting, intentional job hierarchy pay gaps.
+Fallo
+WHEREFORE, the petition is DENIED. The Decision dated October 29, 2012 and Resolution dated May 13, 2013 of the Court of Appeals in CA-G.R. SP No. 116246 are AFFIRMED.
+SO ORDERED.
