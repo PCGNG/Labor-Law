@@ -1,0 +1,29 @@
+Dela Rosa Liner, Inc. and/or Rosauro Dela Rosa, Sr. and Nora Dela Rosa v. Calixto B. Borela and Estelo A. Amarille G.R. No. 207286, July 29, 2015
+Second Division, Brion, J.
+Facts:
+Respondents Calixto Borela (driver) and Estelo Amarille (conductor) were employees of Dela Rosa Liner, Inc. The parties previously had an illegal dismissal case before the NLRC, which was subsequently settled via a court-approved Compromise Agreement during certiorari proceedings before the Court of Appeals (CA-G.R. SP No. 118038). Under the compromise, Borela and Amarille received P350,000.00 and P150,000.00, respectively, and signed a general quitclaim waiving all claims, known or unknown, arising from their employment. Shortly thereafter, respondents filed a second complaint before the Labor Arbiter claiming statutory labor standards benefits, including underpayment of wages under various Wage Orders, regular holiday pay, overtime pay, rest day premium pay, and 13th month pay differentials. Dela Rosa Liner moved to dismiss on grounds of res judicata and forum shopping, contending that the broad quitclaim in the compromise agreement barred any further money claims. The Labor Arbiter dismissed the case, but the NLRC and Court of Appeals reinstated the complaint.
+Issue:
+Whether a compromise agreement and general quitclaim entered into in an illegal dismissal case bars the subsequent filing of a complaint for statutory labor standards benefits (holiday pay, overtime pay, wage differentials, 13th month pay) under the principles of res judicata, forum shopping, and waiver.
+Held:
+The compromise agreement and quitclaim in the illegal dismissal case do NOT bar the second complaint for statutory labor standards benefits.
+
+
+Verbatim Legal Basis:
+
+Article 2036, Civil Code of the Philippines:
+
+"Art. 2036. A compromise comprises only those objects which are definitely stated therein, or which by necessary implication from its terms should be deemed to have been included in the same.
+
+A general renunciation of rights is understood to refer only to those that are connected with the dispute which was the subject of the compromise."
+
+
+(In relation to Title I, Book Three of the Labor Code on Conditions of Employment and Wage Orders).
+Ratio:
+1. No Identity of Causes of Action (Forum Shopping / Res Judicata inapplicable): The first complaint was rooted in illegal dismissal and unfair labor practices (termination of employment), where the main reliefs sought were reinstatement and full backwages. The second complaint was anchored on the non-payment of statutory minimum labor standards benefits (overtime, holiday pay, service incentive leave, minimum wage compliance) earned during actual service. The evidence required to substantiate illegal termination is fundamentally different from the payroll records and time sheets required to establish labor standards violations.
+
+2. Strict Construction of General Quitclaims: Under Article 2036 of the Civil Code, a compromise only settles items specifically identified or necessarily implied from the dispute. A sweeping waiver of "any and all claims, known or unknown" cannot extinguish mandatory statutory rights conferred by labor standards legislation unless there was clear intent, definite discussion, and adequate consideration directly compensating for those specific statutory entitlements. The amounts paid in the compromise were reasonable equivalents only of the illegal dismissal settlement and did not satisfy the distinct labor standards money claims.
+Fallo:
+WHEREFORE, premises considered, the petition for review on certiorari is DISMISSED for lack of merit. The assailed decision and resolution of the Court of Appeals are AFFIRMED.
+
+
+SO ORDERED.
