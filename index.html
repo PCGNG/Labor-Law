@@ -22,6 +22,7 @@
       --emerald-accent: #10b981;
       --sky-accent: #38bdf8;
       
+      /* Visual Infographic Pastel Tone Palette */
       --info-bg: #eceae3;
       --info-text: #1e293b;
       --card-color-1: #e2ede5;
@@ -44,30 +45,30 @@
     }
 
     header.app-bar {
-      height: 52px;
+      height: 56px;
       background: #0b111a;
       border-bottom: 1px solid var(--border-color);
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 16px;
+      padding: 0 20px;
       flex-shrink: 0;
       gap: 12px;
     }
 
-    .brand-block { display: flex; align-items: center; gap: 10px; }
+    .brand-block { display: flex; align-items: center; gap: 12px; }
     .brand-title {
       font-weight: 800;
-      font-size: 0.95rem;
+      font-size: 1.05rem;
       letter-spacing: 0.5px;
       text-transform: uppercase;
       color: #fff;
     }
 
     .badge-pill {
-      font-size: 0.65rem;
+      font-size: 0.72rem;
       font-weight: 700;
-      padding: 2px 8px;
+      padding: 3px 10px;
       border-radius: 999px;
       background: rgba(16, 185, 129, 0.15);
       color: #34d399;
@@ -76,8 +77,8 @@
     }
 
     .btn {
-      padding: 6px 12px;
-      font-size: 0.75rem;
+      padding: 7px 14px;
+      font-size: 0.82rem;
       font-weight: 600;
       border-radius: 6px;
       cursor: pointer;
@@ -102,23 +103,23 @@
     }
 
     .pane-header-strip {
-      height: 40px;
+      height: 42px;
       border-bottom: 1px solid var(--border-color);
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 14px;
-      font-size: 0.72rem;
-      font-weight: 700;
+      padding: 0 16px;
+      font-size: 0.78rem;
+      font-weight: 800;
       text-transform: uppercase;
       letter-spacing: 0.6px;
       background: rgba(13, 20, 32, 0.85);
       flex-shrink: 0;
     }
 
-    /* PANE 1: LEFT */
+    /* PANE 1: LEFT SYLLABUS TREE */
     .pane-left-tree {
-      width: 330px;
+      width: 350px;
       background: var(--bg-sidebar);
       border-right: 1px solid var(--border-color);
       display: flex;
@@ -129,7 +130,7 @@
     .tree-scroll-area { flex: 1; overflow-y: auto; padding: 12px 10px; }
 
     .topic-card {
-      margin-bottom: 14px;
+      margin-bottom: 16px;
       border: 1px solid rgba(255, 255, 255, 0.05);
       background: rgba(255, 255, 255, 0.015);
       border-radius: 8px;
@@ -137,20 +138,20 @@
     }
 
     .topic-title {
-      padding: 8px 10px;
+      padding: 10px 12px;
       background: rgba(30, 41, 59, 0.5);
-      font-size: 0.72rem;
+      font-size: 0.82rem;
       font-weight: 800;
       text-transform: uppercase;
       color: #e2e8f0;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 8px;
     }
 
     .subtopic-item {
-      padding: 7px 10px;
-      font-size: 0.7rem;
+      padding: 9px 12px;
+      font-size: 0.82rem;
       font-weight: 700;
       color: #94a3b8;
       background: rgba(15, 23, 42, 0.3);
@@ -168,19 +169,19 @@
     }
 
     .case-sub-list {
-      padding: 4px 6px 6px 14px;
+      padding: 6px 8px 8px 16px;
       display: flex;
       flex-direction: column;
-      gap: 3px;
+      gap: 4px;
       border-left: 2px solid #1e293b;
-      margin: 4px 0 6px 14px;
+      margin: 4px 0 6px 16px;
     }
 
     .case-node {
-      padding: 6px 8px;
-      border-radius: 5px;
-      font-size: 0.7rem;
-      line-height: 1.35;
+      padding: 7px 10px;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      line-height: 1.45;
       color: #cbd5e1;
       cursor: pointer;
       transition: all 0.15s ease;
@@ -194,12 +195,12 @@
       background: rgba(245, 158, 11, 0.15);
       color: var(--gold-accent);
       font-weight: 700;
-      border-left: 2px solid var(--gold-accent);
+      border-left: 3px solid var(--gold-accent);
     }
 
-    /* PANE 2: MIDDLE */
+    /* PANE 2: MIDDLE (DYNAMIC OUTLINE CARDS) */
     .pane-middle-overview {
-      flex: 1.05;
+      flex: 1.1;
       background: var(--bg-middle);
       border-right: 1px solid var(--border-color);
       display: flex;
@@ -210,39 +211,39 @@
     .middle-scroll-area {
       flex: 1;
       overflow-y: auto;
-      padding: 20px;
+      padding: 24px;
       display: flex;
       justify-content: center;
     }
 
     .infographic-sheet {
       width: 100%;
-      max-width: 620px;
+      max-width: 660px;
       background-color: var(--info-bg);
       color: var(--info-text);
       border-radius: 12px;
-      padding: 24px;
+      padding: 28px;
       box-shadow: 0 10px 30px rgba(0,0,0,0.5);
       display: flex;
       flex-direction: column;
-      gap: 14px;
+      gap: 16px;
       height: fit-content;
     }
 
     .info-header {
       border-bottom: 2px solid #ded9cb;
-      padding-bottom: 12px;
+      padding-bottom: 14px;
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
-      gap: 12px;
+      gap: 14px;
     }
 
     .info-title {
       font-family: 'Playfair Display', serif;
-      font-size: 1.4rem;
+      font-size: 1.55rem;
       font-weight: 800;
-      line-height: 1.2;
+      line-height: 1.25;
       color: #111827;
       text-transform: uppercase;
     }
@@ -250,72 +251,72 @@
     .overview-card-container {
       display: flex;
       flex-direction: column;
-      gap: 12px;
+      gap: 14px;
     }
 
     .dynamic-topic-card {
       border-radius: 8px;
-      padding: 14px 16px;
+      padding: 16px 18px;
       display: flex;
       flex-direction: column;
-      gap: 6px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+      gap: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.04);
     }
 
     .dynamic-topic-card pre {
       font-family: 'Plus Jakarta Sans', sans-serif;
-      font-size: 0.8rem;
-      line-height: 1.6;
+      font-size: 0.94rem;
+      line-height: 1.75;
       white-space: pre-wrap;
       word-break: break-word;
       color: #1e293b;
       margin: 0;
     }
 
-    /* PANE 3: RIGHT */
+    /* PANE 3: RIGHT DIGEST */
     .pane-right-digest {
-      flex: 1.25;
+      flex: 1.35;
       background: var(--bg-right);
       display: flex;
       flex-direction: column;
       overflow: hidden;
     }
 
-    .digest-scroll-area { flex: 1; overflow-y: auto; padding: 24px 28px; }
+    .digest-scroll-area { flex: 1; overflow-y: auto; padding: 28px 34px; }
     .digest-meta-tag {
-      font-size: 0.7rem;
+      font-size: 0.78rem;
       font-weight: 700;
       color: var(--gold-accent);
       text-transform: uppercase;
-      letter-spacing: 0.5px;
-      margin-bottom: 6px;
+      letter-spacing: 0.6px;
+      margin-bottom: 8px;
     }
 
     .digest-case-heading {
       font-family: 'Playfair Display', serif;
-      font-size: 1.45rem;
+      font-size: 1.65rem;
       font-weight: 700;
-      line-height: 1.25;
+      line-height: 1.3;
       color: #fff;
-      margin-bottom: 6px;
+      margin-bottom: 8px;
     }
 
     .digest-citation {
       font-family: 'JetBrains Mono', monospace;
-      font-size: 0.74rem;
+      font-size: 0.85rem;
       color: #94a3b8;
-      margin-bottom: 20px;
-      padding-bottom: 10px;
+      margin-bottom: 24px;
+      padding-bottom: 12px;
       border-bottom: 1px solid var(--border-color);
     }
 
-    .digest-section { margin-bottom: 20px; }
+    .digest-section { margin-bottom: 24px; }
     .section-label {
-      font-size: 0.72rem;
+      font-size: 0.82rem;
       font-weight: 800;
       text-transform: uppercase;
       letter-spacing: 0.8px;
-      margin-bottom: 8px;
+      margin-bottom: 10px;
       display: flex;
       align-items: center;
       gap: 6px;
@@ -328,25 +329,25 @@
     .section-label.fallo-label { color: #f87171; }
 
     .digest-text-content {
-      font-size: 0.85rem;
-      line-height: 1.65;
+      font-size: 0.98rem;
+      line-height: 1.75;
       color: #cbd5e1;
       background: rgba(15, 23, 42, 0.45);
       border: 1px solid rgba(255, 255, 255, 0.05);
-      padding: 12px 16px;
+      padding: 16px 20px;
       border-radius: 8px;
       white-space: pre-wrap;
     }
 
     .verbatim-box {
       font-style: italic;
-      border-left: 3px solid #34d399;
+      border-left: 4px solid #34d399;
       background: rgba(5, 150, 105, 0.08);
-      padding: 12px 16px;
+      padding: 16px 20px;
       border-radius: 0 8px 8px 0;
       color: #e2e8f0;
-      font-size: 0.85rem;
-      line-height: 1.6;
+      font-size: 0.98rem;
+      line-height: 1.75;
       white-space: pre-wrap;
     }
 
@@ -354,10 +355,10 @@
       background: rgba(239, 68, 68, 0.06);
       border: 1px dashed rgba(239, 68, 68, 0.35);
       border-radius: 8px;
-      padding: 12px 16px;
+      padding: 16px 20px;
       font-family: 'JetBrains Mono', monospace;
-      font-size: 0.76rem;
-      line-height: 1.5;
+      font-size: 0.88rem;
+      line-height: 1.6;
       color: #fca5a5;
       white-space: pre-wrap;
     }
@@ -402,7 +403,7 @@
       <div class="pane-header-strip">
         <span>⚖ Bar Exam Case Digest</span>
         <div style="display: flex; gap: 6px;">
-          <button class="btn btn-secondary" style="padding: 2px 8px; font-size: 0.65rem;" onclick="copyRatio()">Copy Ratio</button>
+          <button class="btn btn-secondary" style="padding: 2px 8px; font-size: 0.72rem;" onclick="copyRatio()">Copy Ratio</button>
         </div>
       </div>
       <div class="digest-scroll-area" id="digestCanvas"></div>
@@ -437,7 +438,7 @@
         document.getElementById('overviewCanvas').innerHTML = `
           <div style="padding: 20px; text-align: center; color: #ef4444;">
             <h3>Failed to load cases.json</h3>
-            <p style="font-size: 0.8rem; margin-top: 6px; color: #94a3b8;">
+            <p style="font-size: 0.85rem; margin-top: 6px; color: #94a3b8;">
               Please make sure <code>cases.json</code> is committed in your GitHub repository.
             </p>
           </div>
@@ -478,7 +479,7 @@
           html += `
             <div class="subtopic-item ${isSubActive ? 'active-subtopic' : ''}" onclick="selectCase(${entries[0].index})">
               <span>• ${subtopicName}</span>
-              ${hasMultiple ? `<span style="font-size: 0.65rem; color: #64748b;">${entries.length} cases</span>` : ''}
+              ${hasMultiple ? `<span style="font-size: 0.7rem; color: #64748b;">${entries.length} cases</span>` : ''}
             </div>
           `;
 
@@ -558,7 +559,7 @@
                 <div><h1 class="info-title">${item.subtopic}</h1></div>
                 <div class="badge-pill" style="align-self: center;">Overview Outline</div>
               </div>
-              <div style="padding: 24px; text-align: center; color: #94a3b8; font-size: 0.85rem;">
+              <div style="padding: 24px; text-align: center; color: #94a3b8; font-size: 0.92rem;">
                 This overview file is currently empty. Add your outline notes to <code>${item.overviewFile}</code> in GitHub.
               </div>
             `;
@@ -588,7 +589,7 @@
           `;
         } catch (err) {
           canvas.innerHTML = `
-            <div style="padding: 20px; color: #ef4444; font-size: 0.8rem; line-height: 1.5;">
+            <div style="padding: 20px; color: #ef4444; font-size: 0.88rem; line-height: 1.6;">
               <strong>Could not load overview:</strong><br>
               <code>${item.overviewFile}</code><br><br>
               <span style="color:#64748b;">Please verify this file exists in your <code>Overviews/</code> folder on GitHub.</span>
@@ -598,19 +599,22 @@
       }
     }
 
-    /* ALL-FORMAT DIGEST PARSER:
-       Extracts Facts, Issue, Held, Ratio, and Fallo even if:
-       - The text starts on the SAME line without a colon (e.g., "Held The disparity...")
-       - The text starts on the SAME line with a colon (e.g., "Held: The disparity...")
-       - The text is on the NEXT line
-       - Redundant sub-labels like "Verbatim Legal Basis:" are present
-    */
     function parseDigestTextFile(rawText, defaultTitle) {
       const lines = rawText.split('\n');
       const nonBlank = lines.map(l => l.trim()).filter(Boolean);
 
-      const title = (nonBlank[0] && !nonBlank[0].startsWith('#')) ? nonBlank[0] : (defaultTitle || 'Case Brief');
-      const citation = (nonBlank[1] && (nonBlank[1].includes('G.R.') || nonBlank[1].includes('Division') || nonBlank[1].includes(','))) ? nonBlank[1] : 'Supreme Court of the Philippines';
+      let title = defaultTitle || 'Case Brief';
+      let citation = '';
+
+      if (nonBlank.length > 0 && !isHeaderLine(nonBlank[0])) {
+        title = nonBlank[0];
+      }
+
+      if (nonBlank.length > 1 && !isHeaderLine(nonBlank[1])) {
+        if (nonBlank[1].includes('G.R.') || nonBlank[1].includes('Division') || nonBlank[1].includes(',')) {
+          citation = nonBlank[1];
+        }
+      }
 
       const sections = {
         facts: [],
@@ -622,7 +626,6 @@
 
       let currentSection = null;
 
-      // Regex matching a line starting with one of our section names
       const headerRegex = /^(?:#{1,4}\s*)?(Facts|Issue|Held|Ruling|Ratio(?:\s+Decidendi)?|Fallo|Dispositive\s+Portion)(?:[:\s]+(.*))?$/i;
 
       for (let i = 0; i < lines.length; i++) {
@@ -647,7 +650,6 @@
             currentSection = 'fallo';
           }
 
-          // If there was text on the exact same line as the header, add it immediately
           if (inlineText.length > 0) {
             sections[currentSection].push(inlineText);
           }
@@ -655,7 +657,6 @@
         }
 
         if (currentSection) {
-          // Skip redundant decorative sub-labels inside Held
           if (currentSection === 'held' && /^Verbatim\s+Legal\s+Basis(?:\s*:)?\s*$/i.test(trimmed)) {
             continue;
           }
@@ -674,6 +675,10 @@
       };
     }
 
+    function isHeaderLine(str) {
+      return /^(?:#{1,4}\s*)?(?:Facts|Issue|Held|Ruling|Ratio|Fallo|Dispositive\s+Portion)/i.test(str.trim());
+    }
+
     async function renderRightDigest() {
       const canvas = document.getElementById('digestCanvas');
       if (syllabusData.length === 0) return;
@@ -689,7 +694,7 @@
           canvas.innerHTML = `
             <div class="digest-meta-tag">${item.topic} › ${item.subtopic}</div>
             <h2 class="digest-case-heading">${parsed.title}</h2>
-            <div class="digest-citation">${parsed.citation}</div>
+            ${parsed.citation ? `<div class="digest-citation">${parsed.citation}</div>` : `<div style="margin-bottom: 20px;"></div>`}
 
             <div class="digest-section">
               <div class="section-label facts-label">📋 RELEVANT FACTS (BAR EXAMINATION STYLE)</div>
@@ -718,7 +723,7 @@
           `;
         } catch (err) {
           canvas.innerHTML = `
-            <div style="padding: 24px; color: #ef4444; font-size: 0.85rem; line-height: 1.5;">
+            <div style="padding: 24px; color: #ef4444; font-size: 0.9rem; line-height: 1.6;">
               <strong>Could not load digest file:</strong><br>
               <code>${item.digestFile}</code><br><br>
               <span style="color: #94a3b8;">${err.message}</span>
