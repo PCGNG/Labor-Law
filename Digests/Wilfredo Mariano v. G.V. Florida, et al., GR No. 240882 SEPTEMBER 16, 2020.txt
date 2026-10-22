@@ -1,1 +1,30 @@
+Wilfredo Mariano v. G.V. Florida Transport, Inc. and/or Virgilio Florida
+G.R. No. 240882, September 16, 2020
+First Division, Caguioa, J.
+Facts	
+Wilfredo Mariano was employed by G.V. Florida Transport, Inc. as a public utility bus driver from 2006 to 2014. He was paid pure commission on a "per-trip" basis, amounting to 10% to 12% of the gross ticket sales per round trip. Following a vehicular accident involving another unit of the company, the LTFRB suspended the entire franchise of the bus company for six months. When operations resumed, Mariano reported for work but was told there were no buses available for him. Mariano filed a complaint for illegal dismissal and non-payment of statutory money benefits, including holiday pay, service incentive leave (SIL), and 13th-month pay. The company argued that bus drivers paid on commission are piece-rate or task-based workers excluded from statutory holiday pay, SIL, and 13th-month pay under the Labor Code and P.D. No. 851.
+Issue
+1. Whether bus drivers paid purely on a commission basis are entitled to holiday pay and Service Incentive Leave (SIL).
+
+2. Whether bus drivers paid on commission are entitled to 13th-month pay under Presidential Decree No. 851.
+Held
+Bus drivers paid on commission are ENTITLED to Holiday Pay and SIL, but EXCLUDED from the benefits of 13th-month pay under P.D. No. 851.
+
+Verbatim Legal Basis:
+
+Article 94, Labor Code of the Philippines:
+
+"Art. 94. Right to holiday pay. — (a) Every worker shall be paid his regular daily wage during regular holidays, except in retail and service establishments regularly employing less than ten (10) workers."
+
+Section 3(e), Rules and Regulations Implementing Presidential Decree No. 851:
+
+"Sec. 3. Employers covered. — The Decree shall apply to all employers except to: ... (e) Employers of those who are paid on purely commission, boundary, or task basis, and those who are paid a fixed amount for performing a specific work, irrespective of the time consumed in the performance thereof..."
+Ratio
+1. Entitlement to Holiday Pay and SIL: Field personnel (those who perform duties away from the principal office and whose actual hours of work cannot be determined with reasonable certainty) are excluded from holiday pay (Art. 94) and SIL (Art. 95). However, public utility bus drivers are subjected to fixed routes, scheduled arrival/departure times, and continuous company monitoring; hence, they are not field personnel. Being non-field personnel, the mere fact that their wages are computed on a commission or piece-rate basis does not strip them of statutory holiday pay and SIL.
+
+2. Exclusion from 13th-Month Pay: Presidential Decree No. 851 and its Implementing Rules explicitly exempt employers from paying 13th-month pay to workers who are paid on a purely commission or task basis. Because Mariano was compensated exclusively through trip commission without any guaranteed fixed basic wage component, he falls squarely within the statutory exemption under Section 3(e) of the IRR of P.D. No. 851.
+Fallo
+WHEREFORE, the petition is PARTLY GRANTED. The Decision dated February 28, 2018 and Resolution dated July 13, 2018 of the Court of Appeals in CA-G.R. SP No. 143588 are AFFIRMED with MODIFICATION. Respondents G.V. Florida Transport, Inc. and Virgilio Florida are ORDERED to PAY petitioner Wilfredo Mariano holiday pay and service incentive leave pay, plus legal interest of six percent (6%) per annum from the date of finality of this Decision until full satisfaction.
+
+SO ORDERED.
 
