@@ -1,0 +1,28 @@
+Philippine Long Distance Telephone Company v. Henry Estranero G.R. No. 192518, October 15, 2014 
+Facts
+Henry Estranero was employed by PLDT. In 1995, PLDT offered a Manpower Reduction Program (MRP), a voluntary redundancy/separation package. Estranero applied and was approved for separation with an entitlement to P267,028.37 in separation benefits. However, when he received his final pay slip, PLDT withheld his entire separation pay and turned over nothing to him, offsetting his benefit against an outstanding loan of P160,888.88 he had incurred with the PLDT Employees Credit Cooperative (a separate cooperative) and other company receivables. Estranero filed a complaint against PLDT for the payment of his separation pay. PLDT claimed legal compensation under Article 1278 of the Civil Code, arguing it had the right to offset the loans since it stood as guarantor or collection agent for the cooperative.
+Issue
+Whether an employer may unilaterally withhold and deduct an employee's separation pay to settle third-party loan obligations incurred with a credit cooperative.
+Held
+The deduction is illegal; an employer cannot unilaterally withhold or offset separation pay against loans owed to a third-party credit cooperative.
+
+Verbatim Legal Basis:
+Article 113, Labor Code of the Philippines:
+
+"Art. 113. Wage deduction. — No employer, in his own behalf or in behalf of any person, shall make any deduction from the wages of his employees, except:
+
+(a) In cases where the worker is insured with his consent by the employer...
+
+(b) For union dues, in cases where the right of the worker or his union to check-off has been recognized...
+
+(c) In cases where the employer is authorized by law or regulations issued by the Secretary of Labor and Employment."
+
+Article 116, Labor Code of the Philippines:
+"Art. 116. Withholding of wages and kickbacks prohibited. — It shall be unlawful for any person, directly or indirectly, to withhold any amount from the wages of a worker or induce him to give up any part of the wages by force, stealth, intimidation, threat or by any other means whatsoever without the worker's consent."
+Ratio
+1. Separation Pay Treated as Wage: For the purposes of statutory protections against unauthorized withholding, separation pay—being monetary remuneration due by reason of employment—is covered by the strict prohibitions of Articles 113 and 116 of the Labor Code.
+
+2. Inapplicability of Legal Compensation: Legal compensation under Article 1278 of the Civil Code requires that the parties be principal creditors and debtors of each other. The loan was contracted between Estranero and the cooperative, a separate juridical entity. PLDT was not the creditor. In the absence of a written authorization or an express provision of law, PLDT had no authority to act as a collection agent by unilaterally deducting the cooperative debt from the employee’s terminal pay.
+Fallo
+WHEREFORE, the petition is DENIED. The Court of Appeals Decision dated January 20, 2010 in CA-G.R. SP No. 104587 is AFFIRMED with MODIFICATION. Petitioner PLDT is ORDERED to PAY respondent Henry Estranero the full amount of his separation pay of P267,028.37, plus legal interest of six percent (6%) per annum from the date of finality of this Decision until full payment.
+SO ORDERED.
