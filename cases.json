@@ -144,11 +144,43 @@
     "digestFile": "Digests/PAL v. Ahmee, et al., G.R. Nos. 221065 and 221164, April 7, 2025.txt"
   },
   {
-    "id": "wages-bankruptcy-preference",
+    "id": "pnb-v-cruz",
     "topic": "X. WAGES",
     "subtopic": "b. Worker's Preference in case of bankruptcy",
-    "title": "Worker's Preference in Bankruptcy Overview",
+    "title": "PNB v. Cruz, 180 SCRA 206",
     "overviewFile": "Overviews/b. Worker's Preference in case of bankruptcy.txt",
-    "digestFile": "Digests/Cosue v. Ferritz Integrated Devt. Corp., G.R. No. 230664, July 24, 2017.txt"
+    "digestFile": "Digests/PNB v. Cruz, 180 SCRA 206.txt"
+  },
+  {
+    "id": "dbp-v-nlrc",
+    "topic": "X. WAGES",
+    "subtopic": "b. Worker's Preference in case of bankruptcy",
+    "title": "DBP v. NLRC, 218 SCRA 183",
+    "overviewFile": "Overviews/b. Worker's Preference in case of bankruptcy.txt",
+    "digestFile": "Digests/DBP v. NLRC, 218 SCRA 183.txt"
+  },
+  {
+    "id": "republic-v-peralta",
+    "topic": "X. WAGES",
+    "subtopic": "b. Worker's Preference in case of bankruptcy",
+    "title": "Republic v. Peralta, 150 SCRA 37",
+    "overviewFile": "Overviews/b. Worker's Preference in case of bankruptcy.txt",
+    "digestFile": "Digests/Republic v. Peralta, 150 SCRA 37.txt"
+  },
+  {
+    "id": "banco-filipino-v-bsp",
+    "topic": "X. WAGES",
+    "subtopic": "b. Worker's Preference in case of bankruptcy",
+    "title": "Banco Filipino Savings and Mortgage Bank v. BSP, G.R. No. 200678, June 4, 2018",
+    "overviewFile": "Overviews/b. Worker's Preference in case of bankruptcy.txt",
+    "digestFile": "Digests/Banco Filipino Savings and Mortgage Bank v. BSP, G.R. No. 200678, June 4, 2018.txt"
+  },
+  {
+    "id": "allied-banking-v-steel-corp",
+    "topic": "X. WAGES",
+    "subtopic": "b. Worker's Preference in case of bankruptcy",
+    "title": "Allied Banking Corporation, In the Matter of the Petition to have Steel Corporation of the Philippines Placed under Corporate Rehabilitation, G.R. No. 191939, March 14, 2018",
+    "overviewFile": "Overviews/b. Worker's Preference in case of bankruptcy.txt",
+    "digestFile": "Digests/Allied Banking Corporation, In the Matter of the Petition to have Steel Corporation of the Philippines Placed under Corporate Rehabilitation, G.R. No. 191939, March 14, 2018.txt"
   }
 ]
