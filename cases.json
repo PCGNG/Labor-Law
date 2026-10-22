@@ -208,12 +208,28 @@
     "digestFile": "Digests/Coca-Cola Bottlers Philippines, Inc. v. CCBPI Sta. Rosa Plant Employees Union G.R. No. 197494, March 25, 2019.txt"
   },
   {
-    "id": "wages-determination",
+    "id": "phil-geothermal-v-chevron",
     "topic": "X. WAGES",
     "subtopic": "d. Wage Studies, Wage Agreements, and Wage Determination",
-    "title": "Wage Studies and Wage Determination Overview",
+    "title": "Philippine Geothermal, Inc. Employees Union v. Chevron Geothermal Phils. Holdings, Inc. G.R. No. 207252, January 24, 2018",
     "overviewFile": "Overviews/d. Wage Studies, Wage Agreements, and Wage Determination.txt",
-    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
+    "digestFile": "Digests/Philippine Geothermal, Inc. Employees Union v. Chevron Geothermal Phils. Holdings, Inc. G.R. No. 207252, January 24, 2018.txt"
+  },
+  {
+    "id": "home-credit-v-prudente",
+    "topic": "X. WAGES",
+    "subtopic": "d. Wage Studies, Wage Agreements, and Wage Determination",
+    "title": "Home Credit Mutual Building and Loan Association v. Ma. Rollette Prudente G.R. No. 200010, August 27, 2020",
+    "overviewFile": "Overviews/d. Wage Studies, Wage Agreements, and Wage Determination.txt",
+    "digestFile": "Digests/Home Credit Mutual Building and Loan Association v. Ma. Rollette Prudente G.R. No. 200010, August 27, 2020.txt"
+  },
+  {
+    "id": "pablico-v-cerro",
+    "topic": "X. WAGES",
+    "subtopic": "d. Wage Studies, Wage Agreements, and Wage Determination",
+    "title": "Manuel B. Pablico and Master’s Pab Resto Bar v. Numeriano B. Cerro, Jr., et al. G.R. No. 227200, June 10, 2019",
+    "overviewFile": "Overviews/d. Wage Studies, Wage Agreements, and Wage Determination.txt",
+    "digestFile": "Digests/Manuel B. Pablico and Master’s Pab Resto Bar v. Numeriano B. Cerro, Jr., et al. G.R. No. 227200, June 10, 2019.txt"
   },
   {
     "id": "wages-dole-powers",
