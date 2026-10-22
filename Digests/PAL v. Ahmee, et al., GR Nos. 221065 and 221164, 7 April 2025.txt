@@ -1,1 +1,23 @@
+Philippine Airlines, Inc. v. Bernard Ahmee, et al. / Bernard Ahmee, et al. v. Philippine Airlines, Inc.
+G.R. Nos. 221065 & 221164, April 07, 2025
+Third Division
+Facts
+Private respondent flight attendants were hired by Philippine Airlines (PAL) under collective agreements providing specific wage scales, salary step increments, and flying time duty pay. During PAL’s corporate rehabilitation following severe financial distress, PAL implemented modified wage schedules, altered seniority ladders, and reduced allowances. After PAL emerged from rehabilitation, respondents claimed unpaid wage differentials, arguing that the adjustments in base rates and monthly flying hourly computation during the rehabilitation period constituted unlawful diminution of compensation and an evasion of agreed salary brackets. PAL contended that all salary policies and austerity arrangements were vetted, approved, and integrated under the Rehabilitation Plan sanctioned by the SEC and the rehabilitation court, extinguishing retroactive claims for wage adjustments.
+Issue
+Whether the wage and allowance modifications implemented pursuant to a court-approved corporate rehabilitation plan constitute an illegal diminution of wages under Article 100 of the Labor Code.
+Held
+The wage modifications instituted strictly in implementation of the court-approved rehabilitation plan do NOT violate the prohibition against diminution of benefits under Article 100.
+
+Verbatim Legal Basis:
+
+Article 100, Labor Code of the Philippines:
+
+"Art. 100. Prohibition against elimination or diminution of benefits. — Nothing in this Book shall be construed to eliminate or in any way diminish supplements, or other employee benefits being enjoyed at the time of promulgation of this Code."
+Ratio
+1. Primacy of Rehabilitation Plans: When an enterprise is placed under corporate rehabilitation, the suspension of payments and the enforcement of the rehabilitation scheme supersede individual contractual claims to safeguard corporate survival and preserve overall employment. Modifications in compensation structures sanctioned by the rehabilitation court are legal measures dictated by emergency conditions, not arbitrary employer diminutions.
+
+2. Requisites of Unlawful Diminution Absent: To invoke Article 100, the benefit must be shown to have been granted voluntarily and routinely, and diminished unilaterally by the employer without legal or valid contractual justification. Since the altered rates were founded on the collective rehabilitation agreement and endorsed by judicial authority to prevent liquidation, the element of unilateral, bad-faith reduction is absent.
+Fallo
+WHEREFORE, the Petition of Philippine Airlines, Inc. is GRANTED. The claim for salary step-increment differentials and alleged diminished duty pay is DENIED. The Decision of the Court of Appeals is REVERSED and SET ASIDE, and the complaint is DISMISSED.
+SO ORDERED.
 
