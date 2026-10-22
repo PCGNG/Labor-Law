@@ -4,9 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Labor Law Case Digests | PCGNG</title>
+  
+  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  
+  <!-- PDF.js Engine for Client-Side PDF Text Extraction -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
   
   <style>
     :root {
@@ -18,7 +23,6 @@
       --text-muted: #94a3b8;
       --gold-accent: #f59e0b;
       --emerald-accent: #10b981;
-      --crimson-accent: #ef4444;
       
       /* Visual Infographic Pastel Tone Palette */
       --info-bg: #eceae3;
@@ -42,7 +46,6 @@
       overflow: hidden;
     }
 
-    /* TOP APP BAR */
     header.app-bar {
       height: 52px;
       background: #0b111a;
@@ -55,12 +58,7 @@
       gap: 12px;
     }
 
-    .brand-block {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-
+    .brand-block { display: flex; align-items: center; gap: 10px; }
     .brand-title {
       font-weight: 800;
       font-size: 0.95rem;
@@ -80,11 +78,7 @@
       text-transform: uppercase;
     }
 
-    .nav-actions {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
+    .nav-actions { display: flex; align-items: center; gap: 8px; }
 
     .btn {
       padding: 6px 12px;
@@ -100,31 +94,12 @@
       outline: none;
     }
 
-    .btn-secondary {
-      background: #1e293b;
-      color: #cbd5e1;
-      border-color: #334155;
-    }
-    .btn-secondary:hover {
-      background: #334155;
-      color: #fff;
-    }
-
-    .btn-primary {
-      background: var(--gold-accent);
-      color: #000;
-    }
-    .btn-primary:hover {
-      background: #d97706;
-    }
-
-    .btn-emerald {
-      background: #059669;
-      color: #fff;
-    }
-    .btn-emerald:hover {
-      background: #10b981;
-    }
+    .btn-secondary { background: #1e293b; color: #cbd5e1; border-color: #334155; }
+    .btn-secondary:hover { background: #334155; color: #fff; }
+    .btn-primary { background: var(--gold-accent); color: #000; }
+    .btn-primary:hover { background: #d97706; }
+    .btn-emerald { background: #059669; color: #fff; }
+    .btn-emerald:hover { background: #10b981; }
 
     .select-dropdown {
       background: #1e293b;
@@ -137,14 +112,9 @@
       outline: none;
     }
 
-    /* MAIN THREE COLUMN WORKSPACE */
-    .workspace {
-      flex: 1;
-      display: flex;
-      overflow: hidden;
-    }
+    .workspace { flex: 1; display: flex; overflow: hidden; }
 
-    /* COLUMN 1: SYLLABUS TREE NAVIGATION */
+    /* SYLLABUS TREE NAVIGATION */
     .syllabus-sidebar {
       width: 290px;
       background: var(--bg-sidebar);
@@ -171,16 +141,9 @@
       color: #94a3b8;
     }
 
-    .tree-scroll-container {
-      flex: 1;
-      overflow-y: auto;
-      padding: 10px 8px;
-    }
+    .tree-scroll-container { flex: 1; overflow-y: auto; padding: 10px 8px; }
 
-    .topic-group {
-      margin-bottom: 12px;
-    }
-
+    .topic-group { margin-bottom: 12px; }
     .topic-title-bar {
       padding: 6px 8px;
       background: rgba(30, 41, 59, 0.4);
@@ -192,7 +155,6 @@
       display: flex;
       align-items: center;
       gap: 6px;
-      cursor: pointer;
     }
 
     .subtopic-group {
@@ -219,15 +181,10 @@
       font-size: 0.72rem;
       color: #cbd5e1;
       cursor: pointer;
-      text-decoration: none;
       transition: background 0.15s;
     }
 
-    .case-nav-item:hover {
-      background: rgba(255, 255, 255, 0.05);
-      color: #fff;
-    }
-
+    .case-nav-item:hover { background: rgba(255, 255, 255, 0.05); color: #fff; }
     .case-nav-item.active {
       background: rgba(245, 158, 11, 0.15);
       color: var(--gold-accent);
@@ -235,12 +192,8 @@
       border-left: 2px solid var(--gold-accent);
     }
 
-    /* PANE WORKSPACE */
-    .content-panes-wrapper {
-      flex: 1;
-      display: flex;
-      overflow: hidden;
-    }
+    /* PANES */
+    .content-panes-wrapper { flex: 1; display: flex; overflow: hidden; }
 
     .pane-header-strip {
       height: 38px;
@@ -256,7 +209,7 @@
       background: #0e1624;
     }
 
-    /* COLUMN 2: INFOGRAPHIC OVERVIEW (LEFT PANE) */
+    /* LEFT INFOGRAPHIC PANE */
     .pane-left-infographic {
       flex: 1;
       background: #0f172a;
@@ -275,7 +228,6 @@
       justify-content: center;
     }
 
-    /* The exact Infographic Card Canvas from the reference */
     .infographic-sheet {
       width: 100%;
       max-width: 580px;
@@ -307,18 +259,8 @@
       text-transform: uppercase;
     }
 
-    .info-subhead {
-      font-size: 0.75rem;
-      color: #64748b;
-      font-weight: 600;
-      margin-top: 4px;
-    }
-
-    .info-badge-stamp {
-      text-align: right;
-      flex-shrink: 0;
-    }
-
+    .info-subhead { font-size: 0.75rem; color: #64748b; font-weight: 600; margin-top: 4px; }
+    .info-badge-stamp { text-align: right; flex-shrink: 0; }
     .info-badge-stamp .tag {
       font-size: 0.65rem;
       font-weight: 800;
@@ -327,19 +269,9 @@
       color: #475569;
       display: block;
     }
+    .info-badge-stamp .sub-tag { font-size: 0.62rem; font-weight: 700; color: #94a3b8; }
 
-    .info-badge-stamp .sub-tag {
-      font-size: 0.62rem;
-      font-weight: 700;
-      color: #94a3b8;
-    }
-
-    .info-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 14px;
-    }
-
+    .info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
     .info-card {
       border-radius: 8px;
       padding: 14px;
@@ -365,13 +297,9 @@
       gap: 6px;
     }
 
-    .info-card p {
-      font-size: 0.75rem;
-      line-height: 1.45;
-      color: #1e293b;
-    }
+    .info-card p { font-size: 0.75rem; line-height: 1.45; color: #1e293b; }
 
-    /* COLUMN 3: CASE BRIEF DIGEST (RIGHT PANE) */
+    /* RIGHT DIGEST PANE */
     .pane-right-digest {
       flex: 1.15;
       background: var(--panel-dark);
@@ -380,12 +308,7 @@
       overflow: hidden;
     }
 
-    .digest-viewport {
-      flex: 1;
-      overflow-y: auto;
-      padding: 24px 30px;
-    }
-
+    .digest-viewport { flex: 1; overflow-y: auto; padding: 24px 30px; }
     .digest-meta-tag {
       font-size: 0.7rem;
       font-weight: 700;
@@ -413,10 +336,7 @@
       border-bottom: 1px solid var(--border-dark);
     }
 
-    .digest-section {
-      margin-bottom: 22px;
-    }
-
+    .digest-section { margin-bottom: 22px; }
     .section-label {
       font-size: 0.72rem;
       font-weight: 800;
@@ -467,103 +387,8 @@
       color: #fca5a5;
     }
 
-    /* MODAL DIALOGS */
-    .modal-backdrop {
-      position: fixed;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background: rgba(0,0,0,0.75);
-      backdrop-filter: blur(4px);
-      display: none;
-      align-items: center;
-      justify-content: center;
-      z-index: 999;
-    }
-
-    .modal-backdrop.open { display: flex; }
-
-    .modal-window {
-      background: #111827;
-      border: 1px solid var(--border-dark);
-      border-radius: 12px;
-      width: 90%;
-      max-width: 820px;
-      max-height: 90vh;
-      display: flex;
-      flex-direction: column;
-      overflow: hidden;
-      box-shadow: 0 25px 50px rgba(0,0,0,0.5);
-    }
-
-    .modal-header {
-      padding: 16px 20px;
-      border-bottom: 1px solid var(--border-dark);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      background: #0d121c;
-    }
-
-    .modal-body {
-      padding: 20px;
-      overflow-y: auto;
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-    }
-
-    .form-group-row {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 14px;
-    }
-
-    .form-group {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .form-group label {
-      font-size: 0.72rem;
-      font-weight: 700;
-      color: #94a3b8;
-      text-transform: uppercase;
-    }
-
-    .form-control {
-      background: #1f2937;
-      border: 1px solid #374151;
-      border-radius: 6px;
-      padding: 8px 12px;
-      color: #fff;
-      font-family: inherit;
-      font-size: 0.8rem;
-      outline: none;
-    }
-
-    .form-control:focus {
-      border-color: var(--gold-accent);
-    }
-
-    textarea.form-control {
-      min-height: 70px;
-      resize: vertical;
-    }
-
-    .modal-footer {
-      padding: 14px 20px;
-      border-top: 1px solid var(--border-dark);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      background: #0d121c;
-    }
-
-    /* SCROLLBAR STYLING */
-    ::-webkit-scrollbar { width: 6px; height: 6px; }
-    ::-webkit-scrollbar-track { background: transparent; }
-    ::-webkit-scrollbar-thumb { background: #263346; border-radius: 3px; }
-    ::-webkit-scrollbar-thumb:hover { background: #3b4d66; }
+    /* HIDDEN FILE INPUT */
+    #pdfFileInput { display: none; }
   </style>
 </head>
 <body>
@@ -577,18 +402,19 @@
 
     <div class="nav-actions">
       <button class="btn btn-secondary" onclick="prevCase()">❮ Prev</button>
-      <select id="quickJumpSelect" class="select-dropdown" onchange="jumpToCase(this.value)">
-        <!-- Populated via script -->
-      </select>
+      <select id="quickJumpSelect" class="select-dropdown" onchange="jumpToCase(this.value)"></select>
       <button class="btn btn-secondary" onclick="nextCase()">Next ❯</button>
       
-      <button class="btn btn-emerald" onclick="openInputModal()">＋ Manage / Input Cases</button>
-      <button class="btn btn-secondary" onclick="exportDataJSON()">Export (JSON)</button>
+      <!-- AUTOMATIC PDF IMPORT BUTTON -->
+      <button class="btn btn-emerald" onclick="document.getElementById('pdfFileInput').click()">📄 Upload PDF Syllabus</button>
+      <input type="file" id="pdfFileInput" accept="application/pdf" onchange="handlePDFUpload(event)">
+      
+      <button class="btn btn-secondary" onclick="clearAllData()">Reset</button>
       <button class="btn btn-primary" onclick="window.print()">Print / PDF</button>
     </div>
   </header>
 
-  <!-- WORKSPACE -->
+  <!-- MAIN WORKSPACE -->
   <main class="workspace">
     <!-- SYLLABUS NAVIGATOR -->
     <aside class="syllabus-sidebar">
@@ -596,193 +422,43 @@
         <h4>Syllabus Navigator</h4>
         <span id="caseCountBadge" class="badge-pill">0 Cases</span>
       </div>
-      <div class="tree-scroll-container" id="treeContainer">
-        <!-- Rendered dynamically -->
-      </div>
+      <div class="tree-scroll-container" id="treeContainer"></div>
     </aside>
 
-    <!-- SPLIT CONTENT PANES -->
+    <!-- CONTENT PANES -->
     <div class="content-panes-wrapper">
-      <!-- LEFT PANE: TOPIC & INFOGRAPHIC CARDS -->
+      <!-- LEFT PANE: INFOGRAPHIC CARDS -->
       <section class="pane-left-infographic">
         <div class="pane-header-strip">
           <span>● Visual Infographic Overview</span>
           <span id="leftPaneSubtopicTag" style="color: var(--gold-accent);">Topic Overview</span>
         </div>
         <div class="infographic-viewport">
-          <div class="infographic-sheet" id="infographicContent">
-            <!-- Infographic loaded dynamically -->
-          </div>
+          <div class="infographic-sheet" id="infographicContent"></div>
         </div>
       </section>
 
-      <!-- RIGHT PANE: BAR EXAM CASE DIGEST -->
+      <!-- RIGHT PANE: BAR CASE DIGEST -->
       <section class="pane-right-digest">
         <div class="pane-header-strip">
           <span>⚖ Bar Exam Case Digest & Ruling</span>
-          <div style="display: flex; gap: 8px;">
-            <button class="btn btn-secondary" style="padding: 2px 8px; font-size: 0.68rem;" onclick="copyRatioDecidendi()">Copy Ratio</button>
-            <button class="btn btn-secondary" style="padding: 2px 8px; font-size: 0.68rem; color: #f87171;" onclick="deleteCurrentCase()">Delete</button>
-          </div>
+          <button class="btn btn-secondary" style="padding: 2px 8px; font-size: 0.68rem;" onclick="copyRatioDecidendi()">Copy Ratio</button>
         </div>
-        <div class="digest-viewport" id="digestContent">
-          <!-- Digest loaded dynamically -->
-        </div>
+        <div class="digest-viewport" id="digestContent"></div>
       </section>
     </div>
   </main>
 
-  <!-- CASE INPUT & MANAGEMENT MODAL -->
-  <div class="modal-backdrop" id="caseModal">
-    <div class="modal-window">
-      <div class="modal-header">
-        <h3 id="modalTitle" style="font-size: 1rem; color: #fff;">Input New Case & Topic</h3>
-        <button class="btn btn-secondary" onclick="closeModal()">✕</button>
-      </div>
-      <div class="modal-body">
-        <input type="hidden" id="editCaseId">
-        
-        <div class="form-group-row">
-          <div class="form-group">
-            <label>Overarching Topic</label>
-            <input type="text" id="inpTopic" class="form-control" placeholder="e.g., Book III: Conditions of Employment">
-          </div>
-          <div class="form-group">
-            <label>Sub-Topic</label>
-            <input type="text" id="inpSubtopic" class="form-control" placeholder="e.g., Service Charges vs. Qualified Theft">
-          </div>
-        </div>
-
-        <div class="form-group-row">
-          <div class="form-group">
-            <label>Case Title</label>
-            <input type="text" id="inpTitle" class="form-control" placeholder="e.g., Janice L. Teologo v. People">
-          </div>
-          <div class="form-group">
-            <label>Citation & Date</label>
-            <input type="text" id="inpCitation" class="form-control" placeholder="G.R. No. 238383, April 02, 2025">
-          </div>
-        </div>
-
-        <hr style="border: 0; border-top: 1px solid #1f2937;">
-        <h4 style="font-size: 0.75rem; color: var(--gold-accent); text-transform: uppercase;">Left Pane: Infographic Overviews</h4>
-
-        <div class="form-group-row">
-          <div class="form-group">
-            <label>Badge / Category</label>
-            <input type="text" id="inpBadge" class="form-control" placeholder="QUALIFIED THEFT / LABOR STANDARDS">
-          </div>
-          <div class="form-group">
-            <label>Legal Basis / Codal</label>
-            <input type="text" id="inpLegalBasis" class="form-control" placeholder="Article 96 Labor Code / Art. 310 RPC">
-          </div>
-        </div>
-
-        <div class="form-group-row">
-          <div class="form-group">
-            <label>Brief Facts (Infographic)</label>
-            <textarea id="inpInfoFacts" class="form-control" placeholder="Concise summary for the green card..."></textarea>
-          </div>
-          <div class="form-group">
-            <label>Turning Point</label>
-            <textarea id="inpInfoTurning" class="form-control" placeholder="The turning point event..."></textarea>
-          </div>
-        </div>
-
-        <div class="form-group-row">
-          <div class="form-group">
-            <label>Rationale (SC Summary)</label>
-            <textarea id="inpInfoRationale" class="form-control" placeholder="Core rationale in brief..."></textarea>
-          </div>
-          <div class="form-group">
-            <label>Doctrine Summary & Key Takeaway</label>
-            <textarea id="inpInfoDoctrine" class="form-control" placeholder="Controlling rule statement..."></textarea>
-          </div>
-        </div>
-
-        <hr style="border: 0; border-top: 1px solid #1f2937;">
-        <h4 style="font-size: 0.75rem; color: #38bdf8; text-transform: uppercase;">Right Pane: Complete Bar Examination Brief</h4>
-
-        <div class="form-group">
-          <label>Facts (Bar Examination Style)</label>
-          <textarea id="inpBriefFacts" class="form-control" style="min-height: 90px;" placeholder="Bar style facts. Direct, concise, using names instead of petitioner/respondent..."></textarea>
-        </div>
-
-        <div class="form-group">
-          <label>Issue (Direct Question Form)</label>
-          <input type="text" id="inpBriefIssue" class="form-control" placeholder="Can store managers be held liable for Qualified Theft for withholding service charges?">
-        </div>
-
-        <div class="form-group">
-          <label>Specific Provisions Relied Upon</label>
-          <input type="text" id="inpBriefProvisions" class="form-control" placeholder="Article 96 of the Labor Code; Article 310 in relation to Article 308 of the Revised Penal Code.">
-        </div>
-
-        <div class="form-group">
-          <label>Verbatim Supreme Court Legal Basis</label>
-          <textarea id="inpBriefVerbatim" class="form-control" style="min-height: 80px;" placeholder="Quote verbatim the Supreme Court's exact words..."></textarea>
-        </div>
-
-        <div class="form-group">
-          <label>Ratio Decidendi</label>
-          <textarea id="inpBriefRatio" class="form-control" style="min-height: 90px;" placeholder="In-depth explanation and controlling legal analysis..."></textarea>
-        </div>
-
-        <div class="form-group">
-          <label>Fallo (Dispositive Portion)</label>
-          <textarea id="inpBriefFallo" class="form-control" placeholder="WHEREFORE, the petition is DENIED..."></textarea>
-        </div>
-      </div>
-
-      <div class="modal-footer">
-        <div>
-          <button class="btn btn-secondary" onclick="copyDatabaseAsCode()">Copy Data to Clipboard (Code)</button>
-        </div>
-        <div style="display: flex; gap: 8px;">
-          <button class="btn btn-secondary" onclick="closeModal()">Cancel</button>
-          <button class="btn btn-emerald" onclick="saveCaseFromForm()">Save Case</button>
-        </div>
-      </div>
-    </div>
-  </div>
-
   <script>
-    /* LABOR LAW CASE DATABASE */
-    const DEFAULT_LABOR_LAW_DATABASE = [
-      {
-        id: "teologo-v-people",
-        topic: "Book III: Conditions of Employment",
-        subtopic: "Service Charges vs. Qualified Theft",
-        overview: {
-          badge: "QUALIFIED THEFT / LABOR",
-          title: "TEOLOGO & DELOS SANTOS v. PEOPLE",
-          legalBasis: "Art. 96 Labor Code / Art. 308 & 310 RPC",
-          factsSummary: "From June to October 2009, Janice Teologo and Jennifer Delos Santos served as store managers at a pizza branch. They withheld and failed to distribute the collected employee service charges, keeping the money instead.",
-          turningPoint: "The prosecution charged them with Qualified Theft for gravely abusing their managerial positions of trust and confidence to pocket collected employee service charges.",
-          issueQuestion: "Can store managers be held liable for Qualified Theft for withholding and misappropriating collected employee service charges?",
-          rationale: "All elements of Qualified Theft were met: taking of personal property (service charges belonging to employees) without consent, with intent to gain, and committed with grave abuse of confidence.",
-          doctrine: "Withholding or misappropriating funds intended for employees (such as statutory service charges) constitutes Qualified Theft when committed by managerial employees abusing their position of trust.",
-          takeawayQuote: "Managerial abuse of trust = Qualified Theft. Service charges belong to the employees by statutory mandate."
-        },
-        caseDigest: {
-          title: "Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines",
-          citation: "G.R. No. 238383, April 02, 2025 • Second Division • Kho, Jr., J.",
-          facts: "Janice Teologo and Jennifer Delos Santos were branch managers of a pizza store. The franchise owner regularly issued checks representing statutory service charges for encashment and distribution to rank-and-file employees. Teologo and Delos Santos made employees sign payroll sheets acknowledging receipt, but withheld the cash and diverted the funds. When an internal audit commenced, they claimed the funds were kept as 'forced savings.'",
-          issue: "Are branch managers guilty of Qualified Theft under Article 310 of the Revised Penal Code for withholding and misappropriating statutory service charges due to rank-and-file employees?",
-          provisions: "Article 96 of the Labor Code of the Philippines (as amended by R.A. No. 11360); Article 308 and Article 310 of the Revised Penal Code.",
-          verbatimRuling: "\"The elements of Qualified Theft are: (a) taking of personal property; (b) that the said property belongs to another; (c) that the said taking be done with intent to gain; (d) that it be done without the owner's consent; (e) that it be accomplished without the use of violence or intimidation against persons, nor of force upon things; and (f) that it be done with grave abuse of confidence. All elements are attendant here.\"",
-          ratioDecidendi: "Service charges collected by establishments belong to the employees pursuant to Article 96 of the Labor Code. When managerial personnel entrusted with the encashment and distribution of these funds pocket them, the crime committed is Qualified Theft because their managerial position involves high trust and confidence which was gravely abused to convert the funds.",
-          fallo: "WHEREFORE, the petition is DENIED. The Decision of the Court of Appeals convicting petitioners of Qualified Theft under Article 310 in relation to Article 308 of the Revised Penal Code is AFFIRMED with MODIFICATIONS as to the penalty."
-        }
-      }
-    ];
+    // PDF.js worker
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
 
-    // Local Storage or Default fallback
-    let cases = JSON.parse(localStorage.getItem('LABOR_LAW_DATA')) || DEFAULT_LABOR_LAW_DATABASE;
+    let cases = JSON.parse(localStorage.getItem('LABOR_LAW_PARSED_DATA')) || [];
     let currentCaseIndex = 0;
 
-    function saveState() {
-      localStorage.setItem('LABOR_LAW_DATA', JSON.stringify(cases));
+    // Load initial empty or parsed state
+    function saveAndRender() {
+      localStorage.setItem('LABOR_LAW_PARSED_DATA', JSON.stringify(cases));
       renderSidebar();
       renderQuickJump();
       renderCurrentCase();
@@ -790,9 +466,13 @@
 
     function renderSidebar() {
       const treeContainer = document.getElementById('treeContainer');
-      document.getElementById('caseCountBadge').textContent = `${cases.length} Cases`;
+      document.getElementById('caseCountBadge').textContent = `${cases.length} Case${cases.length === 1 ? '' : 's'}`;
 
-      // Group by topic and subtopic
+      if (cases.length === 0) {
+        treeContainer.innerHTML = '<div style="padding: 20px; font-size: 0.72rem; color: #64748b; text-align: center;">Upload your syllabus PDF using the top button to automatically populate topics and cases.</div>';
+        return;
+      }
+
       const grouped = {};
       cases.forEach((item, index) => {
         if (!grouped[item.topic]) grouped[item.topic] = {};
@@ -831,6 +511,10 @@
 
     function renderQuickJump() {
       const select = document.getElementById('quickJumpSelect');
+      if (cases.length === 0) {
+        select.innerHTML = '<option>No cases loaded</option>';
+        return;
+      }
       select.innerHTML = cases.map((c, i) => `
         <option value="${i}" ${i === currentCaseIndex ? 'selected' : ''}>
           ${c.subtopic}: ${c.caseDigest.title.substring(0, 32)}...
@@ -840,15 +524,23 @@
 
     function renderCurrentCase() {
       if (cases.length === 0) {
-        document.getElementById('infographicContent').innerHTML = '<p style="text-align: center; color: #64748b;">No cases found. Click "Manage / Input Cases" to add your first digest.</p>';
-        document.getElementById('digestContent').innerHTML = '<p style="text-align: center; color: #64748b;">No digest available.</p>';
+        document.getElementById('infographicContent').innerHTML = `
+          <div style="text-align: center; padding: 40px 20px;">
+            <h2 style="font-size: 1.2rem; color: #475569; margin-bottom: 8px;">No Syllabus Loaded</h2>
+            <p style="font-size: 0.8rem; color: #64748b;">Click <strong>"📄 Upload PDF Syllabus"</strong> above to extract all topics, sub-topics, and case briefs directly from your document.</p>
+          </div>
+        `;
+        document.getElementById('digestContent').innerHTML = `
+          <div style="text-align: center; padding: 40px 20px; color: #64748b; font-size: 0.85rem;">
+            Awaiting PDF extraction...
+          </div>
+        `;
         return;
       }
 
       const item = cases[currentCaseIndex];
       document.getElementById('leftPaneSubtopicTag').textContent = `${item.topic} › ${item.subtopic}`;
 
-      // Render Left Infographic
       document.getElementById('infographicContent').innerHTML = `
         <div class="info-header">
           <div>
@@ -895,7 +587,6 @@
         </div>
       `;
 
-      // Render Right Bar Brief
       document.getElementById('digestContent').innerHTML = `
         <div class="digest-meta-tag">${item.topic} › ${item.subtopic}</div>
         <h2 class="digest-case-heading">${item.caseDigest.title}</h2>
@@ -953,93 +644,177 @@
     }
 
     function copyRatioDecidendi() {
-      const ratio = document.getElementById('currentRatioText').innerText;
-      navigator.clipboard.writeText(ratio).then(() => {
-        alert('Ratio Decidendi copied to clipboard!');
-      });
-    }
-
-    function deleteCurrentCase() {
-      if (confirm('Are you sure you want to delete this case digest?')) {
-        cases.splice(currentCaseIndex, 1);
-        if (currentCaseIndex >= cases.length) currentCaseIndex = Math.max(0, cases.length - 1);
-        saveState();
+      const ratio = document.getElementById('currentRatioText')?.innerText;
+      if (ratio) {
+        navigator.clipboard.writeText(ratio).then(() => alert('Ratio copied!'));
       }
     }
 
-    /* MODAL & DATA INPUT */
-    function openInputModal() {
-      document.getElementById('editCaseId').value = '';
-      document.getElementById('modalTitle').textContent = 'Input New Case & Topic';
-      // Clear inputs
-      document.querySelectorAll('#caseModal input, #caseModal textarea').forEach(el => el.value = '');
-      document.getElementById('caseModal').classList.add('open');
+    function clearAllData() {
+      if (confirm('Reset syllabus and remove all loaded cases?')) {
+        localStorage.removeItem('LABOR_LAW_PARSED_DATA');
+        cases = [];
+        currentCaseIndex = 0;
+        saveAndRender();
+      }
     }
 
-    function closeModal() {
-      document.getElementById('caseModal').classList.remove('open');
+    /* ==========================================
+       PDF EXTRACTION & INTELLIGENT PARSER ENGINE
+       ========================================== */
+    async function handlePDFUpload(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      alert("Extracting text from PDF. Please allow a few moments...");
+
+      try {
+        const arrayBuffer = await file.arrayBuffer();
+        const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
+        
+        let fullText = '';
+        for (let i = 1; i <= pdf.numPages; i++) {
+          const page = await pdf.getPage(i);
+          const textContent = await page.getTextContent();
+          const pageStr = textContent.items.map(item => item.str).join(' ');
+          fullText += pageStr + '\n\n';
+        }
+
+        // Parse extracted full text into structured cases
+        const parsedCases = parseSyllabusText(fullText);
+
+        if (parsedCases.length === 0) {
+          alert("Could not automatically locate case digest markers in this PDF. Please verify your document contains headings like FACTS, ISSUE, and HELD.");
+          return;
+        }
+
+        cases = parsedCases;
+        currentCaseIndex = 0;
+        saveAndRender();
+        alert(`Successfully imported ${cases.length} cases from your PDF!`);
+      } catch (err) {
+        console.error(err);
+        alert("An error occurred while reading the PDF: " + err.message);
+      }
     }
 
-    function saveCaseFromForm() {
-      const topic = document.getElementById('inpTopic').value.trim() || 'General Labor Law';
-      const subtopic = document.getElementById('inpSubtopic').value.trim() || 'General Principles';
-      const title = document.getElementById('inpTitle').value.trim() || 'Untitled Case';
-      const citation = document.getElementById('inpCitation').value.trim() || 'Supreme Court';
+    function parseSyllabusText(text) {
+      const lines = text.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+      const parsed = [];
 
-      const newCase = {
-        id: 'case-' + Date.now(),
-        topic: topic,
-        subtopic: subtopic,
+      let currentTopic = "General Labor Law";
+      let currentSubtopic = "General Principles";
+
+      // Regex patterns
+      const topicRegex = /^(?:TOPIC\s*\d*|BOOK\s+[IVXLCDM]+|PART\s+[A-Z0-9]+|[IVXLCDM]+\.)\s*(.*)/i;
+      const subtopicRegex = /^(?:[A-Z]\.|\d+\.)\s*(.*)/;
+      const caseTitleRegex = /([A-Z][A-Za-z\s,\.\-&]+(?:v\.|vs\.|V\.)[A-Za-z\s,\.\-&]+)/;
+
+      let currentBlock = null;
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i];
+
+        // Check for Topic
+        if (topicRegex.test(line) && line.length < 90) {
+          currentTopic = line;
+          continue;
+        }
+
+        // Check for Subtopic
+        if (subtopicRegex.test(line) && line.length < 90 && !line.includes('v.') && !line.includes('vs.')) {
+          currentSubtopic = line;
+          continue;
+        }
+
+        // Check for Case Heading
+        if ((line.includes('v.') || line.includes('vs.') || line.includes('G.R. No.')) && line.length < 150) {
+          if (currentBlock) {
+            finalizeCase(currentBlock, parsed);
+          }
+          currentBlock = {
+            topic: currentTopic,
+            subtopic: currentSubtopic,
+            rawTitle: line,
+            citation: lines[i+1]?.includes('G.R.') ? lines[++i] : 'Supreme Court Jurisprudence',
+            facts: '',
+            issue: '',
+            ruling: '',
+            fallo: '',
+            section: 'facts'
+          };
+          continue;
+        }
+
+        if (!currentBlock) continue;
+
+        // Detect internal digest sections
+        if (/^FACTS/i.test(line)) {
+          currentBlock.section = 'facts';
+          continue;
+        } else if (/^ISSUE/i.test(line)) {
+          currentBlock.section = 'issue';
+          continue;
+        } else if (/^(?:HELD|RULING|RATIO|RATIO DECIDENDI)/i.test(line)) {
+          currentBlock.section = 'ruling';
+          continue;
+        } else if (/^(?:FALLO|WHEREFORE|DISPOSITIVE)/i.test(line)) {
+          currentBlock.section = 'fallo';
+          continue;
+        }
+
+        // Append line text to active section
+        if (currentBlock.section === 'facts') currentBlock.facts += ' ' + line;
+        else if (currentBlock.section === 'issue') currentBlock.issue += ' ' + line;
+        else if (currentBlock.section === 'ruling') currentBlock.ruling += ' ' + line;
+        else if (currentBlock.section === 'fallo') currentBlock.fallo += ' ' + line;
+      }
+
+      if (currentBlock) {
+        finalizeCase(currentBlock, parsed);
+      }
+
+      return parsed;
+    }
+
+    function finalizeCase(block, list) {
+      const title = block.rawTitle || 'Untitled Case';
+      const shortTitle = title.split(/v\.|vs\./i)[0].trim();
+      const facts = block.facts.trim() || 'No facts provided.';
+      const issue = block.issue.trim() || 'Core legal issue.';
+      const ruling = block.ruling.trim() || 'Ruling not specified.';
+      const fallo = block.fallo.trim() || 'WHEREFORE, judgment rendered accordingly.';
+
+      list.push({
+        id: 'case-' + Math.random().toString(36).substr(2, 9),
+        topic: block.topic,
+        subtopic: block.subtopic,
         overview: {
-          badge: document.getElementById('inpBadge').value.trim() || 'LABOR DOCTRINE',
-          title: title.split('v.')[0] || title,
-          legalBasis: document.getElementById('inpLegalBasis').value.trim() || 'Labor Code of the Philippines',
-          factsSummary: document.getElementById('inpInfoFacts').value.trim() || 'Summary of facts.',
-          turningPoint: document.getElementById('inpInfoTurning').value.trim() || 'Turning point event.',
-          issueQuestion: document.getElementById('inpBriefIssue').value.trim() || 'Core legal issue.',
-          rationale: document.getElementById('inpInfoRationale').value.trim() || 'Supreme Court rationale.',
-          doctrine: document.getElementById('inpInfoDoctrine').value.trim() || 'Controlling doctrine.',
-          takeawayQuote: document.getElementById('inpInfoDoctrine').value.trim() || 'Key rule.'
+          badge: "LABOR DOCTRINE",
+          title: shortTitle,
+          legalBasis: "Labor Code of the Philippines",
+          factsSummary: facts.length > 220 ? facts.substring(0, 220) + '...' : facts,
+          turningPoint: "Crucial dispute or violation arising between the parties.",
+          issueQuestion: issue.length > 120 ? issue.substring(0, 120) + '?' : issue,
+          rationale: ruling.length > 220 ? ruling.substring(0, 220) + '...' : ruling,
+          doctrine: ruling.length > 140 ? ruling.substring(0, 140) + '...' : ruling,
+          takeawayQuote: "Controlling principle for bar examination review."
         },
         caseDigest: {
           title: title,
-          citation: citation,
-          facts: document.getElementById('inpBriefFacts').value.trim() || 'Facts of the case.',
-          issue: document.getElementById('inpBriefIssue').value.trim() || 'Issue question.',
-          provisions: document.getElementById('inpBriefProvisions').value.trim() || 'Provisions cited.',
-          verbatimRuling: document.getElementById('inpBriefVerbatim').value.trim() || 'Verbatim legal basis.',
-          ratioDecidendi: document.getElementById('inpBriefRatio').value.trim() || 'Ratio decidendi.',
-          fallo: document.getElementById('inpBriefFallo').value.trim() || 'Fallo.'
+          citation: block.citation,
+          facts: facts,
+          issue: issue,
+          provisions: "Applicable Labor Code Provisions and Implementing Rules",
+          verbatimRuling: ruling.length > 280 ? ruling.substring(0, 280) + '...' : ruling,
+          ratioDecidendi: ruling,
+          fallo: fallo
         }
-      };
-
-      cases.push(newCase);
-      currentCaseIndex = cases.length - 1;
-      saveState();
-      closeModal();
-    }
-
-    function exportDataJSON() {
-      const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(cases, null, 2));
-      const downloadAnchor = document.createElement('a');
-      downloadAnchor.setAttribute("href", dataStr);
-      downloadAnchor.setAttribute("download", "labor_law_cases.json");
-      document.body.appendChild(downloadAnchor);
-      downloadAnchor.click();
-      downloadAnchor.remove();
-    }
-
-    function copyDatabaseAsCode() {
-      const code = "const DEFAULT_LABOR_LAW_DATABASE = " + JSON.stringify(cases, null, 2) + ";";
-      navigator.clipboard.writeText(code).then(() => {
-        alert('Case database copied as code! You can now paste this directly into index.html on GitHub.');
       });
     }
 
-    // Initialize
-    renderSidebar();
-    renderQuickJump();
-    renderCurrentCase();
+    // Init
+    saveAndRender();
   </script>
 </body>
 </html>
