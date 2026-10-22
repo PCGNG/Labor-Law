@@ -1,0 +1,33 @@
+Royal Plant Workers Union (ROPWU) v. Coca-Cola Bottlers Philippines, Inc. - Cebu Plant
+G.R. No. 198783, April 15, 2013
+Third Division, Mendoza, J.
+Facts:
+In 1974, Coca-Cola Bottlers Phils., Inc. (CCBPI) provided chairs to bottling operators of its Bottling Line 2 upon their request. In September 2008, CCBPI removed the chairs pursuant to its "I Operate, I Maintain, I Clean" program, which required operators to be constantly mobile to inspect, operate, and maintain machines with moving parts, avoiding the occupational hazard of falling asleep. To compensate, CCBPI revised the work rotation: operators were given a 30-minute seated break after every 1.5 hours of work (upgraded from a 30-minute break after 2.5 hours of continuous work). ROPWU protested the removal of the chairs through the CBA grievance machinery and elevated the dispute to voluntary arbitration. The Arbitration Committee ordered CCBPI to restore the chairs, holding that the practice had ripened into a company benefit. The Court of Appeals reversed the arbitral ruling, finding that the removal of chairs was a valid exercise of management prerogative.
+Issue:
+Whether the employer's removal of the bottling operators' chairs from the production line constitutes an infringement of labor standards and a violation of the rule against diminution of benefits, or a valid exercise of management prerogative.
+Held:
+The removal of the chairs was a valid exercise of management prerogative and did not violate labor standards or the principle of non-diminution of benefits.
+
+
+Verbatim Legal Basis:
+
+Article 132 [now renumbered], Labor Code of the Philippines:
+
+"Art. 132. Facilities for women. — The Secretary of Labor and Employment shall establish standards that will insure the safety and health of women employees. In appropriate cases, he shall, by regulation, require any employer to:
+
+(a) Provide seats proper for women and permit them to use such seats when they are free from work and during working hours, provided they can perform their duties in this position without detriment to efficiency;
+
+(b) To establish separate toilet rooms and lavatories for men and women and provide at least a dressing room for women;
+
+(c) To establish a suitably located pantry or dining room, and to provide adequate supply of potable water, and;
+
+(d) To furnish other facilities that will ensure the health and safety of women workers."
+Ratio:
+1. No Statutory Mandate for Male Operators' Chairs: Under the Labor Code, the statutory requirement to furnish seats applies specifically to women employees (Article 132). There is no statutory provision requiring an employer to maintain chairs for male bottling operators in an active industrial line where the nature of the duties requires mobility.
+
+2. Management Prerogative and Occupational Safety: The right of an employer to regulate all aspects of employment—including work systems, operational methods, and working conditions—is broad, subject only to limitations provided by law, CBA, and general principles of fair play and justice. The removal of chairs was instituted in good faith to eliminate the risk of operators falling asleep near machinery with moving parts, and CCBPI compensated for the change by reducing continuous work intervals from 2.5 hours to 1.5 hours and increasing seated rest breaks to 30 minutes.
+
+3. Chairs Not a Vested Benefit: A company practice does not ripen into an unalterable benefit unless it is characterized by voluntary, regular, and continuous grant over a long period under the concept of a wage supplement or fringe benefit. Providing chairs on an industrial factory line was a temporary concession tied to working methodology, not a monetary or economic benefit protected against diminution.
+Fallo:
+WHEREFORE, premises considered, we hereby DENY the petition. We AFFIRM the August 26, 2011 Decision of the Court of Appeals in CA-G.R. SP No. 05200.
+SO ORDERED.
