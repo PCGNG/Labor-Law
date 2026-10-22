@@ -1,0 +1,18 @@
+Home Credit Mutual Building and Loan Association v. Ma. Rollette Prudente G.R. No. 200010, August 27, 2020 
+Facts	Ma. Rollette Prudente was hired by Home Credit as a credit collection specialist. Under her employment contract and long-standing company policy, she was assigned a company vehicle and received a monthly transportation/fuel allowance to facilitate field visits. In 2008, the company issued a new memo requiring employees using service vehicles to surrender their cars to the motor pool every evening and during weekends, and reduced their fuel allowance, requiring detailed itemized receipts for travel reimbursement instead of the fixed monthly allowance. Prudente refused to surrender the vehicle and challenged the policy, claiming that the unrestricted use of the vehicle and the unconditional fuel allowance were vested benefits that could not be eliminated or diminished under Article 100 of the Labor Code. She subsequently filed an illegal constructive dismissal and diminution of benefits case.
+Issue	Whether the modification of the company vehicle usage rules and conversion of the transportation allowance into an accountable reimbursement scheme violate the non-diminution rule under Article 100 of the Labor Code.
+Held	The changes do NOT violate the rule on non-diminution of benefits; the transportation allowance and vehicle were operational facilities/supplements, not part of basic wages. 
+
+Verbatim Legal Basis: 
+Article 97(f), Labor Code of the Philippines: 
+
+"Art. 97. Definitions. — ... (f) 'Wage' paid to any employee shall mean the remuneration or earnings, however designated, capable of being expressed in terms of money, whether fixed or ascertained on a time, task, piece, or commission basis, or other method of calculating the same, which is payable by an employer to an employee under a written or unwritten contract of employment for work done or to be done, or for services rendered or to be rendered..." 
+
+Article 100, Labor Code of the Philippines:
+
+"Art. 100. Prohibition against elimination or diminution of benefits. — Nothing in this Book shall be construed to eliminate or in any way diminish supplements, or other employee benefits being enjoyed at the time of promulgation of this Code."
+
+Ratio 	1. Distinction Between Wages and Supplements/Facilities: "Wages" form part of the regular consideration for services rendered, whereas "facilities" or "supplements" are conveniences or operational amenities granted for the benefit of the employer or to enable the employee to perform work efficiently. A company car and fuel allowance given to collection agents are working tools/facilities designed to achieve company tasks, not personal wage supplements.
+
+2. Management Prerogative to Regulate Working Tools: An employer has the inherent prerogative to regulate, monitor, and safeguard company-owned property. Regulating the overnight parking of company vehicles and shifting to a receipt-based reimbursement system are reasonable operational controls to curb fuel wastage and do not constitute an illegal diminution of basic earnings.
+Fallo	WHEREFORE, the petition is GRANTED. The Decision of the Court of Appeals dated August 31, 2011 in CA-G.R. SP No. 111893 is REVERSED and SET ASIDE, and the complaint is DISMISSED.
