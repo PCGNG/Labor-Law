@@ -3,91 +3,91 @@
     "id": "slu-subtopic-a",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "a. Coverage and Exemptions",
-    "overviewFile": "overviews/a-coverage.txt",
-    "digestFile": "digests/rodriguez-v-park-n-ride.txt"
+    "overviewFile": "Overviews/a. Coverage and Exemptions",
+    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
   },
   {
     "id": "slu-subtopic-b",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "b. Normal Hours of Work",
-    "overviewFile": "overviews/b-hours.txt",
-    "digestFile": "digests/royal-plant-v-coca-cola.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
   },
   {
     "id": "slu-subtopic-c",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "c. Meal Periods",
-    "overviewFile": "overviews/c-meals.txt",
-    "digestFile": "digests/teologo-v-people.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
   },
   {
     "id": "slu-subtopic-d",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "d. Night Shift Differential",
-    "overviewFile": "overviews/d-night.txt",
-    "digestFile": "digests/teologo-v-people.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
   },
   {
     "id": "slu-subtopic-e",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "e. Overtime Work",
-    "overviewFile": "overviews/e-overtime.txt",
-    "digestFile": "digests/teologo-v-people.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
   },
   {
     "id": "slu-subtopic-f",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "f. Undertime not offset by overtime",
-    "overviewFile": "overviews/f-undertime.txt",
-    "digestFile": "digests/teologo-v-people.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
   },
   {
     "id": "slu-subtopic-g",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "g. Weekly Rest periods",
-    "overviewFile": "overviews/g-rest.txt",
-    "digestFile": "digests/teologo-v-people.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
   },
   {
     "id": "slu-subtopic-h",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "h. Holiday Pay",
-    "overviewFile": "overviews/h-holiday.txt",
-    "digestFile": "digests/dela-rosa-liner-v-borela.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
   },
   {
     "id": "slu-subtopic-i",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "i. Service Incentive Leave",
-    "overviewFile": "overviews/i-sil.txt",
-    "digestFile": "digests/rodriguez-v-park-n-ride.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
   },
   {
     "id": "teologo-v-people",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
-    "overviewFile": "overviews/j-service-charges.txt",
-    "digestFile": "digests/teologo-v-people.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines.txt"
   },
   {
     "id": "royal-plant-v-coca-cola",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
-    "overviewFile": "overviews/j-service-charges.txt",
-    "digestFile": "digests/royal-plant-v-coca-cola.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Royal Plant Workers Union v. Coca-Cola Bottlers Phil. Inc.-Cebu Plant.txt"
   },
   {
     "id": "rodriguez-v-park-n-ride",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
-    "overviewFile": "overviews/j-service-charges.txt",
-    "digestFile": "digests/rodriguez-v-park-n-ride.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Rodriguez v. Park N Ride Inc..txt"
   },
   {
     "id": "dela-rosa-liner-v-borela",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
-    "overviewFile": "overviews/j-service-charges.txt",
-    "digestFile": "digests/dela-rosa-liner-v-borela.txt"
+    "overviewFile": "Overviews/j. Service Charges",
+    "digestFile": "Digests/Dela Rosa Liner vs Borela.txt"
   }
 ]
