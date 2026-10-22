@@ -1,0 +1,18 @@
+Del Monte Land Transport Bus, Co. v. Gener Armenta G.R. No. 240144, February 03, 2021
+Facts
+Following a routine inspection conducted by DOLE Regional Office No. IV-A pursuant to Article 128 of the Labor Code, Del Monte Land Transport Bus, Co. was found to have committed labor standards violations, including underpayment of wages, 13th-month pay, and non-remittance of SSS/PhilHealth contributions with respect to several bus employees, including Gener Armenta. The DOLE Regional Director issued a Compliance Order directing Del Monte to pay the computed monetary deficiencies. Del Monte failed to appeal the Compliance Order to the Secretary of Labor within ten days, rendering it final and executory. Subsequently, Armenta filed a separate complaint before the Labor Arbiter to enforce the monetary award and claim illegal constructive dismissal. Del Monte argued that the Labor Arbiter lacked jurisdiction because the dispute had already been adjudicated by the DOLE Regional Director.
+Issue
+Whether the visitorial and enforcement power of the DOLE Secretary (and Regional Directors) under Article 128(b) of the Labor Code is separate from and concurrent with the jurisdiction of the Labor Arbiter under Article 217 [now 224], and whether a final Compliance Order bars re-litigation of the same monetary claims.
+Held
+The DOLE Regional Director has plenary visitorial and enforcement jurisdiction under Article 128(b) to issue compliance orders, which become final and executory if not appealed, barring the re-litigation of the same monetary claims under the principle of res judicata. 
+
+Verbatim Legal Basis: 
+Article 128(b), Labor Code of the Philippines: 
+
+"Art. 128. Visitorial and enforcement power. — ... (b) Notwithstanding the provisions of Articles 129 and 217 of this Code to the contrary, and in cases where the relationship of employer-employee still exists, the Secretary of Labor and Employment or his duly authorized representatives shall have the power to issue compliance orders to give effect to the labor standards provisions of this Code and other labor legislation based on the findings of labor employment and enforcement officers or industrial safety engineers made in the course of inspection." 
+Ratio
+1. Scope of Article 128 Visitorial Power: Article 128(b) confers on the DOLE Secretary and Regional Directors the power to inspect establishments and issue enforceable compliance orders, regardless of the monetary amount claimed, provided the employer-employee relationship still exists. This power is not restricted by the jurisdictional monetary ceiling of Article 129 or the original jurisdiction of Labor Arbiters under Article 217.
+
+2. Finality and Res Judicata: When an employer fails to appeal a Compliance Order issued under Article 128 to the Secretary of Labor within the mandatory 10-day period, the order attains finality. The monetary awards adjudicated therein cannot be relitigated before the Labor Arbiter, as quasi-judicial determinations of the DOLE Regional Director are conclusive and binding.
+Fallo
+WHEREFORE, the petition is PARTLY GRANTED. The Decision of the Court of Appeals is AFFIRMED with MODIFICATION. The Compliance Order issued by the DOLE Regional Director having become final and executory, the monetary awards determined therein are upheld, and petitioner Del Monte Land Transport Bus, Co. is ordered to pay respondent the amounts adjudged, plus legal interest of six percent (6%) per annum from finality until fully satisfied.
