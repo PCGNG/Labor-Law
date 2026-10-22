@@ -598,6 +598,13 @@
       }
     }
 
+    /* ALL-FORMAT DIGEST PARSER:
+       Extracts Facts, Issue, Held, Ratio, and Fallo even if:
+       - The text starts on the SAME line without a colon (e.g., "Held The disparity...")
+       - The text starts on the SAME line with a colon (e.g., "Held: The disparity...")
+       - The text is on the NEXT line
+       - Redundant sub-labels like "Verbatim Legal Basis:" are present
+    */
     function parseDigestTextFile(rawText, defaultTitle) {
       const lines = rawText.split('\n');
       const nonBlank = lines.map(l => l.trim()).filter(Boolean);
@@ -615,28 +622,40 @@
 
       let currentSection = null;
 
+      // Regex matching a line starting with one of our section names
+      const headerRegex = /^(?:#{1,4}\s*)?(Facts|Issue|Held|Ruling|Ratio(?:\s+Decidendi)?|Fallo|Dispositive\s+Portion)(?:[:\s]+(.*))?$/i;
+
       for (let i = 0; i < lines.length; i++) {
         const rawLine = lines[i];
         const trimmed = rawLine.trim();
 
-        if (/^(?:#{1,4}\s*)?Facts(?:\s*:)?\s*$/i.test(trimmed)) {
-          currentSection = 'facts';
-          continue;
-        } else if (/^(?:#{1,4}\s*)?Issue(?:\s*:)?\s*$/i.test(trimmed)) {
-          currentSection = 'issue';
-          continue;
-        } else if (/^(?:#{1,4}\s*)?(?:Held|Ruling)(?:\s*:)?\s*$/i.test(trimmed)) {
-          currentSection = 'held';
-          continue;
-        } else if (/^(?:#{1,4}\s*)?(?:Ratio|Ratio\s+Decidendi)(?:\s*:)?\s*$/i.test(trimmed)) {
-          currentSection = 'ratio';
-          continue;
-        } else if (/^(?:#{1,4}\s*)?(?:Fallo|Dispositive\s+Portion)(?:\s*:)?\s*$/i.test(trimmed)) {
-          currentSection = 'fallo';
+        const match = trimmed.match(headerRegex);
+
+        if (match) {
+          const headerWord = match[1].toLowerCase();
+          const inlineText = match[2] ? match[2].trim() : '';
+
+          if (headerWord.startsWith('fact')) {
+            currentSection = 'facts';
+          } else if (headerWord.startsWith('issue')) {
+            currentSection = 'issue';
+          } else if (headerWord.startsWith('held') || headerWord.startsWith('ruling')) {
+            currentSection = 'held';
+          } else if (headerWord.startsWith('ratio')) {
+            currentSection = 'ratio';
+          } else if (headerWord.startsWith('fallo') || headerWord.startsWith('dispositive')) {
+            currentSection = 'fallo';
+          }
+
+          // If there was text on the exact same line as the header, add it immediately
+          if (inlineText.length > 0) {
+            sections[currentSection].push(inlineText);
+          }
           continue;
         }
 
         if (currentSection) {
+          // Skip redundant decorative sub-labels inside Held
           if (currentSection === 'held' && /^Verbatim\s+Legal\s+Basis(?:\s*:)?\s*$/i.test(trimmed)) {
             continue;
           }
