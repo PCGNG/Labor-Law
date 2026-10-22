@@ -1,0 +1,30 @@
+Development Bank of the Philippines v. National Labor Relations Commission, Leonor A. Ang, et al.
+G.R. Nos. 100263 & 100378, January 29, 1993 (218 SCRA 183) 
+Second Division, Regalado, J.
+Facts
+Republic Telephone Company (RETELCO) incurred substantial loan liabilities with the Development Bank of the Philippines (DBP), secured by mortgages over its assets. Due to payment default, DBP extrajudicially foreclosed the mortgages and acquired RETELCO’s assets as the highest bidder. Concurrently, retrenched employees of RETELCO led by Leonor Ang secured a favorable NLRC judgment awarding them separation pay and wage benefits. The Labor Arbiter issued a writ of garnishment against the proceeds of the foreclosure sale held by DBP, invoking the amended text of Article 110 of the Labor Code (as amended by R.A. No. 6715), which declared that workers' monetary claims enjoy first preference "any provisions of law to the contrary notwithstanding." DBP protested, contending that R.A. No. 6715 did not upgrade Article 110 into an absolute automatic lien superseding mortgagees.
+Issue	
+Whether the amendment introduced by Republic Act No. 6715 to Article 110 of the Labor Code upgraded workers' preference to an automatic lien that takes absolute precedence over previously recorded mortgage credits outside formal insolvency proceedings.
+Held	
+R.A. No. 6715 did NOT alter the fundamental rule: Article 110 remains a preference and NOT a special mortgage lien, and can only be enforced in formal bankruptcy or liquidation proceedings. 
+
+
+
+Verbatim Legal Basis: 
+
+
+Article 110, Labor Code of the Philippines (as amended by R.A. No. 6715): 
+
+
+"Art. 110. Worker preference in case of bankruptcy. — In the event of bankruptcy or liquidation of an employer's business, his workers shall enjoy first preference as regards their wages and other monetary claims, any provisions of law to the contrary notwithstanding. Such claims shall be paid in full before claims of the government and other creditors may be paid, but after mortgage credits and other liens with respect to specific property are satisfied in accordance with the Civil Code." 
+Ratio
+1. Preference vs. Lien: A lien creates an immediate in rem encumbrance on specific property regardless of whose hands it falls into, whereas a preference is merely a statutory rule of distributive priority over the general estate of an insolvent debtor. Article 110 does not create a lien; it establishes a priority claim that only activates when a debtor’s total assets are being collectively gathered, audited, and liquidated in court.
+
+
+2. Harmonization with Civil Code: R.A. No. 6715 expanded the coverage of Article 110 from "unpaid wages" to "wages and other monetary claims," but did not eliminate the requirement of a formal insolvency or bankruptcy proceeding. Therefore, mortgage creditors who foreclose outside bankruptcy retain title ahead of ordinary labor claims.
+Fallo
+WHEREFORE, the petition is GRANTED. The assailed decision of the NLRC and the writ of execution issued by the Labor Arbiter are ANNULLED and SET ASIDE.
+
+
+
+SO ORDERED.
