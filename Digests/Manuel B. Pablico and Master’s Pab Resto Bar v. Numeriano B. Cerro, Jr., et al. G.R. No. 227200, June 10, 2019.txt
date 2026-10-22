@@ -1,0 +1,24 @@
+Manuel B. Pablico and Master’s Pab Resto Bar v. Numeriano B. Cerro, Jr., et al. G.R. No. 227200, June 10, 2019
+Facts
+Respondents were employees of Master’s Pab Resto Bar, owned by Manuel Pablico. Claiming that they were being paid daily wages below the prevailing minimum wage prescribed by the Regional Tripartite Wages and Productivity Board (RTWPB) Region II and were denied holiday pay, SIL, and overtime pay, respondents filed a complaint before the Labor Arbiter. Pablico defended by asserting that Master’s Pab Resto Bar was a Barangay Micro Business Enterprise (BMBE) and a small retail/service establishment regularly employing less than ten (10) workers, exempting it from the coverage of the Minimum Wage Law. However, Pablico failed to present any BMBE Certificate of Authority issued by the DTI/DOLE or concrete registered employment records verifying that the workforce was consistently below ten employees throughout the period of claim. The Labor Arbiter, NLRC, and CA all found Pablico liable for wage differentials.
+Issue
+Whether petitioner's establishment is exempt from the statutory minimum wage rates and labor standards under the small-enterprise / BMBE exemption rules.
+Held
+Petitioner is NOT exempt from the Minimum Wage Law and is liable for statutory wage differentials and other monetary benefits.
+
+Verbatim Legal Basis:
+
+Section 8, Republic Act No. 9178 (Barangay Micro Business Enterprises Act of 2002):
+
+"Sec. 8. Exemption from the Coverage of the Minimum Wage Law. — The BMBEs shall be exempt from the coverage of the Minimum Wage Law: Provided, That all employees covered under this Act shall be entitled to the same benefits given to any regular employee such as social security and healthcare benefits."
+
+Article 99, Labor Code of the Philippines:
+
+"Art. 99. Regional minimum wages. — The minimum wage rates for agricultural and non-agricultural workers and employees in each region shall be those prescribed by the Regional Tripartite Wages and Productivity Boards."
+
+Ratio
+1. Strict Construction of Statutory Wage Exemptions: Exemption from the minimum wage law is an exception to social justice legislation and must be strictly construed against the enterprise claiming it. To claim exemption under the BMBE Act (R.A. No. 9178), the establishment must possess a valid, subsisting Certificate of Authority issued by the proper agency. Bare allegations of being a micro-business do not suffice.
+
+2. Burden to Prove Exemption: An employer who pleads an exemption (e.g., employing fewer than 10 workers) bears the legal burden of proving the exempting status through payrolls, DTI certificates, and official rosters. Having failed to submit competent proof, the employer is bound to pay the full minimum statutory wages and labor standard benefits mandated by the regional wage orders.
+Fallo
+WHEREFORE, the petition is DENIED. The Decision dated April 29, 2016 and Resolution dated September 19, 2016 of the Court of Appeals in CA-G.R. SP No. 140417 are AFFIRMED with the modification that the total monetary award shall earn legal interest of six percent (6%) per annum from the date of finality of this Decision until full payment.
