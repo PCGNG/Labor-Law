@@ -22,14 +22,15 @@
       --emerald-accent: #10b981;
       --sky-accent: #38bdf8;
       
+      /* Visual Infographic Pastel Tone Palette */
       --info-bg: #eceae3;
       --info-text: #1e293b;
-      --info-card-facts: #e2ede5;
-      --info-card-turning: #fde8e7;
-      --info-card-issue: #fae0e4;
-      --info-card-rationale: #f4ecdf;
-      --info-card-doctrine: #daf0e4;
-      --info-card-quote: #fdf5d6;
+      --card-color-1: #e2ede5;
+      --card-color-2: #fde8e7;
+      --card-color-3: #f4ecdf;
+      --card-color-4: #daf0e4;
+      --card-color-5: #e0f2fe;
+      --card-color-6: #fdf5d6;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -197,9 +198,9 @@
       border-left: 2px solid var(--gold-accent);
     }
 
-    /* PANE 2: MIDDLE */
+    /* PANE 2: MIDDLE (DYNAMIC OUTLINE CARDS) */
     .pane-middle-overview {
-      flex: 1;
+      flex: 1.05;
       background: var(--bg-middle);
       border-right: 1px solid var(--border-color);
       display: flex;
@@ -217,7 +218,7 @@
 
     .infographic-sheet {
       width: 100%;
-      max-width: 580px;
+      max-width: 620px;
       background-color: var(--info-bg);
       color: var(--info-text);
       border-radius: 12px;
@@ -240,51 +241,37 @@
 
     .info-title {
       font-family: 'Playfair Display', serif;
-      font-size: 1.45rem;
+      font-size: 1.4rem;
       font-weight: 800;
-      line-height: 1.15;
+      line-height: 1.2;
       color: #111827;
       text-transform: uppercase;
     }
 
-    .info-badge-stamp { text-align: right; flex-shrink: 0; }
-    .info-badge-stamp .tag {
-      font-size: 0.65rem;
-      font-weight: 800;
-      text-transform: uppercase;
-      letter-spacing: 0.6px;
-      color: #475569;
-      display: block;
+    .overview-card-container {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
     }
-    .info-badge-stamp .sub-tag { font-size: 0.62rem; font-weight: 700; color: #94a3b8; }
 
-    .info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-    .info-card {
+    .dynamic-topic-card {
       border-radius: 8px;
-      padding: 12px;
+      padding: 14px 16px;
       display: flex;
       flex-direction: column;
       gap: 6px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.03);
     }
 
-    .info-card.card-facts { background-color: var(--info-card-facts); }
-    .info-card.card-turning { background-color: var(--info-card-turning); }
-    .info-card.card-issue { background-color: var(--info-card-issue); }
-    .info-card.card-rationale { background-color: var(--info-card-rationale); }
-    .info-card.card-doctrine { background-color: var(--info-card-doctrine); }
-    .info-card.card-quote { background-color: var(--info-card-quote); }
-
-    .info-card-title {
-      font-size: 0.68rem;
-      font-weight: 800;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      display: flex;
-      align-items: center;
-      gap: 6px;
+    .dynamic-topic-card pre {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-size: 0.8rem;
+      line-height: 1.6;
+      white-space: pre-wrap;
+      word-break: break-word;
+      color: #1e293b;
+      margin: 0;
     }
-
-    .info-card p { font-size: 0.74rem; line-height: 1.45; color: #1e293b; }
 
     /* PANE 3: RIGHT */
     .pane-right-digest {
@@ -425,8 +412,17 @@
 
   <script>
     let syllabusData = [];
-    let selectedIndex = 9;
+    let selectedIndex = 0;
     const fileCache = {};
+
+    const cardPalette = [
+      'var(--card-color-1)',
+      'var(--card-color-2)',
+      'var(--card-color-3)',
+      'var(--card-color-4)',
+      'var(--card-color-5)',
+      'var(--card-color-6)'
+    ];
 
     fetch('cases.json?t=' + Date.now())
       .then(res => {
@@ -517,10 +513,81 @@
       return text;
     }
 
-    /* ROBUST STATE-MACHINE DIGEST PARSER:
-       Extracts Facts, Issue, Held, Ratio, and Fallo cleanly.
-       Ignores internal sub-labels like "Verbatim Legal Basis:".
+    /* DYNAMIC OUTLINE CHUNKER:
+       Splits natural outline text files into clean cards at each major section/change.
+       Recognizes sections separated by blank lines or major numbered items (1., 2., 3., GR:, XPNS:).
     */
+    function splitOverviewIntoCards(rawText) {
+      const lines = rawText.split('\n');
+      const chunks = [];
+      let currentChunk = [];
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i];
+        const trimmed = line.trim();
+
+        // Topic change triggers: major numbered headers (e.g. "1.", "2."), "GR:", "XPNS:", or empty lines
+        const isMajorHeader = /^(?:[0-9]+\.|\bGR\b|\bXPNS\b|Members of the managerial|Test of Supervisory)/i.test(trimmed);
+
+        if (trimmed === '') {
+          if (currentChunk.length > 0) {
+            chunks.push(currentChunk.join('\n').trim());
+            currentChunk = [];
+          }
+        } else if (isMajorHeader && currentChunk.length > 0 && currentChunk.some(l => l.trim().length > 0)) {
+          chunks.push(currentChunk.join('\n').trim());
+          currentChunk = [line];
+        } else {
+          currentChunk.push(line);
+        }
+      }
+
+      if (currentChunk.length > 0 && currentChunk.join('').trim().length > 0) {
+        chunks.push(currentChunk.join('\n').trim());
+      }
+
+      return chunks.filter(c => c.length > 0);
+    }
+
+    async function renderMiddleOverview() {
+      const canvas = document.getElementById('overviewCanvas');
+      if (syllabusData.length === 0) return;
+
+      const item = syllabusData[selectedIndex];
+      document.getElementById('middleTag').textContent = `${item.subtopic}`;
+
+      if (item.overviewFile) {
+        canvas.innerHTML = '<div style="padding: 20px; text-align: center; color: #64748b;">Loading overview...</div>';
+        try {
+          const text = await fetchTextFile(item.overviewFile);
+          const chunks = splitOverviewIntoCards(text);
+
+          let cardsHTML = '';
+          chunks.forEach((chunk, index) => {
+            const color = cardPalette[index % cardPalette.length];
+            cardsHTML += `
+              <div class="dynamic-topic-card" style="background-color: ${color};">
+                <pre>${chunk}</pre>
+              </div>
+            `;
+          });
+
+          canvas.innerHTML = `
+            <div class="info-header">
+              <div><h1 class="info-title">${item.subtopic}</h1></div>
+              <div class="badge-pill" style="align-self: center;">Overview Outline</div>
+            </div>
+            <div class="overview-card-container">
+              ${cardsHTML}
+            </div>
+          `;
+        } catch (err) {
+          canvas.innerHTML = `<div style="padding: 20px; color: #ef4444; font-size: 0.8rem;">Could not load overview: <code>${item.overviewFile}</code><br><span style="color:#64748b;">${err.message}</span></div>`;
+        }
+      }
+    }
+
+    /* RIGHT PANE: STATE-MACHINE DIGEST PARSER (Facts, Issue, Held, Ratio, Fallo) */
     function parseDigestTextFile(rawText, defaultTitle) {
       const lines = rawText.split('\n');
       const nonBlank = lines.map(l => l.trim()).filter(Boolean);
@@ -578,61 +645,6 @@
       };
     }
 
-    function extractOverviewSection(rawText, key) {
-      const regex = new RegExp(`^${key}:\\s*([\\s\\S]*?)(?=\\n[A-Z_]+:|$)`, 'm');
-      const match = rawText.match(regex);
-      return match ? match[1].trim() : '';
-    }
-
-    async function renderMiddleOverview() {
-      const canvas = document.getElementById('overviewCanvas');
-      if (syllabusData.length === 0) return;
-
-      const item = syllabusData[selectedIndex];
-      document.getElementById('middleTag').textContent = `${item.subtopic}`;
-
-      if (item.overviewFile) {
-        canvas.innerHTML = '<div style="padding: 20px; text-align: center; color: #64748b;">Loading overview...</div>';
-        try {
-          const text = await fetchTextFile(item.overviewFile);
-          
-          const title = extractOverviewSection(text, 'TITLE') || item.subtopic;
-          const badge = extractOverviewSection(text, 'BADGE') || 'LABOR LAW';
-          const legalBasis = extractOverviewSection(text, 'LEGAL_BASIS') || 'Labor Code of the Philippines';
-          const facts = extractOverviewSection(text, 'FACTS') || 'Overview of statutory coverage and rules.';
-          const turning = extractOverviewSection(text, 'TURNING_POINT') || 'Core operational dispute.';
-          const issue = extractOverviewSection(text, 'ISSUE') || 'Core legal issue.';
-          const rationale = extractOverviewSection(text, 'RATIONALE') || 'Supreme Court reasoning.';
-          const doctrine = extractOverviewSection(text, 'DOCTRINE') || 'Controlling legal principle.';
-          const takeaway = extractOverviewSection(text, 'TAKEAWAY') || 'Key memory aid.';
-
-          canvas.innerHTML = `
-            <div class="info-header">
-              <div><h1 class="info-title">${title}</h1></div>
-              <div class="info-badge-stamp">
-                <span class="tag">${badge}</span>
-                <span class="sub-tag">${legalBasis}</span>
-              </div>
-            </div>
-            <div class="info-grid">
-              <div class="info-card card-facts"><div class="info-card-title">📅 FACTS / SCOPE</div><p>${facts}</p></div>
-              <div class="info-card card-rationale"><div class="info-card-title">⚖ RATIONALE</div><p>${rationale}</p></div>
-            </div>
-            <div class="info-grid">
-              <div class="info-card card-turning"><div class="info-card-title">⚡ TURNING POINT</div><p>${turning}</p></div>
-              <div class="info-card card-doctrine"><div class="info-card-title">🛡 DOCTRINE</div><p>${doctrine}</p></div>
-            </div>
-            <div class="info-grid">
-              <div class="info-card card-issue"><div class="info-card-title">❓ CORE ISSUE</div><p><strong>${issue}</strong></p></div>
-              <div class="info-card card-quote"><div class="info-card-title">💡 KEY TAKEAWAY</div><p style="font-weight: 700;">${takeaway}</p></div>
-            </div>
-          `;
-        } catch (err) {
-          canvas.innerHTML = `<div style="padding: 20px; color: #ef4444; font-size: 0.8rem;">Could not load overview: <code>${item.overviewFile}</code><br><span style="color:#64748b;">${err.message}</span></div>`;
-        }
-      }
-    }
-
     async function renderRightDigest() {
       const canvas = document.getElementById('digestCanvas');
       if (syllabusData.length === 0) return;
@@ -643,7 +655,6 @@
         canvas.innerHTML = '<div style="padding: 20px; text-align: center; color: #64748b;">Loading case brief from file...</div>';
         try {
           const text = await fetchTextFile(item.digestFile);
-          
           const parsed = parseDigestTextFile(text, item.title);
 
           canvas.innerHTML = `
