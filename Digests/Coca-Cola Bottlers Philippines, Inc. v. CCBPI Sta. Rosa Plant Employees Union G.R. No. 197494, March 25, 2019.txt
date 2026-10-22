@@ -1,0 +1,22 @@
+Coca-Cola Bottlers Philippines, Inc. v. CCBPI Sta. Rosa Plant Employees Union G.R.No. 197494, March 25, 2019 
+
+Facts
+Under the CBA between CCBPI and the Union, employees were allowed to avail of personal loans, with loan repayments amortized via payroll deductions. In 2010, CCBPI issued a Memorandum Policy limiting loan availments: it prohibited employees from acquiring further company or cooperative loans if their net take-home pay after all deductions would fall below 50% of their monthly basic wage. The Union filed a grievance, arguing that the 50% net pay floor curtailed their right to borrow, diminished a long-standing company practice, and violated the CBA and the principle of free disposal of wages. The Voluntary Arbitrator declared the policy void, and the CA sustained that ruling.
+Issue
+Whether an employer's company policy imposing a 50% net take-home pay floor on loan check-offs violates the principle of free disposal of wages or the rule on non-diminution of benefits.
+Held
+The policy is a VALID exercise of management prerogative designed to safeguard employee welfare and comply with statutory policies on wages. 
+
+Verbatim Legal Basis: 
+
+Article 112, Labor Code of the Philippines: 
+
+"Art. 112. Non-interference in disposal of wages. — No employer shall limit or otherwise interfere with the freedom of any employee to dispose of his wages. He shall not in any manner force, compel, or oblige his employees to purchase merchandise or commodities from any other person, or to make use of any store or services of such employer or any other person."
+Ratio
+1. Management Prerogative and Subsistence Protection: The right to establish rules and policies regarding the facilitation of voluntary loan deductions is part of management prerogative. Requiring a 50% net take-home pay floor does not dictate how the worker spends his salary; rather, it ensures that the worker actually receives take-home cash to sustain himself and his family, preventing destructive cycles of debt.
+
+
+2. Non-Diminution Inapplicable: The loan facility itself was not removed; only a prudential threshold was imposed to regulate voluntary salary check-offs. Check-off is not an absolute right of the employee, but a processing convenience. Since the employer is prohibited under Article 113 from making unauthorized deductions, regulating voluntary check-off thresholds to preserve take-home pay is fully compliant with labor policy.
+Fallo
+WHEREFORE, the petition is GRANTED. The March 17, 2011 Decision and June 27, 2011 Resolution of the Court of Appeals in CA-G.R. SP No. 115206 are REVERSED and SET ASIDE. The 50% net take-home pay policy of petitioner Coca-Cola Bottlers Philippines, Inc. is declared VALID and LAWFUL.
+SO ORDERED.
