@@ -1,0 +1,25 @@
+Manggagawa sa Komunikasyon ng Pilipinas v. Philippine Long Distance Telephone Company, Inc.G.R. Nos. 244695, 244752 & 245294, February 14, 2024   
+Facts
+The DOLE Secretary conducted special labor inspections of PLDT and its numerous service contractors under Article 128 of the Labor Code. The Secretary issued a comprehensive Compliance Order finding that several contracting agencies were engaged in prohibited "labor-only contracting" under Article 106, as they performed core telecommunications functions (such as cable installation, splicing, and technical repair) without substantial capital or equipment, and under PLDT's direct supervision. The DOLE Secretary declared thousands of contractor personnel to be regular employees of PLDT and held PLDT solidarily liable with the contractors for unpaid statutory wage differentials and benefits. PLDT elevated the case to the Court of Appeals via Rule 65, and the CA partially set aside the order, distinguishing between core technical services (labor-only contracting) and auxiliary non-core services (valid job contracting). Both the Union and PLDT appealed to the Supreme Court.
+Issue
+Whether the Secretary of Labor has the authority under the visitorial and enforcement powers of Article 128(b) to declare the existence of an employer-employee relationship and order the regularization of contracted workers.
+Held
+The Secretary of Labor has the authority under Article 128(b) to make a determination of the existence of an employer-employee relationship for the purpose of enforcing labor standards, including the prohibition against labor-only contracting. 
+
+Verbatim Legal Basis: 
+
+Article 128(b), Labor Code of the Philippines: 
+
+"Art. 128. Visitorial and enforcement power. — ... (b) Notwithstanding the provisions of Articles 129 and 217 of this Code to the contrary, and in cases where the relationship of employer-employee still exists, the Secretary of Labor and Employment or his duly authorized representatives shall have the power to issue compliance orders to give effect to the labor standards provisions of this Code and other labor legislation based on the findings of labor employment and enforcement officers or industrial safety engineers made in the course of inspection." 
+
+Article 106, Labor Code of the Philippines: 
+
+"Art. 106. Contractor or subcontractor. — ... There is 'labor-only contracting' where the person supplying workers to an employer does not have substantial capital or investment in the form of tools, equipment, machineries, work premises, among others, and the workers recruited and placed by such person are performing activities which are directly related to the principal business of such employer. In such cases, the person or intermediary shall be considered merely as an agent of the employer who shall be responsible to the workers in the same manner and extent as if the latter were directly employed by him." 
+
+Ratio
+1. Visitorial Determination of Employment Relations (People's Broadcasting doctrine applied): The DOLE Secretary’s visitorial and enforcement power under Article 128(b) necessarily includes the power to make findings on whether an employer-employee relationship exists. When labor inspectors discover illicit labor-only contracting arrangements on-site, the Secretary is not stripped of jurisdiction merely because the principal employer denies the employment relationship; to hold otherwise would enable any employer to defeat DOLE inspection powers by simple denial.
+
+
+2. Standards for Contracting Out: The determination of whether contracting is legitimate or prohibited labor-only contracting depends on: (a) whether the contractor possesses substantial capital or investment; and (b) whether the workers perform activities directly related to the principal business of the employer under the latter's right of control. Those performing core installations and maintenance are deemed regular employees of the principal, whereas those performing distinct specialized auxiliary tasks (e.g., security, messengerial, janitorial) remain employees of independent contractors.
+Fallo
+WHEREFORE, the Petitions for Review on Certiorari are PARTIALLY GRANTED. The Decision and Resolution of the Court of Appeals are AFFIRMED with MODIFICATION. The Compliance Order of the Secretary of Labor and Employment is reinstated insofar as it declared the workers performing core installation, repair, and maintenance functions as regular employees of PLDT, with PLDT being held solidarily liable with the respective contractors for all accrued labor standard monetary awards.
