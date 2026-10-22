@@ -3,338 +3,91 @@
     "id": "slu-subtopic-a",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "a. Coverage and Exemptions",
-    "overview": {
-      "badge": "COVERAGE & EXEMPTIONS",
-      "title": "A. COVERAGE AND EXEMPTIONS",
-      "legalBasis": "Article 82, Labor Code of the Philippines",
-      "factsSummary": "Applies to employees in all establishments and undertakings whether for profit or not, but explicitly excludes certain classes of workers from Title I, Book III.",
-      "turningPoint": "Determining whether an individual qualifies as a managerial employee, field personnel, family member, or domestic helper.",
-      "issueQuestion": "Who are excluded from the coverage of Book III, Title I (Working Conditions and Rest Periods)?",
-      "rationale": "The law recognizes that due to the nature of their functions, managerial prerogatives, or unsupervised working time, certain employees cannot be strictly subjected to uniform hours of work regulations.",
-      "doctrine": "Excluded: (1) Government employees, (2) Managerial employees/staff, (3) Field personnel, (4) Employer's family members dependent on him for support, (5) Domestic helpers/persons in personal service, and (6) Workers paid by results as determined by DOLE.",
-      "takeawayQuote": "Book III coverage is general; exclusions are specific under Art. 82."
-    },
-    "caseDigest": {
-      "title": "Topic Overview: Coverage and Exemptions",
-      "citation": "Article 82, Labor Code of the Philippines",
-      "facts": "Overview of statutory scope under the Labor Code covering general employment and specific exclusions.",
-      "issue": "Are managerial staff and field personnel entitled to statutory overtime and holiday pay under Book III?",
-      "provisions": "Article 82, Labor Code of the Philippines.",
-      "verbatimRuling": "\"The provisions of this Title shall apply to employees in all establishments and undertakings whether for profit or not, but not to government employees, managerial employees, field personnel, members of the family of the employer who are dependent on him for support, domestic helpers, persons in the personal service of another, and workers who are paid by results.\"",
-      "ratioDecidendi": "Under Article 82, excluded categories do not enjoy rights under Articles 83 through 96 (hours of work, overtime, rest day, holiday pay, and service incentive leaves).",
-      "fallo": "STATUTORY MANDATE UNDER BOOK III, TITLE I."
-    }
+    "overviewFile": "overviews/a-coverage.txt",
+    "digestFile": "digests/rodriguez-v-park-n-ride.txt"
   },
   {
     "id": "slu-subtopic-b",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "b. Normal Hours of Work",
-    "overview": {
-      "badge": "HOURS OF WORK / FLEXIBLE ARRANGEMENTS",
-      "title": "B. NORMAL HOURS OF WORK",
-      "legalBasis": "Art. 83-84 LC; RA 11165; DA No. 2 (2004), DA No. 2 (2009), DA No. 9 (2020)",
-      "factsSummary": "Normal hours shall not exceed 8 hours a day. Governs regular 8-hour days, Telecommuting under RA 11165, and Flexible/Hybrid work arrangements.",
-      "turningPoint": "Application of Compressed Work Week (CWW) and Telecommuting without diminishing employee benefits.",
-      "issueQuestion": "Can normal daily hours exceed 8 hours without payment of overtime pay under valid flexible work schemes?",
-      "rationale": "Under DOLE Department Advisories on Compressed Work Week, employees may work beyond 8 hours a day without overtime pay provided total weekly hours do not exceed 48 hours and work is voluntarily agreed upon without pay reduction.",
-      "doctrine": "Hours worked includes: (a) all time an employee is required to be on duty or at prescribed workplace; (b) all time during which an employee is suffered or permitted to work. Short rest periods (5-20 min) count as hours worked.",
-      "takeawayQuote": "Normal hours = max 8 hours/day. Compressed workweek requires voluntary agreement without wage diminution."
-    },
-    "caseDigest": {
-      "title": "Topic Overview: Normal Hours of Work & Telecommuting",
-      "citation": "Art. 83-84 LC; RA 11165; DOLE D.A. Nos. 2 (2004), 2 (2009), 9 (2020)",
-      "facts": "Framework covering regular work periods, compressed workweeks, telecommuting, and suspension during calamities.",
-      "issue": "Does work performed remotely under RA 11165 entitle telecommuting employees to the exact same statutory labor standards as on-site workers?",
-      "provisions": "Republic Act No. 11165 (Telecommuting Act); Articles 83 and 84, Labor Code.",
-      "verbatimRuling": "\"All telecommuting employees shall be given the same treatment as those of comparable employees working at the employer's premises... including overtime, night shift differential, and other monetary benefits.\"",
-      "ratioDecidendi": "Telecommuting is voluntary and mutually agreed upon, ensuring equal treatment with on-site staff in terms of pay, rest days, leaves, and collective bargaining rights.",
-      "fallo": "STATUTORY MANDATE UNDER RA 11165 AND LABOR CODE."
-    }
+    "overviewFile": "overviews/b-hours.txt",
+    "digestFile": "digests/royal-plant-v-coca-cola.txt"
   },
   {
     "id": "slu-subtopic-c",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "c. Meal Periods",
-    "overview": {
-      "badge": "MEAL PERIODS",
-      "title": "C. MEAL PERIODS",
-      "legalBasis": "Article 85, Labor Code of the Philippines",
-      "factsSummary": "Mandates that employers shall give their employees not less than sixty (60) minutes time-off for their regular meals.",
-      "turningPoint": "Whether a meal break shorter than 60 minutes or subject to on-call duty must be compensated.",
-      "issueQuestion": "When must a meal period be considered compensable hours worked?",
-      "rationale": "A 60-minute meal break is non-compensable if the employee is completely freed from work. If shortened to not less than 20 minutes under specific emergency or operational conditions, or if the employee remains on-call, it is compensable.",
-      "doctrine": "Meal periods of 60 minutes are non-compensable if the employee is free to leave work. If shortened under DOLE regulations or if duties continue during the break, the period is considered compensable working time.",
-      "takeawayQuote": "60 mins free meal break = not compensable. Shortened (<60 min) or on-call break = compensable."
-    },
-    "caseDigest": {
-      "title": "Topic Overview: Meal Periods",
-      "citation": "Article 85, Labor Code; Section 7, Rule I, Book III, Omnibus Rules",
-      "facts": "Statutory requirements governing employee meal periods and criteria for compensability.",
-      "issue": "Is a 30-minute meal break given during continuous shift operations compensable as hours worked?",
-      "provisions": "Article 85, Labor Code of the Philippines.",
-      "verbatimRuling": "\"It shall be the duty of every employer to give his employees not less than sixty (60) minutes time-off for their regular meals.\"",
-      "ratioDecidendi": "Meal breaks shorter than one hour (down to 20 minutes) may only be allowed in cases of non-perishable work, urgent repairs, or unavoidable circumstances, and such shortened meal periods are compensable hours worked.",
-      "fallo": "STATUTORY MANDATE UNDER ARTICLE 85."
-    }
+    "overviewFile": "overviews/c-meals.txt",
+    "digestFile": "digests/teologo-v-people.txt"
   },
   {
     "id": "slu-subtopic-d",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "d. Night Shift Differential",
-    "overview": {
-      "badge": "NIGHT SHIFT DIFFERENTIAL",
-      "title": "D. NIGHT SHIFT DIFFERENTIAL",
-      "legalBasis": "Article 86, Labor Code of the Philippines",
-      "factsSummary": "Every employee shall be paid a night shift differential of not less than ten percent (10%) of his regular wage for each hour of work performed between ten o'clock in the evening and six o'clock in the morning.",
-      "turningPoint": "Determining exact hours falling within 10:00 PM to 6:00 AM window for premium calculation.",
-      "issueQuestion": "How is night shift differential computed when work performed during the night period is also overtime work?",
-      "rationale": "The night differential rate applies to the basic rate or overtime rate depending on whether the work performed between 10 PM and 6 AM is part of regular hours or overtime hours.",
-      "doctrine": "Night shift differential = Regular hourly rate + (10% of regular hourly rate) for work performed between 10:00 PM and 6:00 AM. Overtime at night incorporates both rates cumulatively.",
-      "takeawayQuote": "Night Shift: 10:00 PM to 6:00 AM = +10% premium on regular wage."
-    },
-    "caseDigest": {
-      "title": "Topic Overview: Night Shift Differential",
-      "citation": "Article 86, Labor Code of the Philippines",
-      "facts": "Principles governing remuneration for work rendered during graveyard shifts.",
-      "issue": "Can an employee waive their statutory right to night shift differential in an employment contract?",
-      "provisions": "Article 86, Labor Code of the Philippines.",
-      "verbatimRuling": "\"Every employee shall be paid a night shift differential of not less than ten percent (10%) of his regular wage for each hour of work performed between ten o'clock in the evening and six o'clock in the morning.\"",
-      "ratioDecidendi": "Statutory labor standards benefits such as night shift differential are mandated by public policy and cannot be waived or bargained away by private stipulation.",
-      "fallo": "STATUTORY MANDATE UNDER ARTICLE 86."
-    }
+    "overviewFile": "overviews/d-night.txt",
+    "digestFile": "digests/teologo-v-people.txt"
   },
   {
     "id": "slu-subtopic-e",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "e. Overtime Work",
-    "overview": {
-      "badge": "OVERTIME WORK",
-      "title": "E. OVERTIME WORK",
-      "legalBasis": "Articles 87, 88, 89, Labor Code of the Philippines",
-      "factsSummary": "Work performed beyond eight (8) hours a day. Requires an additional compensation equivalent to his regular wage plus at least twenty-five percent (25%) thereof on regular days, or thirty percent (30%) on holidays/rest days.",
-      "turningPoint": "Distinguishing emergency compulsory overtime (Art. 89) from voluntary overtime, and applying premium rates.",
-      "issueQuestion": "When can an employer compel an employee to perform emergency overtime work?",
-      "rationale": "Emergency overtime is mandatory only under specified conditions: country at war, disasters/calamities, urgent machine repairs, prevention of serious loss/damage to perishable goods, or prevention of serious disruption of business.",
-      "doctrine": "Overtime work requires: regular day = hourly rate + 25%; holiday/rest day = hourly rate + 30%. Undertime cannot be offset by overtime on another day (Art. 88).",
-      "takeawayQuote": "Overtime: +25% regular day; +30% holiday/rest day. Offset by undertime is prohibited."
-    },
-    "caseDigest": {
-      "title": "Topic Overview: Overtime Work",
-      "citation": "Articles 87-89, Labor Code of the Philippines",
-      "facts": "Review of principles governing regular overtime, emergency overtime, and premium rates.",
-      "issue": "Does an employer's requirement to perform unauthorized overtime justify non-payment if the work was permitted and beneficial to the employer?",
-      "provisions": "Articles 87 and 89, Labor Code of the Philippines.",
-      "verbatimRuling": "\"Work may be performed beyond eight (8) hours a day provided that the employee is paid for the overtime work, an additional compensation equivalent to his regular wage plus at least twenty-five percent (25%) thereof.\"",
-      "ratioDecidendi": "When an employee is suffered or permitted to work beyond 8 hours with the employer's knowledge, compensation for overtime is mandatory by law.",
-      "fallo": "STATUTORY MANDATE UNDER ARTICLE 87."
-    }
+    "overviewFile": "overviews/e-overtime.txt",
+    "digestFile": "digests/teologo-v-people.txt"
   },
   {
     "id": "slu-subtopic-f",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "f. Undertime not offset by overtime",
-    "overview": {
-      "badge": "UNDERTIME VS OVERTIME",
-      "title": "F. UNDERTIME NOT OFFSET BY OVERTIME",
-      "legalBasis": "Article 88, Labor Code of the Philippines",
-      "factsSummary": "Undertime work on any particular day shall not be offset by overtime work on any other day.",
-      "turningPoint": "Employer requiring employee to leave early on one day to balance or cancel out overtime rendered on another day.",
-      "issueQuestion": "May an employer offset an employee's undertime on Tuesday against overtime rendered on Wednesday?",
-      "rationale": "The employee's hourly rate for overtime incorporates a statutory premium (25% or 30%). Offsetting undertime (deducted at 100% basic rate) with overtime deprives the employee of the statutory overtime premium.",
-      "doctrine": "Permission given to the employee to go on leave on some other day of the week shall not exempt the employer from paying the additional compensation for overtime required by law.",
-      "takeawayQuote": "Offsetting undertime with overtime is strictly prohibited by Article 88."
-    },
-    "caseDigest": {
-      "title": "Topic Overview: Prohibition Against Offsetting Undertime",
-      "citation": "Article 88, Labor Code of the Philippines",
-      "facts": "Statutory rule barring the practice of offsetting undertime on one day against overtime worked on another day.",
-      "issue": "Does allowing an employee to arrive late or leave early on a workday relieve the employer from paying overtime pay earned on a previous day?",
-      "provisions": "Article 88, Labor Code of the Philippines.",
-      "verbatimRuling": "\"Undertime work on any particular day shall not be offset by overtime work on any other day. Permission given to the employee to go on leave on some other day of the week shall not exempt the employer from paying the additional compensation required of this Chapter.\"",
-      "ratioDecidendi": "The prohibition prevents employers from circumventing the overtime premium rate, as basic rate hours cannot balance out premium rate hours.",
-      "fallo": "STATUTORY MANDATE UNDER ARTICLE 88."
-    }
+    "overviewFile": "overviews/f-undertime.txt",
+    "digestFile": "digests/teologo-v-people.txt"
   },
   {
     "id": "slu-subtopic-g",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "g. Weekly Rest periods",
-    "overview": {
-      "badge": "WEEKLY REST PERIODS",
-      "title": "G. WEEKLY REST PERIODS",
-      "legalBasis": "Articles 91, 92, 93, Labor Code of the Philippines",
-      "factsSummary": "It shall be the duty of every employer to provide each of his employees a rest period of not less than twenty-four (24) consecutive hours after every six (6) consecutive normal work days.",
-      "turningPoint": "Respecting employee's religious preference for rest day schedule under Article 91(b).",
-      "issueQuestion": "When may an employer require employees to work on their scheduled rest day?",
-      "rationale": "Compulsory rest day work is permitted only in emergencies, urgent work, operational loss prevention, or public utility needs under Art. 92, subject to 30% premium pay.",
-      "doctrine": "Rest day must be at least 24 consecutive hours after 6 consecutive days. Work on rest day requires +30% premium. If rest day falls on a special day, premium is +50%.",
-      "takeawayQuote": "Min. 24 consecutive hours of rest after 6 days. Rest day work = +30% premium."
-    },
-    "caseDigest": {
-      "title": "Topic Overview: Weekly Rest Periods",
-      "citation": "Articles 91-93, Labor Code of the Philippines",
-      "facts": "Statutory principles governing weekly rest scheduling, religious preference, and compensation for rest day work.",
-      "issue": "Is an employer bound to respect an employee's choice of rest day based on religion?",
-      "provisions": "Articles 91 and 92, Labor Code of the Philippines.",
-      "verbatimRuling": "\"The employer shall determine and schedule the weekly rest day of his employees... However, the employer shall respect the preference of employees as to their weekly rest day when such preference is based on religious grounds.\"",
-      "ratioDecidendi": "Employee religious preference is respected unless the employer proves that accommodating the preference would cause serious prejudice to operations.",
-      "fallo": "STATUTORY MANDATE UNDER ARTICLE 91."
-    }
+    "overviewFile": "overviews/g-rest.txt",
+    "digestFile": "digests/teologo-v-people.txt"
   },
   {
     "id": "slu-subtopic-h",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "h. Holiday Pay",
-    "overview": {
-      "badge": "HOLIDAY PAY",
-      "title": "H. HOLIDAY PAY",
-      "legalBasis": "Article 94, Labor Code of the Philippines",
-      "factsSummary": "Every worker shall be paid his regular daily wage during regular holidays, except in retail and service establishments regularly employing less than ten (10) workers.",
-      "turningPoint": "Distinguishing Regular Holidays (100% unworked / 200% worked) from Special Non-Working Days (no work, no pay / 130% worked).",
-      "issueQuestion": "What is the compensation of an employee who works on a regular holiday that falls on their scheduled rest day?",
-      "rationale": "An employee working on a regular holiday that is also their rest day receives 200% plus 30% of the 200% rate, totaling 260% of their regular daily wage.",
-      "doctrine": "Regular holiday unworked = 100% (provided present or on authorized leave on preceding day); Regular holiday worked = 200%. Faculty in private schools: paid during semestral breaks if contractually established.",
-      "takeawayQuote": "Regular holiday: unworked = 100%; worked = 200%. Rest day + holiday = 260%."
-    },
-    "caseDigest": {
-      "title": "Topic Overview: Holiday Pay",
-      "citation": "Article 94, Labor Code of the Philippines",
-      "facts": "Review of regular holidays, special days, and compensation calculations.",
-      "issue": "Is an employee entitled to regular holiday pay if absent without leave on the day immediately preceding the holiday?",
-      "provisions": "Article 94, Labor Code; Section 6, Rule IV, Book III, Omnibus Rules.",
-      "verbatimRuling": "\"Employees who are on leave of absence without pay on the day immediately preceding a regular holiday may not be paid the required holiday pay if he has not worked on such regular holiday.\"",
-      "ratioDecidendi": "To be entitled to holiday pay when not working, the employee must be present or on leave of absence with pay on the workday immediately preceding the holiday.",
-      "fallo": "STATUTORY MANDATE UNDER ARTICLE 94."
-    }
+    "overviewFile": "overviews/h-holiday.txt",
+    "digestFile": "digests/dela-rosa-liner-v-borela.txt"
   },
   {
     "id": "slu-subtopic-i",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "i. Service Incentive Leave",
-    "overview": {
-      "badge": "SPECIAL LEAVES & SIL",
-      "title": "I. SERVICE INCENTIVE LEAVE & SPECIAL LEAVES",
-      "legalBasis": "Art. 95 LC; RA 11210; RA 8187; RA 8972 (RA 11861); RA 9262; RA 9710",
-      "factsSummary": "Mandates 5 days Service Incentive Leave (SIL) with pay for employees rendering at least 1 year of service, along with special statutory leaves under specialized welfare laws.",
-      "turningPoint": "Determining cumulative service for SIL and qualifications for Expanded Maternity, Paternity, Solo Parent, VAWC, and Gynecological leaves.",
-      "issueQuestion": "Is unused Service Incentive Leave commutable to cash, and when does the prescriptive period to claim cash conversion begin?",
-      "rationale": "SIL is commutable to its cash equivalent if unused at the end of the year. The 3-year prescriptive period to claim cash conversion begins from the time of separation from employment, not each year end.",
-      "doctrine": "Leaves: SIL = 5 days; Expanded Maternity (RA 11210) = 105 days paid; Paternity (RA 8187) = 7 days paid; Solo Parents (RA 11861) = 7 days paid; VAWC (RA 9262) = 10 days paid; Special Leave for Women (RA 9710) = 2 months full pay for gynecological surgery.",
-      "takeawayQuote": "SIL = 5 days commutable to cash. Special leaves: Maternity (105d), Paternity (7d), Solo Parent (7d), VAWC (10d), Magna Carta (2 mos)."
-    },
-    "caseDigest": {
-      "title": "Topic Overview: Service Incentive Leave and Statutory Leaves",
-      "citation": "Art. 95 LC; RA 11210; RA 8187; RA 11861; RA 9262; RA 9710",
-      "facts": "Statutory leave rights under the Labor Code and special welfare legislation.",
-      "issue": "When does the three-year prescriptive period for claiming the cash conversion of accrued SIL commence?",
-      "provisions": "Article 95 in relation to Article 306 [291], Labor Code of the Philippines.",
-      "verbatimRuling": "\"The prescriptive period of three (3) years under Article 291 commences to run only upon the employer's refusal to pay its monetary equivalent, which typically happens upon separation from employment.\"",
-      "ratioDecidendi": "Because SIL is commutable to cash and continues to accumulate if not converted annually, the cause of action for its cash value accrues upon termination of the employment relationship.",
-      "fallo": "STATUTORY MANDATE UNDER ARTICLE 95."
-    }
+    "overviewFile": "overviews/i-sil.txt",
+    "digestFile": "digests/rodriguez-v-park-n-ride.txt"
   },
   {
     "id": "teologo-v-people",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
-    "overview": {
-      "badge": "SERVICE CHARGES / 100% DISTRIBUTION",
-      "title": "J. SERVICE CHARGES (RA 11360 & DO 242-24)",
-      "legalBasis": "Article 96 Labor Code; RA No. 11360; DOLE D.O. No. 242-24",
-      "factsSummary": "Under RA 11360 and DO 242-24, all service charges collected by hotels, restaurants, and similar establishments shall be distributed completely and equally (100%) among covered employees.",
-      "turningPoint": "The total abolition of the old 85%-15% sharing scheme in favor of 100% equal distribution to all covered rank-and-file and supervisory workers.",
-      "issueQuestion": "Are managerial employees entitled to a share in collected service charges under RA 11360 and DO 242-24?",
-      "rationale": "No. Under the express wording of Article 96 as amended by RA 11360 and D.O. No. 242-24, service charges are distributed equally among all covered employees except managerial employees.",
-      "doctrine": "100% of collected service charges must be distributed equally among non-managerial employees twice a month. Withholding or pocketing these funds by managers constitutes Qualified Theft.",
-      "takeawayQuote": "Service charges: 100% distributed equally to all non-managerial staff. No management retention."
-    },
-    "caseDigest": {
-      "title": "Teologo and delos Santos v. People of the Philippines",
-      "citation": "G.R. No. 238383, April 02, 2025 • Second Division • Kho, Jr., J.",
-      "facts": "Janice Teologo and Jennifer Delos Santos were branch managers of a pizza store. The franchise owner regularly issued checks representing statutory service charges for encashment and distribution to rank-and-file employees. Teologo and Delos Santos made employees sign payroll sheets acknowledging receipt, but withheld the cash and diverted the funds. When an internal audit commenced, they claimed the funds were kept as 'forced savings.'",
-      "issue": "Are branch managers guilty of Qualified Theft under Article 310 of the Revised Penal Code for withholding and misappropriating statutory service charges due to rank-and-file employees?",
-      "provisions": "Article 96 of the Labor Code of the Philippines (as amended by R.A. No. 11360); Article 308 and Article 310 of the Revised Penal Code.",
-      "verbatimRuling": "\"The elements of Qualified Theft are: (a) taking of personal property; (b) that the said property belongs to another; (c) that the said taking be done with intent to gain; (d) that it be done without the owner's consent; (e) that it be accomplished without the use of violence or intimidation against persons, nor of force upon things; and (f) that it be done with grave abuse of confidence. All elements are attendant here.\"",
-      "ratioDecidendi": "Service charges collected by establishments belong to the employees pursuant to Article 96 of the Labor Code. When managerial personnel entrusted with the encashment and distribution of these funds pocket them, the crime committed is Qualified Theft because their managerial position involves high trust and confidence which was gravely abused to convert the funds.",
-      "fallo": "WHEREFORE, the petition is DENIED. The Decision of the Court of Appeals convicting petitioners of Qualified Theft under Article 310 in relation to Article 308 of the Revised Penal Code is AFFIRMED with MODIFICATIONS as to the penalty."
-    }
+    "overviewFile": "overviews/j-service-charges.txt",
+    "digestFile": "digests/teologo-v-people.txt"
   },
   {
     "id": "royal-plant-v-coca-cola",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
-    "overview": {
-      "badge": "MANAGEMENT PREROGATIVE / HEALTH",
-      "title": "ROYAL PLANT WORKERS v. COCA-COLA",
-      "legalBasis": "Article 83 & Management Prerogative, Labor Code",
-      "factsSummary": "Coca-Cola removed bottling operators from their seats and required them to rotate on chairs, citing occupational ergonomics and spinal health studies.",
-      "turningPoint": "The union claimed that removing dedicated chairs was a diminution of benefits under Article 100.",
-      "issueQuestion": "Does the removal of chairs in production line work constitute an unlawful diminution of benefits or a valid exercise of management prerogative?",
-      "rationale": "Management has the prerogative to regulate work conditions, safety, and operational ergonomics. The chairs were operational arrangements, not monetary compensation or ripened benefits.",
-      "doctrine": "An operational accommodation or ergonomic work setup implemented to protect employee health is a valid exercise of management prerogative and not a protected benefit under Article 100.",
-      "takeawayQuote": "Operational adjustments for occupational safety are valid management prerogatives, not protected benefits."
-    },
-    "caseDigest": {
-      "title": "Royal Plant Workers Union v. Coca-Cola Bottlers Phil. Inc.-Cebu Plant",
-      "citation": "G.R. No. 198783, April 15, 2013 • Mendoza, J.",
-      "facts": "Royal Plant Workers Union contested Coca-Cola's policy removing the dedicated chairs previously provided to operators on the bottling production line. Coca-Cola explained that based on ergonomic evaluations, continuous sitting while inspecting bottles induced spinal strain and reduced alertness, replacing dedicated seats with a rotational chair scheme. The Union filed a grievance claiming this violated the non-diminution rule under Article 100.",
-      "issue": "Does the employer's removal of chairs on the production line violate the principle of non-diminution of benefits under Article 100 of the Labor Code?",
-      "provisions": "Article 100 of the Labor Code of the Philippines; Occupational Safety and Health Standards.",
-      "verbatimRuling": "\"The Court agrees with the CA that the removal of the chairs was not a diminution of benefits. Rights under Article 100 refer to monetary benefits or privileges given to employees... The chairs were not benefits given to employees to augment their compensation, but were tools of convenience in the workplace which management could modify.\"",
-      "ratioDecidendi": "Article 100 covers ripened voluntary company practices regarding wages and monetary privileges. Working setups, safety measures, and physical implements in production are matters of managerial control and workplace ergonomics that the employer may reasonably adjust without committing prohibited diminution.",
-      "fallo": "WHEREFORE, the petition is DENIED. The Decision of the Court of Appeals is AFFIRMED. SO ORDERED."
-    }
+    "overviewFile": "overviews/j-service-charges.txt",
+    "digestFile": "digests/royal-plant-v-coca-cola.txt"
   },
   {
     "id": "rodriguez-v-park-n-ride",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
-    "overview": {
-      "badge": "FIELD PERSONNEL / EXCLUSION",
-      "title": "RODRIGUEZ v. PARK N RIDE INC.",
-      "legalBasis": "Article 82, Labor Code of the Philippines",
-      "factsSummary": "Rodriguez claimed unpaid overtime pay, holiday pay, and service incentive leave. The company asserted she was an exempt employee under Article 82.",
-      "turningPoint": "Analyzing whether Rodriguez's daily tasks were subject to actual supervision and monitoring of working time.",
-      "issueQuestion": "Is an employee whose time and performance are constantly monitored entitled to statutory labor standard benefits?",
-      "rationale": "To be excluded as field personnel under Article 82, the employee must perform duties away from the principal office and their actual hours cannot be determined with reasonable certainty.",
-      "doctrine": "Field personnel are only those non-agricultural employees who regularly perform their duties away from the principal place of business and whose actual hours of work in the field cannot be determined with reasonable certainty.",
-      "takeawayQuote": "Monitored employee = entitled to overtime, holiday, and SIL. True field personnel cannot be monitored."
-    },
-    "caseDigest": {
-      "title": "Rodriguez v. Park N Ride Inc.",
-      "citation": "G.R. No. 222980, March 20, 2017 • Leonen, J.",
-      "facts": "Rodriguez worked for Park N Ride Inc. and its affiliate companies. She filed a labor complaint seeking payment of overtime pay, holiday pay, and service incentive leave pay. The employer contended that Rodriguez was not entitled to these benefits because her tasks required her to move outside the main office, making her an exempt field personnel under Article 82.",
-      "issue": "Does an employee who occasionally performs tasks outside the principal office qualify as an exempt field personnel under Article 82 of the Labor Code?",
-      "provisions": "Articles 82, 87, 94, and 95 of the Labor Code of the Philippines.",
-      "verbatimRuling": "\"Field personnel are those who regularly perform their duties away from the principal place of business and whose actual hours of work in the field cannot be determined with reasonable certainty. An employee cannot be classified as field personnel simply because her work requires her to leave the office from time to time.\"",
-      "ratioDecidendi": "The determining factor for field personnel status is whether the employee's hours of work can be supervised and determined with reasonable certainty. Since Rodriguez was required to report to the terminal and her hours were monitored, she was not an exempt field personnel and was entitled to holiday pay and service incentive leave pay.",
-      "fallo": "WHEREFORE, the petition is PARTIALLY GRANTED. The Decision of the Court of Appeals is AFFIRMED with MODIFICATION awarding service incentive leave pay to petitioner."
-    }
+    "overviewFile": "overviews/j-service-charges.txt",
+    "digestFile": "digests/rodriguez-v-park-n-ride.txt"
   },
   {
     "id": "dela-rosa-liner-v-borela",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
-    "overview": {
-      "badge": "BUS DRIVERS & CONDUCTORS / WAGES",
-      "title": "DELA ROSA LINER v. BORELA",
-      "legalBasis": "Articles 82, 94, 95 LC; DOLE D.O. No. 118-12",
-      "factsSummary": "Bus driver Borela sought payment of holiday pay and service incentive leave. The bus company claimed transport workers paid on commission are excluded.",
-      "turningPoint": "Determining if commission-paid bus drivers are excluded from holiday pay and service incentive leave.",
-      "issueQuestion": "Are bus drivers and conductors paid purely on commission basis entitled to holiday pay and service incentive leave?",
-      "rationale": "Bus drivers are not field personnel because their routes and hours are regulated and subject to terminal tracking. Workers paid on commission are entitled to holiday pay and SIL unless expressly exempted.",
-      "doctrine": "Public utility bus drivers and conductors are not field personnel. They are entitled to statutory holiday pay and service incentive leave despite being paid on commission or piece-rate basis.",
-      "takeawayQuote": "Bus drivers/conductors are NOT field personnel. Commission payment does not forfeit holiday pay or SIL."
-    },
-    "caseDigest": {
-      "title": "Dela Rosa Liner, Inc. and Rosauro Dela Rosa v. Nelson Borela",
-      "citation": "G.R. No. 207286, July 29, 2015 • Brion, J.",
-      "facts": "Nelson Borela worked as a bus driver for Dela Rosa Liner, paid purely on a commission basis. Upon separation, Borela filed a complaint against Dela Rosa Liner claiming unpaid holiday pay and service incentive leave pay. Dela Rosa Liner argued that Borela was an exempt field personnel and that workers paid on commission are excluded from receiving holiday pay and SIL.",
-      "issue": "Are bus drivers paid on commission basis entitled to statutory holiday pay and service incentive leave pay?",
-      "provisions": "Articles 82, 94, and 95 of the Labor Code of the Philippines; Section 1, Rule IV, Book III of the Omnibus Rules Implementing the Labor Code.",
-      "verbatimRuling": "\"Bus drivers and conductors cannot be considered field personnel because their trips are timed and monitored at specific checkpoints and terminals. As they are not field personnel, they are entitled to holiday pay and service incentive leave, even if they are paid on a commission basis.\"",
-      "ratioDecidendi": "The exemption under Article 82 turns on the employer's inability to control and supervise the actual hours of work. Public utility bus crews operate along prescribed routes, run on timetables, and are checked by bus inspectors; hence, their working hours are ascertainable. Being non-exempt, their commission-based compensation does not deprive them of holiday pay and SIL.",
-      "fallo": "WHEREFORE, the petition is DENIED. The Decision and Resolution of the Court of Appeals are AFFIRMED. SO ORDERED."
-    }
+    "overviewFile": "overviews/j-service-charges.txt",
+    "digestFile": "digests/dela-rosa-liner-v-borela.txt"
   }
 ]
