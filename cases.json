@@ -109,7 +109,7 @@
     "subtopic": "a. Basic Principles",
     "title": "Felipe O. Cosue, Jr. v. Ferritz Integrated Development Corporation and Antonio Longa G.R. No. 230664, July 24, 2017",
     "overviewFile": "Overviews/a. Basic Principles.txt",
-    "digestFile": "Digests/Felipe O. Cosue, Jr. v. Ferritz Integrated Development Corporation and Antonio Longa G.R. No. 230664, July 24, 2017.txt"
+    "digestFile": "Digests/Cosue v. Ferritz Integrated Dev’t. Corp., G.R No. 230664, July 24, 2017.txt"
   },
   {
     "id": "wesleyan-university-v-faculty",
@@ -117,7 +117,7 @@
     "subtopic": "a. Basic Principles",
     "title": "Wesleyan University-Philippines v. Wesleyan University-Philippines Faculty and Staff Association (WUPFSA) G.R. No. 181806, March 12, 2014",
     "overviewFile": "Overviews/a. Basic Principles.txt",
-    "digestFile": "Digests/Wesleyan University-Philippines v. Wesleyan University-Philippines Faculty and Staff Association (WUPFSA) G.R. No. 181806, March 12, 2014.txt"
+    "digestFile": "Digests/Wesleyan University Phils v. Wesleyan University-Philippines Faculty and Staff Association, G.R. No. 181806, March 12, 2014.txt"
   },
   {
     "id": "isae-v-quisumbing",
@@ -125,7 +125,7 @@
     "subtopic": "a. Basic Principles",
     "title": "International School Alliance of Educators (ISAE) v. Hon. Leonardo A. Quisumbing, in his capacity as the Secretary of Labor and Employment; Norberto Quisumbing, Jr.; and International School, Inc. G.R. No. 128845, June 1, 2000",
     "overviewFile": "Overviews/a. Basic Principles.txt",
-    "digestFile": "Digests/International School Alliance of Educators (ISAE) v. Hon. Leonardo A. Quisumbing, in his capacity as the Secretary of Labor and Employment; Norberto Quisumbing, Jr.; and International School, Inc. G.R. No. 128845, June 1, 2000.txt"
+    "digestFile": "Digests/International School Alliance of Educators v. Quisumbing, G.R. No. 128845, June 1, 2000.txt"
   },
   {
     "id": "mariano-v-gv-florida",
@@ -141,7 +141,7 @@
     "subtopic": "a. Basic Principles",
     "title": "Philippine Airlines, Inc. v. Bernard Ahmee, et al. / Bernard Ahmee, et al. v. Philippine Airlines, Inc. G.R. Nos. 221065 & 221164, April 07, 2025",
     "overviewFile": "Overviews/a. Basic Principles.txt",
-    "digestFile": "Digests/Philippine Airlines, Inc. v. Bernard Ahmee, et al.  Bernard Ahmee, et al. v. Philippine Airlines, Inc. G.R. Nos. 221065 & 221164, April 07, 2025.txt"
+    "digestFile": "Digests/PAL v. Ahmee, et al., GR Nos. 221065 and 221164, 7 April 2025.txt"
   },
   {
     "id": "pnb-v-cruz",
@@ -231,7 +231,7 @@
     "overviewFile": "Overviews/d. Wage Studies, Wage Agreements, and Wage Determination.txt",
     "digestFile": "Digests/Manuel B. Pablico and Master’s Pab Resto Bar v. Numeriano B. Cerro, Jr., et al. G.R. No. 227200, June 10, 2019.txt"
   },
- {
+  {
     "id": "del-monte-v-armenta",
     "topic": "X. WAGES",
     "subtopic": "e. Visitorial, Enforcement, and Adjudicatory Power of the DOLE",
@@ -246,5 +246,53 @@
     "title": "Manggagawa sa Komunikasyon ng Pilipinas v. Philippine Long Distance Telephone Company, Inc. G.R. Nos. 244695, 244752 & 245294, February 14, 2024",
     "overviewFile": "Overviews/e. Visitorial, Enforcement, and Adjudicatory Power of the DOLE.txt",
     "digestFile": "Digests/Manggagawa sa Komunikasyon ng Pilipinas v. Philippine Long Distance Telephone Company, Inc. G.R. Nos. 244695, 244752 & 245294, February 14, 2024.txt"
+  },
+  {
+    "id": "benguet-v-sss",
+    "topic": "XI. SOCIAL SECURITY",
+    "subtopic": "a. The Social Security Act",
+    "title": "Benguet Consolidated, Inc. v. Social Security System G.R. No. L-19254, March 31, 1964 (10 SCRA 618)",
+    "overviewFile": "Overviews/a. The Social Security Act.txt",
+    "digestFile": "Digests/Benguet Consolidated, Inc. v. Social Security System G.R. No. L-19254, March 31, 1964.txt"
+  },
+  {
+    "id": "coca-cola-v-ccbpi-sss",
+    "topic": "XI. SOCIAL SECURITY",
+    "subtopic": "a. The Social Security Act",
+    "title": "Coca-Cola Bottlers Philippines v. CCBPI Sta. Rosa Plant Employees Union, G.R. No. 197494, 25 March 2019",
+    "overviewFile": "Overviews/a. The Social Security Act.txt",
+    "digestFile": "Digests/Coca-Cola Bottlers Philippines v. CCBPI Sta. Rosa Plant Employees Union, G.R. No. 197494, 25 March 2019.txt"
+  },
+  {
+    "id": "sss-v-simacas",
+    "topic": "XI. SOCIAL SECURITY",
+    "subtopic": "a. The Social Security Act",
+    "title": "Social Security System v. Violeta A. Simacas G.R. No. 217866, June 20, 2022",
+    "overviewFile": "Overviews/a. The Social Security Act.txt",
+    "digestFile": "Digests/Social Security System v. Violeta A. Simacas G.R. No. 217866, June 20, 2022.txt"
+  },
+  {
+    "id": "gsis-v-pauig",
+    "topic": "XI. SOCIAL SECURITY",
+    "subtopic": "b. The GSIS Act",
+    "title": "Government Service Insurance System v. Apolinario Pauig G.R. No. 210328, January 30, 2017",
+    "overviewFile": "Overviews/b. The GSIS Act.txt",
+    "digestFile": "Digests/Government Service Insurance System v. Apolinario Pauig G.R. No. 210328, January 30, 2017.txt"
+  },
+  {
+    "id": "aninon-v-gsis",
+    "topic": "XI. SOCIAL SECURITY",
+    "subtopic": "b. The GSIS Act",
+    "title": "Quirico Aniñon v. Government Service Insurance System G.R. No. 190410, April 10, 2019",
+    "overviewFile": "Overviews/b. The GSIS Act.txt",
+    "digestFile": "Digests/Quirico Aniñon v. Government Service Insurance System G.R. No. 190410, April 10, 2019.txt"
+  },
+  {
+    "id": "ismael-v-people",
+    "topic": "XI. SOCIAL SECURITY",
+    "subtopic": "b. The GSIS Act",
+    "title": "Radzpal A. Ismael and Nursi Ajijon v. People of the Philippines G.R. Nos. 234435-36, February 06, 2023",
+    "overviewFile": "Overviews/b. The GSIS Act.txt",
+    "digestFile": "Digests/Radzpal A. Ismael and Nursi Ajijon v. People of the Philippines G.R. Nos. 234435-36, February 06, 2023.txt"
   }
 ]
