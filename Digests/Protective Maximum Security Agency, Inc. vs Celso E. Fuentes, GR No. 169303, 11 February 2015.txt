@@ -1,0 +1,32 @@
+Component	Content
+Case Details	Protective Maximum Security Agency, Inc. v. Celso E. Fuentes
+
+G.R. No. 169303, February 11, 2015
+
+Second Division, Leonen, J.
+Facts	Celso E. Fuentes was employed as a security guard by Protective Maximum Security Agency, Inc. (PMSAI). In September 2000, PMSAI relieved him from his post at a client site following a client request for re-shuffling. Fuentes claimed that when he reported to the agency headquarters for reassignment, PMSAI refused to give him any assignment and told him that there were no available posts. After months of waiting without income, Fuentes filed a complaint for illegal dismissal. PMSAI asserted that it never dismissed Fuentes; rather, it issued a written assignment order directing him to report to a new client post, but Fuentes refused the post and simply stopped reporting, thereby abandoning his employment. The Labor Arbiter held that Fuentes was illegally dismissed. The NLRC modified the ruling, holding that Fuentes was placed on floating status and that there was no illegal dismissal, but ordered payment of separation pay. The Court of Appeals reinstated the Labor Arbiter's finding of illegal dismissal and awarded full backwages.
+Issues	1. Whether a security guard placed on floating status without a new assignment can be held guilty of abandonment of work.
+
+2. What is the proper computation of backwages when an illegally dismissed security guard is awarded relief.
+Held	1. The security guard did NOT abandon his employment and was ILLEGALLY DISMISSED; the agency failed to prove that it offered him an actual post or that he refused a valid reassignment.
+
+2. Backwages must be computed from the expiration of the lawful six-month floating status period up to the finality of the decision awarding separation pay.
+
+
+Verbatim Legal Basis:
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — ... An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
+
+
+Article 301 [formerly Article 286], Labor Code of the Philippines:
+
+"Art. 301. When employment not deemed terminated. — The bona-fide suspension of the operation of a business or undertaking for a period not exceeding six (6) months... shall not terminate employment."
+Ratio Decidendi	1. Standards of Abandonment for Security Guards: For a security agency to prove abandonment, it must establish that it directed the guard to report to a specific, existing post, and that the guard refused without valid justification. Pro-forma letters directing an employee to report without specifying an available posting do not establish abandonment. The prompt filing of an illegal dismissal complaint refutes any intention to sever employment.
+
+2. Computation of Backwages in Floating Status Dismissals: When a security guard is validly placed on off-detail or floating status, the employment relationship is temporarily suspended for a period not exceeding six (6) months under Article 301. Constructive dismissal occurs upon the expiration of the six-month period without reassignment. Consequently, backwages should be computed not from the first day of off-detail, but from the date constructive dismissal matured (i.e., after the lapse of the six-month period) until the finality of the judgment awarding separation pay in lieu of reinstatement.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is PARTIALLY GRANTED. The Decision of the Court of Appeals dated March 18, 2005 and its Resolution dated August 10, 2005 in CA-G.R. SP No. 79490 are AFFIRMED with MODIFICATION. Petitioner Protective Maximum Security Agency, Inc. is ordered to pay respondent Celso E. Fuentes: (a) separation pay in lieu of reinstatement equivalent to one (1) month salary for every year of service; and (b) full backwages computed from the expiration of his six-month floating status until the finality of this Decision, with legal interest of six percent (6%) per annum from finality until full payment.
+
+
+SO ORDERED.
