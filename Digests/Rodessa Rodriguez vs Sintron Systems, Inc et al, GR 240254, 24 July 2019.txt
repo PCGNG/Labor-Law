@@ -1,0 +1,32 @@
+Rodessa Quitevis Rodriguez v. Sintron Systems, Inc. and/or Joselito Capaque
+G.R. No. 240254, July 24, 2019
+Second Division, Caguioa, J.
+Facts
+Rodessa Quitevis Rodriguez was employed as a Sales Coordinator by Sintron Systems, Inc. (SSI). Following an internal evaluation and product training abroad, SSI required Rodriguez to sign a post-training employment bond. Believing the stipulations were unfair and oppressive, Rodriguez refused to sign. An altercation ensued with company president Joselito Capaque, during which harsh words were exchanged. Rodriguez walked out of the office and did not return. She filed a complaint for constructive illegal dismissal, claiming that Capaque verbally abused, humiliated, and constructively forced her out. SSI countered that Rodriguez was never dismissed; instead, she abandoned her post following an administrative disagreement, leaving pending transactions unresolved.
+Issues
+1. Whether petitioner Rodriguez was constructively dismissed or voluntarily abandoned her employment.
+
+2. Whether reinstatement or separation pay is proper where both dismissal and abandonment are disproved.
+Held
+1. There was NEITHER constructive illegal dismissal NOR abandonment of employment.
+
+2. Reinstatement without backwages is the proper relief; the doctrine of strained relations cannot be mechanically applied without concrete factual basis.
+
+
+Verbatim Legal Basis:
+
+Article 279 [now Article 294], Labor Code of the Philippines:
+
+"Art. 279. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
+Ratio Decidendi
+1. Failure to Prove Constructive Dismissal: Constructive dismissal requires clear evidence of unbearable conditions, discrimination, or offensive acts rendering continued employment impossible. An employer's heated words during an isolated dispute regarding training agreements do not constitute constructive dismissal.
+
+2. Failure to Prove Abandonment: Abandonment requires: (a) failure to report for work without valid reason; and (b) clear, unequivocal intent to sever the employer-employee relationship. The immediate filing of a complaint for illegal dismissal negates any intent to abandon employment.
+
+3. Effect When Neither Dismissal nor Abandonment Exists: Where neither dismissal nor abandonment is established, the remedy is reinstatement to the former position without backwages. The doctrine of strained relations must be applied with caution; mere litigation or standard workplace friction does not automatically justify the award of separation pay in lieu of reinstatement.
+Fallo
+WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision dated February 26, 2018 and Resolution dated June 20, 2018 of the Court of Appeals in CA-G.R. SP Nos. 145853 and 145922 are REVERSED and SET ASIDE. A new judgment is hereby rendered ORDERING respondent Sintron Systems, Inc. to REINSTATE petitioner Rodessa Quitevis Rodriguez to her former position without payment of backwages. If reinstatement is no longer feasible due to the passage of time, respondent is ordered to pay petitioner separation pay equivalent to one (1) month salary for every year of service.
+
+
+SO ORDERED.
+
