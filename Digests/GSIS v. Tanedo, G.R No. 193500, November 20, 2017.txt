@@ -1,0 +1,18 @@
+Government Service Insurance System v. Simeon Tañedo, Jr.G.R. No. 193500, November 20, 2017   
+Facts
+Simeon Tañedo, Jr. was employed as a records officer in the Bureau of Internal Revenue (BIR) from 1976 to 2007. His tasks involved encoding, printing reconciliation statements, filing documents, and walking to deliver official endorsements to various revenue divisions. In 2003, Tañedo was diagnosed with severe varicosities (varicose veins) in both lower extremities and underwent medical procedures. He filed a claim for temporary total disability benefits under P.D. No. 626 with the GSIS. The GSIS denied the claim because varicosities is not an occupational disease listed under Annex "A" of the Amended Rules on Employees' Compensation. On appeal, the ECC affirmed the denial. The CA reversed, ruling that Tañedo's clerical deliveries and prolonged walking/standing contributed to venous insufficiency.
+Issue
+Whether varicosities (varicose veins) contracted by a government records officer is compensable under P.D. No. 626.
+Held
+The condition is NOT compensable; respondent failed to present substantial evidence establishing that his clerical duties increased the risk of developing varicosities.
+
+Verbatim Legal Basis:
+
+Section 1(b), Rule III, Amended Rules on Employees' Compensation:
+
+"SECTION 1. Grounds. — ... (b) For the sickness and the resulting disability or death to be compensable, the sickness must be the result of an occupational disease listed under Annex 'A' of these Rules with the conditions set forth therein, otherwise, proof must be shown that the risk of contracting the disease is increased by the working conditions."
+
+Ratio
+1. Standards for Non-Listed Illnesses: When a disease is not included in the Table of Occupational Diseases under Annex "A", the claimant must adduce substantial evidence that the risk of contracting the illness was increased by actual working conditions. A mere possibility or bare allegation is insufficient to substantiate compensation.
+2. Etiology of Varicosities vs. Clerical Duties: Medical science establishes that primary varicose veins stem from hereditary venous wall weakness, valve incompetence, advanced age, and obesity. While occupations requiring prolonged static standing (such as traffic enforcers or security guards) may exacerbate venous stasis, Tañedo’s duties as a records officer were predominantly sedentary desk work interspersed with ordinary office walking, which aids venous pump action rather than causing venous valve destruction.
+Fallo	WHEREFORE, the Decision dated April 15, 2010 and the Resolution dated August 18, 2010 of the Court of Appeals in CA-G.R. SP No. 102493 are hereby REVERSED and SET ASIDE. The Decision dated December 17, 2007 of the Employees' Compensation Commission in ECC Case No. GM-17750-0917-07 is hereby REINSTATED.
