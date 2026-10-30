@@ -1,0 +1,18 @@
+Government Service Insurance System v. Jose M. Capacite G.R. No. 199780, September 24, 2014 (744 Phil. 170)
+
+Facts
+Jose M. Capacite served as a public school teacher for 37 years under the Department of Education. Throughout his tenure, he was assigned to remote rural schools, requiring daily walking over rugged terrains, prolonged chalk use, exposure to classroom dust, and shouting while teaching. In 2007, Capacite was diagnosed with Parkinson’s disease and chronic degenerative spinal changes. He applied for disability compensation under P.D. No. 626. The GSIS denied the claim, stating that Parkinson’s disease is an idiopathic degenerative neurological disorder not listed under Annex "A" of the Amended Rules. The ECC affirmed the rejection. The CA reversed, holding that the rigors, emotional stress, and environmental physical demands of public school teaching contributed to neuro-degenerative impairment.
+Issue
+Whether Parkinson’s disease contracted by a veteran public school teacher is compensable under the Employees' Compensation Program.
+Held
+Parkinson's disease is NOT compensable under P.D. No. 626; claimant failed to show any reasonable scientific or factual link connecting the illness to public school teaching.
+
+Verbatim Legal Basis:
+Article 167(l) [now Article 173(l)], Labor Code of the Philippines:
+
+"Art. 167. Definition of terms. — ... (l) 'Sickness' means any illness definitely accepted as an occupational disease listed by the Commission, or any illness caused by employment subject to proof that the risk of contracting the same was increased by working conditions."
+Ratio
+1. Limits of Liberal Interpretation: The policy of liberal interpretation of labor and social legislations cannot be stretched to grant compensation where the essential statutory requisites are completely absent. P.D. No. 626 was designed to preserve the actuarial solvency of the State Insurance Fund by shielding it from non-work-related liabilities.
+
+2. Absence of Proof of Increased Risk: Parkinson's disease is an idiopathic condition characterized by dopamine deficiency in the brain, with causes tied to genetics and natural aging. In the absence of medical evidence or epidemiological literature demonstrating that classroom teaching, stress, or walking along rural roads increases the risk of Parkinsonism, the claim cannot be sustained.
+Fallo	WHEREFORE, the Petition is GRANTED. The October 26, 2011 Decision and December 19, 2011 Resolution of the Court of Appeals in CA-G.R. SP No. 116244 are REVERSED and SET ASIDE. The May 26, 2010 Decision of the Employees' Compensation Commission in ECC Case No. GM-18544-0326-10 is REINSTATED.
