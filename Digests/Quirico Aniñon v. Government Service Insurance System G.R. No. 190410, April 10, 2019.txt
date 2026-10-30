@@ -1,0 +1,18 @@
+Quirico Aniñon v. Government Service Insurance SystemG.R. No. 190410, April 10, 2019   
+
+Facts
+Quirico Aniñon was employed as a public school teacher under the Department of Education. After decades of service, he filed a claim with the GSIS for disability and subsequent retirement benefits. The GSIS processed his pension but deducted substantial sums representing alleged accumulated premium arrearages, unpaid policy loan balances, and accrued interest, drastically reducing his monthly annuity and gratuity. Aniñon objected, maintaining that the deductions were erroneous because DepEd had deducted the premiums from his monthly paychecks, and the failure of DepEd to remit the funds to GSIS should not penalize the blameless teacher. He further asserted that GSIS's right to claim the unremitted loan balances had prescribed under the four-year prescriptive period provided under the GSIS charter.
+Issue
+Whether the GSIS can validly offset or deduct alleged unremitted premium arrearages and loan obligations from a retiring public school teacher's retirement benefits.
+Held
+The GSIS cannot penalize a public school teacher or deduct pension benefits for unremitted premiums when the employee establishes that the amounts were deducted from salary by the government agency.
+Verbatim Legal Basis:
+Section 5(a), Republic Act No. 8291:
+"Sec. 5. Contributions. — (a) It shall be mandatory for the member and the employer to pay the monthly contributions specified in the following schedule... Each employer shall include in its annual appropriation the necessary amounts for its share of the contributions..."
+Section 7, Republic Act No. 8291:
+"Sec. 7. Penalty for Non-remittance or Delayed Remittance of Contributions. — Unremitted collections shall bear interest at two percent (2%) per month... The heads of the offices of the national government, its political subdivisions, government-owned and controlled corporations and other government agencies aforesaid shall be administratively and criminally liable for failure to deduct and remit..."
+Ratio
+1. Employer's Statutory Liability for Non-Remittance: The duty to withhold and remit GSIS monthly contributions falls on the employing government agency (DepEd). When a public servant proves through official payslips that mandatory contributions were deducted from his compensation, the employee is deemed to have fulfilled his statutory obligation.
+
+2. Unlawful Withholding of Vested Pension: Under Section 7 of R.A. No. 8291, the penalty, interest, and liability for delayed or failed remittances are legally chargeable against the delinquent agency and its responsible officers, not against the blameless member. The GSIS cannot unilaterally deduct unremitted agency shares from a retiree’s pension benefits, as retirement pay is protected social security compensation intended for immediate post-retirement support.
+Fallo	WHEREFORE, the petition is GRANTED. The Decision of the Court of Appeals is REVERSED. The Government Service Insurance System is ORDERED to RECOMPUTE the retirement benefits of petitioner Quirico Aniñon without deducting any premium arrearages or surcharges resulting from the Department of Education's failure to remit contributions, and to refund any unlawfully deducted amounts with legal interest.
