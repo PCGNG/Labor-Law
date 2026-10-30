@@ -1,0 +1,27 @@
+Component	Content
+Case Details	SM Development Corporation, Joann Hizon, Atty. Mena Ojeda, Jr., and Rosaline Qua v. Teodore Gilbert Ang
+
+G.R. No. 220434 (erroneously titled Qua in syllabus), July 22, 2019
+
+First Division, Carandang, J.
+Facts	Teodore Gilbert Ang was hired by SM Development Corporation (SMDC) in December 2006 as Project Director assigned to oversee residential construction projects, including the Field Residences condominium project. In March 2012, SMDC’s internal audit uncovered extensive cost overruns, unauthorized contractor change orders, and budgetary deficits in excess of tens of millions of pesos in the Field Residences development. SMDC issued a Notice to Explain signed by VP-Legal Atty. Mena Ojeda, Jr., charging Ang with gross mismanagement and breach of trust. Ang submitted written explanations claiming the cost adjustments were dictated by construction site conditions and contractor billings. Unsatisfied, SMDC terminated his employment for loss of trust and confidence. Ang filed an illegal dismissal complaint. The Labor Arbiter and NLRC upheld the dismissal, ruling that as a senior Project Director handling project budgets, Ang was a managerial employee subject to dismissal for loss of confidence. The CA reversed, declaring the dismissal illegal.
+Issues	1. Whether respondent Ang was validly dismissed from his managerial position on the ground of loss of trust and confidence.
+
+2. Whether petitioners observed procedural due process in terminating his employment.
+Held	1. Respondent Ang was VALIDLY DISMISSED for loss of trust and confidence; substantial evidence proved mismanagement and massive unauthorized cost overruns in his assigned project.
+
+2. Petitioners complied with substantive requirements but committed procedural lapses; nominal damages are awarded under the Agabon doctrine.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (c), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Ratio Decidendi	1. Loss of Confidence in Managerial Personnel: With managerial personnel vested with authority to oversee multi-million peso construction developments, an employer has wider latitude in terminating employment for breach of trust. It is sufficient that there is some basis for the loss of confidence, supported by substantial evidence. Failing to manage contractor billings, allowing unapproved cost overruns, and neglecting site audits constitute valid grounds for loss of trust and confidence under Article 297(c).
+
+2. The Agabon Doctrine on Procedural Infirmity: When dismissal is grounded on a valid just cause but the employer fails to fully comply with procedural due process (such as giving sufficient notice or a comprehensive administrative hearing), the dismissal remains legally effective, but the employer is held liable to pay nominal damages (P30,000.00) to indemnify the employee for the procedural infringement.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision dated October 2, 2014 and Resolution dated September 1, 2015 of the Court of Appeals in CA-G.R. SP No. 131399 are REVERSED and SET ASIDE. The Decision of the National Labor Relations Commission dated April 29, 2013 is REINSTATED with MODIFICATION that petitioner SM Development Corporation is ORDERED to pay respondent Teodore Gilbert Ang nominal damages in the amount of P30,000.00 for failure to fully observe procedural due process.
+
+
+SO ORDERED.
