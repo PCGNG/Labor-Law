@@ -1,0 +1,21 @@
+Ambassador Hotel, Inc. v. Social Security SystemG.R. No. 194137, June 21, 2017   
+Facts
+The SSS audited Ambassador Hotel, Inc. and found that the company failed to remit the mandatory SSS contributions and penalties for its employees from June 1999 to March 2001, amounting to P769,575.48. Consequently, an Information for violation of Section 22(a) in relation to Section 28 of R.A. No. 1161, as amended by R.A. No. 8282, was filed against Yolanda Chan, the President and Chairman of the Board. After trial, the RTC acquitted Yolanda Chan on reasonable doubt because she was not actively managing the hotel operations during the period in question. However, the trial court held Ambassador Hotel civilly liable to pay the unremitted SSS contributions and statutory penalties. Ambassador Hotel appealed, arguing that because it was not formally named as an individual accused and its officer was acquitted, the trial court had no jurisdiction to hold the corporation civilly liable without violating due process.
+Issue
+Whether the acquittal of a corporate officer in a criminal case for non-remittance of SSS contributions extinguishes or bars the civil liability of the corporate employer to pay the delinquent contributions and accrued penalties.
+Held
+The acquittal of the corporate officer does NOT extinguish the civil liability of the corporate employer; the corporation remains directly and civilly liable to the SSS for unremitted mandatory contributions.
+
+Verbatim Legal Basis:
+Section 22(a), Republic Act No. 8282 (Social Security Act of 1997): 
+
+"Sec. 22. Remittance of Contributions. — (a) The contribution imposed in the preceding section shall be remitted to the SSS within the first ten (10) days of each calendar month following the month for which they are applicable or within such time as the Commission may prescribe. Every employer required to deduct and to remit such contributions shall be liable for their payment and if any contribution is not paid to the SSS as herein prescribed, he shall pay besides the contribution a penalty of three percent per month from the date the contribution falls due until paid..." 
+
+Section 28(f), Republic Act No. 8282: 
+
+"If the act or omission penalized by this Act be committed by an association, partnership, corporation or any other institution, its managing head, directors or partners shall be liable to the penalties provided in this Act for the offense." 
+
+Ratio
+1. Independent Statutory Obligation of the Corporate Employer: The legal duty to register workers, deduct monthly premiums, and remit them to the SSS is imposed directly by law on the employer—which includes a juridical person under Section 8(c). The civil obligation to turn over mandatory contributions arises ex lege and does not depend on finding a specific individual officer criminally guilty of a crime.
+2. Criminal vs. Civil Action Extinguishment: Under procedural and substantive rules, the extinction of the penal action does not carry with it the extinction of the civil action unless the judgment contains a definitive finding that the fact from which the civil liability might arise did not exist. The trial court's finding that contributions were never remitted stands as undisputed fact, leaving the corporate employer fully indebted to the SSS.
+Fallo	WHEREFORE, the petition is DENIED. The July 29, 2010 Decision and October 18, 2010 Resolution of the Court of Appeals in CA-G.R. CV No. 87948 are AFFIRMED.
