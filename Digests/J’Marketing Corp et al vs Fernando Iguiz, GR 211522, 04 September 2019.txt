@@ -1,0 +1,21 @@
+J' Marketing Corporation, Rogelio U. Soyao, and Pepito P. Estrellan v. Fernando S. Iguiz
+G.R. No. 211522, September 04, 2019
+Third Division, Peralta, J.
+Facts
+Fernando S. Iguiz was hired as a driver in 1995 by J' Marketing Corporation (JMC), an appliance dealer in the Visayas, and was later assigned as a collector/credit investigator. In 2006, JMC audited his accounts and claimed he was short in remittances and had accepted installment collections totaling P15,300.00 from fourteen customers without issuing official receipts. JMC issued a memorandum giving Iguiz 24 hours to explain. Before he could submit a written reply, JMC issued a second memorandum demanding that he sign an administrative investigation report within 12 hours, warning that failure to do so would waive his right to be heard. Iguiz submitted an explanation denying the charges and maintaining that he turned over all collections. JMC terminated him for loss of trust and confidence under Article 282(c) [now Art. 297(c)] of the Labor Code, citing past unremitted shortages. Iguiz filed a complaint for illegal dismissal. The Labor Arbiter dismissed the complaint, but the NLRC and CA reversed, declaring the dismissal illegal due to the lack of substantial proof and failure of procedural due process.
+Issue
+Whether an employer can terminate a collector for loss of trust and confidence based on unverified customer summaries, and whether granting 24 hours and 12 hours to respond satisfies the procedural due process standards of King of Kings Transport v. Mamac.
+Held
+The dismissal was ILLEGAL; the employer failed to establish willful breach of trust by substantial evidence, and giving an employee only 12 to 24 hours to explain constitutes a denial of procedural due process.
+Verbatim Legal Basis:
+Article 297 [formerly Article 282] (c), Labor Code of the Philippines:
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Section 2(I)(a), Rule XXIII, Book V, Omnibus Rules Implementing the Labor Code:
+"Standards of due process: requirements of notice. — In all cases of termination of employment, the following standards of due process shall be substantially observed: I. For termination of employment based on just causes as defined in Article 282 of the Code: (a) A written notice served on the employee specifying the ground or grounds for termination, and giving said employee reasonable opportunity within which to explain his side."
+Ratio Decidendi
+1. Standards for Loss of Trust and Confidence: Loss of trust and confidence cannot be based on mere suspicions, surmises, or unverified ledger notes. The breach must be willful, intentional, and supported by substantial evidence. JMC failed to present affidavits from the customers or production records proving that Iguiz misappropriated funds.
+
+2. Procedural Due Process Timelines (King of Kings standard): Procedural due process requires that the first written notice give the employee a "reasonable opportunity" to explain his side. Under prevailing jurisprudence, a reasonable opportunity means a period of at least five (5) calendar days from receipt of the notice. Demanding an explanation within 24 hours and requiring the signing of an investigation report within 12 hours under threat of waiver is arbitrary and violates procedural due process.
+Fallo
+WHEREFORE, we DENY the petition. We AFFIRM the Decision dated 16 July 2013 and the Resolution dated 30 January 2014 of the Court of Appeals in CA-G.R. SP No. 04657.
+SO ORDERED.
