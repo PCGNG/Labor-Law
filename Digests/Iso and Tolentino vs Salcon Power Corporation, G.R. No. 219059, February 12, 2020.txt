@@ -1,0 +1,21 @@
+Gaudioso Iso, Jr. and Joel Tolentino v. Salcon Power Corporation (now SPC Power Corporation) and Dennis Villareal
+G.R. No. 219059, February 12, 2020
+Second Division, Inting, J.
+Facts
+Gaudioso Iso, Jr. and Joel Tolentino were employed as high-voltage electricians and instrument technicians by Salcon Power Corporation at its Naga Power Plant in Cebu. In 2007, an emergency plant trip occurred, cutting power generation. An internal investigation revealed that Iso and Tolentino, during their maintenance shift, bypassed high-voltage electrical safety lockouts and used non-standard jumper wires across critical distribution control boards in direct violation of established Standard Operating Procedures (SOPs) on electrical safety. This caused short-circuiting, equipment breakdown, and operational disruptions. Salcon issued show-cause memos, suspended petitioners preventively, and held administrative inquiries. Finding their explanations unmeritorious, Salcon terminated their employment on the ground of serious misconduct and gross and habitual neglect of duty under Article 282(a) and (b) [now Art. 297(a) and (b)]. Petitioners filed a complaint for illegal dismissal. The Labor Arbiter declared the dismissal illegal, but the NLRC and Court of Appeals reversed, holding that bypassing safety interlocks in a power generation facility constituted serious misconduct.
+Issue
+Whether the deliberate violation of safety protocols and operating procedures in an industrial power plant constitutes serious misconduct warranting termination of employment.
+Held
+The dismissal was VALID; deliberately breaching established safety procedures in an electric power facility constitutes serious misconduct that exposes plant personnel and equipment to danger.
+Verbatim Legal Basis:
+Article 297 [formerly Article 282] (a) & (b), Labor Code of the Philippines:
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes:
+(a) Serious misconduct or willful disobedience by the employee of the lawful orders of his employer or representative in connection with his work;
+(b) Gross and habitual neglect by the employee of his duties..."
+Ratio Decidendi
+1. Gravity of Safety Protocol Violations: In hazardous industrial facilities such as electric power plants, safety standards and lockout/tagout procedures are designed to protect both costly infrastructure and human life. Operating technicians who deliberately bypass electrical safety mechanisms using unauthorized jumpers commit serious misconduct rather than mere error in judgment.
+
+2. Proportionality of Penalty: An employer cannot be compelled to retain technical employees whose willful disregard of basic operating rules endangers entire generating operations. The penalty of dismissal is proportionate to the risk created, even for long-tenured employees.
+Fallo
+WHEREFORE, the Petition for Review on Certiorari is hereby DENIED. The Decision dated October 9, 2013 and Resolution dated May 13, 2015 of the Court of Appeals in CA-G.R. CEB-SP Nos. 02781 and 06429 are AFFIRMED.
+SO ORDERED.
