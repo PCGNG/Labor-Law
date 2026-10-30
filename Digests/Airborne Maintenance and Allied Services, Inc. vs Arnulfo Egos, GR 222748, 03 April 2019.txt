@@ -1,0 +1,26 @@
+Airborne Maintenance and Allied Services, Inc. v. Arnulfo M. Egos
+G.R. No. 222748, April 03, 2019
+Second Division, Caguioa, J.
+Facts
+Arnulfo M. Egos was employed as a janitor by Airborne Maintenance and Allied Services, Inc. (Airborne) and assigned to client Meralco-Balintawak Branch for nearly twenty years. When Airborne's client service contract with Meralco expired, the succeeding contractor absorbed Airborne's janitorial personnel except Egos, who was allegedly suffering from a heart condition. Egos secured a medical certificate declaring him fit to work and reported to Airborne for redeployment. Airborne did not provide him with a new posting. Airborne sent notices to Egos's provincial address rather than his recorded local residence, directing him to report. After six months had elapsed without any reassignment, Egos filed a complaint for constructive illegal dismissal. Airborne argued that it validly placed Egos on "floating status" (temporary suspension of employment) pursuant to Article 286 [now Art. 301] of the Labor Code following the expiration of its service contract.
+Issue
+Whether an employee placed on "floating status" or temporary off-detail for more than six months without a valid economic reason or genuine job re-assignment was constructively and illegally dismissed.
+Held
+The employee was constructively and illegally dismissed; the employer failed to establish a bona fide suspension of operations or a genuine effort to reassign the worker within the statutory six-month period.
+
+
+Verbatim Legal Basis:
+
+Article 286 [now Article 301], Labor Code of the Philippines:
+
+"Art. 286. When employment not deemed terminated. — The bona-fide suspension of the operation of a business or undertaking for a period not exceeding six (6) months, or the fulfillment by the employee of a military or civic duty shall not terminate employment. In all such cases, the employer shall reinstate the employee to his former position without loss of seniority rights if he indicates his desire to resume his work not later than one (1) month from the resumption of operations of his employer or from his relief from the military or civic duty."
+Ratio Decidendi
+1. Standards for Valid Floating Status: Placing an employee on temporary "off-detail" or floating status is valid only when it is necessitated by a bona fide suspension of the employer's business operations or undertaking under Article 286 [now Art. 301]. The employer bears the burden of proving that there were no available projects or work positions to which the worker could be assigned.
+
+2. Constructive Dismissal upon Expiration of Six Months: When temporary suspension or off-detail lasts beyond six months without the employer providing a new posting, recall, or showing dire operational exigency, the employee is deemed constructively dismissed by operation of law. Sending recall notices to an incorrect address while the employee personally appeared and presented a fit-to-work certificate demonstrates bad faith, entitling the employee to separation pay and backwages.
+Fallo
+WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated August 28, 2015 and Resolution dated January 22, 2016 of the Court of Appeals in CA-G.R. SP No. 132470 are hereby AFFIRMED.
+
+
+SO ORDERED.
+
