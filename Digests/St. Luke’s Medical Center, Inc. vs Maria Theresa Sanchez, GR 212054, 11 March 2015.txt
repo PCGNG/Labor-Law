@@ -1,0 +1,27 @@
+Component	Content
+Case Details	St. Luke’s Medical Center, Inc. v. Maria Theresa V. Sanchez
+
+G.R. No. 212054, March 11, 2015
+
+First Division, Perlas-Bernabe, J.
+Facts	Maria Theresa V. Sanchez was hired as a Staff Nurse by St. Luke’s Medical Center, Inc. (SLMC). SLMC maintained a strict Code of Conduct and hospital safety rule prohibiting the unauthorized bringing out of hospital property, medical supplies, and medication from company premises without prior clearance, categorizing violation thereof as theft/dishonesty punishable by dismissal. While passing through the hospital exit checkpoint after completing her 24-hour shift, security conducted a routine inspection of Sanchez's bag. Security found assorted medical supplies, including syringes, medical gloves, micropore tape, sterile needles, and medication vials belonging to SLMC. Sanchez admitted that the items came from the hospital, apologized, and claimed that she kept them in her bag to save excess materials for future emergency shift use and forgot to leave them behind. Following an administrative investigation, SLMC dismissed her for serious misconduct and theft/dishonesty under Article 282 [now Art. 297] of the Labor Code. Sanchez filed an illegal dismissal complaint. The NLRC and CA found the dismissal illegal, reasoning that she lacked criminal intent to misappropriate the supplies for personal profit.
+Issue	Whether the unauthorized taking of hospital medical supplies outside company premises constitutes serious misconduct and breach of trust warranting dismissal, even without proof of commercial intent to gain.
+Held	The dismissal was VALID; taking hospital supplies without authorization in direct violation of hospital rules constitutes serious misconduct and willful disobedience.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (a) & (c), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes:
+
+(a) Serious misconduct or willful disobedience by the employee of the lawful orders of his employer or representative in connection with his work;
+
+(c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Ratio Decidendi	1. Standards of Workplace Discipline in Hospitals: Hospitals deal directly with public health, life, and hygiene. An employer in the medical sector has the right to enforce strict inventory, handling, and security controls over drugs, medicines, and medical supplies to avoid contamination, pilferage, and regulatory penalties.
+
+2. Seriousness of Rule Transgression: An employee’s defense that items were taken without personal animus lucrandi (intent to profit) does not erase the violation of company policy. Willfully taking hospital supplies through an exit gate without written authority directly defies company safety rules. In medical settings, unauthorized removal of medical supplies constitutes serious misconduct and a breach of trust justifying termination of employment under Article 297.
+Fallo	WHEREFORE, the petition is GRANTED. The Decision dated September 24, 2013 and the Resolution dated April 8, 2014 of the Court of Appeals in CA-G.R. SP No. 124503 are hereby REVERSED and SET ASIDE. The complaint for illegal dismissal filed by respondent Maria Theresa V. Sanchez is DISMISSED for lack of merit.
+
+
+SO ORDERED.
