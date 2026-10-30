@@ -1,0 +1,19 @@
+Stanfilco - A Division of DOLE Philippines, Inc. and Reynaldo Casiño v. Jose Tequillo and/or National Labor Relations Commission - Eighth Division
+G.R. No. 209735, July 17, 2019
+Third Division, Andres Reyes, Jr., J.
+Facts
+Jose Tequillo was employed as a Farm Associate at the banana plantation of Stanfilco in Bukidnon. The company routinely held weekly assemblies called the "Kaibigan Fellowship" for company announcements and updates. Instead of attending a mandatory fellowship on September 12, 2009, Tequillo engaged in a drinking spree at a farm shed inside company premises with fellow workers. When a co-worker, Resel Gayon, arrived at the shed, Tequillo advised him not to work hard because the company allegedly denied performance incentives. When Gayon suggested that Tequillo air his grievances to management rather than complain, Tequillo took offense and mauled Gayon, inflicting physical injuries. Stanfilco issued a show-cause memo, conducted administrative hearings where Tequillo admitted to the assault, and terminated him for serious misconduct under Article 282(a) [now Art. 297(a)] of the Labor Code. Tequillo filed a complaint for illegal dismissal. The CA ruled that the dismissal was illegal because the fight was an isolated, personal altercation not directly related to his farm duties.
+Issue
+Whether an employee's physical assault of a co-worker inside company premises over a work-related grievance constitutes serious misconduct warranting dismissal under Article 297(a) [formerly Art. 282(a)] of the Labor Code.
+Held
+The dismissal was VALID; physical violence inflicted by an employee upon a co-worker inside company premises concerning work conditions constitutes serious misconduct.
+Verbatim Legal Basis:
+Article 297 [formerly Article 282] (a), Labor Code of the Philippines:
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: (a) Serious misconduct or willful disobedience by the employee of the lawful orders of his employer or representative in connection with his work..."
+Ratio Decidendi
+1. Work-Connection in Physical Assaults: For an act of violence or misconduct to justify dismissal, there must be a reasonable work connection showing that the employee has become unfit to remain in the service. The altercation cannot be dismissed as purely private where: (a) it occurred inside company premises during hours when the employee should have been attending an official company fellowship; and (b) the altercation was sparked by an argument concerning company incentive programs and working terms.
+
+2. Workplace Harmony and Discipline: An employer is not required to retain employees who display violent tendencies toward colleagues. Physical assault on a co-worker within company grounds disrupts industrial peace and justifies dismissal for serious misconduct.
+Fallo
+WHEREFORE, the petition is GRANTED. The Decision dated June 14, 2013 and Resolution dated October 14, 2013 rendered by the Court of Appeals in CA-G.R. SP No. 04698 are REVERSED and SET ASIDE. The Resolution dated May 31, 2011 rendered by the National Labor Relations Commission in NLRC No. MAC-12-011786-2010 is REINSTATED. Private respondent Jose Tequillo was VALIDLY DISMISSED.
+SO ORDERED.
