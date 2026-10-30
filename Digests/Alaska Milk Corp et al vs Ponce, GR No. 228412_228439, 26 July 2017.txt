@@ -1,0 +1,23 @@
+Component	Content
+Case Details	Alaska Milk Corporation and Wilfred Steven Uytengsu v. Ernesto L. Ponce / Ernesto L. Ponce v. Alaska Milk Corporation, et al.
+
+G.R. Nos. 228412 & 228439, July 26, 2017
+
+Second Division, Mendoza, J.
+Facts	Ernesto L. Ponce was the Director of Engineering Services of Alaska Milk Corporation (AMC), occupying a managerial position. Under company policy, directors were entitled to a "Receipted Allowance" (RIA) reimbursement for actual business-related expenses incurred in the discharge of their functions. In 2010, AMC discovered an email sent by Ponce from his official company account to twelve (12) colleagues, titled "Dear Neighbors and Friends, Do you want to earn extra from your own expenses?" In the email, Ponce laid down step-by-step rules offering a 5% cash rebate to colleagues who provided him with official receipts in their possession that named AMC as purchaser, so that Ponce could claim reimbursements under his RIA allowance for expenses he did not incur. Following an investigation, AMC dismissed Ponce for willful breach of trust and loss of confidence under Article 282(c) [now Art. 297(c)] of the Labor Code, and for gross and habitual neglect of duties under Article 282(b) due to project delays. Ponce filed an illegal dismissal complaint. The LA found illegal dismissal. The NLRC reversed and dismissed the complaint. The CA set aside the NLRC, ruling that the neglect was not gross and that the email was an isolated occurrence without actual monetary disbursement.
+Issue	Whether a managerial employee's planned scheme to solicit official receipts from co-workers in exchange for cash rebates to claim unearned company reimbursements constitutes willful breach of trust and loss of confidence justifying dismissal under Article 297(c) of the Labor Code.
+Held	The dismissal was VALID; the fraudulent solicitation scheme constituted an intentional breach of trust and dishonesty that justified termination for loss of trust and confidence.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (c), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Ratio Decidendi	1. Standards for Managerial Loss of Confidence: With managerial employees, the threshold of proof for loss of trust and confidence is lower than that for rank-and-file workers. It is sufficient that the employer has a reasonable ground to believe that the employee is responsible for the misconduct, and that the nature of the employee’s participation renders him untrustworthy.
+
+2. Premeditated Dishonesty and Abuse of Allowance Systems: The RIA email revealed an organized scheme to obtain false receipts for reimbursement of unspent personal funds. That AMC detected the scheme before disbursements occurred does not negate the dishonesty. An employer is not required to retain a department head who actively organizes a method to misrepresent company expense allowances.
+Fallo	WHEREFORE, the petition of Alaska Milk Corporation in G.R. No. 228412 is GRANTED. The petition of Ernesto L. Ponce in G.R. No. 228439 is DENIED. The May 4, 2016 Decision and November 7, 2016 Resolution of the Court of Appeals in CA-G.R. SP No. 132331 are REVERSED and SET ASIDE. The July 29, 2013 Decision of the National Labor Relations Commission in NLRC LAC No. 04-001289-13 is REINSTATED.
+
+
+SO ORDERED.
