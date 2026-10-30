@@ -1,0 +1,17 @@
+Radzpal A. Ismael and Nursi Ajijon v. People of the Philippines G.R. Nos. 234435-36, February 06, 2023
+
+Facts
+Petitioners Radzpal Ismael and Nursi Ajijon were the Municipal Mayor and Municipal Treasurer, respectively, of the Municipality of Pandami, Sulu. For multiple consecutive remittance periods, the municipal government deducted the mandatory GSIS life and retirement premiums from the salaries of its municipal employees but failed to remit the collections (totaling hundreds of thousands of pesos) to the GSIS within thirty (30) days from the due date. The GSIS filed criminal complaints against petitioners before the Sandiganbayan for violation of Section 52(g) of R.A. No. 8291. Petitioners claimed good faith, asserting that the municipality faced administrative instability, financial distress, and logistical security difficulties in transporting cash from their remote island municipality to the GSIS branch in Zamboanga or Jolo. The Sandiganbayan convicted both officials.
+Issue
+Whether the failure of accountable municipal officials to remit deducted GSIS premiums within the statutory period makes them criminally liable under Section 52(g) of R.A. No. 8291, regardless of lack of criminal intent or good faith.
+Held
+Petitioners are criminally liable; violation of Section 52(g) of R.A. No. 8291 is malum prohibitum, where good faith and lack of criminal intent are NOT valid defenses.
+Verbatim Legal Basis:
+Section 52(g), Republic Act No. 8291 (The GSIS Act of 1997):
+"Sec. 52. Penal Provisions. — ... (g) Failure, refusal or delay by any head of agency, or any officer of the national government, including any local government unit, who is in any way charged with the duty of collecting and/or remitting the contributions, to pay, remit or distribute the amounts due under this Act within thirty (30) days from the time the same become due, shall be punished by a fine of not less than Ten thousand pesos (P10,000.00) but not more than Twenty thousand pesos (P20,000.00) and imprisonment of not less than one (1) year but not more than five (5) years and perpetual disqualification to hold public office."
+Ratio
+1. Malum Prohibitum Offense: The criminal provision under Section 52(g) of R.A. No. 8291 is a special penal law enacted to protect the actuarial integrity of the State insurance trust fund and safeguard the social security rights of public servants. In crimes mala prohibita, criminal intent is not an element; the sole inquiry is whether the statutory command was breached.
+
+2. Accountability of Municipal Heads and Treasurers: As the Municipal Mayor and Municipal Treasurer, petitioners were the statutory officials charged with authorizing and executing financial disbursements and remittances. Their failure to remit the deducted contributions within the 30-day statutory window completed the commission of the offense, and pleas of local financial distress or peace-and-order difficulties do not exonerate them from criminal liability.
+Fallo
+WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated June 1, 2017 and Resolution dated September 11, 2017 of the Sandiganbayan in SB-14-CRM-0118 and 0119 convicting petitioners Radzpal A. Ismael and Nursi Ajijon of violation of Section 52(g) of Republic Act No. 8291 are AFFIRMED.
