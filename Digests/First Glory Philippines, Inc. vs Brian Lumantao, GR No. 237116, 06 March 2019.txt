@@ -1,0 +1,27 @@
+Component	Content
+Case Details	First Glory Philippines, Inc. v. Brian L. Lumantao, Steve J. Petarco, Roy P. Cabatingan, and Zyzan T. Ladrazo
+
+G.R. No. 237166 (cited as G.R. No. 237116 in syllabus), March 06, 2019
+
+Second Division, Caguioa, J.
+Facts	First Glory Philippines, Inc. (FGPI), an apparel manufacturing firm in the Mactan Economic Zone, maintained company performance standards requiring sewing and production workers to achieve a minimum efficiency rate of 70%, alongside rules on attendance and undertime. On September 13, 2013, FGPI served notices of termination on Brian L. Lumantao and three co-workers. FGPI claimed that Lumantao repeatedly failed the 70% efficiency benchmark (failing 23 times between January and June 2013) and incurred multiple instances of tardiness and unapproved absences. Lumantao and his co-workers filed a complaint for illegal dismissal. While co-workers' dismissals were sustained by the lower tribunals on verified independent grounds, the Court of Appeals found Lumantao's dismissal illegal. The CA held that FGPI failed to demonstrate that the 70% efficiency metric was formally communicated to Lumantao, and that his attendance lapses were meted outright dismissal in violation of the company's progressive disciplinary table (which prescribed a 7-day suspension for second offenses, rather than dismissal).
+Issue	Whether an employee can be dismissed for gross inefficiency or breach of performance standards where the employer fails to prove that the work standards were communicated to him and where the penalty violates the company's own disciplinary schedule.
+Held	The dismissal of Lumantao was ILLEGAL; the employer failed to show that performance benchmarks were communicated to him, and outright dismissal was disproportionate under the company's disciplinary policy.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (b) & (e), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes:
+
+(b) Gross and habitual neglect by the employee of his duties;
+
+(e) Other causes analogous to the foregoing."
+Ratio Decidendi	1. Prerequisites for Dismissal Based on Inefficiency: While management may set reasonable performance benchmarks, to justify dismissal for gross inefficiency: (a) the work standards must be reasonable; (b) the standards must be clearly communicated to the employee prior to evaluation; and (c) the employee must be warned and given an opportunity to improve. FGPI's 201 personnel files contained no evaluations or memos notifying Lumantao of failing grades or providing corrective guidance.
+
+2. Arbitrary Deviation from Company Disciplinary Schedule: An employer is bound by its own company rules. FGPI's Code of Conduct classified attendance and punctuality infractions under progressive steps (verbal warning, 3-day suspension, 7-day suspension, and dismissal only upon the fourth offense). Dismissing Lumantao on his second infraction without following the intermediate suspension levels was arbitrary and devoid of substantive cause.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is PARTIALLY GRANTED. The Decision of the Court of Appeals dated July 3, 2017 in CA-G.R. SP No. 09386 is REVERSED and SET ASIDE with respect to Steve J. Petarco, Roy P. Cabatingan, and Zyzan T. Ladrazo, whose dismissals are declared valid. With regard to respondent Brian L. Lumantao, the Decision of the Court of Appeals declaring his dismissal ILLEGAL is AFFIRMED. Petitioner First Glory Philippines, Inc. is ORDERED to pay respondent Lumantao full backwages, separation pay in lieu of reinstatement, attorney's fees, and legal interest of six percent (6%) per annum from the date of finality of this Decision until full payment.
+
+
+SO ORDERED.
