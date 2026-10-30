@@ -1,0 +1,21 @@
+Perfecto M. Pascua v. Bank Wise, Inc. and Philippine Veterans Bank / Bankwise, Inc. v. Perfecto M. Pascua and Philippine Veterans Bank
+G.R. Nos. 191460 & 191464, January 31, 2018
+Third Division, Leonen, J.
+Facts
+Perfecto M. Pascua served as Executive Vice President (EVP) for Marketing at Bankwise, Inc. When Philippine Veterans Bank (PVB) negotiated the purchase of Bankwise's capital stock, Bankwise officers requested its senior executives to tender their resignations to facilitate corporate restructuring, promising that money claims and transition severance packages would be settled. Pascua drafted and submitted an unconditional resignation letter. PVB subsequently assumed management, and Bankwise encountered insolvency and was placed under receivership. When his severance demands were not paid, Pascua filed a complaint for constructive illegal dismissal, full backwages, and separation pay against both Bankwise and PVB. The Labor Arbiter dismissed the complaint, finding voluntary resignation. The NLRC and CA found constructive dismissal, holding that Pascua resigned under the promise of a severance package.
+Issue
+Whether a high-ranking corporate executive who tenders an unconditional resignation letter in contemplation of a corporate takeover is constructively dismissed.
+Held
+The executive was NOT constructively dismissed; the resignation was voluntary and unconditional, executed by a high-ranking officer fully cognizant of its legal import.
+
+Verbatim Legal Basis:
+
+Article 285 [now Article 300], Labor Code of the Philippines:
+
+"Art. 285. Termination by employee. — (a) An employee may terminate without just cause the employee-employer relationship by serving a written notice on the employer at least one (1) month in advance..."
+Ratio Decidendi
+1. Standards for Constructive Dismissal vs. Executive Resignation: Constructive dismissal requires an involuntary act compelled by employer coercion, discrimination, or intolerable working conditions. An unconditional resignation letter submitted by an Executive Vice President—who possessed legal and business acumen and negotiated his departure—cannot be characterized as an involuntary resignation.
+2. Presumption of Inequality Evaluated Case-by-Case: While labor law generally presumes unequal bargaining footing between labor and capital, this principle is evaluated in light of the employee's rank and education. High-level corporate officers possessing professional expertise are not under the same vulnerability as ordinary rank-and-file workers. In the absence of an express contract clause or established company practice granting severance pay upon voluntary resignation, the claim cannot be sustained against the entity.
+Fallo
+WHEREFORE, the Petition in G.R. No. 191460 is DENIED. The Petition in G.R. No. 191464 is GRANTED. The Decision of the Court of Appeals dated July 8, 2009 and its Resolution dated February 8, 2010 in CA-G.R. SP No. 101867 are REVERSED and SET ASIDE. The Decision of the Labor Arbiter dated August 15, 2006 dismissing the complaint is REINSTATED.
+SO ORDERED.
