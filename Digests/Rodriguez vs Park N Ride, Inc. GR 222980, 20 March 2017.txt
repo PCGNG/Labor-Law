@@ -1,0 +1,54 @@
+### **Rodriguez vs. Park N Ride, Inc., et al.**
+
+**G.R. No. 222980, March 20, 2017**
+
+**Ponente:** Leonen, *J.*
+
+---
+
+### **Facts**
+
+Lourdes C. Rodriguez worked for 25 years (from 1984 to 2009) in various businesses managed by Spouses Vicente and Estelita Javier, concluding her employment as the Administrative and Finance Assistant at Park N Ride, Inc. Over the years, Rodriguez enjoyed significant trust and confidence from the Javier spouses, handling both company finances and personal errands.
+
+Rodriguez claimed she was subjected to strenuous hours, unauthorized salary deductions for absences, and humiliating reprimands. In September 2009, following a dispute over an unaccomplished task, Estelita Javier allegedly scolded her and stated that the company could manage without her. Rodriguez stopped reporting to work and tendered her resignation, which contained expressions of gratitude for the 25 years of employment.
+
+Rodriguez subsequently filed a complaint for constructive illegal dismissal, non-payment of service incentive leave (SIL) pay, 13th month pay differentials, moral and exemplary damages, and attorney’s fees. The respondents countered that she voluntarily resigned after being confronted about unliquidated cash advances and irregular deposits.
+
+The Labor Arbiter dismissed the constructive dismissal complaint. On appeal, the Court of Appeals (CA) affirmed that there was no constructive dismissal, but ordered respondents to pay SIL pay and 13th month pay differentials limited only to the three-year prescriptive period prior to filing (2006–2009).
+
+---
+
+### **Issues**
+
+1. Whether Rodriguez was constructively dismissed from employment.
+2. Whether the claim for Service Incentive Leave (SIL) pay is limited by the three-year prescriptive period under Article 291 of the Labor Code or covers her entire 25 years of service.
+3. Whether she is entitled to moral and exemplary damages.
+
+---
+
+### **Ruling**
+
+#### **1. No Constructive Dismissal**
+
+Constructive dismissal occurs when an employer's act of clear discrimination, insensibility, or disdain makes continued employment so intolerable that the employee is left with no choice but to resign.
+
+The Supreme Court ruled that spontaneous reprimands and natural expressions of frustration by an employer do not automatically establish a hostile or unbearable work environment. The totality of circumstances revealed that Rodriguez was a trusted senior personnel prone to sensitivity and sporadic absences after reprimands. Furthermore, her resignation letter contained unequivocal words of gratitude, negating coercion or involuntary departure.
+
+#### **2. Entitlement to SIL Pay for the Entire 25 Years**
+
+Rodriguez was awarded SIL pay covering her complete employment period from 1984 to 2009, not just the three years preceding the complaint.
+
+Under Article 95 of the Labor Code, an employee is entitled to five days of paid leave yearly, which is commutable to cash if unused at the end of the year. Under Article 291 of the Labor Code, money claims must be filed within three years from the time the cause of action accrues.
+
+The Court clarified the computation of prescription for SIL:
+
+* The unused days of SIL accumulate throughout the employment unless commuted or waived.
+* The employee's cause of action to demand the cash equivalent does **not** accrue at the end of each year.
+* Rather, the cause of action arises only upon the employer's refusal to pay the commuted value upon demand, termination of the employment relationship, or retirement.
+* Because Rodriguez demanded her accrued SIL pay upon her resignation, the three-year prescriptive period commenced only at that point, entitling her to SIL pay for all 25 years of service.
+
+#### **3. Damages and Other Awards**
+
+* **Moral and Exemplary Damages:** Denied. These damages require proof of bad faith, malice, or fraud, which were not established since there was no illegal dismissal.
+* **13th Month Pay and Attorney's Fees:** The award of 13th month pay differentials (2006–2008), proportionate 13th month pay for 2009, and attorney's fees of 10% was affirmed.
+* **Interest:** All monetary awards are subject to 6% legal interest per annum from the finality of the decision until full satisfaction.
