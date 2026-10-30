@@ -1,0 +1,23 @@
+Wesleyan University-Philippines v. Wesleyan University-Philippines Faculty and Staff Association (WUPFSA)
+G.R. No. 181806, March 12, 2014
+Third Division, Mendoza, J.
+Facts
+Petitioner Wesleyan University-Philippines and respondent WUPFSA executed a Collective Bargaining Agreement (CBA) effective from 2003 to 2008 providing for vacation leave (VL) and sick leave (SL) benefits, including the monetization of unused leave credits. During the implementation of the CBA, the University President issued a Memorandum unilaterally declaring that: (1) vacation and sick leaves could only be monetized if the employee had exhausted all leaves; and (2) vacation leave credits could no longer be carried over or accumulated to succeeding years. The Union opposed the guidelines, arguing they violated the CBA and the principle of non-diminution of benefits under Article 100 of the Labor Code, noting that the university had consistently permitted unconditional encashment and carry-over of leave credits since 1990. The Voluntary Arbitrator ruled in favor of the Union, and the Court of Appeals affirmed.
+Issue	
+Whether the unilateral change in the policy on leave encashment and carry-over violates the non-diminution rule under Article 100 of the Labor Code and the existing CBA.
+Held
+The unilateral modification of the leave monetization policy violates both the CBA and the principle of non-diminution of benefits under Article 100 of the Labor Code.
+
+Verbatim Legal Basis:
+
+Article 100, Labor Code of the Philippines:
+
+"Art. 100. Prohibition against elimination or diminution of benefits. — Nothing in this Book shall be construed to eliminate or in any way diminish supplements, or other employee benefits being enjoyed at the time of promulgation of this Code."
+Ratio 	
+1. Non-Diminution of Benefits Doctrine: The principle of non-diminution of benefits bars an employer from unilaterally withdrawing or reducing benefits already enjoyed by employees. For the rule to apply, it must be shown that: (a) the grant of the benefit is founded on a policy or has ripened into a practice over a long period; (b) the practice is consistent and deliberate; (c) the practice is not due to error in the construction or application of a doubtful or difficult question of law; and (d) the diminution or discontinuance is done unilaterally by the employer.
+
+2. Sanctity of the CBA: The CBA is the law between the contracting parties. Since the CBA did not place any condition or restriction on the encashment or accumulation of earned leave credits, the university cannot unilaterally add qualifying requisites that diminish the value of the bargained benefit.
+Fallo	
+WHEREFORE, the petition is DENIED. The November 20, 2007 Decision and the January 29, 2008 Resolution of the Court of Appeals in CA-G.R. SP No. 98115 are AFFIRMED.
+
+SO ORDERED.
