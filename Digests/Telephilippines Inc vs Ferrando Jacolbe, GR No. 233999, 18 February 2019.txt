@@ -1,0 +1,27 @@
+Component	Content
+Case Details	Telephilippines, Inc. v. Ferrando H. Jacolbe
+
+G.R. No. 233999, February 18, 2019
+
+Second Division, Perlas-Bernabe, J.
+Facts	Ferrando H. Jacolbe was employed as a Customer Service Representative (CSR) by Telephilippines, Inc. (TP), a contact center BPO. Jacolbe was assigned to the Priceline account. Under company standards, CSRs were required to maintain key performance metric targets, including an Average Handle Time (AHT) of 7.0 minutes or below per customer call. Jacolbe consistently failed to hit the AHT metric over 62 consecutive weeks (from January 2012 to March 2013). TP enrolled him in a Performance Improvement Plan (PIP) and a SMART Action Plan to assist him in meeting metrics through step goals. Despite repeated coaching, Jacolbe failed to achieve the required standard. Following notices to explain and an administrative conference, TP terminated Jacolbe for failure to meet account-specific performance metrics under its Code of Conduct. Jacolbe filed an illegal dismissal complaint, arguing that he was never insubordinate, that he had once received a "Top Agent" customer service award in December 2012, and that failing the AHT metric did not amount to serious misconduct or gross neglect. The LA and CA found illegal dismissal.
+Issue	Whether an employee's continued failure to meet prescribed reasonable performance standards (AHT) over an extended period constitutes gross inefficiency analogous to gross and habitual neglect of duties under Article 297(e) in relation to Article 297(b) of the Labor Code.
+Held	The dismissal was VALID; consistent and prolonged failure to meet reasonable work metrics despite enrollment in improvement plans constitutes gross inefficiency, which is an analogous just cause for dismissal.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (b) & (e), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes:
+
+(b) Gross and habitual neglect by the employee of his duties;
+
+(e) Other causes analogous to the foregoing."
+Ratio Decidendi	1. Gross Inefficiency as an Analogous Just Cause: An employer has the right to set reasonable productivity standards and performance metrics. Gross and sustained inefficiency is analogous to gross and habitual neglect of duty under Article 297(e) in relation to 297(b). To justify dismissal: (a) the work standards must be reasonable and made known to the employee; and (b) the employee’s failure to meet them must be continuous and substantial despite opportunity to improve.
+
+2. Reasonable Performance Improvement Opportunities: Telephilippines established that Jacolbe failed the 7-minute AHT benchmark across 62 weeks and provided two formal PIP interventions. A single isolated customer-satisfaction award cannot offset an overall, chronic failure to meet operational speed metrics. While security of tenure is constitutionally protected, it does not prevent an employer from addressing sustained employee inefficiency.
+Fallo	WHEREFORE, the petition is GRANTED. The Decision dated September 8, 2016 and Resolution dated August 10, 2017 of the Court of Appeals in CA-G.R. SP No. 138127 are REVERSED and SET ASIDE. The Decision dated July 30, 2014 of the National Labor Relations Commission is REINSTATED. Respondent's complaint for illegal dismissal is DISMISSED for lack of merit.
+
+
+SO ORDERED.
