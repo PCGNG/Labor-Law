@@ -1,0 +1,27 @@
+Component	Content
+Case Details	Debra Ann P. Gaite v. Filipino Society of Composers, Authors and Publishers, Inc. (FILSCAP), Arturo Lui Pio, Noel G. Cabangon, and Alvin F. De Sagun
+
+G.R. No. 219324, August 08, 2018
+
+Second Division, Peralta, J.
+Facts	Debra Ann P. Gaite was the General Manager of the Filipino Society of Composers, Authors and Publishers, Inc. (FILSCAP), a collective management organization administering musical copyrights and license royalties for composers. Under FILSCAP’s Distribution Rules, collected royalties from specific public performances were required to be maintained in segregated Special Accounts held in trust for identified artists and foreign affiliate societies, and could not be transferred without Board of Trustees authorization. In 2012, FILSCAP’s internal audit revealed that Gaite had reallocated and transferred P17,720,455.77 out of the Special Reserve Accounts into general operational accounts without the knowledge or approval of the Board. When confronted, Gaite admitted to the reallocation in an email, stating it was an operational measure to meet society expenses. FILSCAP dismissed Gaite for serious misconduct and loss of trust and confidence. Gaite filed an illegal dismissal complaint, asserting that she acted without personal gain and that the funds remained intact in FILSCAP’s treasury. The Labor Arbiter and NLRC found illegal dismissal, but the Court of Appeals reversed, holding the termination valid.
+Issue	Whether the unauthorized reallocation of trust funds by a General Manager—even without personal pocketing of money—constitutes serious misconduct and willful breach of trust warranting dismissal under Article 297 of the Labor Code.
+Held	The dismissal was VALID; the unauthorized reallocation of funds held in trust in violation of internal governing rules constitutes serious misconduct and justifies termination for loss of trust and confidence.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (a) & (c), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes:
+
+(a) Serious misconduct or willful disobedience by the employee of the lawful orders of his employer or representative in connection with his work;
+
+(c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Ratio Decidendi	1. Fiduciary Obligations of a General Manager: A General Manager occupies the highest executive tier of employment, demanding utmost fidelity and obedience to corporate governance guidelines. Reallocating over P17.7 Million of funds specifically designated by corporate charter and distribution rules to be held in trust for copyright owners without Board approval exceeds management authority.
+
+2. Personal Gain Not an Essential Element: In loss of trust and confidence cases under Article 297(c), it is not indispensable that the employee personally misappropriated or pocketed the funds. It is enough that the employee’s intentional, unauthorized actions breached established fiduciary standards. Transferring protected trust reserves to fund other expenditures without Board consent constitutes serious misconduct and justifies severance of the employment relationship.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated October 24, 2014 and Resolution dated June 17, 2015 of the Court of Appeals in CA-G.R. SP No. 132646 are AFFIRMED.
+
+
+SO ORDERED.
