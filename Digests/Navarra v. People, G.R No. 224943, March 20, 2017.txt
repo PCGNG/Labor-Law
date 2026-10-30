@@ -1,0 +1,15 @@
+Jorge B. Navarra v. People of the Philippines G.R. No. 224943, March 20, 2017
+Facts
+Jorge B. Navarra was the President and Chairman of the Board of Federal Express Network Inter-island Cargo Services, Inc. (FENICS). Between July 1997 and June 2000, FENICS deducted SSS premiums from the monthly wages of its employees but failed to remit the amounts (totaling P10,077,656.24, excluding penalties) to the SSS. Navarra was charged with violation of Section 22(a) in relation to Section 28(e) and (f) of R.A. No. 8282. Navarra argued that: (1) he did not have actual custody of the funds, as the HR/Finance departments handled payroll; (2) the company suffered severe financial insolvency and had ceased business operations; and (3) he had proposed a settlement and debt restructuring to the SSS, which he claimed negated criminal liability. The RTC convicted Navarra, and the CA affirmed.
+Issue
+Whether the corporate president can be held criminally liable under Section 28(f) of R.A. No. 8282 for the company's failure to remit SSS contributions, notwithstanding financial reverses or lack of direct custody of the payroll funds.
+Held
+The corporate president is CRIMINALLY LIABLE; the non-remittance of SSS contributions is malum prohibitum, where defenses of lack of direct cash handling, company insolvency, or good faith are inadmissible. 
+Verbatim Legal Basis: 
+Section 28(f), Republic Act No. 8282: 
+
+"Sec. 28. Penal Provisions. — ... (f) If the act or omission penalized by this Act be committed by an association, partnership, corporation or any other institution, its managing head, directors or partners shall be liable to the penalties provided in this Act for the offense." 
+Ratio
+1. Malum Prohibitum Nature of the Offense: Violations of the Social Security Act are mala prohibita. Criminal intent or malice is completely immaterial. The mere failure to remit collected deductions to the SSS within the statutory timeline completes the commission of the criminal act.
+2. Personal Responsibility of the Managing Head: Section 28(f) explicitly fastens personal criminal responsibility onto the managing head, president, or directors of a corporation. Corporate officers cannot insulate themselves behind internal delegations of authority to finance officers or claim financial reverses of the company, because trust-fund monies deducted from workers’ salaries must never be diverted to general operating expenses.
+Fallo	WHEREFORE, the petition is DENIED. The Decision dated November 19, 2015 and Resolution dated May 19, 2016 of the Court of Appeals in CA-G.R. CR No. 36248 are AFFIRMED with the modification that petitioner Jorge B. Navarra is sentenced to suffer imprisonment of four (4) years and two (2) months of prision correccional, as minimum, to twenty (20) years of reclusion temporal, as maximum, and ordered to pay the SSS the delinquent contributions and accrued legal penalties.
