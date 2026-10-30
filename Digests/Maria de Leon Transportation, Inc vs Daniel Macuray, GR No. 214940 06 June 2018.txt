@@ -1,0 +1,28 @@
+Component	Content
+Case Details	Maria De Leon Transportation, Inc. and Carlos De Leon v. Daniel Macuray
+
+G.R. No. 214940, June 06, 2018
+
+Second Division, Del Castillo, J.
+Facts	Daniel Macuray was hired as a bus driver by Maria De Leon Transportation, Inc. in April 2001. In November 2009, while driving a passenger bus bound for Laoag City, the bus collided with another vehicle, causing property damage. Following the accident, Macuray was not assigned any bus runs. When he followed up with Carlos De Leon, he was told to wait until the case with the insurance company and the other vehicle owner was settled. Macuray continued reporting to the bus terminal for several months seeking bus trip assignments, but the company repeatedly refused to assign him any trips. He then filed a complaint for illegal dismissal. The bus company denied dismissing him, claiming that Macuray abandoned his job after the collision out of fear of administrative repercussions, and argued that the company never issued any notice or termination letter. The Labor Arbiter dismissed the complaint, finding neither dismissal nor abandonment, and ordered reinstatement without backwages. The NLRC and Court of Appeals reversed, holding that Macuray was illegally dismissed when the company refused to give him trip assignments for over six months without an official suspension.
+Issue	Whether an employee who is not given work assignments for an indefinite period following a vehicular accident was illegally dismissed, or whether he is guilty of abandonment of work.
+Held	The employee was ILLEGALLY DISMISSED; the employer failed to prove the requisites of abandonment, and withholding work assignments without formal disciplinary proceedings or preventive suspension constitutes constructive termination.
+
+
+Verbatim Legal Basis:
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
+
+
+Article 297 [formerly Article 282] (b), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (b) Gross and habitual neglect by the employee of his duties..."
+Ratio Decidendi	1. Requisites of Abandonment: For abandonment to exist, the employer must prove two elements: (a) the failure to report for work or absence without valid or justifiable reason; and (b) a clear intention to sever the employer-employee relationship, manifested by overt acts. The filing of a complaint for illegal dismissal with prayer for reinstatement negates any intention to abandon employment. The burden of proving abandonment rests squarely on the employer.
+
+2. Withholding of Work as Illegal Dismissal: Indefinitely placing an employee on "floating status" or refusing to give him work assignments without formal preventive suspension or administrative charges exceeds reasonable management discretion. When an employer refuses to assign trips to a bus driver for months while requiring him to wait indefinitely, the worker is effectively deprived of his livelihood, amounting to an illegal dismissal.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The June 26, 2014 Decision and October 15, 2014 Resolution of the Court of Appeals in CA-G.R. SP No. 128475 are AFFIRMED with MODIFICATION. Petitioners Maria De Leon Transportation, Inc. and Carlos De Leon are ordered to pay respondent Daniel Macuray full backwages computed from the time he was illegally dismissed until the finality of this Decision, and separation pay in lieu of reinstatement equivalent to one (1) month salary for every year of service, with legal interest of six percent (6%) per annum on all monetary awards from finality until full satisfaction.
+
+
+SO ORDERED.
