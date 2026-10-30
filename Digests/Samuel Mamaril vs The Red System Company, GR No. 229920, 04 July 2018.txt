@@ -1,0 +1,34 @@
+Samuel Mamaril v. The Red System Company, Inc., Danilo Padrigon, Agnes Tunpalan, Alejandro Alvarez, Joderick Lozano, Enrique Rommel Miraflores, and Domingo Rivero
+G.R. No. 229920, July 04, 2018
+Second Division, Andres Reyes, Jr., J.
+Facts
+Samuel Mamaril was employed as a Delivery Service Representative (delivery driver) by The Red System Company, Inc. (Red System) in Davao City. During training and daily briefings, drivers were instructed on vehicular safety measures: whenever parking a delivery truck, the driver must pull the handbrake, place wheel chokes under the tires, and shift the transmission into first gear to prevent roll-aways. On two separate occasions in 2013, Mamaril parked company trucks without using wheel chokes and without engaging the handbrake/first gear. Both trucks rolled down inclines and collided with third-party structures, causing property damage in excess of P25,000.00. In both instances, Mamaril concealed the accidents, made private under-the-table settlements with the property owners, and failed to submit required written incident reports to management. Following an investigation, Red System placed him under a 30-day preventive suspension and subsequently dismissed him for willful disobedience of company safety rules and breach of trust under its Code of Conduct. Mamaril claimed he was illegally dismissed and that placing him under preventive suspension before dismissing him constituted double penalty.
+Issues
+1. Whether Mamaril was validly dismissed on the ground of willful disobedience of lawful company orders under Article 297(a) [formerly Art. 282(a)] of the Labor Code.
+
+2. Whether placing an employee under preventive suspension pending investigation and subsequently dismissing him from service constitutes an invalid double penalty.
+Held
+1. Mamaril was VALIDLY DISMISSED; his repeated, deliberate disregard of safety protocols and intentional concealment of accidents constituted serious willful disobedience.
+
+2. Preventive suspension pending administrative investigation is a preliminary protective measure and does NOT constitute double penalty when the employee is subsequently dismissed.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (a), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: (a) Serious misconduct or willful disobedience by the employee of the lawful orders of his employer or representative in connection with his work..."
+
+
+Sections 8 & 9, Rule XXIII, Book V, Omnibus Rules Implementing the Labor Code:
+
+"Sec. 8. Preventive suspension. — The employer may place the worker concerned under preventive suspension if his continued employment poses a serious and imminent threat to the life or property of the employer or of his co-workers.
+
+Sec. 9. Period of suspension. — No preventive suspension shall last longer than thirty (30) days."
+Ratio Decidendi
+1. Requisites of Willful Disobedience: For willful disobedience to justify termination under Article 297(a), two elements must concur: (a) the employee's assailed conduct must have been willful or intentional, characterized by a wrongful and perverse attitude; and (b) the order violated must be reasonable, lawful, made known to the employee, and must pertain to the duties the employee was engaged to discharge. Safety measures (engaging handbrakes and placing wheel chokes) are reasonable rules essential to the operation of heavy delivery vehicles. Mamaril’s repeated non-observance coupled with concealment exhibited a perverse defiance of company regulations.
+
+2. Preventive Suspension is Not a Disciplinary Penalty: Preventive suspension is an interlocutory protective measure designed to shield company property, personnel, or evidence from immediate harm or tampering while an administrative investigation is ongoing. It is not a penalty. Therefore, meting out preventive suspension during an inquiry and later terminating the employee upon establishing just cause does not constitute double jeopardy or double penalty.
+Fallo
+WHEREFORE, premises considered, the instant Petition is hereby DENIED for lack of merit. The Decision dated September 9, 2016 and Resolution dated December 9, 2016 of the Court of Appeals in CA-G.R. SP No. 06413-MIN are AFFIRMED with MODIFICATION, such that the total amount due to petitioner Samuel Mamaril [statutory 13th month pay and SIL differentials] shall be subject to a legal interest of six percent (6%) per annum from the finality of this Decision until full satisfaction.
+SO ORDERED.
