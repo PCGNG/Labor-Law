@@ -1,0 +1,14 @@
+Government Service Insurance System v. Fe L. Esteves G.R. No. 182297, June 21, 2017
+Facts
+Antonio Esteves, Sr. was employed as a utility worker by the Gubat Water District in Sorsogon. His manual duties included digging ditches, installing pipelines, clearing heavy blockages, and performing general maintenance under extreme weather conditions. While digging a water pipeline trench in November 2003, Antonio experienced severe dizziness, hypertension, and collapsed. He was brought to the hospital and diagnosed with a cerebrovascular accident (CVA / stroke) secondary to hypertension and non-insulin-dependent diabetes mellitus. He later died. His widow, Fe L. Esteves, filed a claim for death benefits under P.D. No. 626 with the GSIS. The GSIS denied the claim, citing that diabetes mellitus is an inherited metabolic disease and that Antonio’s stroke was a complication of his pre-existing diabetes, not his employment. The ECC sustained the rejection, but the CA reversed, holding that Antonio’s heavy physical exertion under the sun aggravated his hypertensive condition and precipitated the stroke.
+Issue
+Whether the cerebrovascular accident (stroke) contracted by a water district utility worker resulting in death is compensable under P.D. No. 626.
+Held
+The stroke/CVA is COMPENSABLE; cerebrovascular disease is a listed occupational illness, and the strenuous physical work precipitated the fatal vascular rupture.
+Verbatim Legal Basis:
+Item 19 (Cerebro-vascular accidents), Annex "A", Amended Rules on Employees' Compensation:
+"Cerebro-vascular accidents under any of the following conditions: (a) There must be proof that the acute stroke was precipitated by an unusual strain, extraordinary effort, or acute exposure to extreme conditions of heat or cold, connected with employment; (b) The strain must be followed immediately within twenty-four (24) hours by the development of neurological signs and symptoms; (c) History of preexisting cardiovascular or hypertensive disease must be medically managed."
+Ratio
+1. Listed Status of Cerebrovascular Accidents: CVA is an expressly recognized occupational illness under Annex "A" of the ECC Rules. Where the conditions of unusual physical exertion or heat exposure are present, causal link is legally recognized.
+2. Work Connection and Aggravation: Even if an employee possesses a pre-existing metabolic illness (such as diabetes or baseline hypertension), it is enough that the conditions of employment contributed, even in a small degree, to the acceleration or precipitation of the acute vascular stroke. Antonio's physical labor of digging ditches under the heat directly caused the vascular crisis.
+Fallo	WHEREFORE, the petition is hereby DENIED. The Decision of the Court of Appeals dated September 17, 2007 in CA-G.R. SP No. 97793 ordering the Government Service Insurance System to pay death benefits to respondent Fe L. Esteves under Presidential Decree No. 626 is AFFIRMED.
