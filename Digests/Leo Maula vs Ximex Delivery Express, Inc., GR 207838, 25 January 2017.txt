@@ -1,0 +1,23 @@
+Leo T. Maula v. Ximex Delivery Express, Inc., Jerome Ibañez, and Amador Cabrera
+G.R. No. 207838, January 25, 2017
+Second Division, Peralta, J.
+Facts
+Leo T. Maula was employed as an Operations Staff by Ximex Delivery Express, Inc. (Ximex) starting in March 2002. In February 2009, Ximex directed its personnel to sign an employment agreement that changed their status from monthly-paid to daily-paid employees and reclassified them into project hires. Entertaining doubts, Maula and several co-workers filed a complaint before the DOLE. At the conciliation conference, the parties agreed there would be no retaliatory actions. That same evening, however, Maula’s supervisor handed him a sudden reassignment paper directing him to report to a different warehouse area. Scenting a setup, Maula hesitated and consulted a lawyer, then reported back. The branch manager confronted Maula, dismissed his legal consultation with contempt ("Ay walang kwenta yan"), dared him to bring his lawyer, and ordered him out. Maula was issued two memos charging him with insubordination and serious misconduct, suspended preventively for 30 days, and dismissed. The Labor Arbiter and NLRC found illegal dismissal, but the Court of Appeals reversed, holding that Maula was insubordinate and that the "totality of infractions" rule applied to past offenses.
+Issue
+Whether the employee's isolated questioning of a suspicious reassignment and refusal to comply without legal clarification constituted serious misconduct or willful disobedience warranting dismissal under the totality of infractions rule.
+Held
+The employee was ILLEGALLY DISMISSED; his conduct did NOT constitute serious misconduct or willful disobedience, and the totality of infractions rule cannot be applied where past minor infractions were already penalized and unrelated to the dismissal charge.
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (a), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: (a) Serious misconduct or willful disobedience by the employee of the lawful orders of his employer or representative in connection with his work..."
+Ratio Decidendi
+1. Standards for Serious Misconduct: Misconduct is the transgression of an established and definite rule of action, a forbidden act, or a dereliction of duty. To justify termination, it must: (a) be serious and grave; (b) relate directly to the performance of duties; and (c) show that the employee has become unfit to continue working. An employee’s hesitation to sign an ambiguous reassignment immediately following a DOLE conciliation meeting does not demonstrate the perverse, wrongful attitude required for serious misconduct.
+
+2. Limitations on the Totality of Infractions Rule: While previous infractions may be taken into consideration in determining the proper penalty for a new infraction, the rule cannot be invoked to justify dismissal where the current offense is non-existent, unproven, or minor. Previous minor warnings or past infractions that have already been penalized cannot be aggregated to justify dismissal where no independent, grave just cause exists.
+
+3. Impropriety of Preventive Suspension: Preventive suspension is unjustified where the worker's presence does not pose a serious and imminent threat to company property or the life of co-workers.
+Fallo
+WHEREFORE, premises considered, the petition is GRANTED. The Court of Appeals Decision dated November 20, 2012 and Resolution dated June 21, 2013 in CA-G.R. SP No. 121176 are hereby REVERSED and SET ASIDE. The Decision of the National Labor Relations Commission dated July 20, 2011 is REINSTATED with MODIFICATION that the Labor Arbiter is DIRECTED to recompute the proper amount of backwages and separation pay due to petitioner in accordance with this decision.
+SO ORDERED.
