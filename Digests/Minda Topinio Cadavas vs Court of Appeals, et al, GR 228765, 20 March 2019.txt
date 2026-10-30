@@ -1,0 +1,27 @@
+Component	Content
+Case Details	Minda Topinio Cadavas v. Court of Appeals, Saint Luke's Medical Center, Inc., and Robert Kuan
+
+G.R. No. 228765, March 20, 2019
+
+First Division, Gesmundo, J.
+Facts	Minda Topinio Cadavas was employed as a regular Staff Nurse at the Neonatal Intensive Care Unit (NICU) of Saint Luke’s Medical Center, Inc. (SLMC). SLMC maintained a hospital policy and safety standard strictly prohibiting staff from buying medications or medical supplies from outside pharmacies for patients, requiring all medical supplies and drugs to be requisitioned directly through SLMC's Central Pharmacy to prevent counterfeit, substandard, or expired medicines. A patient’s mother approached Cadavas inquiring where to purchase an expensive specialty medication (Survanta) that was out of stock in the hospital pharmacy. Cadavas referred the parent to an outside source and facilitated the purchase and delivery of the medication into the hospital nursery without physician clearance or administrative authorization. Following an administrative investigation, SLMC dismissed Cadavas for loss of trust and confidence and willful breach of hospital safety rules under Article 282 [now Art. 297] of the Labor Code. Cadavas filed an illegal dismissal complaint, invoking Conti v. NLRC to argue that she acted out of humanitarian sympathy for a dying infant and that dismissal was too harsh. The Labor Arbiter ruled the dismissal illegal, but the NLRC and Court of Appeals reversed, holding the termination valid.
+Issue	Whether a hospital staff nurse who violates a hospital policy prohibiting the unauthorized procurement of medications from outside sources may be validly dismissed for willful breach of trust and loss of confidence.
+Held	The dismissal was VALID; facilitating the unauthorized introduction of outside medicines into an intensive care nursery in direct violation of hospital safety protocols constitutes willful breach of trust and serious misconduct.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (a) & (c), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes:
+
+(a) Serious misconduct or willful disobedience by the employee of the lawful orders of his employer or representative in connection with his work;
+
+(c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Ratio Decidendi	1. Standards of Safety and Care in Healthcare Institutions: Hospitals are engaged in health and medical services and are held to strict standards of diligence in patient care. An employer in the medical sector has the right to enforce policies regarding the sourcing, administration, and verification of medications. Sourcing unverified pharmaceuticals from outside third parties presents significant medical and institutional liability risks.
+
+2. Distinction from the Conti v. NLRC Precedent: Unlike the factual circumstances in Conti, where an employee acted under a sudden, life-threatening emergency with the express knowledge of the attending physician, Cadavas actively coordinated an unauthorized commercial procurement from outside channels without attending physician clearance or pharmacy verification. Bypassing safety protocols in an intensive care nursery constitutes serious misconduct and a willful breach of trust justifying termination of employment under Article 297.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The August 26, 2016 Decision and December 19, 2016 Resolution of the Court of Appeals in CA-G.R. SP No. 137351 are AFFIRMED. Petitioner's dismissal from employment is declared VALID and LEGAL.
+
+
+SO ORDERED.
