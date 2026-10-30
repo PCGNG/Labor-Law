@@ -1,0 +1,23 @@
+Component	Content
+Case Details	Ruby C. Del Rosario v. CW Marketing & Development Corporation and Kenneth Tung
+
+G.R. No. 211105, February 20, 2019
+
+First Division, Jardeleza, J.
+Facts	Ruby C. Del Rosario was employed by CW Marketing & Development Corporation (CW Marketing) as a Sales Supervisor assigned to the Home Depot Balintawak branch. In October 2007, an internal audit and IT forensic review discovered that falsified transaction forms, fraudulent sales invoices, and unauthorized credit card transactions were repeatedly created and processed using Del Rosario’s assigned computer terminal and account credentials. The transactions allowed an affiliated external marketing agent to fraudulently earn unearned sales commissions. When issued a Notice to Explain, Del Rosario claimed that she was unaware of the falsifications and maintained that she allowed her subordinate sales personnel to use her password and desktop terminal out of convenience and camaraderie. CW Marketing terminated her employment for loss of trust and confidence and gross negligence under Article 282 [now Art. 297] of the Labor Code. Del Rosario filed an illegal dismissal complaint. The Labor Arbiter found illegal dismissal, but the NLRC and Court of Appeals reversed, declaring her termination valid for loss of trust and confidence.
+Issue	Whether a managerial/supervisory employee who allows subordinates to use her system credentials—resulting in the falsification of corporate transactions—can be validly dismissed on the ground of loss of trust and confidence under Article 297(c) of the Labor Code.
+Held	The dismissal was VALID; permitting unauthorized access to supervisory terminals and keeping silent over irregularities committed through her credentials constitutes willful breach of trust and loss of confidence.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (c), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Ratio Decidendi	1. Standards for Managerial/Supervisory Positions of Trust: With respect to managerial employees and supervisors entrusted with custody of operational systems, confidential access credentials, and oversight of personnel, the degree of proof required to sustain loss of trust and confidence is not proof beyond reasonable doubt, but merely substantial evidence showing a reasonable basis for believing that the employee breached that trust.
+
+2. Willful Breach Through Deliberate Dereliction of Duty: Del Rosario’s defense that she was not the actual perpetrator who typed the fraudulent invoices is untenable. As a Sales Supervisor, she was tasked with protecting company sales integrity. Knowingly sharing her supervisory password and permitting subordinates to operate her assigned terminal with impunity is an act of gross supervisory neglect that facilitated the fraud. An employer cannot be compelled to retain a supervisor whose conduct compromises internal financial controls.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is hereby DENIED. The Decision dated October 9, 2013 and Resolution dated February 3, 2014 of the Court of Appeals in CA-G.R. SP No. 120562 are AFFIRMED.
+
+
+SO ORDERED.
