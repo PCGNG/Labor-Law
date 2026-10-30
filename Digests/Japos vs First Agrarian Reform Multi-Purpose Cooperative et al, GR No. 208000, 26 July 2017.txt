@@ -1,0 +1,23 @@
+Component	Content
+Case Details	Virgel Dave Japos v. First Agrarian Reform Multi-Purpose Cooperative (FARMCOOP) and/or Crislino Bagares
+
+G.R. No. 208000, July 26, 2017
+
+First Division, Del Castillo, J.
+Facts	Virgel Dave Japos was employed as a gardener by the First Agrarian Reform Multi-Purpose Cooperative (FARMCOOP). Under FARMCOOP's Code of Employee Discipline, any worker seeking to take a leave of absence must file a Personnel Leave Authority (PLA) with their supervisor in advance; unexcused absences without prior leave are subject to disciplinary measures, and accumulating six (6) or more unexcused absences within an employment year is punishable by dismissal. In 2005, Japos incurred six consecutive unapproved absences from June 22 to June 28, 2005, having previously received written warnings for similar unapproved absences. FARMCOOP issued a show-cause letter. In his defense, Japos submitted a medical certificate claiming he was ill. However, the medical certificate lacked the date of consultation, did not indicate the specific days he was incapacitated, and showed no diagnosis covering the June 22–28 absence period. FARMCOOP terminated his services for habitual absenteeism and gross neglect of duty under Article 282(b) [now Art. 297(b)] of the Labor Code. Japos filed an illegal dismissal complaint. The NLRC ruled the dismissal illegal, but the CA reversed, finding the termination valid.
+Issue	Whether an employee can be validly dismissed for habitual absenteeism where the medical certificate presented to explain repeated unapproved absences fails to cover the specific dates of absence.
+Held	The dismissal was VALID; repeated unauthorized absences in violation of company policy, left unsupported by competent medical proof, constitute gross and habitual neglect of duty.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (b), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (b) Gross and habitual neglect by the employee of his duties..."
+Ratio Decidendi	1. Standards for Habitual Absenteeism: An employee's repeated unauthorized absences disrupt business operations and constitute gross and habitual neglect of duties. Habitual absenteeism demonstrates a disregard for the employer’s operational needs and justifies termination.
+
+2. Defective Medical Certificates: An employee who invokes illness as an excuse for absences bears the burden of proving that illness with competent evidence. A medical certificate that fails to state the dates of treatment, the examination timeline, or the specific period of incapacitation carries no evidentiary value. Incurring six or more unapproved absences within a single year after previous warnings justifies dismissal under Article 297(b).
+Fallo	WHEREFORE, the petition is DENIED. The August 28, 2012 Decision and May 29, 2013 Resolution of the Court of Appeals in CA-G.R. SP No. 03319-MIN are AFFIRMED.
+
+
+SO ORDERED.
