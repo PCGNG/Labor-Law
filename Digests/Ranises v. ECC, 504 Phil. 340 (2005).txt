@@ -1,0 +1,28 @@
+Remedios Rañises v. Employees' Compensation Commission and Social Security System G.R. No. 141979, September 27, 2005 (504 Phil. 340)
+
+Facts
+The late Constancio Rañises was employed as a carpenter and maintenance worker by the National Food Authority (NFA) for over 18 years. His daily routine required manual labor, lifting heavy sacks of grain, exposure to warehouse dust, fluctuating temperatures, and sustained physical exertion. While on duty in December 1996, Constancio experienced chest pains, palpitations, and shortness of breath. He was diagnosed with coronary artery disease and myocardial infarction, which eventually caused his death. His widow, Remedios Rañises, filed a claim for death benefits under P.D. No. 626. SSS and ECC rejected the claim, asserting that arteriosclerosis/coronary artery disease is an idiopathic degenerative vascular disorder unrelated to employment. The CA sustained the ECC.
+
+Issue
+Whether the myocardial infarction of a manual laborer is compensable under P.D. No. 626 under the doctrine of increased risk.
+
+Held
+The death resulting from myocardial infarction is COMPENSABLE; substantial evidence showed that strenuous manual labor precipitated and aggravated the cardiac condition.
+
+Verbatim Legal Basis:
+
+Article 167(l) [now Article 173(l)], Labor Code of the Philippines:
+
+"Art. 167. Definition of terms. — ... (l) 'Sickness' means any illness definitely accepted as an occupational disease listed by the Commission, or any illness caused by employment subject to proof that the risk of contracting the same was increased by working conditions."
+
+Item 18 (Cardiovascular Diseases), Annex "A", Amended Rules on Employees' Compensation: 
+
+"Any of the following conditions: (a) If the heart disease was known to have been present during employment, there must be proof that an acute exacerbation was clearly precipitated by the unusual strain by reasons of the nature of his/her work... (c) If a person who was apparently asymptomatic before being subjected to unusual strain at work showed signs and symptoms of cardiac injury during the performance of his work and such symptoms and signs persisted, it is considered as work-connected."
+
+Ratio
+1. Degree of Proof in Employees' Compensation: Strict mathematical or medical certainty is not required to establish compensability; the legal standard is substantial evidence showing a reasonable probability of a work connection. Probability, not absolute certainty, governs claims under social legislation.
+
+2. Strenuous Working Conditions as Precipitating Trigger: Even if coronary artery disease has underlying physiological origins, when an employee is asymptomatic prior to strenuous duties and exhibits acute cardiovascular failure while performing physical labor, the acute exacerbation is compensable. Working 18 years lifting cargo and exerting heavy physical effort provided the needed causal link.
+
+Fallo
+WHEREFORE, the petition is GRANTED. The assailed decision of the Court of Appeals is REVERSED and SET ASIDE. The SSS is hereby ordered to pay petitioner the death benefits due her under Presidential Decree No. 626, as amended.
