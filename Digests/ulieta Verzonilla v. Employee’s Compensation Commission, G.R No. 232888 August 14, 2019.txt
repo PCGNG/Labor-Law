@@ -1,0 +1,20 @@
+Julieta T. Verzonilla v. Employees’ Compensation Commission G.R. No. 232888, August 14, 2019   
+Facts
+Reynaldo I. Verzonilla was employed as Special Operations Officer III at the Department of Public Order and Safety (DPOS) of Quezon City from 1999 to 2012. His duties entailed conducting disaster preparedness seminars, earthquake drills, rescue operations, vulnerability inspections, and physical fieldwork. In July 2012, he traveled from Quezon City to Tagaytay City to participate in an intensive five-day seminar and field drill on disaster management. On the fourth day of the exercises, he experienced chest discomfort, suffered an acute coronary syndrome / myocardial infarction, and died. His widow, Julieta Verzonilla, applied for death benefits under P.D. No. 626. SSS and ECC denied the claim, asserting that acute myocardial infarction is triggered by pre-existing coronary atherosclerosis, which is not an occupational illness, and that claimant failed to prove that the seminar training caused the attack. The CA affirmed the ECC.
+Issue
+Whether the death of a disaster rescue operations officer from acute myocardial infarction during an official disaster-training seminar is compensable under P.D. No. 626.
+Held
+The death is COMPENSABLE; cardiovascular disease is an occupational disease under Annex "A", and the unusual physical and environmental strain of the training drill precipitated the fatal heart attack.
+
+Verbatim Legal Basis: 
+
+Item 18 (Cardio-Vascular Diseases), Annex "A", Amended Rules on Employees' Compensation: 
+"18. CARDIO-VASCULAR DISEASES. Any of the following conditions: 
+(a) If the heart disease was known to have been present during employment, there must be proof that an acute exacerbation was clearly precipitated by the unusual strain by reasons of the nature of his/her work. 
+(b) The strain of work that brings about an acute attack must be of sufficient severity and its onset must be accompanied by severe or violent symptom which must be followed within twenty-four (24) hours by cardiac assault.
+(c) If a person who was apparently asymptomatic before being subjected to unusual strain at work showed signs and symptoms of cardiac injury during the performance of his work and such symptoms and signs persisted, it is considered as work-connected."
+Ratio
+1. Precipitation of Acute Cardiac Assault by Work Strain: For cardiovascular disease to be compensable under Annex "A", it is not necessary that the work be the sole cause of the illness. It is sufficient that the physical strain and environmental demands of official duty precipitated, accelerated, or contributed, even to a small degree, to the acute cardiac failure.
+2. Degree of Proof Required: Under P.D. No. 626, the evidentiary standard is merely substantial evidence—relevant evidence that a reasonable mind accepts as adequate to support a conclusion of probability. The deceased travelled to Tagaytay and underwent consecutive days of rigorous physical rescue drills, which placed unusual strain on his cardiovascular system, meeting the statutory criteria under Item 18.
+Fallo
+WHEREFORE, premises considered, the petition is GRANTED. The Assailed Decision dated October 28, 2016 and Resolution dated July 6, 2017 of the Court of Appeals in CA-G.R. SP No. 134846 are REVERSED. The respondent Employees' Compensation Commission is hereby ordered to award death benefits due petitioner in relation to the death of Reynaldo I. Verzonilla. The award of death benefits shall earn interest at the rate of 6% per annum from the date of extrajudicial demand until finality of this Resolution and the total amount thereof as of the finality of this Resolution shall earn 6% interest per annum from such date until full payment.
