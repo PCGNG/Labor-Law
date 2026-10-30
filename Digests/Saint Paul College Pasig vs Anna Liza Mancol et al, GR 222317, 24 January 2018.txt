@@ -1,0 +1,24 @@
+Component	Content
+Case Details	St. Paul College, Pasig and Sister Teresita Baricaua, SPC v. Anna Liza L. Mancol and Jennifer Cecile S. Valera
+G.R. No. 222317, January 24, 2018
+
+Second Division, Peralta, J.
+Facts	
+Anna Liza L. Mancol and Jennifer Cecile S. Valera were regular preschool teachers at St. Paul College, Pasig (SPCP). Mancol applied for a leave of absence to undergo fertility medical treatment in Canada. Upon returning, Sister Teresita Baricaua issued a show-cause letter and barred Mancol from entering her classroom, meeting her students, and preparing lesson aids. Valera, who had undergone corrective spinal surgery for scoliosis, reported for work with a fit-to-work medical clearance. However, Sister Baricaua refused to assign her a teaching load, insisting that she take an involuntary one-year leave of absence or be reassigned. Both teachers filed complaints for constructive illegal dismissal. SPCP argued that Mancol was merely suspended for unapproved absence and that Valera was not dismissed but advised to recuperate under school health considerations.
+Issue
+Whether barring teachers from their classrooms, withholding their teaching assignments, and compelling an involuntary one-year leave of absence constitute constructive dismissal.
+Held
+The teachers were CONSTRUCTIVELY and ILLEGALLY DISMISSED; the school’s acts were unwarranted, discriminatory, and made continued employment impossible.
+
+Verbatim Legal Basis:
+
+Article 279 [now Article 294], Labor Code of the Philippines:
+
+"Art. 279. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent..."
+Ratio
+Decidendi	1. Nature of Constructive Dismissal: Constructive dismissal is an act amounting to dismissal disguised under operational orders. It occurs when continued employment is rendered impossible, unreasonable, or unlikely, or when employer actions demonstrate disdain and discrimination that leave an employee with no viable recourse.
+
+2. Unjustified Deprivation of Teaching Functions: Barring a regular teacher from entering the school premises or interacting with students without a lawful preventive suspension order, and compelling a medically cleared teacher to take an involuntary one-year leave without pay, constitute constructive discharge. These measures exceed legitimate management prerogative and infringe upon security of tenure.
+Fallo
+WHEREFORE, the Petition for Review on Certiorari filed by St. Paul College, Pasig and Sister Teresita Baricaua is DENIED for lack of merit. Consequently, the Decision dated April 16, 2015 and the Resolution dated January 8, 2016 of the Court of Appeals in CA-G.R. SP No. 124501 are AFFIRMED.
+SO ORDERED.
