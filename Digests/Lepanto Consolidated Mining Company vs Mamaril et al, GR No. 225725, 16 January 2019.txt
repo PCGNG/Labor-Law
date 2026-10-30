@@ -1,0 +1,27 @@
+Component	Content
+Case Details	Lepanto Consolidated Mining Company v. Maximo Mamaril, SRF Security Guards, et al.
+
+G.R. No. 225725, January 16, 2019
+
+Second Division, Carpio, J.
+Facts	Maximo Mamaril was hired as a security guard by Lepanto Consolidated Mining Company (Lepanto) and assigned to its Security Reaction Force (SRF) in Mankayan, Benguet. On October 8, 2006, company operatives apprehended a mine laborer (Sumibang) caught pilfering rolls of skinned copper wire from the Tubo Collar portal. Lepanto implicated Mamaril in the qualified theft, asserting that as the guard on post, he left the main door unpadlocked and allegedly conspired with Sumibang to allow a tricycle to load the stolen items. Lepanto terminated Mamaril for dishonesty and willful breach of trust under Article 282(c) [now Art. 297(c)] of the Labor Code. Mamaril filed a complaint for illegal dismissal and payment of monetary benefits (overtime, holiday, and rest day premiums) earned during a three-month labor strike. Mamaril denied conspiracy, stating he left the door latched but unpadlocked because drilling workers were underground, and that he was on roving patrol when the theft occurred. The Labor Arbiter dismissed Mamaril's complaint, but the NLRC and CA reversed, finding the dismissal illegal due to lack of proof of conspiracy.
+Issues	1. Whether a security guard can be dismissed for loss of trust and confidence based on uncorroborated allegations of conspiracy in the theft of company property.
+
+2. Who carries the burden of proving payment of monetary claims for overtime, holiday, and rest day pay.
+Held	1. Mamaril was ILLEGALLY DISMISSED; the employer failed to prove willful breach of trust or conspiracy by substantial evidence.
+
+2. The burden of proving payment of monetary claims rests on the employer; Lepanto's failure to present signed daily time sheets and payrolls made it liable for overtime and holiday wages.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (c), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Ratio Decidendi	1. Standards of Willful Breach of Trust: While security guards occupy positions of trust, dismissal under Article 297(c) requires a willful breach—done intentionally, knowingly, and purposely. Conspiracy to commit theft cannot be presumed from the mere act of leaving a door unpadlocked where there was an operational explanation (underground workers needing exit). Lepanto’s reliance on dark-night observations from a distance, without physical evidence linking Mamaril to the stolen copper, failed the substantial evidence test.
+
+2. Burden of Proof in Money Claims: In claims for overtime, rest day, and holiday pay rendered during extraordinary operational periods (such as a plant strike), the burden of showing complete payment falls on the employer who holds the custody of employment logs, registers, and vouchers. Lepanto presented uniform summary time sheets that were rejected by the tribunals, making it liable for unpaid labor standards benefits.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated December 22, 2015 and Resolution dated July 6, 2016 of the Court of Appeals in CA-G.R. SP No. 114881 are AFFIRMED.
+
+
+SO ORDERED.
