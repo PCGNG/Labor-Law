@@ -1,0 +1,31 @@
+Component	Content
+Case Details	University of the East and Dr. Ester Garcia v. Veronica M. Masangkay and Gertrudo R. Regondola
+
+G.R. No. 226727, April 25, 2018
+
+Third Division, Velasco, Jr., J.
+Facts	Respondents Veronica M. Masangkay and Gertrudo R. Regondola were Associate Professors and Associate Deans in the College of Engineering at the University of the East (UE) Caloocan. Together with co-author Adelia F. Rocamora, they prepared manuals in Engineering Mechanics and applied for their adoption as official instructional materials for UE students. In doing so, respondents executed certifications under oath stating that the contents of the manuals were original and entirely free from plagiarism. UE approved the manuals. Subsequently, UE received emails from the copyright holders and families of authors of foreign textbooks (Applied Engineering Mechanics and Engineering Mechanics), claiming that the manuals copied chapters, diagrams, and text without permission. Following an investigation where respondents participated, the UE Board of Trustees dismissed respondents for academic dishonesty, misrepresentation, and copyright infringement under Article 282 [now Art. 297] of the Labor Code. Respondents did not appeal the dismissal at the time; instead, they claimed their accrued terminal benefits. Nearly three years later, after their co-author Rocamora secured a favorable ruling in a separate case before the Supreme Court (G.R. No. 199959), respondents filed complaints for illegal dismissal. The CA ruled that the Rocamora decision was binding under stare decisis and held that respondents were illegally dismissed.
+Issues	1. Whether the Court of Appeals erred in applying stare decisis based on the separate ruling involving co-author Rocamora.
+
+2. Whether respondents' submission of plagiarized instructional materials accompanied by false sworn certifications of originality constitutes just cause for termination of employment.
+Held	1. The doctrine of stare decisis was ERRONEOUSLY APPLIED; the minute resolution in the Rocamora case did not establish a binding doctrinal precedent on the merits.
+
+2. Respondents were VALIDLY DISMISSED; engaging in academic dishonesty, plagiarism, and executing false sworn certifications constitute serious misconduct and breach of trust.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282], Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes:
+
+(a) Serious misconduct or willful disobedience by the employee of the lawful orders of his employer or representative in connection with his work;
+
+(c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Ratio Decidendi	1. Inapplicability of Stare Decisis: The doctrine of stare decisis requires an identity of parties and issues and a settled legal principle declared by the Court. A minute resolution denying a petition for failure to show reversible error in another case does not create a binding legal doctrine across all companion cases, especially where respondents abandoned their initial administrative appeal and collected separation benefits.
+
+2. Academic Dishonesty and Breach of Trust: Academic integrity is central to an educational institution. Teachers are bound by high ethical standards. Submitting instructional manuals lifted from foreign publications and attesting under oath that the works were entirely original constitutes dishonesty, fraud, and serious misconduct under Article 297(a) and (c) of the Labor Code. An institution of higher learning is not required to retain educators who breach trust and academic standards.
+Fallo	WHEREFORE, premises considered, the petition is GRANTED. The February 19, 2016 Decision and August 26, 2016 Resolution of the Court of Appeals in CA-G.R. SP No. 132774 are hereby REVERSED and SET ASIDE. The June 29, 2012 Decision and September 27, 2013 Resolution of the National Labor Relations Commission in NLRC LAC No. 04-001099-11 dismissing the complaint for illegal dismissal are REINSTATED.
+
+
+SO ORDERED.
