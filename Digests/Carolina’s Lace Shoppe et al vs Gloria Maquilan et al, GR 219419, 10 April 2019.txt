@@ -1,0 +1,22 @@
+Case Details	Carolina’s Lace Shoppe, Lourdes Ragas, and Claudine Mangasing v. Gloria Maquilan and Joy Maquilan
+G.R. No. 219419, April 10, 2019
+Second Division, Reyes, Jr., J.
+Facts
+Gloria and Joy Maquilan were employed by Carolina’s Lace Shoppe (CLS) as sales clerk and header, respectively. Following an inspection by the DOLE, CLS was found non-compliant with minimum wage and statutory benefit standards. Thereafter, CLS summoned the Maquilans, handed them prepared resignation letters and quitclaims, and directed them to sign in exchange for small monetary amounts labeled as "separation pay." The Maquilans signed the documents, accepted the checks, and immediately filed complaints for illegal dismissal and underpayment of wages. CLS contended that the employees voluntarily resigned and that their executed quitclaims barred the claims. The Labor Arbiter found illegal dismissal, but the NLRC reversed, finding the resignations voluntary. The CA reinstated the finding of illegal dismissal.
+Issue
+Whether the employees voluntarily resigned or were constructively and illegally dismissed, and whether their signed waivers and quitclaims extinguished their labor claims.
+Held
+The employees were ILLEGALLY DISMISSED; their resignations were involuntary, and the executed quitclaims were invalid and unconscionable.
+
+Verbatim Legal Basis:
+
+Article 285 [now Article 300], Labor Code of the Philippines:
+
+"Art. 285. Termination by employee. — (a) An employee may terminate without just cause the employee-employer relationship by serving a written notice on the employer at least one (1) month in advance. The employer upon whom no such notice was served may hold the employee liable for damages..."
+Ratio Decidendi
+1. Burden of Proof in Voluntary Resignation: When an employer relies on resignation to defend against an illegal dismissal charge, the employer bears the burden of proving that the resignation was voluntary, clear, and intentional. The presence of a signed resignation letter is not conclusive where the employee acted under employer pressure.
+
+2. Invalidity of Unconscionable Quitclaims: Quitclaims and waivers are strictly scrutinized. A quitclaim is void where: (a) the employee executed it under employer compulsion; (b) the consideration is unconscionably low relative to statutory entitlements; and (c) the waiver operates to extinguish minimum statutory rights. The simultaneous execution of pro-forma resignation letters and receipt of deficient sums following a DOLE inspection indicates forced separation.
+Fallo
+WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated October 8, 2014 and Resolution dated July 21, 2015 of the Court of Appeals in CA-G.R. SP No. 118471 are hereby AFFIRMED.
+SO ORDERED.
