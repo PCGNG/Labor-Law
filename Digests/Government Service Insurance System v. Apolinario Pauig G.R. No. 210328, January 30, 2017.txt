@@ -1,0 +1,26 @@
+Government Service Insurance System v. Apolinario PauigG.R. No. 210328, January 30, 2017   
+
+Facts
+Apolinario Pauig was employed as a heavy equipment operator by the Provincial Government of Isabela from 1974 until his compulsory retirement in 2012. Throughout his 38 years of public service, he was initially engaged as a casual or temporary employee from 1974 to 1980, during which no GSIS retirement premiums were deducted from his compensation or remitted by the local government unit. He was extended a permanent appointment in 1981, and GSIS deductions were remitted regularly thereafter until his retirement. Upon retirement, Pauig applied for full retirement benefits under R.A. No. 8291, requesting that his six years of service from 1974 to 1980 as a casual worker be credited in the computation of his Total Length of Service (TLS). The GSIS rejected the inclusion of the 1974–1980 period, asserting that under the GSIS law, services rendered without corresponding premium payments cannot be credited for retirement purposes. The CA reversed GSIS and ordered the inclusion of the casual years.
+Issue
+Whether temporary or casual service rendered in government without premium deductions and remittances can be credited in the computation of the Total Length of Service for retirement benefits under R.A. No. 8291.
+Held
+Casual or temporary service rendered WITHOUT corresponding premium deductions and remittances CANNOT be credited in the Total Length of Service for retirement benefits.
+
+Verbatim Legal Basis:
+
+Section 2(l), Republic Act No. 8291 (The Government Service Insurance System Act of 1997):
+
+"Sec. 2. Definition of Terms. — ... (l) Total Length of Service — The number of months for which corresponding contributions have been paid by the member and his employer."
+
+
+Section 10(b), Republic Act No. 8291:
+
+"Sec. 10. Computation of Service. — ... (b) For the purpose of computing the length of service for the maximum pension benefit, only the service of a member who has paid the corresponding contributions shall be considered."
+
+Ratio
+1. Contributory and Actuarial Nature of the GSIS Fund: The GSIS is an actuarially managed social insurance trust fund that relies strictly on the mathematical equivalence between collected member/employer premiums and guaranteed future annuities. Crediting periods of unremitted service threatens the financial solvency and actuarial integrity of the public retirement fund.
+
+
+2. Clear Statutory Definition of Total Length of Service: Section 2(l) and Section 10 of R.A. No. 8291 define service strictly as that period during which corresponding contributions were actually paid. While the employee may have remedies against the employing local government unit for failing to deduct and remit mandatory contributions, the GSIS cannot be mandated to credit non-contributory years against its trust reserves.
+Fallo	WHEREFORE, the petition is GRANTED. The Decision dated June 17, 2013 and Resolution dated November 25, 2013 of the Court of Appeals in CA-G.R. SP No. 126201 are REVERSED and SET ASIDE. The Decision of the GSIS Board of Trustees denying the crediting of respondent’s unremitted services from 1974 to 1980 is REINSTATED.
