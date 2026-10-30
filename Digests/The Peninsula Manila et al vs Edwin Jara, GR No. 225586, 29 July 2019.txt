@@ -1,0 +1,23 @@
+Component	Content
+Case Details	The Peninsula Manila and Sonja Vodusek v. Edwin A. Jara
+
+G.R. No. 225586, July 29, 2019
+
+Second Division, Lazaro-Javier, J.
+Facts	Edwin A. Jara was employed as Captain Waiter at the Escolta Restaurant of The Peninsula Manila (the Hotel). His routine duties included receiving cash payments from dining guests, inputting sales into the Micros point-of-sale system, generating official receipts, and balancing actual cash collections against printed daily sales readings. On July 22, 2011, during the evening shift, Jara processed dining transactions and discovered an unreconciled cash overage of P6,500.00. Rather than reporting the overage to the hotel cashier or depositing the excess cash into the drop-safe, Jara altered the closing report to make it appear that the registers were balanced, took the P6,500.00 in cash, and placed it inside his personal office locker. He then went on off-duty status for two days without turning over the money. Following an audit, the Hotel issued a notice to explain. Jara admitted keeping the cash in his locker, claiming he intended to surrender it upon returning from his off days. The Hotel dismissed him for dishonesty, falsification of hotel receipts, and willful breach of trust. The Labor Arbiter found illegal dismissal, but the NLRC reversed and upheld the termination. The CA set aside the NLRC, ruling that Jara acted in good faith because the cash was kept inside the hotel premises.
+Issue	Whether a captain waiter entrusted with cash collections who tampers with sales reports and conceals an unreconciled cash overage in his locker is guilty of willful breach of trust warranting dismissal under Article 297(c) of the Labor Code.
+Held	The dismissal was VALID; concealing cash overages, tampering with register reports, and keeping collections in a personal locker constitute willful breach of trust and dishonesty.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (c), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Ratio Decidendi	1. Two Classes of Positions of Trust: Jurisprudence recognizes two classes of positions of trust: (a) managerial employees who exercise managerial prerogatives; and (b) fiduciary rank-and-file employees (cashiers, auditors, and property custodians) who, in the routine performance of their duties, regularly handle significant amounts of money or property. Jara belonged to the second category because he was entrusted with customer payments and register reconciliation.
+
+2. The Nature of Willful Breach: An act is willful when it is done intentionally and knowingly without justifiable excuse. The breach of trust occurred the moment Jara falsified the closing transaction sheet to falsely state that register tallies were balanced, while surreptitiously locking the excess P6,500.00 inside his locker. That the cash was not carried past the hotel gates does not absolve the deceit; concealing customer money undermines an employee's honesty and justifies dismissal.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision dated January 25, 2016 and the Resolution dated July 5, 2016 of the Court of Appeals in CA-G.R. SP No. 131346 are REVERSED and SET ASIDE. The Decision dated March 27, 2013 of the National Labor Relations Commission is REINSTATED. Respondent Edwin A. Jara is declared to have been VALIDLY DISMISSED for just cause.
+
+
+SO ORDERED.
