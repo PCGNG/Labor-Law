@@ -1,0 +1,24 @@
+Social Security System v. Violeta A. SimacasG.R. No. 217866, June 20, 2022   
+
+Facts
+Irnardo Simacas was employed as a fabrication helper and welder by Greentech Metal Fabricator. During his employment, he was diagnosed with prostate cancer, which eventually spread, leading to his death. His surviving spouse, Violeta Simacas, filed a claim for permanent total disability and death benefits before the SSS. The SSS denied the claim on the ground that prostate cancer was not listed as an occupational disease under Annex "A" of the Amended Rules on Employees' Compensation, and that the claimant failed to present substantial medical evidence proving that the work of a fabrication helper/welder directly caused or increased the risk of contracting prostate cancer. The Employees' Compensation Commission (ECC) affirmed the SSS denial, but the Court of Appeals reversed the ECC, ruling that the physical and chemical conditions of welding could have aggravated the illness.
+
+Issue
+Whether a non-listed disease (prostate cancer) contracted by an industrial worker is compensable under the Social Security and Employees' Compensation laws under the theory of increased risk.
+
+Held
+The illness is compensable; the claimant presented substantial proof that the conditions of employment increased the risk of contracting the disease.
+
+Verbatim Legal Basis:
+Article 167(l) [now Article 173(l)], Labor Code of the Philippines (Employees' Compensation and State Insurance Fund):
+
+"Art. 167. Definition of terms. — ... (l) 'Sickness' means any illness definitely accepted as an occupational disease listed by the Commission, or any illness caused by employment subject to proof that the risk of contracting the same was increased by working conditions."
+
+Ratio
+1. Doctrine of Increased Risk: For a non-listed disease to be compensable under the Employees' Compensation Program, the claimant is not required to show absolute medical certainty. It is sufficient to demonstrate reasonable work connection or that the daily working conditions, chemical exposures, metal fumes, and physical strains of the job aggravated or increased the risk of contracting or accelerating the disease.
+
+
+2. Social Justice and Liberal Construction in Social Security: The Social Security Act and the Employees' Compensation provisions of the Labor Code are social legislations designed to provide meaningful economic relief to working-class families. In cases of doubt or conflicting medical opinions, the law must be construed liberally in favor of the working beneficiary to effectuate social protection.
+
+Fallo
+WHEREFORE, the Petition is DENIED. The Decision of the Court of Appeals dated August 28, 2014 and Resolution dated March 26, 2015 in CA-G.R. SP No. 132474 are AFFIRMED. The Social Security System is ORDERED to PAY respondent Violeta A. Simacas the full death and disability compensation benefits due under the law.
