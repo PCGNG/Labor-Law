@@ -1,0 +1,28 @@
+Philippine Span Asia Carriers Corporation (formerly Sulpicio Lines, Inc.) v. Heidi Pelayo
+G.R. No. 212003, February 28, 2018
+Third Division, Leonen, J.
+Facts
+Heidi Pelayo was employed as an accounting clerk at the Davao City branch of Philippine Span Asia Carriers Corp. (formerly Sulpicio Lines, Inc.). During an internal audit, the corporation uncovered financial anomalies and unremitted ticket sales collections in the Davao branch. The company initiated an administrative investigation and invited Pelayo to an investigative interview at its Cebu head office to explain certain accounting discrepancies. Following the interview, Pelayo suffered an emotional breakdown, claimed she was intimidated into admitting wrongdoing, and went on leave. She subsequently refused to report back to work and filed a complaint for constructive illegal dismissal. The Labor Arbiter held that she was constructively dismissed. The NLRC reversed, finding the investigation legitimate. The CA reinstated the Labor Arbiter's ruling, finding that the interrogation was oppressive.
+Issue
+Whether subjecting an employee to an administrative investigatory interview regarding company financial anomalies amounts to constructive illegal dismissal.
+Held
+The employee was NOT constructively dismissed; the employer was lawfully exercising its management prerogative to investigate financial irregularities.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282], Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: (a) Serious misconduct or willful disobedience by the employee of the lawful orders of his employer or representative in connection with his work; ... (c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative; ... (e) Other causes analogous to the foregoing."
+Ratio Decidendi
+1. Management Right to Investigate: Management has the prerogative to discipline its personnel, investigate discovered workplace infractions, and ascertain accountability for corporate losses. An employee's duty to cooperate in an investigation is part of employment.
+
+2. Test of Constructive Dismissal: Constructive dismissal requires that an employer's actions be gratuitous, unwarranted, discriminatory, or so intolerable that a reasonable person would feel compelled to resign. Inconvenience, emotional discomfort, or stress during an inquiry into financial anomalies does not constitute constructive dismissal. Possibility of harassment is not proof, and preempting an administrative inquiry cannot be rewarded with a finding of illegal dismissal.
+Fallo
+WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision of the Court of Appeals dated July 4, 2013 and Resolution dated February 18, 2014 in CA-G.R. SP No. 04780-MIN are REVERSED and SET ASIDE. The Decision dated August 31, 2011 of the National Labor Relations Commission in NLRC No. MAC-01-011835-2011 is REINSTATED. Respondent's complaint is DISMISSED for lack of merit.
+
+
+SO ORDERED.
+
+
+
