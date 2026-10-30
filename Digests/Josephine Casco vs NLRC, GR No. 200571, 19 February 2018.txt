@@ -1,0 +1,27 @@
+Component	Content
+Case Details	Josephine Casco v. National Labor Relations Commission, C&P Homes, Inc., and Brittany Corporation
+
+G.R. No. 200571, February 19, 2018
+
+First Division, Del Castillo, J.
+Facts	Josephine Casco was employed as a Customer Relations Department (CRD) Assistant and later Marketing and Sales Administrator by Brittany Corporation (a subsidiary of C&P Homes, Inc.). Her duties included receiving reservation fees, customer payments, and earnest money from real estate buyers, and turning over the collections directly to the cashier on the day of receipt. An internal audit disclosed that Casco repeatedly failed to turn over collected checks and cash on time, held buyer payments in her personal custody for extended periods, and failed to issue temporary receipts for earnest payments. Brittany issued a notice to explain charging her with gross and habitual neglect of duties and loss of trust and confidence. Casco explained that the delays were due to work pressure, heavy customer volumes, and administrative oversights without any intention to misappropriate the money. Finding her explanation unsatisfactory, Brittany terminated her employment. Casco filed an illegal dismissal complaint, arguing that because the funds were ultimately remitted intact without loss to the company, her omissions did not constitute gross neglect. The Labor Arbiter, NLRC, and Court of Appeals all dismissed her complaint.
+Issue	Whether an employee who handles customer funds and repeatedly delays the remittance and recording of payments in violation of standard operating procedures is guilty of gross neglect of duty and willful breach of trust warranting dismissal under Article 297 of the Labor Code.
+Held	The dismissal was VALID; repeated failure to account for and turn over customer payments in accordance with mandatory financial procedures constitutes gross neglect of duties and willful breach of trust.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (b) & (c), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes:
+
+(b) Gross and habitual neglect by the employee of his duties;
+
+(c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Ratio Decidendi	1. Standards for Gross and Habitual Neglect in Custody of Company Funds: Gross negligence connotes a want of care in the performance of one's duties, while habitual neglect implies repeated failure to perform one's tasks. Handling money demands utmost fidelity and diligence. An employee tasked with receiving payments from clients who repeatedly holds collections in her personal custody instead of turning them over to the cashier violates core financial controls. That the money was eventually accounted for does not excuse the repeated breach of established operating procedures.
+
+2. Loss of Trust and Confidence in Fiduciary Positions: An employee entrusted with receiving funds occupies a position of trust and confidence. Repeatedly keeping collections in violation of cash-handling policies constitutes a willful breach of that trust, justifying dismissal under Article 297(c) regardless of the absence of actual financial damage.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The August 18, 2011 Decision and February 1, 2012 Resolution of the Court of Appeals in CA-G.R. SP No. 112952 are AFFIRMED.
+
+
+SO ORDERED.
