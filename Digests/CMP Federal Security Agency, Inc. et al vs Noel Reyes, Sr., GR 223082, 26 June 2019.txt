@@ -1,0 +1,27 @@
+Component	Content
+Case Details	CMP Federal Security Agency, Inc. and Ms. Mary Jean P. Fernandez v. Noel T. Reyes, Sr.
+
+G.R. No. 223082, June 26, 2019
+
+Second Division, Caguioa, J.
+Facts	Noel T. Reyes, Sr. was hired as a security guard by CMP Federal Security Agency, Inc. (CMP) in 2002 and assigned to client premises in Antipolo City. Over the years, Reyes received administrative memoranda for minor workplace lapses, such as leaving his post to use the restroom without a relief guard, sleeping on duty during a night inspection, and failing to wear proper uniform accoutrements, for which he was issued written reprimands and short suspensions. In 2011, CMP issued another show-cause memo charging him with gross and habitual neglect of duty, citing his collective disciplinary record over the preceding nine years. CMP placed him on 30-day preventive suspension and subsequently terminated his employment for gross and habitual neglect of duty and gross inefficiency under its disciplinary table. Reyes filed a complaint for illegal dismissal. The Labor Arbiter dismissed the complaint, ruling the dismissal valid under the totality of infractions rule. The NLRC and Court of Appeals reversed, holding that the past minor infractions were already penalized, and the latest lapse did not constitute gross and habitual neglect.
+Issue	Whether an employee can be dismissed for gross and habitual neglect of duty or gross inefficiency based on the totality of past minor infractions that were already meted out disciplinary penalties.
+Held	The dismissal was ILLEGAL; the infractions did NOT constitute gross and habitual neglect of duty or gross inefficiency, and past minor infractions already penalized cannot be aggregated to justify termination.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (b) & (e), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes:
+
+(b) Gross and habitual neglect by the employee of his duties;
+
+(e) Other causes analogous to the foregoing."
+Ratio Decidendi	1. Gross Neglect vs. Gross Inefficiency: "Gross neglect" requires a conscious indifference to consequences and a severe disregard of duties, which must be repeated to become "habitual." "Gross inefficiency" refers to a continuous failure to meet reasonable work performance standards. Minor, sporadic infractions spread over nine years of service—which were already dealt with through reprimands and short suspensions—do not constitute gross and habitual neglect.
+
+2. Limits on the Totality of Infractions Rule: The totality of infractions rule allows an employer to consider an employee's overall record in determining the penalty for a new, independent offense. However, the rule cannot be used to justify dismissal where the latest charge is minor or non-existent. An employer cannot resurrect past infractions that have already been penalized to construct a cause for dismissal, as doing so violates proportionality and penalizes an employee twice for the same lapses.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The August 28, 2015 Decision and February 10, 2016 Resolution of the Court of Appeals in CA-G.R. SP No. 132479 are AFFIRMED. Petitioners CMP Federal Security Agency, Inc. and Mary Jean P. Fernandez are ordered to pay respondent Noel T. Reyes, Sr. full backwages, separation pay in lieu of reinstatement, and attorney's fees, with legal interest of six percent (6%) per annum from finality until fully paid.
+
+
+SO ORDERED.
