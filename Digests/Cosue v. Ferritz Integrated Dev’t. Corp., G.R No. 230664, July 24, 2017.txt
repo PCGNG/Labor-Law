@@ -1,0 +1,27 @@
+Felipe O. Cosue, Jr. v. Ferritz Integrated Development Corporation and Antonio Longa
+G.R. No. 230664, July 24, 2017
+Second Division, Peralta, J.
+Facts:
+Felipe O. Cosue, Jr. was employed as Janitor/Maintenance personnel by Ferritz Integrated Development Corporation (Ferritz) starting in March 2004. In October 2014, Cosue filed a complaint against Ferritz and its President, Antonio Longa, claiming constructive illegal dismissal, underpayment of basic wages (minimum wage differentials), non-payment of overtime pay, holiday pay, premium pay for holiday and rest day, service incentive leave (SIL), and 13th-month pay. He presented a Certification issued by the HR officer indicating he worked 12 hours a day (from 7:00 AM to 7:00 PM) six days a week. Respondents denied liability, arguing that Cosue abandoned his job and that all statutory benefits were fully paid, offering computer-generated payslips and summary payrolls as proof. The Labor Arbiter dismissed the constructive dismissal claim but awarded wage differentials, overtime pay, and other monetary benefits. The CA deleted the awards for overtime, holiday, and rest day premiums, holding that Cosue failed to substantiate actual work performed on those days.
+Issue:
+Whether petitioner Cosue is entitled to the payment of wage differentials, overtime pay, premium pay for holidays and rest days, and other statutory monetary benefits.
+Held:
+Petitioner is entitled to minimum wage differentials, SIL, and 13th-month pay, but NOT to overtime pay and premium pay for holidays/rest days without concrete proof of work performed on those specific days.
+
+Verbatim Legal Basis:
+
+Article 87, Labor Code of the Philippines:
+
+"Art. 87. Overtime work. — Work may be performed beyond eight (8) hours a day provided that the employee is paid for the overtime work, an additional compensation equivalent to his regular wage plus at least twenty-five percent (25%) thereof. Work performed beyond eight hours on a holiday or rest day shall be paid an additional compensation equivalent to the rate of the first eight hours on a holiday or rest day plus at least thirty percent (30%) thereof."
+
+Article 95, Labor Code of the Philippines:
+
+"Art. 95. Right to service incentive leave. — (a) Every employee who has rendered at least one year of service shall be entitled to a yearly service incentive leave of five days with pay."
+Ratio:
+1. Burden of Proof in Monetary Claims: In claims for basic minimum wage differentials, SIL, and 13th-month pay, the burden of proof rests on the employer to prove payment, as the pertinent records (payrolls, vouchers, ledgers) are in the employer's custody. Respondents failed to produce signed payroll sheets or valid proofs of full payment compliant with the applicable Wage Orders.
+
+2. Proof Required for Overtime and Premium Pay: In contrast, for overtime pay, premium pay for holidays, and rest day premiums, the burden of proof shifts to the employee to establish by substantial evidence that he actually rendered work in excess of eight hours or during prescribed rest days and regular holidays. A general employment certification stating daily scheduled hours is insufficient without specific time cards, logs, or trip tickets showing actual overtime hours performed.
+Fallo:
+WHEREFORE, the petition for review on certiorari is PARTIALLY GRANTED. The Decision dated September 14, 2016 and the Resolution dated March 1, 2017 of the Court of Appeals in CA-G.R. SP No. 143586 are hereby AFFIRMED with MODIFICATION in that respondents Ferritz Integrated Development Corporation and Antonio Longa are ordered to pay petitioner Felipe O. Cosue, Jr. his wage differentials, service incentive leave pay, and 13th month pay, plus legal interest of six percent (6%) per annum from the date of finality of this Decision until fully paid.
+
+SO ORDERED.
