@@ -1,0 +1,28 @@
+Component	Content
+Case Details	DUP Sound Phils. and/or Manuel Tan v. Court of Appeals and Cirilo P. Gaddi
+
+G.R. No. 168317, November 21, 2011
+
+Third Division, Peralta, J.
+Facts	Cirilo P. Gaddi was employed as an audio technician and master recorder by DUP Sound Phils. In April 1999, Gaddi took an unexcused absence from work. DUP Sound sent a telegram to his recorded residence directing him to report for work immediately and explain his absence within three days, with a warning that failure to do so would be construed as abandonment. Gaddi failed to respond or report back to work. DUP Sound sent a second notice via registered mail requiring him to appear for an administrative inquiry. When Gaddi still failed to appear, DUP Sound terminated his employment for abandonment. Months later, Gaddi filed a complaint for illegal dismissal, claiming that he reported to the company after receiving the telegram but was refused entry by the guard and told he had already been replaced. DUP Sound denied this, presenting registry return receipts, copy of the telegram, and security logs showing that Gaddi never set foot on company premises after his initial absence. The Labor Arbiter and NLRC dismissed Gaddi's complaint, finding valid dismissal for abandonment. The CA reversed, ruling that the filing of an illegal dismissal complaint negated abandonment.
+Issue	Whether an employee who ignores successive return-to-work notices and directive telegrams without valid excuse is guilty of abandonment of employment.
+Held	The dismissal was VALID; the employee is guilty of abandonment for repeatedly failing and refusing to return to work despite receipt of return-to-work notices and directives.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (b), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (b) Gross and habitual neglect by the employee of his duties..."
+
+
+Section 2, Rule XIV, Book V, Omnibus Rules Implementing the Labor Code:
+
+"Standards of due process: requirements of notice. — ... (b) A written notice served on the employee specifying the ground or grounds for termination, and giving said employee reasonable opportunity within which to explain his side..."
+Ratio Decidendi	1. Abandonment Established by Failure to Obey Return-to-Work Orders: While the filing of an illegal dismissal complaint generally negates the intent to abandon work, this rule does not apply when the employee deliberately refuses to comply with return-to-work directives sent by the employer. When an employer issues explicit notices directing an absent employee to return to duty and explain his absence, and the employee fails or refuses to report without reasonable justification, abandonment is established by overt conduct.
+
+2. Substantial Proof of Abandonment: DUP Sound proved through postal registry return receipts that Gaddi received the telegrams and notices. Gaddi presented no evidence, other than self-serving claims, to substantiate his allegation that he reported and was turned away by security guards. Abandonment under these circumstances constitutes gross neglect of duty under Article 297(b).
+Fallo	WHEREFORE, premises considered, the petition is GRANTED. The Decision of the Court of Appeals dated January 31, 2005 and its Resolution dated May 26, 2005 in CA-G.R. SP No. 67117 are REVERSED and SET ASIDE. The Decision of the National Labor Relations Commission dated June 29, 2001 dismissing respondent's complaint is REINSTATED.
+
+
+SO ORDERED.
