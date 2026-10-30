@@ -1,0 +1,27 @@
+Cristina Barsolo v. Social Security SystemG.R. No. 187950, January 11, 2017   
+
+Facts
+Manuel Barsolo was employed as a seafarer by Vela International Marine Ltd. from 1988 until his separation from employment in 2002. More than two years after his last contract ended, Manuel was diagnosed with hypertensive cardiovascular disease and suffered an intracerebral hemorrhage, causing his death in September 2004. His surviving spouse, Cristina Barsolo, filed a claim for death and employees' compensation benefits before the SSS under Presidential Decree No. 626. The SSS denied the claim on the ground that there was no existing employer-employee relationship at the time the disease manifested and resulted in death. The Employees' Compensation Commission (ECC) affirmed the denial, stating that Cristina failed to show that her husband contracted the illness during his sea deployment or that his working conditions on the vessel increased the risk of developing a fatal intracerebral hemorrhage years after disembarkation. The Court of Appeals affirmed the ECC.
+
+Issue
+Whether the death of a former seafarer occurring more than two years after the cessation of employment is compensable under P.D. No. 626 (Employees' Compensation Law).
+
+Held
+The death is NOT compensable; claimant failed to present substantial evidence showing that the cardiovascular disease developed during employment or that working conditions increased the risk of contracting it.
+
+Verbatim Legal Basis:
+Article 167(l) [now Article 173(l)], Labor Code of the Philippines:
+
+"Art. 167. Definition of terms. — ... (l) 'Sickness' means any illness definitely accepted as an occupational disease listed by the Commission, or any illness caused by employment subject to proof that the risk of contracting the same was increased by working conditions."
+
+Section 1(b), Rule III, Amended Rules on Employees' Compensation:
+
+"For the sickness and the resulting disability or death to be compensable, the sickness must be the result of an occupational disease listed under Annex 'A' of these Rules with the conditions set forth therein, otherwise, proof must be shown that the risk of contracting the disease is increased by the working conditions."
+
+Ratio
+1. Abandonment of Presumption of Compensability: Under P.D. No. 626, the statutory presumption of compensability that existed under the old Workmen's Compensation Act was replaced. The claimant now bears the burden of establishing compensability by substantial evidence, either by proving that the illness is an listed occupational disease meeting Annex "A" criteria or through proof of increased risk.
+
+2. Failure to Prove Casual Connection Post-Separation: While cardiovascular disease is listed in Annex "A", the rules require that: (a) the disease must have surfaced during employment; (b) an acute exacerbation was precipitated by unusual work strain; and (c) the strain was followed within 24 hours by cardiac assault. Because the deceased was asymptomatic during employment and showed no clinical symptoms until two years after repatriation, the necessary causal connection was not established.
+
+Fallo
+WHEREFORE, the petition is DENIED. The Decision of the Court of Appeals dated March 19, 2009 in CA-G.R. SP No. 102434 is hereby AFFIRMED.
