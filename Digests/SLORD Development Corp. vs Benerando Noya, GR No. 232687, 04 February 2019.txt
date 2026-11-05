@@ -1,0 +1,22 @@
+Slord Development Corporation v. Benerando M. Noya
+
+G.R. No. 232687, February 04, 2019
+
+Second Division, Perlas-Bernabe, J.
+Facts	Benerando M. Noya was employed as a welder by Slord Development Corporation (Slord), a sardines canning company. Slord had an existing Collective Bargaining Agreement (CBA) with Nagkakaisang Lakas ng Manggagawa-Katipunan (NLM-Katipunan), the certified sole and exclusive bargaining agent. The CBA contained a union security clause requiring regular rank-and-file employees to maintain union membership as a condition for continued employment, and provided that any member expelled for acts of disloyalty—including organizing or joining a rival labor union—shall be dismissed by the company upon written demand. Sometime in December 2013, Noya solicited employee signatures on blank sheets to form a rival union (Bantay Manggagawa sa Slord Development Corporation or BMSDC), which he registered with the DOLE. NLM-Katipunan initiated expulsion proceedings against Noya for disloyalty. Noya refused to appear or participate in the union hearings. NLM-Katipunan expelled him from membership and formally demanded his termination under the CBA union security clause. Slord served Noya a termination memo. Noya filed a complaint for illegal dismissal and unfair labor practice, arguing that he organized the rival union during the statutory 60-day freedom period. The Labor Arbiter and NLRC held that Noya committed acts of disloyalty and that his termination was valid under the union shop clause, but awarded nominal damages for lack of procedural due process. The CA reversed, declaring the dismissal illegal.
+Issue	Whether an employer may validly terminate the employment of an employee upon the demand of the certified union pursuant to an enforceable Union Security Clause in the CBA.
+Held	The dismissal was VALID; enforcement of a union security clause is an authorized/just cause recognized by law, and the employee committed acts of disloyalty warranting expulsion from the bargaining union.
+
+
+Verbatim Legal Basis:
+
+Article 259 [formerly Article 248] (e), Labor Code of the Philippines:
+
+"Art. 259. Unfair labor practices of employers. — It shall be unlawful for an employer to commit any of the following unfair labor practices: ... (e) To discriminate in regard to wages, hours of work and other terms and conditions of employment in order to encourage or discourage membership in any labor organization: Provided, That nothing in this Code or in any other law shall stop the parties from requiring membership in a recognized collective bargaining agent as a condition for employment..."
+Ratio Decidendi	1. Enforceability of Union Security Clauses: While the Labor Code does not explicitly list union security clause violations under Articles 297 or 298, jurisprudence firmly recognizes that dismissal pursuant to an enforceable union security clause in a CBA is a valid just cause. A closed-shop or union-shop stipulation requires employees to join and maintain good standing in the union as a condition of continued employment. When a union expels a member for disloyalty (such as campaigning for and registering a rival union) in accordance with its constitution and by-laws, the employer is legally obligated by the CBA to terminate the worker.
+
+2. Due Process Obligation of the Employer: Although the substantive ground for dismissal is union expulsion, the employer is still bound to observe procedural due process by issuing separate written notices giving the employee a chance to explain why he should not be terminated under the CBA. Because Slord failed to independently serve the initial show-cause notice and dismissed Noya solely upon receipt of the union’s demand letter, Slord was liable to pay nominal damages of P30,000.00 under the Agabon doctrine.
+Fallo	WHEREFORE, the petition is GRANTED. The Decision dated January 25, 2017 and the Resolution dated July 7, 2017 of the Court of Appeals in CA-G.R. SP No. 139158 are REVERSED and SET ASIDE. The Decision dated September 30, 2014 and the Resolution dated November 14, 2014 of the National Labor Relations Commission in NLRC LAC No. 09-002333-14 are REINSTATED with MODIFICATION increasing the award of nominal damages to P30,000.00.
+
+
+SO ORDERED.
