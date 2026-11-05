@@ -1,0 +1,31 @@
+Diamond Drilling Corporation of the Philippines v. Crescent Mining and Development Corporation / Crescent Mining and Development Corporation v. Diamond Drilling Corporation of the Philippines
+
+G.R. Nos. 201785 & 207360, April 10, 2019
+
+Second Division, Caguioa, J.
+Facts	Diamond Drilling Corporation of the Philippines (Diamond Drilling) filed an action for collection of a sum of money against Crescent Mining and Development Corporation (Crescent Mining) before the Regional Trial Court to recover unpaid drilling service fees. The trial court rendered judgment ordering Crescent Mining to pay drilling fees and damages. On appeal, Crescent Mining introduced a new theory for the first time: it claimed that its contractual liability had been fully novated or extinguished by an unpleaded joint venture restructuring agreement, and challenged the trial court’s execution pending appeal. The Court of Appeals partially reversed the trial court by entertaining Crescent Mining’s new defense. Diamond Drilling appealed to the Supreme Court, contending that a party cannot change its legal theory on appeal and that the trial court's execution orders were regular.
+Issues	1. Can an appellant change its theory of the case, defenses, or causes of action for the first time on appeal?
+
+2. When does execution pending appeal become proper, and can an execution sale be invalidated by a belated change of legal theory?
+Held	1. A party CANNOT change its theory of the case for the first time on appeal; issues, defenses, and theories not raised in the proceedings below cannot be examined on appeal without offending fair play and due process.
+
+2. Execution pending appeal remains valid where good reasons were shown, and cannot be retroactively nullified by improper appellate defenses.
+
+
+Verbatim Legal Basis:
+
+Rule 44, Section 15, Rules of Court:
+
+"Sec. 15. Questions that may be raised on appeal. — Whether or not the appellant has filed a motion for new trial in the court below, he may include in his assignment of errors any question of law, or fact that has been raised in the court below, and which is within the issues framed by the parties by their pleadings."
+
+
+Rule 39, Section 2, Rules of Court (Discretionary Execution / Execution Pending Appeal):
+
+"Sec. 2. Discretionary execution. — (a) Execution of a judgment or a final order pending appeal. — On motion of the prevailing party with notice to the adverse party the court may, in its discretion, order execution of a judgment or final order even before the expiration of the period to appeal, upon good reasons to be stated in a special order after due hearing."
+Ratio Decidendi	1. Rule Prohibiting Change of Theory on Appeal: Well-settled is the rule that points of law, theories, and arguments not brought to the attention of the trial court or lower tribunal will not be considered by a reviewing court. Allowing a litigant to switch theories on appeal offends the basic rules of fair play and violates the adverse party's right to due process, as it deprives them of the opportunity to produce rebuttal evidence.
+
+2. Validity of Execution Pending Appeal: Execution pending appeal is allowable when the trial court states good reasons in a special order, such as the potential insolvency or flight of the judgment debtor. Because the CA improperly admitted a fresh theory on appeal, its interference with the execution proceedings was vacated.
+Fallo	WHEREFORE, the Petition in G.R. No. 201785 is GRANTED, while the Petition in G.R. No. 207360 is DENIED. The Decisions and Resolutions of the Court of Appeals are REVERSED and SET ASIDE, and the Decision of the Regional Trial Court is REINSTATED and UPHELD in full.
+
+
+SO ORDERED.
