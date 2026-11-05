@@ -1,0 +1,27 @@
+Association of Retired Court of Appeals Justices, Inc. (ARCAJ) v. Hon. Florencio B. Abad, in his capacity as Secretary of the Department of Budget and Management
+
+G.R. No. 210204, July 10, 2018
+
+En Banc, Leonardo-De Castro, J.
+Facts	Republic Act No. 910, as amended by Republic Act No. 9946, governs the retirement pensions and benefits of Justices and Judges of the Judiciary. Under the law, retired members of the Judiciary are entitled to receive a monthly lifetime pension computed on the basis of the salary, plus allowances and longevity pay, of the current incumbents of the position from which they retired. In 2010, the Department of Budget and Management (DBM), through Secretary Florencio B. Abad, issued Circulars and letters recomputing and reducing the monthly pensions of retired Court of Appeals Justices. The DBM excluded certain statutory allowances (such as the Special Allowance for the Judiciary or SAJ under R.A. No. 9227) from the base figure for computing monthly pensions once said allowances were incorporated into basic pay scales, arguing that the government had the fiscal prerogative to regulate budgetary ceilings. The Association of Retired Court of Appeals Justices, Inc. (ARCAJ) filed a petition for certiorari and mandamus before the Supreme Court, challenging the DBM’s actions as an infringement on judicial independence and a violation of R.A. No. 9946.
+Issue	Whether the DBM has the administrative authority to exclude statutory allowances and longevity pay from the computation of the monthly retirement pensions of retired Justices under R.A. No. 9946.
+Held	The DBM CANNOT exclude statutory allowances; under R.A. No. 9946, the retirement benefits of retired Justices and Judges are automatic, non-diminishing, and must encompass ALL salaries and allowances enjoyed by incumbent magistrates.
+
+
+Verbatim Legal Basis:
+
+Section 3-A, Republic Act No. 910 (as amended by Republic Act No. 9946):
+
+"Sec. 3-A. All pension benefits of retired members of the Judiciary shall be automatically adjusted to the current salary and allowances of the incumbent justices and judges of the same rank as that of the retiree. The payment of the adjusted pension shall begin immediately upon the effectivity of the law or salary increase granted to the incumbents."
+
+
+Article VIII, Section 10, 1987 Philippine Constitution:
+
+"The salary of the Chief Justice and of the Associate Justices of the Supreme Court, and of judges of lower courts shall be fixed by law. During their continuance in office, their salary shall not be decreased."
+Ratio Decidendi	1. Constitutional Guarantee of Judicial Independence: The fiscal independence of the Judiciary is constitutionally protected. Retirement provisions for magistrates are designed to safeguard judicial independence during active service by guaranteeing adequate and continuous support upon retirement.
+
+2. Automatic Adjustment Principle: R.A. No. 9946 explicitly mandates that judicial pensions are pegged to the active compensation of incumbents. Whenever an increase in basic pay or non-integrated allowance is granted to incumbent sitting Justices, the monthly pensions of retired Justices must be adjusted automatically and immediately. The DBM has no quasi-legislative or discretionary authority to reclassify, cap, or exclude statutory allowances from the pension base.
+Fallo	WHEREFORE, the Petition for Certiorari and Mandamus is GRANTED. The actions and rulings of the Department of Budget and Management excluding statutory allowances from the retirement pensions of retired Justices of the Court of Appeals are declared NULL and VOID. The respondent Secretary of Budget and Management is DIRECTED to COMPUTE and DISBURSE the retirement pensions and back pension differentials of the members of petitioner Association of Retired Court of Appeals Justices, Inc. in full accordance with Republic Act No. 9946.
+
+
+SO ORDERED.
