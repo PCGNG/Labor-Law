@@ -1,0 +1,32 @@
+Norberto Zambrano, et al. v. Philippine Carpet Manufacturing Corporation/Pacific Carpet Manufacturing Corporation, David E. T. Lim, and Evelyn Lim Forbes
+
+G.R. No. 224099, June 21, 2017
+
+Second Division, Mendoza, J.
+Facts	Due to continuous decline in export market orders and recurring losses in its carpet manufacturing division, Philippine Carpet Manufacturing Corporation (Phil Carpet) decided to shut down and cease the operation of its manufacturing plant in Parañaque City. Phil Carpet served individual termination notices to its workers and submitted an establishment closure report to the DOLE 30 days prior to the shutdown. It paid the retrenched workers complete statutory separation pay equivalent to 100% of their monthly basic salary for every year of service, in exchange for which petitioners executed notarized release and quitclaim documents. Sometime later, petitioners discovered that Pacific Carpet Manufacturing Corporation (Pacific Carpet)—a distinct corporation sharing some common directors, stockholders, and manufacturing lines with Phil Carpet—was operating and manufacturing carpets. Petitioners filed a consolidated complaint for illegal dismissal and unfair labor practice against Phil Carpet and Pacific Carpet, asserting that the closure was a scheme to bust the union and that Pacific Carpet was a mere alter ego of Phil Carpet designed to evade employee benefits. The Labor Arbiter, NLRC, and Court of Appeals all dismissed the complaint, sustaining the validity of the closure and the quitclaims.
+Issues	1. Whether petitioners were dismissed for a lawful authorized cause under Article 298 [formerly Art. 283] of the Labor Code.
+
+2. Whether the corporate veil of Pacific Carpet may be pierced to make it liable for the obligations of Phil Carpet under the alter-ego doctrine.
+
+3. Whether the quitclaims signed by petitioners are valid and binding.
+Held	1. The dismissal was VALID; the total cessation of manufacturing plant operations was grounded on an authorized cause under Article 298.
+
+2. The corporate veil CANNOT be pierced; petitioners failed to present substantial evidence establishing that Pacific Carpet was a mere alter ego or that the corporate form was used to perpetrate fraud.
+
+3. The quitclaims were VALID and BINDING; they were voluntarily executed for complete statutory separation consideration without vitiated consent.
+
+
+Verbatim Legal Basis:
+
+Article 298 [formerly Article 283], Labor Code of the Philippines:
+
+"Art. 298. Closure of establishment and reduction of personnel. — The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation of the establishment or undertaking... In case of retrenchment to prevent losses and in cases of closures or cessation of operations of establishment or undertaking not due to serious business losses or financial reverses, the separation pay shall be equivalent to one (1) month pay or at least one-half (1/2) month pay for every year of service, whichever is higher."
+Ratio Decidendi	1. Authorized Cause of Closure: Closure or cessation of an establishment or undertaking is an authorized cause for termination under Article 298. The employer has the prerogative to close its operations, whether to curb financial losses or for any other legitimate business reason. Phil Carpet complied with all requirements: 30-day notice to DOLE and employees, and payment of full separation pay.
+
+2. Failure of the Alter-Ego Test: The mere fact that two corporations have common stockholders, directors, or similar corporate addresses does not justify piercing the corporate veil. Piercing requires: (a) complete operational control; (b) control used to commit fraud or wrong; and (c) the fraud caused injury. Pacific Carpet was incorporated decades before the closure, operated independently, and was not organized as a conduit to evade liabilities.
+
+3. Validity of Notarized Quitclaims: Not all quitclaims are contrary to public policy. Where the agreement is freely entered into, the terms clear, and the consideration reasonable and fully paid according to statutory standards, waivers must be respected as the binding law between the parties.
+Fallo	WHEREFORE, the petition is DENIED. The January 8, 2016 Decision and April 11, 2016 Resolution of the Court of Appeals in CA-G.R. SP No. 136502 are AFFIRMED.
+
+
+SO ORDERED.
