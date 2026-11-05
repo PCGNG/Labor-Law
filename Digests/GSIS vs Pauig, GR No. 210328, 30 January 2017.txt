@@ -1,0 +1,24 @@
+Government Service Insurance System v. Apolinario Pauig
+
+G.R. No. 210328, January 30, 2017
+
+Second Division, Del Castillo, J.
+Facts	Apolinario Pauig was a heavy equipment operator for the Provincial Government of Isabela. He served from 1974 to 1980 as a casual/temporary employee, during which no GSIS contributions were deducted or remitted. In 1981, he received a permanent appointment, and contributions were thereafter deducted and remitted until his compulsory retirement in 2012. Upon applying for retirement benefits under R.A. No. 8291, Pauig requested that his casual service (1974–1980) be included in the computation of his Total Length of Service (TLS). The GSIS rejected the request, explaining that under Section 2(l) and Section 10(b) of R.A. No. 8291, periods of government service rendered without premium contributions cannot be credited for retirement purposes. The CA reversed the GSIS.
+Issue	Whether non-contributory casual government service can be credited toward retirement benefits under R.A. No. 8291.
+Held	Casual government service rendered WITHOUT premium contributions CANNOT be credited toward retirement benefits under the GSIS Act.
+
+
+Verbatim Legal Basis:
+
+Section 2(l) & Section 10(b), Republic Act No. 8291:
+
+"Sec. 2. Definition of Terms. — ... (l) Total Length of Service — The number of months for which corresponding contributions have been paid by the member and his employer."
+
+"Sec. 10. Computation of Service. — ... (b) For the purpose of computing the length of service for the maximum pension benefit, only the service of a member who has paid the corresponding contributions shall be considered."
+Ratio Decidendi	1. Contributory System of Retirement: The GSIS is an actuarial social insurance system dependent on member contributions. Under the explicit language of Section 10(b) of R.A. No. 8291, length of service for retirement pension purposes is counted strictly by the months for which corresponding contributions were paid.
+
+2. Remedy of the Worker: The employee's recourse for unremitted casual service lies in an administrative or judicial action against the employing local government unit, but the GSIS cannot be compelled to credit non-contributory years.
+Fallo	WHEREFORE, the petition is GRANTED. The Decision dated June 17, 2013 of the Court of Appeals in CA-G.R. SP No. 126201 is REVERSED and SET ASIDE. The Decision of the GSIS Board of Trustees is REINSTATED.
+
+
+SO ORDERED.
