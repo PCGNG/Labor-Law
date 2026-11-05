@@ -1,0 +1,21 @@
+La Consolacion College of Manila, Sr. Imelda A. Mora, OSA, and Albert D. Manalili v. Virginia Pascua, M.D.
+G.R. No. 214744, May 16, 2018
+Third Division, Leonen, J.
+
+Facts	Virginia Pascua, M.D., was employed by La Consolacion College of Manila (LCCM) as school physician for over seven years. In 2011, LCCM sent her a Notice of Retrenchment, informing her that due to continuing declines in student enrollment and severe operational deficits, the school administration decided to retrench personnel and downscale its clinic staff, terminating her employment. LCCM filed a notice with the DOLE and tendered separation pay. Pascua filed a complaint for illegal dismissal. She maintained that LCCM failed to prove substantial and imminent financial losses through audited financial statements, pointing out that LCCM’s overall operations were financially stable. She further argued that LCCM did not use fair and reasonable selection criteria, noting that the school retained a school nurse who had shorter tenure. The Labor Arbiter, NLRC, and Court of Appeals all found the retrenchment invalid and declared Pascua illegally dismissed.
+Issue	Whether the employer established the legal requisites for a valid retrenchment to prevent losses under Article 298 [formerly Art. 283] of the Labor Code.
+Held	The retrenchment was ILLEGAL; the employer failed to prove substantial and imminent financial losses through independent audited financial statements and failed to apply fair and objective selection criteria.
+
+
+Verbatim Legal Basis:
+
+Article 298 [formerly Article 283], Labor Code of the Philippines:
+
+"Art. 298. Closure of establishment and reduction of personnel. — The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation of the establishment or undertaking... In case of retrenchment to prevent losses and in cases of closures or cessation of operations of establishment or undertaking not due to serious business losses or financial reverses, the separation pay shall be equivalent to one (1) month pay or at least one-half (1/2) month pay for every year of service, whichever is higher."
+Ratio Decidendi	1. Strict Proof of Financial Losses in Retrenchment: Retrenchment is a measure of last resort. To justify termination on this ground, the employer must establish: (a) that losses are substantial and continuing or reasonably imminent; (b) that retrenchment is reasonably necessary and likely to prevent the expected losses; (c) that the alleged losses are proved by audited financial statements prepared by independent certified public accountants; (d) service of written notice to the workers and DOLE at least one month before effectivity; and (e) the use of fair and reasonable criteria in selecting who is retrenched.
+
+2. Failure of Financial and Selection Standards: LCCM failed to submit audited financial statements showing an overall crippling deficit; bare enrollment tables do not substitute for audited financial balance sheets. Furthermore, LCCM failed to demonstrate the application of objective selection criteria (such as seniority, efficiency ratings, or status) in selecting Pascua for dismissal. The failure to satisfy these mandatory standards rendered the retrenchment illegal.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated April 30, 2014 and the Resolution dated October 1, 2014 of the Court of Appeals in CA-G.R. SP No. 129759 are AFFIRMED with MODIFICATION. Petitioner La Consolacion College of Manila is ordered to pay respondent Virginia Pascua, M.D., full backwages from the date of illegal dismissal until finality of this Decision, and separation pay in lieu of reinstatement equivalent to one (1) month salary for every year of service, with legal interest of six percent (6%) per annum from finality until fully paid.
+
+
+SO ORDERED.
