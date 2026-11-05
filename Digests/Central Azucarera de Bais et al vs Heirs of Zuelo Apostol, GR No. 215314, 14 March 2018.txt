@@ -1,0 +1,22 @@
+Central Azucarera de Bais and Antonio Steven L. Chan v. Heirs of Zuelo Apostol
+
+G.R. No. 215314, March 14, 2018
+
+Second Division, Peralta, J.
+Facts	The late Zuelo Apostol was employed as an Administrative Assistant and Acting Personnel Manager by Central Azucarera de Bais (CAB). In 2004, CAB discovered discrepancies in the issuance of fuel chits and withdrawals of gasoline and diesel from the company motor pool. An audit disclosed that several gallons of fuel were requisitioned and withdrawn by Apostol without valid vehicle trip tickets or work authorizations. CAB issued a show-cause memorandum charging him with fraud, dishonesty, and serious misconduct. Apostol submitted an explanation asserting that the fuel was used for legitimate errands on behalf of company executives and that fuel chit requests were routine. Unconvinced, CAB terminated his services for loss of trust and confidence. Apostol filed an illegal dismissal complaint before the Labor Arbiter. Apostol passed away during the proceedings and was substituted by his surviving heirs. The Labor Arbiter dismissed the complaint, ruling the termination valid. The NLRC and CA reversed, holding that CAB failed to prove fraudulent intent by clear and convincing evidence, and that the dismissal was too harsh considering his length of service.
+Issue	Whether an employee holding a managerial/supervisory position can be dismissed for loss of trust and confidence under Article 297(c) based on irregular transactions, without proving intent to defraud beyond reasonable doubt.
+Held	The dismissal was VALID; proof beyond reasonable doubt is NOT required to dismiss a managerial employee for loss of trust and confidence, substantial evidence of breach of duty being sufficient.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (c), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+Ratio Decidendi	1. Standards of Loss of Confidence for Managerial Personnel: With respect to managerial employees and department heads reposed with trust and company property oversight, the evidentiary threshold to justify loss of confidence is mere substantial evidence—that amount of relevant evidence which a reasonable mind might accept as adequate to support a conclusion. It does not require proof beyond reasonable doubt or absolute certainty of criminal intent.
+
+2. Breach of Fiduciary Responsibility: Apostol was the Acting Personnel Manager tasked with enforcing internal operational regulations. Requisitioning fuel without proper vehicle trip tickets and allowing unauthorized withdrawals breached standard internal controls. Management cannot be forced to retain an executive officer charged with managing assets who himself circumvents company control systems. Length of service cannot serve as an excuse to mitigate intentional, unauthorized appropriations.
+Fallo	WHEREFORE, premises considered, the petition is GRANTED. The Decision dated June 20, 2014 and Resolution dated October 22, 2014 of the Court of Appeals in CA-G.R. SP No. 04077 are hereby REVERSED and SET ASIDE. The Decision of the Labor Arbiter dated November 26, 2007 dismissing the complaint for illegal dismissal is REINSTATED.
+
+
+SO ORDERED.
