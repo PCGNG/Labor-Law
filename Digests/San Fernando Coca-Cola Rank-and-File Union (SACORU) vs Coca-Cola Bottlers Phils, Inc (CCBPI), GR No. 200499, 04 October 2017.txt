@@ -1,0 +1,22 @@
+San Fernando Coca-Cola Rank-and-File Union (SACORU) v. Coca-Cola Bottlers Philippines, Inc. (CCBPI)
+
+G.R. No. 200499, October 04, 2017
+
+Third Division, Bersamin, J.
+Facts	Coca-Cola Bottlers Philippines, Inc. (CCBPI) assessed the distribution operations of its San Fernando, Pampanga plant and concluded that operating its own route delivery fleet was economically inefficient compared to third-party contracted delivery models. CCBPI adopted an operational phase-out policy, shifting to an outside logistics system known as the Full Service Agency (FSA) model. As a consequence of contracting out the transportation and route deliveries, CCBPI declared the positions of 27 regular route helpers, sales drivers, and warehouse logistics workers redundant. CCBPI notified the affected workers and the DOLE 30 days in advance, paying separation packages equivalent to 150% to 200% of their monthly salaries per year of service. SACORU, the certified bargaining agent, protested the termination, arguing that contracting out existing regular functions to outside service agencies during an ongoing collective bargaining relationship constituted bad-faith union busting and illegal dismissal, and that redundant employees could not be discharged while a collective bargaining agreement remained subsisting. The Labor Arbiter and NLRC sustained the validity of the redundancy program. The Court of Appeals affirmed.
+Issue	Whether an employer may validly declare regular employee positions redundant as a direct consequence of contracting out route delivery operations to independent third-party service providers.
+Held	The redundancy program was VALID; the abolition of regular delivery positions resulting from the adoption of an outside logistics delivery model is a legitimate exercise of business judgment and management prerogative.
+
+
+Verbatim Legal Basis:
+
+Article 298 [formerly Article 283], Labor Code of the Philippines:
+
+"Art. 298. Closure of establishment and reduction of personnel. — The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation of the establishment or undertaking... by serving a written notice on the workers and the Ministry of Labor and Employment at least one (1) month before the intended date thereof. In case of termination due to the installation of labor-saving devices or redundancy, the worker affected thereby shall be entitled to a separation pay equivalent to at least his one (1) month pay or to at least one (1) month pay for every year of service, whichever is higher."
+Ratio Decidendi	1. Management Prerogative to Adopt Cost-Effective Systems: Management has the freedom to determine how its business shall be conducted, which includes the decision to contract out certain phases of its operations to achieve higher efficiency and lower distribution overhead. The mere fact that the contracted tasks were previously handled by regular employees does not automatically render the contracting-out invalid, provided it is done in good faith without the intent of circumscribing the right to self-organization.
+
+2. Absence of Malice or ULP: SACORU failed to substantiate that the structural shift to the FSA logistics model was motivated by anti-union animus. CCBPI complied with the statutory one-month advance notice requirements, remitted separation pay higher than the legal baseline, and applied objective criteria in abolishing the entire route helper and delivery sections. An employer is not required to maintain an expensive delivery fleet merely to guarantee the continued employment of redundant staff.
+Fallo	WHEREFORE, the Court DENIES the petition for review on certiorari; AFFIRMS the decision promulgated on March 15, 2011 by the Court of Appeals in CA-G.R. SP No. 113476; and ORDERS the petitioner to pay the costs of suit.
+
+
+SO ORDERED.
