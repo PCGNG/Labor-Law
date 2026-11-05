@@ -1,0 +1,31 @@
+Dee Jay’s Inn and Café and/or Melinda Ferraris v. Ma. Lorina Rañeses
+
+G.R. No. 191825, October 05, 2016
+
+First Division, Leonardo-De Castro, J.
+Facts	Ma. Lorina Rañeses was employed as a cashier by Dee Jay’s Inn and Café, owned by Melinda Ferraris. In 2005, Rañeses filed a complaint before the Labor Arbiter for underpayment of wages, non-payment of holiday pay, service incentive leave, and 13th-month pay. Later, during the submission of position papers, Rañeses added an entirely new charge: illegal constructive dismissal, claiming that after she initiated her wage claim, Ferraris verbally humiliated her, cut her work shifts, and constructively forced her to leave. Dee Jay’s Inn opposed, arguing that: (a) constructive dismissal was never pleaded or alleged in the initial pro-forma Complaint form; (b) the Labor Arbiter had no jurisdiction over an unpleaded cause of action raised for the first time in a position paper; and (c) Rañeses abandoned her job. The Labor Arbiter, NLRC, and CA ruled that the Labor Arbiter validly acquired jurisdiction over the constructive dismissal claim and held that Rañeses was constructively dismissed.
+Issues	1. Can a Labor Arbiter acquire jurisdiction over and adjudicate a cause of action (such as constructive illegal dismissal) that was not specifically checked or pleaded in the initial pro-forma Complaint form, but was raised and argued in the employee’s Position Paper?
+
+2. Does the employee bear the initial burden of proving the fact of constructive dismissal before the employer is required to prove valid cause?
+Held	1. The Labor Arbiter ACQUIRED JURISDICTION; in labor proceedings, a cause of action not pleaded in the pro-forma complaint may be validly raised and adjudicated if set forth in the Position Paper.
+
+2. There was NO ILLEGAL DISMISSAL; respondent failed to present substantial evidence establishing the fact of dismissal, and bare allegations of hostility do not satisfy the evidentiary threshold.
+
+
+Verbatim Legal Basis:
+
+Article 227 [formerly Article 221], Labor Code of the Philippines:
+
+"Art. 227. Technical rules not binding and prior resort to amicable settlement. — In any proceeding before the Commission or any of the Labor Arbiters, the rules of evidence prevailing in courts of law or equity shall not be controlling and it is the spirit and intention of this Code that the Commission and its members and the Labor Arbiters shall use every and all reasonable means to ascertain the facts in each case speedily and objectively and without regard to technicalities of law or procedure, all in the interest of due process."
+
+
+Section 7, Rule V, 2011 NLRC Rules of Procedure, as amended:
+
+"The position papers shall cover only those claims and causes of action stipulated in the complaint or for which a verification has been submitted; provided, that causes of action which may be properly joined under the Labor Code may be included in the position paper."
+Ratio Decidendi	1. Pleadings in Labor Cases Not Controlled by Civil Rigidities: A labor complaint form is a simplified, non-technical instrument designed for easy access by ordinary workers. Under the liberal procedure of Article 227 and the NLRC Rules, an omission to check a specific box or cause of action in the initiation form is not fatal, provided the cause of action is explicitly alleged, substantiated, and verified in the employee’s Position Paper, and the employer is given an opportunity to answer it in its reply paper.
+
+2. Failure to Prove the Fact of Constructive Dismissal: Although the Labor Arbiter had jurisdiction to evaluate the claim, constructive dismissal requires positive proof of unbearable working conditions, discrimination, or demotion. Bare assertions of verbal hostility or scoldings over cash shortages do not amount to constructive dismissal. If there is no proof of dismissal, the claim for backwages and separation pay cannot stand, and the worker is entitled only to proved statutory wage benefits.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is PARTIALLY GRANTED. The Decision dated December 14, 2009 and the Resolution dated April 13, 2010 of the Court of Appeals in CA-G.R. SP No. 106336 are AFFIRMED with MODIFICATION. The finding of constructive illegal dismissal and the awards of separation pay, backwages, and moral and exemplary damages are DELETED. Petitioners Dee Jay's Inn and Café and Melinda Ferraris are ORDERED to PAY respondent Ma. Lorina Rañeses her statutory wage differentials, holiday pay, service incentive leave, and 13th-month pay, with legal interest of six percent (6%) per annum from finality until fully paid.
+
+
+SO ORDERED.
