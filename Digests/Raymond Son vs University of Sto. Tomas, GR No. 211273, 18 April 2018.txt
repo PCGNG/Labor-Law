@@ -1,0 +1,27 @@
+Raymond A. Son, Raymond S. Rosal, and Wilfedo E. Pollarco v. University of Santo Tomas, Fr. Rolando V. De La Rosa, and Dr. Lilian J. Sison
+
+G.R. No. 211273, April 18, 2018
+
+Second Division, Del Castillo, J.
+Facts	Raymond A. Son, Raymond S. Rosal, and Wilfredo E. Pollarco were hired by the University of Santo Tomas (UST) as full-time faculty members in the College of Fine Arts and Design and the Faculty of Arts and Letters under semester-to-semester appointments. Under Department of Education, Culture and Sports (DECS) Order No. 92, Series of 1992, and Commission on Higher Education (CHED) Memorandum Order (CMO) No. 40, Series of 2008, a master's degree in the discipline is the minimum qualification required for regular appointment to a tertiary-level faculty position. The 2003–2008 CBA between UST and the faculty union included a grandfather clause providing that full-time faculty members who had attained three continuous years of satisfactory service would be considered regular, regardless of master's degree completion. In 2010, citing CHED regulations, UST informed petitioners that their employment contracts would no longer be renewed because they had failed to obtain the requisite master’s degree despite multiple grace periods. Petitioners filed an illegal dismissal complaint, arguing that under their CBA and the Labor Code, having completed three years of satisfactory service conferred permanent regular employment that could not be revoked by CHED guidelines.
+Issue	Whether the failure of college faculty members to acquire a master's degree required by CHED regulations constitutes a lawful basis for the non-renewal/termination of their employment, notwithstanding contrary provisions in a Collective Bargaining Agreement.
+Held	The non-renewal/termination was VALID; possession of a master's degree is a mandatory statutory qualification prescribed by the State through CHED, which CANNOT be waived, amended, or bypassed by a Collective Bargaining Agreement.
+
+
+Verbatim Legal Basis:
+
+Section 35, Republic Act No. 7722 (Higher Education Act of 1994) in relation to Section 35, CMO No. 40, Series of 2008:
+
+"Sec. 35. Minimum Faculty Qualifications. — For undergraduate programs: All full-time and part-time tertiary faculty members must possess at least a master's degree in the field of study/discipline in which they teach, or its professional equivalent."
+
+
+Article 1306, Civil Code of the Philippines:
+
+"Art. 1306. The contracting parties may establish such stipulations, clauses, terms and conditions as they may deem convenient, provided they are not contrary to law, morals, good customs, public order, or public policy."
+Ratio Decidendi	1. Supremacy of Law over CBAs: Although the CBA is the law between the contracting parties, its stipulations are subordinate to statutory mandates, police power, and public policy. The CHED requirement that college faculty must hold a relevant master's degree is a mandatory educational qualification. A CBA clause declaring faculty members regular without the prerequisite master’s degree is contrary to law and void.
+
+2. Nature of Academic Tenurial Requirements: In tertiary educational institutions, regular status or tenure cannot be attained by the mere passage of time or rendering three continuous years of service. An academic instructor who lacks the statutory minimum master's degree qualification cannot acquire tenure. The expiration of their fixed semester appointment without renewal due to non-completion of the degree requirement is not an illegal dismissal, but the lawful application of academic standards.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is hereby DENIED. The October 24, 2013 Decision and February 11, 2014 Resolution of the Court of Appeals in CA-G.R. SP No. 127008 are AFFIRMED.
+
+
+SO ORDERED.
