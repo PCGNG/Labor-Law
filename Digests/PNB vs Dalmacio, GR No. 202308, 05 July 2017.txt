@@ -1,0 +1,22 @@
+Philippine National Bank v. Telesforo S. Dalmacio
+
+G.R. No. 202308, July 05, 2017
+
+Second Division, Mendoza, J.
+Facts	Telesforo S. Dalmacio was employed by Philippine National Bank (PNB) as an IT Officer in its Information Technology Group. Following PNB's full privatization and its subsequent merger with Allied Banking Corporation, the bank engaged international consulting firms to review its organizational structure and eliminate functional redundancies across IT platforms. The technical review recommended the decommissioning of legacy AS/400 systems and the consolidation of software management into modern database architecture. Consequently, Dalmacio's specialized post was identified as redundant because his technical skills on obsolete systems were no longer needed. PNB served Dalmacio and the DOLE written notices of termination on ground of redundancy 30 days prior to separation, offering separation pay under the bank's enhanced separation plan. Dalmacio filed a complaint for illegal dismissal, maintaining that the abolition of his position was done in bad faith and that PNB failed to prove that his services were truly superfluous, pointing out that PNB continued hiring contractual IT personnel. The Labor Arbiter, NLRC, and CA all found the dismissal illegal for failure to present concrete criteria used in selecting Dalmacio for termination.
+Issue	Whether PNB's termination of respondent's employment on the ground of redundancy complied with the substantive and procedural standards mandated by Article 298 [formerly Art. 283] of the Labor Code.
+Held	The dismissal was VALID; the employer presented substantial proof of operational redundancy resulting from system modernization and demonstrated that fair and reasonable criteria were applied.
+
+
+Verbatim Legal Basis:
+
+Article 298 [formerly Article 283], Labor Code of the Philippines:
+
+"Art. 298. Closure of establishment and reduction of personnel. — The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation of the establishment or undertaking... In case of termination due to the installation of labor-saving devices or redundancy, the worker affected thereby shall be entitled to a separation pay equivalent to at least his one (1) month pay or to at least one (1) month pay for every year of service, whichever is higher."
+Ratio Decidendi	1. Technical Evolution and Redundancy: An employer is entitled to adapt to technological advancements. When legacy IT infrastructures are upgraded or retired, the positions dedicated to operating those outdated architectures may be declared redundant without waiting for financial deficits to accrue.
+
+2. Satisfaction of Selection Criteria: PNB proved through technical appraisals and job matrices that Dalmacio's functional duties were tied exclusively to the phased-out AS/400 mainframe systems, whereas newly recruited IT contractuals were engaged for distinct, web-based database platforms. Redundancy selection criteria based on specialized skill compatibility and position obsolescence satisfy the fair, reasonable, and objective criteria requirement under the law.
+Fallo	WHEREFORE, the petition is GRANTED. The March 16, 2012 Decision and June 19, 2012 Resolution of the Court of Appeals in CA-G.R. SP No. 120531 are REVERSED and SET ASIDE. The complaint for illegal dismissal filed by respondent Telesforo S. Dalmacio is DISMISSED for lack of merit.
+
+
+SO ORDERED.
