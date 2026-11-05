@@ -1,0 +1,31 @@
+Rolando Almagro, et al. v. Philippine Airlines, Inc. (PAL)
+
+G.R. No. 204803, September 12, 2018
+
+Second Division, Caguioa, J.
+Facts	Rolando Almagro and several other flight attendants and stewards were retrenched by Philippine Airlines (PAL) in 1998 amid the Asian Financial Crisis. Petitioners filed individual and group complaints for illegal dismissal and underpayment of benefits, claiming that their terminations were fraudulent. Over the course of the litigation, the Supreme Court En Banc promulgated its definitive rulings in the landmark companion case FASAP v. PAL (G.R. No. 178083), which recognized the catastrophic financial insolvency of PAL and declared the 1998 retrenchment of flight attendants valid. When the Court of Appeals dismissed petitioners' Rule 65 petition by applying the doctrine of stare decisis and res judicata pursuant to the FASAP rulings, petitioners filed a Rule 45 petition before the Supreme Court. Petitioners argued that the CA committed grave abuse of discretion and that the FASAP ruling should not bind them because they were not individually named parties in the FASAP case.
+Issues	1. Can an alleged "grave abuse of discretion" of the CA be raised as a proper ground in a Rule 45 Petition for Review before the Supreme Court?
+
+2. Does the final ruling in FASAP v. PAL regarding the validity of the 1998 retrenchment bind individual employees who were not named parties under the doctrines of stare decisis and res judicata?
+Held	1. A Rule 45 petition is confined to ERRORS OF LAW, not grave abuse of discretion; a petitioner cannot conflate Rule 65 jurisdictional grounds with Rule 45 appeals.
+
+2. The FASAP ruling is BINDING on petitioners under the doctrines of stare decisis et non quieta movere and res judicata; the legality of the 1998 cabin crew retrenchment was conclusively decided.
+
+
+Verbatim Legal Basis:
+
+Rule 45, Section 1, Rules of Court:
+
+"Sec. 1. Filing of petition with Supreme Court. — A party desiring to appeal by certiorari from a judgment or final order or resolution of the Court of Appeals... may file with the Supreme Court a verified petition for review on certiorari. The petition may include an application for a writ of preliminary injunction or other provisional remedies and shall raise only questions of law, which must be distinctly set forth."
+
+
+Article 8, Civil Code of the Philippines:
+
+"Art. 8. Judicial decisions applying or interpreting the laws or the Constitution shall form a part of the legal system of the Philippines."
+Ratio Decidendi	1. Errors of Law vs. Grave Abuse of Discretion: The office of a Rule 45 Petition for Review is to correct errors of law or judgment committed by the CA. In contrast, grave abuse of discretion is the subject of an original special civil action for certiorari under Rule 65. An appellant under Rule 45 cannot simply assign grave abuse of discretion as an error without establishing a specific misapplication of substantive law.
+
+2. Operation of Stare Decisis and Res Judicata: When the Supreme Court En Banc conclusively resolves a question of law or fact—such as the substantive validity of the 1998 retrenchment of PAL cabin attendants—the doctrine of stare decisis bars the relitigation of that same issue in companion cases involving identical retrenchment facts. Stability in jurisprudence requires that once a case has been decided, other cases involving the same question must adhere to the precedent.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated May 21, 2012 and the Resolution dated December 11, 2012 of the Court of Appeals in CA-G.R. SP No. 119561 are AFFIRMED.
+
+
+SO ORDERED.
