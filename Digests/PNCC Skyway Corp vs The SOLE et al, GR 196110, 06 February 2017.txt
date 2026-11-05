@@ -1,0 +1,27 @@
+PNCC Skyway Corporation v. The Secretary of Labor & Employment, PNCC Skyway Traffic Management and Security Division Workers Organization
+
+G.R. No. 196110, February 06, 2017
+
+Second Division, Peralta, J.
+Facts	PNCC Skyway Corporation (PSC) held a concession agreement to operate and maintain the South Metro Manila Skyway Project. In July 2007, the Toll Regulatory Board directed PSC to turn over the operations of the Skyway to a new concessionaire, Skyway O&M Corporation (SOMCO), effective December 31, 2007. Because PSC was completely ceasing its operations and business undertaking, it terminated the employment of its entire workforce. On December 28, 2007—a mere three (3) days prior to the closure—PSC served notices of termination on the workers and submitted the establishment termination report to the DOLE. PSC fully paid all employees their complete statutory separation pay and voluntarily added an extra month of salary and benefits covering January 2008. The union filed a notice of strike questioning the closure. The Secretary of Labor assumed jurisdiction, declared the business closure authorized and valid under Article 283 [now Art. 298], but held PSC liable to pay nominal damages of P30,000.00 to each displaced employee for failure to comply with the mandatory 30-day prior written notice requirement. PSC appealed, arguing that paying an additional month's salary and the workers' actual advance knowledge of the concession turnover cured the delay. The CA affirmed the Secretary of Labor.
+Issue	What factors govern the determination and assessment of nominal damages under the Jaka Food Processing and Agabon doctrines when an employer terminates employees for an authorized cause without complying with the mandatory 30-day advance notice rule?
+Held	The award of P30,000.00 nominal damages per employee was PROPER; paying an extra month’s wages or employees' prior general awareness of an impending shutdown CANNOT substitute for the mandatory written 30-day statutory notice.
+
+
+Verbatim Legal Basis:
+
+Article 298 [formerly Article 283], Labor Code of the Philippines:
+
+"Art. 298. Closure of establishment and reduction of personnel. — The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation of the establishment or undertaking... by serving a written notice on the workers and the Ministry of Labor and Employment at least one (1) month before the intended date thereof..."
+
+
+Article 2221, Civil Code of the Philippines:
+
+"Art. 2221. Nominal damages are adjudicated in order that a right of the plaintiff, which has been violated or invaded by the defendant, may be vindicated or recognized, and not for the purpose of indemnifying the plaintiff for any loss suffered by him."
+Ratio Decidendi	1. Mandatory Character of the 30-Day Notice Rule: The requirement under Article 298 that written notice be served on both the employees and the DOLE at least one month before the intended date of closure is statutory and mandatory. Its dual purpose is: (a) to give workers sufficient time to prepare for impending unemployment and seek other livelihoods; and (b) to enable the DOLE to ascertain whether the closure is bona fide and verify that separation pay calculations comply with law. Paying equivalent wages for the notice period does not excuse non-compliance.
+
+2. Factors in Fixing Nominal Damages in Authorized Cause Dismissals (Jaka doctrine): Under Jaka Food Processing v. Pacot, a violation of procedural due process in authorized cause dismissals warrants a higher nominal damages award (generally P50,000.00) than in just cause dismissals (P30,000.00 under Agabon), because the employee was dismissed through no fault of his own. In fixing the amount of nominal damages, courts consider: (a) the employer’s good faith; (b) the presence of financial reverses; (c) the payment of enhanced separation benefits; and (d) whether the failure to give notice was deliberate. Considering that PSC acted in good faith to comply with a government mandate and paid an extra month’s pay, the Secretary of Labor did not commit grave abuse of discretion in assessing nominal damages at P30,000.00 per employee.
+Fallo	WHEREFORE, premises considered, the petition is DENIED. The Decision dated July 22, 2010 and Resolution dated March 10, 2011 of the Court of Appeals in CA-G.R. SP No. 111166 are AFFIRMED.
+
+
+SO ORDERED.
