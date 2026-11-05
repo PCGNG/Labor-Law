@@ -1,0 +1,27 @@
+Manila Public School Teachers Association (MPSTA), et al. v. Hon. Jesus C. Garcia, in his capacity as Chairman of the GSIS Board of Trustees, and GSIS
+
+G.R. No. 192708, October 02, 2017
+
+First Division, Leonardo-De Castro, J.
+Facts	The Manila Public School Teachers Association (MPSTA) represented public school teachers under the Division of City Schools of Manila. In 2001, the GSIS implemented the "Claims and Loans Inter-System Policy" (CLASP) and the "Automatic Premium Loan" (APL) system. Under these policies, whenever the Department of Education or the City of Manila failed or delayed in remitting the employer/employee premium contributions to the GSIS, the GSIS system automatically considered the teachers' premiums in default and converted the unpaid amounts into personal loans bearing compounding monthly interest rates and surcharges. When teachers retired, the GSIS automatically deducted these compounded loan arrearages from their retirement gratuities and pensions, leaving many teachers with zero or drastically diminished retirement pay. MPSTA challenged the validity of the GSIS resolutions and circulars, arguing that teachers cannot be penalized with deductions from their retirement benefits for premium arrearages caused by the government employer's failure to remit. The CA sustained the GSIS resolutions.
+Issue	Whether the GSIS can validly offset or deduct unremitted premium arrears and automatic loan interests from the retirement benefits of public school teachers when the failure to remit was caused by the employing agency.
+Held	The GSIS policy is UNLAWFUL; the GSIS CANNOT deduct premium arrearages or loan penalties from a member's retirement benefits where the member's paychecks show that contributions were duly withheld by the employer.
+
+
+Verbatim Legal Basis:
+
+Section 5(a) & Section 7, Republic Act No. 8291 (The GSIS Act of 1997):
+
+"Sec. 7. Penalty for Non-remittance or Delayed Remittance of Contributions. — Unremitted collections shall bear interest at two percent (2%) per month... The heads of the offices of the national government, its political subdivisions, government-owned and controlled corporations and other government agencies aforesaid shall be administratively and criminally liable for failure to deduct and remit..."
+
+
+Article 1708, Civil Code of the Philippines:
+
+"Art. 1708. The laborer's wages shall not be subject to execution or attachment, except for debts incurred for food, shelter, clothing and medical attendance."
+Ratio Decidendi	1. Protection of Vested Retirement Rights: Retirement benefits are social security funds intended to support public servants after decades of labor. Under R.A. No. 8291, the duty to remit contributions falls on the employing government agency, which is subject to administrative and penal sanctions for non-remittance.
+
+2. Illegality of Converting Unremitted Premiums into Member Debt: When a teacher establishes through payslips that premiums were deducted from salary, the teacher has fulfilled their statutory obligation. The GSIS cannot convert the remittance defaults of the Department of Education into personal debts of the teacher via the CLASP/APL system. Offsetting such unremitted arrears against final retirement pay is an unlawful deprivation of property.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision dated December 16, 2009 of the Court of Appeals in CA-G.R. SP No. 97728 is REVERSED and SET ASIDE. The GSIS Policies on Claims and Loans Inter-System Policy (CLASP) and Automatic Premium Loan (APL) are declared INVALID insofar as they authorize deductions from retirement and pension benefits for unremitted agency contributions. The GSIS is ORDERED to RECOMPUTE the retirement benefits of affected teachers and refund all amounts deducted, with legal interest.
+
+
+SO ORDERED.
