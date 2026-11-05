@@ -1,0 +1,26 @@
+Veterans Federation of the Philippines v. Eduardo L. Montenejo, Mylene M. Bonifacio, Evangeline E. Valverde, Deana N. Pagal, and VFP Management Development Corporation
+
+G.R. No. 184819, November 29, 2017
+
+Third Division, Velasco, Jr., J.
+Facts	The Veterans Federation of the Philippines (VFP) is a public corporation created under Republic Act No. 2640 that possessed an industrial land complex in Taguig known as the VFP Industrial Area (VFPIA). In 1991, VFP entered into a management agreement with VFP Management Development Corporation (VMDC), a private corporation, authorizing VMDC to operate and manage the VFPIA in exchange for 40% of the lease rentals. Under this agreement, VMDC hired its own administrative employees, including respondents Eduardo L. Montenejo, et al. Following the expiration of the agreement and month-to-month extensions, the VFP Board passed a resolution terminating the management contract effective December 31, 1999, and took back direct administration of the industrial estate. VMDC complied, turned over the properties to VFP on January 3, 2000, and served notices to its employees terminating their services effective January 31, 2000 due to the cessation of its operations, paying them statutory separation pay. The employees filed a complaint for illegal dismissal against both VMDC and VFP, contending that VMDC's closure was simulated and that VFP and VMDC were one and the same entity. The NLRC and CA declared the dismissals illegal and held VFP solidarily liable with VMDC by piercing the corporate veil.
+Issues	1. Whether the termination of employees resulting from the complete cessation of operations of VMDC upon the expiration of its management contract was valid under Article 298 [formerly Art. 283] of the Labor Code.
+
+2. Whether the corporate veil of VMDC may be pierced to hold VFP solidarily liable for employee claims.
+Held	1. The termination was VALID; the dismissals were grounded on an authorized cause under the law—the genuine, bona fide closure and cessation of operations of VMDC.
+
+2. VFP CANNOT be held solidarily liable; the doctrine of piercing the veil of corporate fiction is INAPPLICABLE because VFP and VMDC are distinct entities, and no fraud, wrongdoing, or bad faith was established.
+
+
+Verbatim Legal Basis:
+
+Article 298 [formerly Article 283], Labor Code of the Philippines:
+
+"Art. 298. Closure of establishment and reduction of personnel. — The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation of the establishment or undertaking... In case of retrenchment to prevent losses and in cases of closures or cessation of operations of establishment or undertaking not due to serious business losses or financial reverses, the separation pay shall be equivalent to one (1) month pay or at least one-half (1/2) month pay for every year of service, whichever is higher. A fraction of at least six (6) months shall be considered one (1) whole year."
+Ratio Decidendi	1. Management Right to Cease Business: An employer can lawfully close shop anytime for any bona fide reason. Just as no law forces anyone to go into business, no law compels an entity to continue operating. VMDC was created specifically to manage the VFPIA under a contract with VFP; when VFP terminated the management contract, VMDC had no further business or source of income, necessitating complete cessation. VMDC turned over all assets, dismissed all personnel, and never resumed operations, establishing a genuine closure.
+
+2. Piercing Requires Clear Proof of Wrongdoing: Disregarding corporate fiction is an exceptional remedy. Mere overlapping of certain board members, sharing common aims, or entering into exclusive management contracts does not establish that one is the alter ego of the other. Absent clear proof that the corporate form was used as an instrument to commit fraud, evade obligations, or commit illegal acts, VFP (a public corporation) cannot be held solidarily liable for the statutory termination liabilities of VMDC (a private company).
+Fallo	WHEREFORE, the appeal is GRANTED. The Decision dated July 29, 2008 and Resolution dated October 2, 2008 of the Court of Appeals in CA-G.R. SP No. 101041 are REVERSED and SET ASIDE. The Decision of the Labor Arbiter dated November 7, 2005 is REINSTATED with MODIFICATION in that respondent VFP Management Development Corporation is ordered to pay respondents Eduardo L. Montenejo, Mylene M. Bonifacio, Evangeline E. Valverde, and Deana N. Pagal nominal damages in the amount of P50,000.00 each for procedural non-compliance. Petitioner Veterans Federation of the Philippines is ABSOLVED from all liabilities.
+
+
+SO ORDERED.
