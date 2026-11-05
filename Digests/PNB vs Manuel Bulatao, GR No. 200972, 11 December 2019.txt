@@ -1,0 +1,27 @@
+Philippine National Bank v. Manuel C. Bulatao
+
+G.R. No. 200972, December 11, 2019
+
+Second Division, Caguioa, J.
+Facts	Manuel C. Bulatao was a Senior Vice President of the Philippine National Bank (PNB). In 1999, prior to the bank's full privatization, PNB offered an Early Separation Incentive Program (ESIP) to downsize personnel. Bulatao applied for the ESIP package, but the PNB Board denied his application on the ground that his high-level executive position was critical to ongoing operations and could not be phased out. However, to convince him to stay and lead the bank's transition, executive management gave him verbal assurances and written correspondences that he would receive a special separation/retirement package equivalent to the ESIP terms once the privatization was completed. Bulatao remained with PNB and rendered services throughout the transition. Upon PNB's acquisition by the Lucio Tan Group, Bulatao's services were terminated, but PNB refused to grant him the promised enhanced retirement benefits, limiting him to basic statutory pay and arguing that the alleged promise was unauthorized by the new Board of Directors. Bulatao filed a complaint for payment of enhanced retirement benefits based on the doctrine of promissory estoppel. The CA ruled in Bulatao's favor.
+Issue	Whether an employer is bound by the doctrine of promissory estoppel to grant an enhanced early retirement and separation package based on representations made by corporate officers to entice an employee to remain in service.
+Held	The employer is BOUND under the doctrine of PROMISSORY ESTOPPEL; having induced the employee to continue his service based on explicit promises of enhanced retirement benefits, the bank cannot repudiate its representations.
+
+
+Verbatim Legal Basis:
+
+Article 1431, Civil Code of the Philippines:
+
+"Art. 1431. Through estoppel an admission or representation is rendered conclusive upon the person making it, and cannot be denied or disproved as against the person relying thereon."
+
+
+Article 302 [formerly Article 287], Labor Code of the Philippines (as amended by R.A. No. 7641):
+
+"Art. 302. Retirement. — Any employee may be retired upon reaching the retirement age established in the collective bargaining agreement or other applicable employment contract..."
+Ratio Decidendi	1. Elements of Promissory Estoppel: Under Philippine jurisprudence, promissory estoppel requires: (a) a clear and definite promise made by a party; (b) reasonable reliance on that promise by the other party; (c) the party relying suffers detriment or alters his position by reason of the reliance; and (d) injustice can be avoided only by enforcement of the promise.
+
+2. Enforceability Against the Employer: Bulatao had the option to leave in 1999 and seek alternative executive positions. He chose to stay and manage the bank’s transition precisely because of executive commitments that he would be granted benefits equal to the early separation plan. The bank benefited from his retained expertise and cannot invoke the formal absence of an express board resolution to evade an executive commitment that induced substantial reliance.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated July 29, 2011 and Resolution dated March 12, 2012 of the Court of Appeals in CA-G.R. SP No. 110255 are AFFIRMED with MODIFICATION. Petitioner Philippine National Bank is ordered to pay respondent Manuel C. Bulatao his retirement/separation benefits equivalent to the terms of the Early Separation Incentive Program, with legal interest of six percent (6%) per annum from the date of finality of this Decision until full payment.
+
+
+SO ORDERED.
