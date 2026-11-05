@@ -1,0 +1,27 @@
+Norma M. De Roca v. Eduardo C. Dabuyan, et al.
+
+G.R. No. 215281, March 05, 2018
+
+First Division, Del Castillo, J.
+Facts	Eduardo C. Dabuyan, et al. filed an illegal dismissal complaint against "RAF Commercial and/or its owner Norma M. De Roca". De Roca, an elderly woman, failed to file her position paper within the period directed by the Labor Arbiter. The Labor Arbiter rendered a default decision holding RAF Commercial and De Roca solidarily liable for full backwages, separation pay, and money claims. On appeal to the NLRC, De Roca submitted her verified position paper accompanied by official DTI and SEC certifications proving that: (a) she never owned, managed, or operated RAF Commercial; (b) she had no employer-employee relationship with respondents; and (c) RAF Commercial was a sole proprietorship owned and registered exclusively by a third party (Enrico Soriano). The NLRC admitted De Roca’s late-filed position paper in the interest of substantial justice, reevaluated the evidence, and absolved her from liability. The Court of Appeals reversed the NLRC, holding that the NLRC committed grave abuse of discretion in admitting a position paper submitted for the first time on appeal in violation of procedural rules.
+Issue	Whether the NLRC may relax technical rules of procedure and admit an employer's position paper and evidence submitted for the first time on appeal to prevent a miscarriage of justice.
+Held	The NLRC has the power to RELAX TECHNICAL RULES; the non-observance of rigidities of technical procedure in labor proceedings is sanctioned by law to serve substantial justice.
+
+
+Verbatim Legal Basis:
+
+Article 227 [formerly Article 221], Labor Code of the Philippines:
+
+"Art. 227. Technical rules not binding and prior resort to amicable settlement. — In any proceeding before the Commission or any of the Labor Arbiters, the rules of evidence prevailing in courts of law or equity shall not be controlling and it is the spirit and intention of this Code that the Commission and its members and the Labor Arbiters shall use every and all reasonable means to ascertain the facts in each case speedily and objectively and without regard to technicalities of law or procedure, all in the interest of due process."
+
+
+Section 2, Rule VII, 2011 NLRC Rules of Procedure, as amended:
+
+"The rules of procedure and evidence prevailing in courts of law and equity shall not be controlling in proceedings before the Commission."
+Ratio Decidendi	1. Non-Observance of Technical Rigidities in Labor Cases: Under Article 227 of the Labor Code, labor tribunals are not bound by the strict, technical rules of evidence and civil procedure. The overarching statutory objective is to ascertain the true facts through reasonable means. The NLRC has the authority to admit evidence and position papers submitted for the first time on appeal when necessary to prevent an erroneous monetary judgment.
+
+2. Primacy of the Employer-Employee Relationship: Holding a party liable for illegal dismissal requires proof of an underlying employer-employee relationship. A money judgment cannot be sustained against a party who established through public commercial registries that she had no connection to the employing enterprise, merely because of procedural delay. Substantive justice overrides procedural technicalities.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision dated June 11, 2014 and Resolution dated October 28, 2014 of the Court of Appeals in CA-G.R. SP No. 129037 are REVERSED and SET ASIDE. The Decision of the National Labor Relations Commission dated October 30, 2012 absolving petitioner Norma M. De Roca from liability is REINSTATED.
+
+
+SO ORDERED.
