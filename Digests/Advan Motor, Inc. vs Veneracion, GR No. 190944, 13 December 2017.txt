@@ -1,0 +1,30 @@
+Advan Motor, Inc. v. Victoriano G. Veneracion
+
+G.R. No. 190944, December 13, 2017
+
+First Division, Leonardo-De Castro, J.
+Facts	Victoriano G. Veneracion was employed as a sales consultant by Advan Motor, Inc. (Advan Motor) in September 1999. In October 2001, Veneracion was suspected by management of attempting to organize a labor union among sales personnel. Shortly thereafter, Advan Motor issued a memorandum requiring him to explain why he should not be dismissed for incurring unexcused absences (AWOL) and for alleged loss of trust and confidence. Before Veneracion could submit an explanation, Advan Motor stripped him of his sales demo unit, barred him from client accounts, and served him a notice of termination. Veneracion filed a complaint for illegal dismissal. Advan Motor claimed that Veneracion committed serious misconduct, breached company trust, and incurred repeated unexcused absences. The Labor Arbiter, NLRC, and Court of Appeals all ruled that Veneracion was illegally dismissed because Advan Motor failed to present substantial evidence establishing either habitual absenteeism or willful breach of trust, and ordered his reinstatement with full backwages. Advan Motor appealed to the Supreme Court, arguing that reinstatement was improper under the doctrine of strained relations and that backwages should be limited.
+Issues	1. Whether respondent was illegally dismissed from employment.
+
+2. Whether the doctrine of strained relations applies to bar actual reinstatement and mandate separation pay.
+
+3. What is the scope and duration of the award of full backwages.
+Held	1. Respondent was ILLEGALLY DISMISSED; the employer failed to prove just cause by substantial evidence.
+
+2. Reinstatement is PROPER; the doctrine of strained relations CANNOT be applied based on bare assertions of animosity without concrete factual substantiation.
+
+3. Full backwages must be computed from the time compensation was withheld up to the date of ACTUAL REINSTATEMENT.
+
+
+Verbatim Legal Basis:
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
+Ratio Decidendi	1. Strict Application of the Doctrine of Strained Relations: Reinstatement is the primary statutory remedy guaranteed by Article 294 of the Labor Code. The doctrine of strained relations is an exception and must be applied strictly and with great caution. Strained relations must be demonstrated as an objective, proven fact supported by substantial evidence showing that deep-seated personal antagonism renders a harmonious working relationship impossible. Mere suspicion of union activities, litigation friction, or general employer claims of "loss of confidence" do not warrant denying an employee his primary right to return to his job.
+
+2. Duration of Backwages: Under the landmark doctrine in Bustamante v. NLRC, an illegally dismissed employee is entitled to full backwages without deductions or qualifications from the date of illegal termination up to the date of actual physical or payroll reinstatement.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated July 23, 2009 and Resolution dated January 6, 2010 of the Court of Appeals in CA-G.R. SP No. 103638 are AFFIRMED. Petitioner Advan Motor, Inc. is ORDERED to REINSTATE respondent Victoriano G. Veneracion to his former position without loss of seniority rights and to pay him full backwages inclusive of allowances and statutory monetary benefits, computed from the date of his illegal dismissal until his actual reinstatement, plus legal interest of six percent (6%) per annum from the date of finality of this Decision until fully paid.
+
+
+SO ORDERED.
