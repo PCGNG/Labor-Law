@@ -1,0 +1,22 @@
+Flight Attendants and Stewards Association of the Philippines (FASAP) v. Philippine Airlines, Inc. (PAL), Patria Chiong, and Court of Appeals
+
+G.R. No. 178083, July 22, 2008 & March 13, 2018 (En Banc)
+
+En Banc, Leonardo-De Castro, J. (Resolution on Reconsideration)
+Facts	In 1998, amid the Asian Financial Crisis and an pilots' strike that grounded operations, Philippine Airlines (PAL) incurred massive multi-billion-peso losses and was placed under SEC corporate rehabilitation. As part of its emergency survival plan, PAL retrenched approximately 5,000 employees, including 1,400 cabin crew members represented by the Flight Attendants and Stewards Association of the Philippines (FASAP). FASAP filed an illegal retrenchment and unfair labor practice complaint. In its initial Decision on July 22, 2008, the Supreme Court’s Third Division declared the retrenchment illegal, holding that PAL failed to present audited financial statements at the precise moment the notices were served and failed to observe objective selection criteria, particularly seniority. PAL filed a series of motions for reconsideration and elevated the matter to the Court En Banc. In its landmark En Banc Resolution dated March 13, 2018, the Court reconsidered its prior rulings, reevaluated the entire financial record, and reviewed the SEC rehabilitation orders and audited balance sheets covering the 1998 crisis period.
+Issue	Whether PAL’s retrenchment of 1,400 flight crew members during the 1998 Asian Financial Crisis satisfied the legal standards for a valid retrenchment to prevent crippling business losses under Article 298 [formerly Art. 283] of the Labor Code.
+Held	The retrenchment was VALID; PAL presented competent proof of substantial, severe, and catastrophic financial losses, and applied fair and reasonable selection criteria in downscaling its workforce to ensure corporate survival.
+
+
+Verbatim Legal Basis:
+
+Article 298 [formerly Article 283], Labor Code of the Philippines:
+
+"Art. 298. Closure of establishment and reduction of personnel. — The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation of the establishment or undertaking... In case of retrenchment to prevent losses... the separation pay shall be equivalent to one (1) month pay or at least one-half (1/2) month pay for every year of service, whichever is higher."
+Ratio Decidendi	1. Sufficiency of Proof of Imminent, Severe Losses in Emergency Conditions: While audited financial statements remain the standard evidentiary vehicle to establish financial losses, the existence of a formal SEC Order placing an enterprise under corporate rehabilitation—accompanied by interim financial reports, debt standstills, and massive recorded operating deficits—provides proof of catastrophic financial insolvency. In 1998, PAL was on the brink of total corporate collapse; retrenchment was an imperative measure to avert complete liquidation and save the remaining enterprise.
+
+2. Reasonableness of Selection Criteria: Retrenchment criteria need not be limited exclusively to seniority. An employer may consider performance appraisals, cabin safety efficiency records, disciplinary backgrounds, and functional suitability. PAL and FASAP had negotiated retrenchment guidelines under their existing agreements, and PAL’s application of those metrics—giving priority to crew competence and disciplinary standing alongside tenure—complied with the standard of fair and objective criteria. Because PAL acted in good faith to preserve business viability, the retrenchment was sustained.
+Fallo	WHEREFORE, the Motion for Reconsideration is GRANTED. The Decision dated July 22, 2008 and Resolution dated October 2, 2009 are VACATED and SET ASIDE. A new judgment is hereby entered AFFIRMING the Decision dated August 23, 2006 of the Court of Appeals in CA-G.R. SP No. 87956, and declaring the retrenchment of the 1,400 cabin crew members of Philippine Airlines, Inc. in 1998 as VALID and LEGAL.
+
+
+SO ORDERED.
