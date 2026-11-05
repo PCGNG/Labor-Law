@@ -1,0 +1,37 @@
+NPC Drivers and Mechanics Association (NPC DAMA), represented by its President Roger S. San Juan, Sr., et al. v. The National Power Corporation (NPC), National Power Board (NPB), and Power Sector Assets and Liabilities Management Corporation (PSALM)
+
+G.R. No. 156208, November 21, 2017 (En Banc Resolution)
+
+En Banc, Leonardo-De Castro, J.
+Facts	Following the passage of the Electric Power Industry Reform Act of 2001 (EPIRA, R.A. No. 9136), the National Power Board (NPB) issued Resolution Nos. 2002-124 and 2002-125 terminating all employees of the National Power Corporation (NPC) pursuant to restructuring. In an En Banc Decision on September 26, 2006, the Supreme Court declared both NPB resolutions void because they were passed by representatives rather than the department secretaries themselves, declaring the mass termination of NPC personnel illegal and entitling displaced workers to separation pay in lieu of reinstatement, plus backwages and other benefits. On execution, the RTC Clerk of Court and Sheriff issued demands for immediate payment and garnishment notices against the bank deposits of NPC and PSALM. PSALM intervened, arguing that: (a) PSALM cannot be held liable for NPC’s illegal dismissals; (b) public funds of government corporations cannot be subjected to ordinary execution or garnishment by trial court sheriffs; and (c) all money judgments against the government must be filed with and audited by the Commission on Audit (COA) under Commonwealth Act No. 327 and P.D. No. 1445.
+Issues	1. Can a trial court or labor sheriff issue a writ of execution and notices of garnishment against the corporate bank accounts and assets of government corporations (NPC/PSALM) to satisfy a labor judgment award?
+
+2. What is the proper procedure for enforcing a final judgment awarding backwages and separation benefits against a government-owned and controlled corporation?
+Held	1. Trial court/labor sheriffs CANNOT garnish or levy government funds; government funds and assets of GOCCs are exempt from ordinary execution and garnishment.
+
+2. The proper procedure to enforce a final money judgment against the government is to file a formal claim before the COMMISSION ON AUDIT (COA), which has primary jurisdiction over government expenditures.
+
+
+Verbatim Legal Basis:
+
+Article IX-D, Section 2(1), 1987 Philippine Constitution:
+
+"The Commission on Audit shall have the power, authority, and duty to examine, audit, and settle all accounts pertaining to the revenue and receipts of, and expenditures or uses of funds and property, owned or held in trust by, or pertaining to, the Government, or any of its subdivisions, agencies, or instrumentalities, including government-owned or controlled corporations with original charters."
+
+
+Section 26, Presidential Decree No. 1445 (Government Auditing Code of the Philippines):
+
+"Sec. 26. General jurisdiction. — The authority and powers of the Commission shall extend to and comprehend all matters relating to auditing procedures, systems and controls, the examination, audit, and settlement of all debts and claims of any sort due from or owing to the Government or any of its subdivisions, agencies and instrumentalities."
+Ratio Decidendi	1. State Immunity and Exemption of Public Funds from Garnishment: Public funds and assets of government agencies and GOCCs (even those with distinct corporate personalities like NPC and PSALM) cannot be reached through ordinary writs of garnishment or execution. Direct garnishment impairs government operations and violates public policy and constitutional fiscal controls.
+
+2. Primary Jurisdiction of the Commission on Audit (COA): A final judicial judgment determining the liability of the government or a GOCC for backwages and separation pay settles the existence and amount of the debt, but it cannot be enforced by a judicial writ of execution. The prevailing employees must file a formal money claim before the COA pursuant to Rule VIII of the 2009 Revised Rules of Procedure of the COA. The COA determines availability of appropriations and oversees orderly liquidation pursuant to auditing laws.
+Fallo	WHEREFORE, the Court resolves to:
+
+1. GRANT PSALM's prayer to lift and quash the Demand for Immediate Payment and the Notices of Garnishment issued against it and the NPC;
+
+2. DENY the petitioners' request to immediately execute the judgment award; and
+
+3. DIRECT the petitioners to file a claim against the government before the Commission on Audit, pursuant to its rules, which shall be resolved in accordance with the guidelines herein set forth.
+
+
+SO ORDERED.
