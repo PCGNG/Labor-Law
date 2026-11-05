@@ -1,0 +1,27 @@
+Societe Internationale De Telecommunications Aeronautiques (SITA) and Irene Neves v. Theodore Huliganga
+
+G.R. No. 215504, August 20, 2018
+
+Second Division, Caguioa, J.
+Facts	Theodore Huliganga was employed by SITA as an airline communications technician and was later promoted to managerial positions, eventually serving as Country Representative and Operations Manager. SITA had an existing Collective Bargaining Agreement (CBA) covering its rank-and-file workers that provided an early retirement program granting 1.5 to 2.0 months' basic salary for every year of service. For managerial employees, SITA maintained a separate corporate Staff Regulations manual that provided for retirement benefits under terms similar to the statutory rate. Upon reaching his retirement, Huliganga claimed that he was entitled to have his retirement benefits computed based on the favorable rates in the CBA. SITA rejected his demand, maintaining that as a managerial employee, Huliganga was excluded by law and by the terms of the CBA from the bargaining unit and could not claim CBA retirement formulas. Huliganga filed a complaint for payment of retirement differentials. The Labor Arbiter dismissed the claim. The NLRC reversed and awarded the CBA-based retirement pay, and the CA affirmed the NLRC.
+Issue	Whether a managerial employee is entitled to claim enhanced retirement benefits provided exclusively under a Collective Bargaining Agreement covering the rank-and-file bargaining unit.
+Held	A managerial employee is NOT entitled to retirement benefits provided under a CBA; managerial employees are disqualified by law from joining collective bargaining units and cannot claim CBA benefits in the absence of an express company policy or individual contract extending the same to them.
+
+
+Verbatim Legal Basis:
+
+Article 255 [formerly Article 245], Labor Code of the Philippines:
+
+"Art. 255. Ineligibility of managerial employees to join any labor organization; right of supervisory employees. — Managerial employees are not eligible to join, assist or form any labor organization. Supervisory employees shall not be eligible for membership in the collective bargaining unit of the rank-and-file employees but may join, assist or form separate collective bargaining units and/or labor organizations of their own."
+
+
+Article 302 [formerly Article 287], Labor Code of the Philippines (as amended by R.A. No. 7641):
+
+"Art. 302. Retirement. — Any employee may be retired upon reaching the retirement age established in the collective bargaining agreement or other applicable employment contract..."
+Ratio Decidendi	1. Ineligibility of Managerial Personnel to CBA Terms: Under Article 255 of the Labor Code, managerial employees are barred from joining labor organizations and cannot be included within a collective bargaining unit. Since a CBA is negotiated exclusively between the employer and the certified bargaining agent on behalf of the covered bargaining unit, managerial staff cannot claim rights under a contract negotiated without their representation.
+
+2. Absence of Contractual Extension or Company Practice: While an employer may voluntarily extend CBA-equivalent benefits to its managers via individual employment agreements or company practice, Huliganga failed to prove any written stipulation or past company practice extending CBA retirement formulas to management. His retirement was properly computed under SITA's managerial regulations and R.A. No. 7641.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision dated May 21, 2014 and Resolution dated November 19, 2014 of the Court of Appeals in CA-G.R. SP No. 110960 are REVERSED and SET ASIDE. The Decision dated December 22, 2008 of the Labor Arbiter in NLRC NCR Case No. 00-06-05041-08 dismissing respondent's complaint is REINSTATED.
+
+
+SO ORDERED.
