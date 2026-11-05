@@ -1,0 +1,26 @@
+Philtranco Service Enterprises, Inc. v. Philtranco Workers Union - Association of Genuine Labor Organizations (PWU-AGLO)
+
+G.R. No. 180962, February 26, 2014
+
+Second Division, Del Castillo, J.
+Facts	Philtranco Service Enterprises, Inc. (Philtranco) retrenched 21 employees on the ground of business losses. The union (PWU-AGLO) filed a Notice of Strike with the National Conciliation and Mediation Board (NCMB), alleging unfair labor practice (ULP) and union busting. Because public bus transportation is imbued with public interest, the Secretary of Labor intervened and assumed jurisdiction over the dispute under Article 263(g) [now Art. 278(g)] of the Labor Code. The Acting Secretary of Labor issued an Order directing Philtranco to reinstate the retrenched workers with backwages, remit withheld union dues, and comply with the CBA. Philtranco filed a Motion for Reconsideration, but the Secretary issued a resolution noting the motion as a pleading that needed "no action," believing that assumption decisions are immediately executory and not subject to reconsideration. Philtranco then filed an original Petition for Certiorari under Rule 65 before the Court of Appeals. The CA dismissed the petition on procedural grounds, holding that under Article 263(g), decisions of the Secretary of Labor become final within ten (10) days, making a Rule 65 petition improper without a resolved motion for reconsideration.
+Issues	1. What is the scope of the Secretary of Labor’s assumption of jurisdiction under Article 263(g) [now Art. 278(g)] of the Labor Code?
+
+2. Is a Motion for Reconsideration required before filing a Rule 65 Petition for Certiorari to challenge an Assumption Order of the Secretary of Labor, and did the CA err in dismissing the petition on technicality?
+Held	1. The Secretary of Labor’s assumption power under Article 263(g) is PLENARY and covers all issues and disputes arising from or connected with the threatened strike.
+
+2. A Motion for Reconsideration is a jurisdictional prerequisite to Rule 65; the Secretary erred in refusing to resolve the Motion for Reconsideration, and the CA erred in dismissing the petition without passing on the substantive merits.
+
+
+Verbatim Legal Basis:
+
+Article 278 [formerly Article 263] (g), Labor Code of the Philippines:
+
+"Art. 278. Strikes, picketing and lockouts. — ... (g) When, in his opinion, there exists a labor dispute causing or likely to cause a strike or lockout in an industry indispensable to the national interest, the Secretary of Labor and Employment may assume jurisdiction over the dispute and decide the same or certify the same to the Commission for compulsory arbitration... The decision of the President, the Secretary of Labor and Employment, the Commission or the voluntary arbitrator shall be final and executory ten (10) calendar days after receipt thereof by the parties."
+Ratio Decidendi	1. Plenary Scope of Assumption Power: In industries indispensable to the national interest (such as public passenger transportation), the assumption power of the DOLE Secretary is complete and plenary. It encompasses the power to enjoin work stoppages, evaluate retrenchment validity, direct reinstatement, order remittance of dues, and resolve economic disputes.
+
+2. Procedure for Judicial Review via Rule 65 (St. Martin Funeral Home applied): The 10-day finality rule in Article 263 does not bar the filing of a timely motion for reconsideration. An aggrieved party must file a motion for reconsideration within 10 days to give the Secretary an opportunity to rectify any errors. Once the motion is denied, the party has sixty (60) days under Rule 65 to file a Petition for Certiorari before the CA. The Secretary cannot evade resolving a motion for reconsideration by merely "noting" it, nor can the CA dismiss the certiorari action on that basis.
+Fallo	WHEREFORE, the Petition is GRANTED. The September 20, 2007 and December 14, 2007 Resolutions of the Court of Appeals in CA-G.R. SP No. 100324 are REVERSED and SET ASIDE. The case is REMANDED to the Court of Appeals for resolution of the petition for certiorari on the merits.
+
+
+SO ORDERED.
