@@ -1,0 +1,26 @@
+United Coconut Chemicals, Inc. v. Victoriano B. Valmores
+
+G.R. No. 201018, July 12, 2017
+
+Third Division, Bersamin, J.
+Facts	Victoriano B. Valmores was employed as Senior Utilities Inspector by United Coconut Chemicals, Inc. (UCCI) with a monthly salary of P11,194.00. Following his expulsion from the United Coconut Chemicals, Inc. Employees' Labor Organization (UELO) for alleged fund disloyalty, the union demanded his termination pursuant to the CBA union security clause. UCCI complied and dismissed Valmores in February 1996 without independent verification or due process. Valmores filed an illegal dismissal complaint. In a previous final ruling, the Court declared his dismissal illegal and ordered reinstatement with full backwages. During the recomputation before the Labor Arbiter, UCCI argued that backwages should be strictly confined to his basic salary at the time of dismissal (P11,194.00) without any allowances, salary increases, or benefits negotiated under subsequent CBAs, and that the union (UELO) should be primarily liable to pay or reimburse UCCI. The NLRC and CA ordered the recomputation of backwages to include all benefits and wage increases granted under the CBAs during the period of dismissal.
+Issues	1. What are the proper components of "full backwages" under Article 294 [formerly Art. 279] of the Labor Code, and do they include subsequent CBA increases and allowances?
+
+2. Can the employer shift liability for backwages to the union that demanded the dismissal under the union security clause?
+Held	1. The base figure for full backwages is fixed at the wage rate at the time of dismissal, PLUS all regular allowances and benefits granted under the CBA during the period of illegal dismissal.
+
+2. The employer (UCCI) is PRIMARILY and SOLELY LIABLE to the employee for backwages because it carried out the illegal dismissal without independent inquiry or due process.
+
+
+Verbatim Legal Basis:
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — ... An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
+Ratio Decidendi	1. Inclusion of CBA Benefits in Backwages: The concept of "full backwages" under Article 294 restorative jurisprudence means that the employee must be made whole—placed in the economic condition he would have enjoyed had he not been unlawfully dismissed. Therefore, backwages include not only the basic salary and regular allowances enjoyed at the time of termination, but also all statutory monetary adjustments and non-discretionary economic benefits granted under the collective bargaining agreements (CBAs) during the entire period of dismissal.
+
+2. Sole Liability of Employer: An employer who blindly terminates an employee upon union demand under a union security clause without conducting an independent investigation or serving the statutory two written notices is directly guilty of illegal dismissal. The employer cannot escape or defer execution by demanding reimbursement from the union in the labor execution proceedings; the employer's liability to the employee is direct and primary.
+Fallo	WHEREFORE, the Court DENIES the petition for review on certiorari; AFFIRMS the decision promulgated on August 23, 2011 by the Court of Appeals in CA-G.R. SP No. 116248; and DIRECTS the Labor Arbiter to recompute the full backwages of respondent Victoriano B. Valmores in accordance with the guidelines set forth herein, with legal interest of six percent (6%) per annum from finality of judgment until paid.
+
+
+SO ORDERED.
