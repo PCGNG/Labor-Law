@@ -1,0 +1,31 @@
+Consolidated Distillers of the Far East, Inc. v. Rogel N. Zaragoza
+
+G.R. No. 229302, June 20, 2018
+
+Second Division, Caguioa, J.
+Facts	Rogel N. Zaragoza was employed as a territory manager by Consolidated Distillers of the Far East, Inc. (Condis). In November 2007, Condis illegally dismissed him. The Labor Arbiter ruled that Zaragoza was illegally dismissed and ordered Condis to pay full backwages and reinstate him to his former post. This ruling was affirmed on appeal and attained finality before the Supreme Court in G.R. No. 196038 on March 30, 2012. During the execution proceedings, Condis refused to physically reinstate Zaragoza, claiming supervening events—namely, that his position had been abolished due to corporate restructuring and that relations were severely strained. The NLRC modified the mode of execution, directing the payment of separation pay in lieu of reinstatement. In recomputing the monetary awards, a dispute arose: Condis argued that backwages should stop running on March 30, 2012 (when the liability decision in G.R. No. 196038 became final), whereas Zaragoza maintained that backwages continued to accrue until the resolution awarding separation pay became final. The Court of Appeals applied the doctrine in Bani Rural Bank, Inc. v. De Guzman and ruled that backwages accrue until the finality of the decision awarding separation pay.
+Issue	When reinstatement is initially ordered in a final judgment but subsequently substituted with separation pay during execution due to impossibility or strained relations, up to what point should the computation of backwages run?
+Held	Backwages must be computed from the date of illegal dismissal until the FINALITY of the order/decision awarding SEPARATION PAY in lieu of reinstatement.
+
+
+Verbatim Legal Basis:
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
+Ratio Decidendi	1. Application of the Bani Rural Bank Doctrine: When a final judgment orders reinstatement, the employer-employee relationship is deemed to continue legally. If the employer subsequently refuses reinstatement or demonstrates that reinstatement has become impossible (due to position abolition or strained relations), the employment relationship is severed only upon the finality of the decision or order granting separation pay in lieu of reinstatement.
+
+2. Accrual of Backwages: Because the employment tie subsists until the order directing separation pay becomes final and executory, backwages continue to accrue up to that exact date. The employer cannot prematurely terminate its liability for backwages upon the finality of the initial judgment if it failed or refused to effect actual or payroll reinstatement as ordered therein.
+
+3. Immutability of Final Money Awards: The Labor Arbiter cannot, during execution, insert new allowance items (such as lodging allowances or incentive bonuses) that were not included in the original judgment that attained finality, as doing so violates the doctrine of immutability of judgment.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is PARTIALLY GRANTED. The Decision dated March 17, 2016 and Resolution dated January 10, 2017 of the Court of Appeals in CA-G.R. SP No. 135538 are AFFIRMED with MODIFICATION. Petitioner Consolidated Distillers of the Far East, Inc. is ORDERED to PAY respondent Rogel N. Zaragoza:
+
+(a) Full backwages from the date of illegal dismissal on November 20, 2007 until the finality of this Decision, excluding the unauthorized additional lodging allowances and monthly incentives added by the Labor Arbiter; and
+
+(b) Separation pay in lieu of reinstatement equivalent to one (1) month salary for every year of service computed from the start of employment until the finality of this Decision.
+
+
+The total monetary award shall earn legal interest of six percent (6%) per annum from the finality of this Decision until full satisfaction, deducting all amounts previously received by respondent under execution orders.
+
+
+SO ORDERED.
