@@ -1,0 +1,22 @@
+Manggagawa ng Komunikasyon sa Pilipinas v. Philippine Long Distance Telephone Company, Inc.
+
+G.R. Nos. 190389-90, April 19, 2017
+
+Second Division, Leonen, J.
+Facts	In 2002, Philippine Long Distance Telephone Company (PLDT) declared the abolition of its customer service operator services due to the migration of users to direct-dialing, internet, and cellular messaging services. PLDT offered its operators a Special Separation Package (SSP) under a voluntary redundancy program. The union, Manggagawa ng Komunikasyon sa Pilipinas (MKP), filed a notice of strike alleging unfair labor practices and questioning the validity of the redundancy program. The Secretary of Labor assumed jurisdiction under Article 263(g) [now Art. 278(g)] of the Labor Code and issued a Return-to-Work (RTW) Order directing all striking employees to return to duty and for PLDT to accept them back under the same terms and conditions prevailing before the work stoppage. When hundreds of redundant operators reported back, PLDT refused to take them back into the operating rooms, instead placing them on "payroll reinstatement" while paying their full regular salaries pending determination of the labor dispute. MKP filed an action claiming PLDT violated the Return-to-Work Order, arguing that payroll reinstatement is allowed only under Article 223 [now 229] during appeals from Labor Arbiter decisions, but prohibited under an Article 263(g) Assumption Order which requires actual physical reinstatement. The Court of Appeals sustained PLDT’s payroll reinstatement.
+Issue	Whether an employer ordered by the Secretary of Labor to accept striking employees back under a Return-to-Work Order in an assumption-of-jurisdiction proceeding may validly implement payroll reinstatement in lieu of actual physical reinstatement where the positions have already been abolished due to redundancy.
+Held	Payroll reinstatement is PERMISSIBLE under exceptional circumstances in an assumption-of-jurisdiction proceeding where physical reinstatement is no longer possible because the operational positions have been abolished through redundancy.
+
+
+Verbatim Legal Basis:
+
+Article 278 [formerly Article 263] (g), Labor Code of the Philippines:
+
+"Art. 278. Strikes, picketing and lockouts. — ... (g) When, in his opinion, there exists a labor dispute causing or likely to cause a strike or lockout in an industry indispensable to the national interest, the Secretary of Labor and Employment may assume jurisdiction over the dispute... Such assumption or certification shall have the effect of automatically enjoining the intended or impending strike or lockout... and all striking or locked-out employees shall immediately return-to-work and the employer shall immediately resume operations and readmit all workers under the same terms and conditions prevailing before the strike or lockout."
+Ratio Decidendi	1. Rule on Actual vs. Payroll Reinstatement in RTW Orders: As a general rule, an Article 263(g) return-to-work order mandates actual, physical readmission of the workers under the status quo ante. However, this general rule is not unbending and must yield to physical or operational impossibility.
+
+2. Operational Abolition Precludes Physical Reinstatement: Where an employer has already physically dismantled the technical apparatus (operator switchboards) and consolidated operations into automated digital switches, compelling actual physical readmission would force the enterprise to create empty work. Placing the workers on payroll reinstatement—ensuring they receive their complete wages and benefits without interruption during the pendency of the labor dispute—safeguards their economic welfare while recognizing the operational impossibility of physical reinstatement.
+Fallo	WHEREFORE, the Petitions for Review on Certiorari are DENIED. The Decisions dated August 28, 2008 and Resolutions dated November 25, 2009 of the Court of Appeals in CA-G.R. SP Nos. 96370 and 96371 are AFFIRMED.
+
+
+SO ORDERED.
