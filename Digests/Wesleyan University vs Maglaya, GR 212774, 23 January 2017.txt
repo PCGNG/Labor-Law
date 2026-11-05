@@ -1,0 +1,27 @@
+Wesleyan University-Philippines v. Guillermo T. Maglaya, Sr.
+
+G.R. No. 212774, January 23, 2017
+
+First Division, Caguioa, J.
+Facts	Guillermo T. Maglaya, Sr. was elected by the Board of Trustees of Wesleyan University-Philippines as University President for a five-year term (2009–2014). Following internal administrative disputes within the United Methodist Church and the university's governing body, the Board of Trustees adopted resolutions declaring the office of the President vacant and appointing an Officer-in-Charge. Maglaya was barred from entering the university premises and performing his presidential functions. Maglaya filed a complaint for illegal dismissal and monetary benefits before the Labor Arbiter. The university filed a motion to dismiss for lack of jurisdiction, arguing that Maglaya was a corporate officer under the university by-laws and that his removal constituted an intra-corporate dispute. The Labor Arbiter and NLRC dismissed the complaint for lack of jurisdiction. However, the Court of Appeals reversed, holding that the Labor Arbiter had jurisdiction because Maglaya claimed standard labor benefits and damages.
+Issue	Whether the termination of a University President elected by the Board of Trustees is an intra-corporate dispute falling within the exclusive jurisdiction of the RTC Special Commercial Court, or an ordinary illegal dismissal case cognizable by the Labor Arbiter.
+Held	The case is an INTRA-CORPORATE CONTROVERSY; the University President is a corporate officer, and the legality of his ouster falls within the exclusive jurisdiction of the Regional Trial Court.
+
+
+Verbatim Legal Basis:
+
+Section 25, Corporation Code of the Philippines (B.P. Blg. 68) [now Section 24, Revised Corporation Code]:
+
+"Sec. 25. Corporate officers, quorum. — Immediately after their election, the directors of a corporation must formally organize by the election of a president, who shall be a director, a treasurer who may or may not be a director, a secretary who shall be a citizen and resident of the Philippines, and such other officers as may be provided for in the by-laws."
+
+
+Section 5.2, Republic Act No. 8799 (The Securities Regulation Code):
+
+"The Commission's jurisdiction over all cases enumerated under Section 5 of Presidential Decree No. 902-A is hereby transferred to the Courts of general jurisdiction or the appropriate Regional Trial Court..."
+Ratio Decidendi	1. Corporate Officers Created by Law and By-Laws: A corporate officer is one who is created by the Corporation Code or specified in the corporation's by-laws. The office of the President is an express statutory corporate office required under Section 25 of the Corporation Code. Maglaya was elected by the Board of Trustees to occupy that corporate office.
+
+2. Intra-Corporate Nature of the Dispute: The removal of a corporate officer by the Board of Trustees involves corporate governance, election/appointment mechanics, and board oversight. An intra-corporate controversy does not transform into a labor dispute merely because the dismissed corporate officer asserts prayers for back salaries, unpaid compensation, or damages. The jurisdiction lies with the RTC acting as a Special Commercial Court.
+Fallo	WHEREFORE, premises considered, the petition is GRANTED. The Decision dated June 20, 2013 and Resolution dated May 21, 2014 of the Court of Appeals in CA-G.R. SP No. 124895 are REVERSED and SET ASIDE. The Decision of the National Labor Relations Commission dated March 23, 2012 dismissing the complaint for lack of jurisdiction is REINSTATED.
+
+
+SO ORDERED.
