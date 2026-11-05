@@ -1,0 +1,24 @@
+Coca-Cola Bottlers Philippines, Inc. v. Antonio Magno, Jr. and Melchor Ocampo, Jr.
+
+G.R. No. 212520, July 03, 2019
+
+Second Division, Reyes, Jr., A., J.
+Facts	Antonio Magno, Jr. and Melchor Ocampo, Jr. were sales supervisory employees of Coca-Cola Bottlers Philippines, Inc. (Coca-Cola). In 2008, Coca-Cola suspended and subsequently dismissed them for alleged sales route irregularities. They filed a complaint for illegal dismissal. On December 18, 2008, the Labor Arbiter declared their dismissals illegal and ordered Coca-Cola to immediately reinstate them physically or in the payroll pursuant to Article 223 [now 229] of the Labor Code. Coca-Cola appealed the decision to the NLRC and did not physically readmit the employees or reinstate them on the company payroll during the appeal. On July 28, 2011, the NLRC modified the Labor Arbiter's ruling: it reversed the illegal dismissal finding and declared the termination valid, but sustained the illegality of their preventive suspension and awarded salaries for that period. Respondents moved for a writ of execution to collect their accrued reinstatement wages from the date of the Labor Arbiter's order (December 18, 2008) until the NLRC reversed the order of reinstatement (July 28, 2011). Coca-Cola opposed, arguing that since the NLRC ultimately found the dismissals valid, the employees had no right to collect reinstatement wages for the intervening period, and that if payable, wages should be restricted strictly to basic pay. The CA upheld the execution for accrued reinstatement wages.
+Issue	What is the period covered by the award of accrued reinstatement wages under Article 229 [formerly Art. 223] when the Labor Arbiter's reinstatement order is subsequently reversed on appeal, and what components are included in accrued reinstatement wages?
+Held	Accrued reinstatement wages are DEMANDABLE and EXECUTABLE from the date the employer received the Labor Arbiter's decision until the NLRC reverses the reinstatement order; the employer must pay full salaries and regular allowances earned during that period regardless of the ultimate finding of valid dismissal.
+
+
+Verbatim Legal Basis:
+
+Article 229 [formerly Article 223, paragraph 3], Labor Code of the Philippines:
+
+"Art. 229. Appeal. — ... In any event, the decision of the Labor Arbiter reinstating a dismissed or separated employee, insofar as the reinstatement aspect is concerned, shall immediately be executory, even pending appeal. The employee shall either be admitted back to work under the same terms and conditions prevailing prior to his dismissal or separation or, at the option of the employer, merely reinstated in the payroll. The posting of a bond by the employer shall not stay the execution for reinstatement provided herein."
+Ratio Decidendi	1. Immediately Executory Nature of Labor Arbiter's Reinstatement Order (Garcia v. Philippine Airlines applied): The third paragraph of Article 223 [now 229] is mandatory. An order of reinstatement is immediately executory even pending appeal, and the posting of an appeal bond does not stay execution. If the employer exercises neither actual nor payroll reinstatement, its obligation to pay salaries accrues continuously from the date of receipt of the decision until the date the appellate tribunal (NLRC) formally reverses the order.
+
+2. No Refund Rule: Even if the NLRC ultimately reverses the Labor Arbiter and declares the dismissal lawful, the employer remains liable to pay the wages that accrued during the period of non-compliance prior to reversal. The worker is not required to reimburse salaries received or accrued during that window.
+
+3. Components of Accrued Reinstatement Wages: Reinstatement wages are not limited to bare basic pay; they encompass regular allowances and standard benefits (e.g., fixed transportation allowances) that the employee would have received had he been readmitted into the payroll. However, purely discretionary, contingent, or non-regular performance bonuses (such as variable annual incentive pay) are excluded unless actually earned.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The Resolutions dated February 4, 2014 and May 9, 2014 of the Court of Appeals in CA-G.R. SP No. 122684 are hereby AFFIRMED.
+
+
+SO ORDERED.
