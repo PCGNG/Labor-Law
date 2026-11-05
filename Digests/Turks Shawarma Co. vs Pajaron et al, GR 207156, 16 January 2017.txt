@@ -1,0 +1,27 @@
+Turks Shawarma Company/Gem Zenarosa v. Feliciano Z. Pajaron and Larry A. Carbonilla
+
+G.R. No. 207156, January 16, 2017
+
+First Division, Del Castillo, J.
+Facts	Feliciano Z. Pajaron and Larry A. Carbonilla filed a complaint for illegal dismissal and underpayment of wages against Turks Shawarma Company and its owner Gem Zenarosa. The Labor Arbiter declared them illegally dismissed and awarded monetary claims totaling P197,936.27. Turks Shawarma appealed to the NLRC by filing a Memorandum of Appeal accompanied by a "Motion to Reduce Appeal Bond," but posted a cash bond of only P15,000.00 (which was less than 10% of the monetary award), claiming financial liquidity constraints. The NLRC denied the motion to reduce bond, ruling that petitioners failed to advance meritorious grounds or post a reasonable amount of bond, and dismissed the appeal for failure to perfect it within the mandatory 10-day period. On certiorari, the Court of Appeals sustained the NLRC.
+Issue	Whether the filing of a Motion to Reduce Appeal Bond with a bond equivalent to less than 10% of the judgment award satisfies the legal requirement for perfecting an appeal under Article 229 [formerly Art. 223] of the Labor Code and the NLRC Rules.
+Held	The appeal was NOT perfected; the reduction of appeal bond is exceptional, requires meritorious grounds, and mandates the posting of a PROVISIONAL BOND in a reasonable amount (at least 10% of the monetary award).
+
+
+Verbatim Legal Basis:
+
+Article 229 [formerly Article 223, paragraph 2], Labor Code of the Philippines:
+
+"Art. 229. Appeal. — ... In case of a judgment involving a monetary award, an appeal by the employer may be perfected only upon the posting of a cash or surety bond issued by a reputable bonding company duly accredited by the Commission in the amount equivalent to the monetary award in the judgment appealed from."
+
+
+Section 6, Rule VI, 2011 NLRC Rules of Procedure, as amended:
+
+"Sec. 6. Bond. — ... No motion to reduce bond shall be entertained nor shall the accrual of the period for perfecting an appeal be suspended by the filing of such motion: Provided, That the motion is based on meritorious grounds, and only upon the posting of a cash or surety bond in a reasonable amount in relation to the monetary award... The reasonable amount shall be tentatively fixed at not less than ten percent (10%) of the monetary award excluding damages and attorney's fees."
+Ratio Decidendi	1. Mandatory and Jurisdictional Character of the Appeal Bond: The posting of an appeal bond equal to the monetary award is mandatory and jurisdictional. Its purpose is to assure the worker that if the award is sustained, it will be satisfied without evasion or delay.
+
+2. Strict Conditions for Reduction of Bond (McBurnie v. Ganzon applied): A motion to reduce an appeal bond may be granted only when: (a) it is based on meritorious grounds; and (b) a provisional bond in a reasonable amount—judicially pegged at not less than ten percent (10%) of the monetary judgment—is posted within the 10-day appeal period. A cash bond of P15,000.00 against an award of nearly P200,000.00 fell below the 10% minimum threshold. Vague claims of business losses unsupported by audited financial records do not constitute meritorious grounds, rendering the Labor Arbiter's decision final and executory.
+Fallo	WHEREFORE, premises considered, the petition is DENIED. The Decision dated September 14, 2012 and Resolution dated May 7, 2013 of the Court of Appeals in CA-G.R. SP No. 119567 are hereby AFFIRMED.
+
+
+SO ORDERED.
