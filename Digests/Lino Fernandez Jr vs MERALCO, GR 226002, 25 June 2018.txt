@@ -1,0 +1,22 @@
+Lino A. Fernandez, Jr. v. Manila Electric Company (MERALCO)
+
+G.R. No. 226002, June 25, 2018
+
+First Division, Del Castillo, J.
+Facts	Lino A. Fernandez, Jr. was employed as a Lead Specialist by MERALCO. In 2009, MERALCO terminated his services for gross neglect of duty after discovering that he approved irregular service applications. Fernandez filed a complaint for illegal dismissal. The Labor Arbiter dismissed the complaint, finding valid dismissal. Fernandez appealed to the NLRC, but his counsel failed to verify the Memorandum of Appeal and failed to attach a Certificate of Non-Forum Shopping as required by the NLRC Rules of Procedure. MERALCO moved to dismiss the appeal, arguing that failure to verify and submit a certification of non-forum shopping was fatal and rendered the Labor Arbiter's decision final. Fernandez’s counsel subsequently submitted a verified correction curing the formal defect. The NLRC dismissed the appeal on procedural technicalities, and the Court of Appeals affirmed the dismissal, refusing to relax the verification rules.
+Issue	Whether the procedural defects of a lack of verification and certificate of non-forum shopping in an appeal before the NLRC justify the dismissal of an employee's appeal on the merits.
+Held	The dismissal on procedural technicalities was IMPROPER; verification and certification of non-forum shopping are formal, non-jurisdictional requirements that may be relaxed in labor cases to protect workers' substantive rights.
+
+
+Verbatim Legal Basis:
+
+Article 227 [formerly Article 221], Labor Code of the Philippines:
+
+"Art. 227. Technical rules not binding and prior resort to amicable settlement. — In any proceeding before the Commission or any of the Labor Arbiters, the rules of evidence prevailing in courts of law or equity shall not be controlling and it is the spirit and intention of this Code that the Commission and its members and the Labor Arbiters shall use every and all reasonable means to ascertain the facts in each case speedily and objectively and without regard to technicalities of law or procedure, all in the interest of due process."
+Ratio Decidendi	1. Non-Jurisdictional Nature of Verification: Verification is a formal requirement intended to ensure good faith and truthfulness in allegations, and is not a jurisdictional condition precedent. A defective verification or absence of a certificate of non-forum shopping may be excused when the party subsequently rectifies the omission in good faith.
+
+2. Substantive Review of Labor Appeals: In labor proceedings, technical rules of pleading are not applied rigidly to defeat an adjudication of an employee’s security of tenure on the merits. When an employee substantially complies by submitting a verified document, the NLRC and Court of Appeals must resolve the termination dispute on its substantive legal merits.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision dated November 19, 2015 and Resolution dated July 13, 2016 of the Court of Appeals in CA-G.R. SP No. 138128 are REVERSED and SET ASIDE. The case is REMANDED to the National Labor Relations Commission for resolution of petitioner’s appeal on the merits.
+
+
+SO ORDERED.
