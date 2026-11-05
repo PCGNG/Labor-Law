@@ -1,0 +1,27 @@
+Renante B. Remoticado v. Typical Construction Trading Corp. and Rommel M. Alignay
+
+G.R. No. 206529, April 23, 2018
+
+Third Division, Leonen, J.
+Facts	Renante B. Remoticado worked as a construction laborer/helper for Typical Construction Trading Corporation (Typical Construction), owned and operated by Rommel M. Alignay. In December 2010, Remoticado filed a complaint for illegal dismissal and underpayment of wages against Typical Construction and Alignay. He alleged that after an altercation involving an unpaid debt at the construction site canteen, he was told by the company owner to stop reporting for work and was prevented by security guards from entering the work premises. Typical Construction denied dismissing Remoticado, asserting that Remoticado voluntarily stopped reporting to the construction site and subsequently appeared at the head office to tender a handwritten resignation letter, receiving his accrued salaries and executing a notarized Release, Waiver, and Quitclaim. Remoticado claimed that the resignation letter and quitclaim were pro-forma documents he was pressured to sign. The Labor Arbiter, NLRC, and Court of Appeals all dismissed Remoticado's complaint, holding that he failed to prove the initial fact of dismissal.
+Issue	Whether an employee who files an illegal dismissal complaint bears the initial burden of proving the actual fact of termination before the employer is required to prove just cause under the Labor Code.
+Held	There was NO ILLEGAL DISMISSAL; an employee who claims illegal termination must first establish by substantial evidence the actual fact of dismissal by the employer before the burden shifts to the employer.
+
+
+Verbatim Legal Basis:
+
+Rule 131, Section 1, Revised Rules on Evidence:
+
+"Section 1. Burden of proof. — Burden of proof is the duty of a party to present evidence on the facts in issue necessary to establish his or her claim or defense by the amount of evidence required by law."
+
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title..."
+Ratio Decidendi	1. Burden of Proving the Fact of Dismissal: While it is a settled rule in labor cases that the employer bears the burden of proving that a termination was for a just or authorized cause, this rule applies only after the fact of dismissal has been duly established. If there is no proof of an affirmative act of termination committed by the employer, there is no point in inquiring into whether a valid cause existed. There can be no illegal dismissal when there was no dismissal in the first place.
+
+2. Insufficiency of Bare Allegations vs. Notarized Resignation: Remoticado presented only bare, unsubstantiated claims that he was barred from the job site, failing to name the specific individuals who barred him or present witnesses. In contrast, the employer submitted his handwritten resignation letter and a notarized quitclaim. A voluntary resignation supported by a notarized waiver discharges the employer from liability in the absence of evidence proving fraud, coercion, or intimidation.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The assailed November 29, 2012 Decision and March 26, 2013 Resolution of the Court of Appeals in CA-G.R. SP No. 124993 are AFFIRMED.
+
+
+SO ORDERED.
