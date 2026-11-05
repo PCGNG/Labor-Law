@@ -117,7 +117,7 @@
       flex-shrink: 0;
     }
 
-    /* PANE 1: LEFT SYLLABUS TREE (410px width) */
+    /* PANE 1: LEFT SYLLABUS TREE (COLLAPSIBLE ACCORDION) */
     .pane-left-tree {
       width: 410px;
       background: var(--bg-sidebar);
@@ -130,23 +130,55 @@
     .tree-scroll-area { flex: 1; overflow-y: auto; padding: 14px 12px; }
 
     .topic-card {
-      margin-bottom: 16px;
-      border: 1px solid rgba(255, 255, 255, 0.05);
+      margin-bottom: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
       background: rgba(255, 255, 255, 0.015);
       border-radius: 8px;
       overflow: hidden;
     }
 
     .topic-title {
-      padding: 10px 12px;
-      background: rgba(30, 41, 59, 0.5);
-      font-size: 0.82rem;
+      padding: 10px 14px;
+      background: rgba(30, 41, 59, 0.6);
+      font-size: 0.84rem;
       font-weight: 800;
       text-transform: uppercase;
       color: #e2e8f0;
       display: flex;
       align-items: center;
+      justify-content: space-between;
+      cursor: pointer;
+      user-select: none;
+      transition: background 0.15s ease, color 0.15s ease;
+    }
+
+    .topic-title:hover {
+      background: rgba(47, 63, 89, 0.8);
+      color: #fff;
+    }
+
+    .topic-title-left {
+      display: flex;
+      align-items: center;
       gap: 8px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .topic-arrow {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      transition: transform 0.2s ease;
+    }
+
+    /* Collapsed & Expanded states */
+    .topic-card.collapsed .topic-content {
+      display: none;
+    }
+
+    .topic-card.collapsed .topic-arrow {
+      transform: rotate(-90deg);
     }
 
     .subtopic-item {
@@ -274,7 +306,7 @@
       margin: 0;
     }
 
-    /* PANE 3: RIGHT CASE DIGEST (JUSTIFIED, ENLARGED LABELS & TEXT) */
+    /* PANE 3: RIGHT CASE DIGEST */
     .pane-right-digest {
       flex: 1.35;
       background: var(--bg-right);
@@ -424,6 +456,9 @@
     let syllabusData = [];
     let selectedIndex = 0;
     const fileCache = {};
+    
+    // Store collapsed states for topics (persists while navigating)
+    const topicCollapseState = {};
 
     const cardPalette = [
       'var(--card-color-1)',
@@ -441,6 +476,19 @@
       })
       .then(data => {
         syllabusData = data;
+        
+        // Default: Open the topic containing the first selected entry, collapse other topics initially
+        if (syllabusData.length > 0) {
+          const activeTopic = syllabusData[0].topic;
+          syllabusData.forEach(item => {
+            if (item.topic !== activeTopic && topicCollapseState[item.topic] === undefined) {
+              topicCollapseState[item.topic] = true; // collapsed
+            } else if (topicCollapseState[item.topic] === undefined) {
+              topicCollapseState[item.topic] = false; // expanded
+            }
+          });
+        }
+        
         renderApp();
       })
       .catch(err => {
@@ -461,6 +509,11 @@
       renderRightDigest();
     }
 
+    function toggleTopicCollapse(topicName) {
+      topicCollapseState[topicName] = !topicCollapseState[topicName];
+      renderLeftTree();
+    }
+
     function renderLeftTree() {
       const tree = document.getElementById('syllabusTreeContainer');
       document.getElementById('caseCountBadge').textContent = `${syllabusData.length} Entries`;
@@ -474,12 +527,19 @@
 
       let html = '';
       for (const [topicName, subtopics] of Object.entries(structure)) {
+        const isCollapsed = !!topicCollapseState[topicName];
+        const safeTopicId = encodeURIComponent(topicName);
+
         html += `
-          <div class="topic-card">
-            <div class="topic-title">
-              <span>📁</span>
-              <span style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">${topicName}</span>
+          <div class="topic-card ${isCollapsed ? 'collapsed' : ''}">
+            <div class="topic-title" onclick="toggleTopicCollapse(decodeURIComponent('${safeTopicId}'))">
+              <div class="topic-title-left">
+                <span>📁</span>
+                <span>${topicName}</span>
+              </div>
+              <span class="topic-arrow">▼</span>
             </div>
+            <div class="topic-content">
         `;
 
         for (const [subtopicName, entries] of Object.entries(subtopics)) {
@@ -507,7 +567,10 @@
             html += `</div>`;
           }
         }
-        html += `</div>`;
+        html += `
+            </div>
+          </div>
+        `;
       }
       tree.innerHTML = html;
     }
@@ -745,6 +808,12 @@
 
     function selectCase(index) {
       selectedIndex = index;
+      
+      // Automatically expand the topic of the selected case so it's visible
+      if (syllabusData[index]) {
+        topicCollapseState[syllabusData[index].topic] = false;
+      }
+      
       renderApp();
     }
 
