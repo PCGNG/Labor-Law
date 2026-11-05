@@ -1,0 +1,31 @@
+Norma Cacho and North Star International Travel, Inc. v. Virginia D. Balagtas
+
+G.R. No. 202974, February 07, 2018
+
+Second Division, Peralta, J.
+Facts	Virginia D. Balagtas was an incorporator, stockholder, and the Executive Vice President (EVP) of North Star International Travel, Inc. Under the by-laws of North Star, the officers of the corporation included the President, Vice President, Secretary, and Treasurer, alongside such other officers as the Board may create. Balagtas had served continuously as EVP since the corporation's inception. In March 2004, the Board passed a resolution abolishing the position of EVP and terminating Balagtas's services. Balagtas filed a complaint for illegal dismissal with prayer for reinstatement and backwages before the Labor Arbiter. Petitioners filed a Motion to Dismiss on the ground of lack of jurisdiction, arguing that Balagtas was a corporate officer and that her separation was an intra-corporate controversy falling within the exclusive jurisdiction of the Regional Trial Court (RTC) designated as a Special Commercial Court. The Labor Arbiter, NLRC, and Court of Appeals ruled that the Labor Arbiter had jurisdiction because the position of "Executive Vice President" was not explicitly designated in the by-laws as a named corporate office.
+Issue	Whether the termination of petitioner Balagtas as Executive Vice President is a labor dispute falling within the jurisdiction of the Labor Arbiter or an intra-corporate controversy triable exclusively by the Regional Trial Court acting as a Special Commercial Court.
+Held	The case involves an INTRA-CORPORATE CONTROVERSY falling within the exclusive jurisdiction of the Regional Trial Court; the Labor Arbiter and NLRC have NO JURISDICTION.
+
+
+Verbatim Legal Basis:
+
+Section 5(c), Presidential Decree No. 902-A (as transferred by Section 5.2 of R.A. No. 8799 to the RTC):
+
+"Sec. 5. In addition to the regulatory and adjudicative functions of the Securities and Exchange Commission over organizations, businesses, and other operations of the corporation, it shall have original and exclusive jurisdiction to hear and decide cases involving:
+
+(c) Controversies in the election or appointments of directors, trustees, officers or managers of such corporations, partnerships or associations."
+
+
+Article 224 [formerly Article 217], Labor Code of the Philippines:
+
+"Art. 224. Jurisdiction of the Labor Arbiters and the Commission. — (a) Except as otherwise provided under this Code, the Labor Arbiters shall have original and exclusive jurisdiction to hear and decide... the following cases involving all workers:
+
+(2) Cases involving termination disputes..."
+Ratio Decidendi	1. Tests for Intra-Corporate Controversy: To determine whether a dispute involves an intra-corporate controversy, courts apply the two-tier test: (a) the relationship test; and (b) the nature of the controversy test.
+
+2. Application of the Tests: Under the relationship test, Balagtas was an incorporator, significant stockholder, director, and officer of North Star. Under the nature of the controversy test, the dispute pertained directly to the board's exercise of corporate prerogative to abolish the executive vice presidential position and remove a high corporate officer pursuant to internal corporate governance. Because the corporate by-laws authorized the board to establish other offices, and the position was held by a founding corporate stakeholder whose removal stemmed directly from board resolutions, the matter is an intra-corporate dispute cognizable exclusively by the RTC sitting as a Special Commercial Court.
+Fallo	WHEREFORE, premises considered, the petition is GRANTED. The Decision dated November 25, 2011 and the Resolution dated July 10, 2012 of the Court of Appeals in CA-G.R. SP No. 104768 are REVERSED and SET ASIDE. The complaint for illegal dismissal filed by respondent Virginia D. Balagtas before the Labor Arbiter is DISMISSED for lack of jurisdiction, without prejudice to her filing an appropriate action before the proper Regional Trial Court.
+
+
+SO ORDERED.
