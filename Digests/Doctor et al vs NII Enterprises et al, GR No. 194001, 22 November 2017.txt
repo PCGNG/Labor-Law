@@ -1,0 +1,33 @@
+Maria Vilma G. Doctor and Jaime Lao, Jr. v. NII Enterprises and/or Nilda C. Ignacio
+
+G.R. No. 194001, November 22, 2017
+
+First Division, Leonardo-De Castro, J.
+Facts	Maria Vilma G. Doctor (clerk since 1995) and Jaime Lao, Jr. (aircon technician since 1995) were employees of NII Enterprises, a sole proprietorship owned by Nilda C. Ignacio. In February 2004, an altercation arose between petitioners and Ignacio regarding workload assignments and office procedures. Petitioners claimed that during the heated argument, Ignacio shouted at them, directed them to leave, barred them from company premises, and instructed company guards not to allow them inside, which amounted to actual termination. They filed a complaint for illegal dismissal and underpayment of wages. NII Enterprises and Ignacio denied dismissing petitioners, maintaining that petitioners walked out of the office following the administrative discussion, failed to return despite verbal messages sent to them, and abandoned their work. The Labor Arbiter and NLRC held that petitioners were illegally dismissed. The Court of Appeals reversed, ruling that petitioners failed to prove the fact of dismissal with substantial evidence, but also found that respondents failed to prove abandonment.
+Issues	1. Whether petitioners were illegally dismissed or voluntarily abandoned their work.
+
+2. What is the appropriate legal relief where neither dismissal by the employer nor abandonment by the employees is proven.
+Held	1. There was NEITHER illegal dismissal NOR abandonment of employment.
+
+2. Reinstatement is the normal consequence when neither dismissal nor abandonment is established; however, where reinstatement is no longer feasible due to strained relations and the long lapse of time, SEPARATION PAY in lieu of reinstatement is properly awarded, WITHOUT backwages.
+
+
+Verbatim Legal Basis:
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
+
+
+Rule 131, Section 1, Revised Rules on Evidence:
+
+"Section 1. Burden of proof. — Burden of proof is the duty of a party to present evidence on the facts in issue necessary to establish his or her claim or defense by the amount of evidence required by law."
+Ratio Decidendi	1. Failure to Prove the Fact of Dismissal: The employee bears the burden of establishing the affirmative fact of dismissal by substantial evidence before the statutory burden shifts to the employer to justify the termination. Bare allegations of being told not to report or being locked out, unsupported by corroborating evidence or written termination letters, fail to establish dismissal.
+
+2. Failure to Prove Abandonment: Abandonment requires: (a) unjustified failure to report for work; and (b) clear intent to sever the employment relationship. The immediate filing of a complaint for illegal dismissal praying for reinstatement refutes any intention to abandon employment.
+
+3. Relief Where Neither Dismissal Nor Abandonment Exists: Where neither termination nor abandonment is proven, the general rule is to order reinstatement to the status quo ante without backwages. However, when litigation has generated substantial hostility and antipathy between the parties over more than a decade, the doctrine of strained relations applies, warranting an award of separation pay in lieu of reinstatement (at one month's salary per year of service), but without backwages because the employer did not unlawfully dismiss the workers.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is PARTIALLY GRANTED. The Decision dated June 30, 2010 and Resolution dated October 18, 2010 of the Court of Appeals in CA-G.R. SP No. 107383 are AFFIRMED with MODIFICATION. The complaint for illegal dismissal is DISMISSED. However, respondents NII Enterprises and/or Nilda C. Ignacio are ORDERED TO PAY petitioners Maria Vilma G. Doctor and Jaime Lao, Jr. separation pay in lieu of reinstatement computed at one (1) month salary for every year of service up to February 10, 2004, plus legal interest of six percent (6%) per annum from the finality of this Decision until full payment. The case is REMANDED to the Labor Arbiter for the computation of the separation pay.
+
+
+SO ORDERED.
