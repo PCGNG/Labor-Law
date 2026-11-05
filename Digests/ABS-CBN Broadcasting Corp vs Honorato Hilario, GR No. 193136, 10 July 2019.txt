@@ -1,0 +1,26 @@
+ABS-CBN Broadcasting Corporation v. Honorato C. Hilario, deceased, substituted by his wife, Rosenda T. Hilario, and children, et al., and Dindo Banting
+
+G.R. No. 193136, July 10, 2019
+
+Second Division, Caguioa, J.
+Facts	Honorato C. Hilario and Dindo Banting were employed as set designers and prop creators by Creative Creatives, Inc. (CCI). CCI was an entity originally incorporated in 1995 by key officers and directors of ABS-CBN Broadcasting Corporation (ABS-CBN) to take over the functions previously handled by ABS-CBN’s in-house Scenic Department. CCI operated on the premises of ABS-CBN, utilized ABS-CBN’s equipment, and serviced ABS-CBN exclusively. In 2003, the Board of Directors of CCI resolved to cease operations, citing business operational realignments, and terminated all its employees, including respondents, while paying them statutory separation benefits. However, immediately following the shutdown of CCI, ABS-CBN engaged Dream Web Vision Enterprises, Inc. (DWVEI)—a new enterprise formed by the same managing head of CCI—to perform identical set design functions for ABS-CBN programs, re-engaging many former CCI personnel. Respondents filed a complaint for illegal dismissal against both CCI and ABS-CBN, alleging that CCI's closure was a scheme to circumvent their security of tenure, and prayed that the veil of corporate fiction be pierced to hold ABS-CBN solidarily liable. The Labor Arbiter, NLRC, and Court of Appeals ruled that the closure lacked bona fide intent and held ABS-CBN and CCI jointly and severally liable for illegal dismissal.
+Issues	1. Whether the closure of business operations by CCI was bona fide under Article 298 [formerly Art. 283] of the Labor Code, or a sham to defeat workers' security of tenure.
+
+2. Whether the corporate veil of CCI may be pierced to hold ABS-CBN solidarily liable for respondents' illegal dismissal under the alter-ego doctrine.
+Held	1. The cessation of operations was NOT bona fide; it was an illicit subterfuge to circumvent respondents' security of tenure.
+
+2. The doctrine of piercing the veil of corporate fiction is APPLICABLE; ABS-CBN and CCI are solidarily liable because CCI was a mere alter ego and instrumentality organized and shut down under ABS-CBN's complete control.
+
+
+Verbatim Legal Basis:
+
+Article 298 [formerly Article 283], Labor Code of the Philippines:
+
+"Art. 298. Closure of establishment and reduction of personnel. — The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation of the establishment or undertaking unless the closing is for the purpose of circumventing the provisions of this Title, by serving a written notice on the workers and the Ministry of Labor and Employment at least one (1) month before the intended date thereof..."
+Ratio Decidendi	1. Requirement of Good Faith in Business Closures: While an employer has the right to close its business under Article 298, the law provides an explicit qualification: the cessation must be bona fide and not impelled by a motive to evade the tenurial protections of employees. Where an enterprise shuts down its operations only to re-channel identical work through a newly formed front entity using the same management and facilities, the closure is in bad faith and constitutes illegal dismissal.
+
+2. Alter-Ego Doctrine (Three-Prong Test): Piercing the veil of corporate fiction under the alter-ego doctrine requires: (a) Control—not mere majority stock control, but complete domination of finances, policy, and business practice such that the corporate entity had no separate mind of its own; (b) Fraud or Wrong—such control was used to perpetuate the violation of a statutory duty or circumvent employee security of tenure; and (c) Proximate Causation—the control proximately caused the injury. CCI was organized, financed, directed, and closed by ABS-CBN executives to perform work exclusively for ABS-CBN; hence, its separate juridical veil must be pierced to hold ABS-CBN directly and solidarily liable.
+Fallo	WHEREFORE, premises considered, the Petition for Review on Certiorari is hereby DENIED. The Decision dated March 4, 2010 and Resolution dated July 29, 2010 of the Court of Appeals in CA-G.R. SP No. 97585 are AFFIRMED.
+
+
+SO ORDERED.
