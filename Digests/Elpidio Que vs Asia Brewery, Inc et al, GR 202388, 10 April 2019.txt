@@ -1,0 +1,22 @@
+Elpidio Que v. Asia Brewery, Inc. and Michael Tan
+
+G.R. No. 202388, April 10, 2019
+
+Second Division, Caguioa, J.
+Facts	Elpidio Que was hired by Asia Brewery, Inc. (ABI) as Regional Sales Manager for Northern Luzon, a supervisory/managerial post tasked with overseeing regional beer distribution. In 2004, ABI implemented a nationwide corporate reorganizational program to streamline marketing operations and integrate its beer and beverage distribution channels. Under the new commercial organizational chart, the separate regional beer sales positions were phased out, and unified Area Commercial Operations groups were formed under redesigned job criteria. ABI served Que a Notice of Redundancy together with a corresponding 30-day notice filed with the DOLE, accompanied by a check for his statutory separation pay, accrued leave monetization, and transition benefits. Que accepted the monetary benefits under protest and filed an illegal dismissal complaint before the Labor Arbiter. Que claimed that the redundancy was a sham designed to dismiss him without cause, asserting that ABI was operating profitably and that newly created commercial positions handled the exact functions he previously performed. The Labor Arbiter found the dismissal illegal, but the NLRC reversed and upheld the redundancy. The Court of Appeals affirmed the NLRC.
+Issue	Whether the termination of petitioner's employment pursuant to the corporate restructuring program constituted a valid exercise of management prerogative under the authorized cause of redundancy under Article 298 [formerly Art. 283] of the Labor Code.
+Held	The redundancy program was VALID; the employer proved that corporate restructuring rendered the regional sales manager post superfluous, and objective evaluation standards were applied in good faith.
+
+
+Verbatim Legal Basis:
+
+Article 298 [formerly Article 283], Labor Code of the Philippines:
+
+"Art. 298. Closure of establishment and reduction of personnel. — The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation of the establishment or undertaking... by serving a written notice on the workers and the Ministry of Labor and Employment at least one (1) month before the intended date thereof. In case of termination due to the installation of labor-saving devices or redundancy, the worker affected thereby shall be entitled to a separation pay equivalent to at least his one (1) month pay or to at least one (1) month pay for every year of service, whichever is higher."
+Ratio Decidendi	1. Employer Discretion in Redundancy Schemes: An employer is not required to maintain an overstaffed operational setup. Redundancy exists when the services of an employee are in excess of what is reasonably demanded by the actual requirements of the enterprise. While profitability does not preclude redundancy, the employer must substantiate: (a) written notice to the employee and DOLE at least 30 days before effectivity; (b) payment of separation pay; (c) good faith in abolishing the redundant position; and (d) fair and reasonable criteria in selecting who is phased out.
+
+2. Good Faith in Structural Reorganization: ABI presented comprehensive organizational flowcharts, board resolutions, and business evaluations showing the merger of its distinct beer and non-alcoholic beverage distribution divisions. Que was evaluated alongside other regional managers using performance criteria, tenure, and compatibility with the unified beverage model. Because the position was abolished in good faith and not replaced by another employee performing identical regional duties, the redundancy was valid.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated December 22, 2011 and Resolution dated June 18, 2012 of the Court of Appeals in CA-G.R. SP No. 109749 are hereby AFFIRMED.
+
+
+SO ORDERED.
