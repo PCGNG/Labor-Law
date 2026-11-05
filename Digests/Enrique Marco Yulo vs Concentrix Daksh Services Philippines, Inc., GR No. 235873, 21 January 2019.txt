@@ -1,0 +1,22 @@
+Enrique Marco G. Yulo v. Concentrix Daksh Services Philippines, Inc.
+
+G.R. No. 235873, January 21, 2019
+
+Second Division, Perlas-Bernabe, J.
+Facts	Enrique Marco G. Yulo was employed as a Customer Service Representative (CSR) by Concentrix Daksh Services Philippines, Inc. (Concentrix). In February 2016, Concentrix served Yulo a Notice of Redundancy, informing him that his position was declared redundant due to the client's scaling down of operations and the implementation of operational cost-saving systems. Concentrix offered him separation pay and filed a copy of the termination notice with the DOLE. Yulo filed a complaint for illegal dismissal, asserting that the company had not proved redundant positions with operational and financial data, had not applied objective selection criteria, and was actively recruiting new customer service representatives at the time of his dismissal. Concentrix countered that declaring positions redundant is an employer prerogative that does not require financial losses. The Labor Arbiter and NLRC found the dismissal valid, and the Court of Appeals affirmed.
+Issue	Whether the employer established a valid redundancy program pursuant to the mandatory legal requisites under Article 298 [formerly Art. 283] of the Labor Code.
+Held	The dismissal was ILLEGAL; the employer failed to present substantial evidence showing the necessity of redundancy and failed to prove the use of fair, reasonable, and objective criteria in selecting the employee to be dismissed.
+
+
+Verbatim Legal Basis:
+
+Article 298 [formerly Article 283], Labor Code of the Philippines:
+
+"Art. 298. Closure of establishment and reduction of personnel. — The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation of the establishment or undertaking... by serving a written notice on the workers and the Ministry of Labor and Employment at least one (1) month before the intended date thereof. In case of termination due to the installation of labor-saving devices or redundancy, the worker affected thereby shall be entitled to a separation pay equivalent to at least his one (1) month pay or to at least one (1) month pay for every year of service, whichever is higher."
+Ratio Decidendi	1. Four Requisites of a Valid Redundancy: For a redundancy program to be legally sustainable, the employer must establish: (a) written notice served on both the employee and DOLE at least one month prior to separation; (b) payment of statutory separation pay (one month pay per year of service); (c) good faith in abolishing the redundant position; and (d) the application of fair, reasonable, and objective criteria in selecting the personnel to be terminated (e.g., preferred status, efficiency, seniority, or cost metrics).
+
+2. Absence of Objective Criteria: While an enterprise has the prerogative to restructure operations, it cannot simply state that a position is superfluous. Concentrix presented no operational studies, comparative staffing charts, or documentary proof explaining how Yulo was chosen over other CSRs. An employer's failure to present fair and objective selection criteria renders termination through redundancy illegal.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision dated June 19, 2017 and Resolution dated November 14, 2017 of the Court of Appeals in CA-G.R. SP No. 148906 are REVERSED and SET ASIDE. Petitioner Enrique Marco G. Yulo is declared to have been ILLEGALLY DISMISSED. Respondent Concentrix Daksh Services Philippines, Inc. is ORDERED to pay petitioner full backwages, separation pay in lieu of reinstatement, and attorney's fees equivalent to ten percent (10%) of the total monetary award, with legal interest of six percent (6%) per annum from finality of this Decision until fully paid.
+
+
+SO ORDERED.
