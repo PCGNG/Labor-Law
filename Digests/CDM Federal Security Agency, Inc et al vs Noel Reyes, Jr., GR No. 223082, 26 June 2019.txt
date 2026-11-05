@@ -1,0 +1,22 @@
+CMP Federal Security Agency, Inc. and Ms. Mary Jean P. Fernandez v. Noel T. Reyes, Jr. (and/or Sr.)
+
+G.R. No. 223082, June 26, 2019
+
+Second Division, Caguioa, J.
+Facts	Noel T. Reyes was a security guard employed by CMP Federal Security Agency, Inc. (CMP). Following a series of minor infractions over nine years of service, CMP served him a show-cause memorandum directing him to explain within 48 hours why he should not be terminated for gross and habitual neglect of duty. Reyes submitted a handwritten explanation denying neglect. Without holding an administrative hearing or conference where Reyes could be confronted by his accusers or present evidence, CMP served him an outright notice of termination. In the illegal dismissal proceedings, CMP argued that an actual administrative trial-type hearing is not indispensable under labor law, claiming that issuing a show-cause letter and receiving a written explanation satisfied procedural due process. The Court of Appeals found the dismissal illegal, holding that the employer violated procedural due process by depriving the worker of an opportunity to be heard.
+Issue	What constitutes compliance with the "opportunity to be heard" requirement of procedural due process in employee termination cases under the Perez v. Philippine Telegraph and Telephone Co. doctrine?
+Held	The employer failed to observe procedural due process; while a formal trial-type hearing is not indispensable, an employee must be afforded a meaningful OPPORTUNITY TO BE HEARD, which was denied here.
+
+
+Verbatim Legal Basis:
+
+Article 292 [formerly Article 277] (b), Labor Code of the Philippines:
+
+"Art. 292. Miscellaneous provisions. — ... (b) Subject to the constitutional right of workers to security of tenure and their right to be protected against unfair labor practice, the employer shall furnish the worker whose services are sought to be terminated a written notice stating the particular causes for termination and shall afford him ample opportunity to be heard and to defend himself with the assistance of his representative if he so desires in accordance with company rules and regulations promulgated pursuant to guidelines set by the Department of Labor and Employment..."
+Ratio Decidendi	1. Standards of Opportunity to Be Heard (Perez v. PT&T doctrine): Procedural due process requires: (a) a first written notice specifying the grounds and providing at least five (5) calendar days to respond; (b) a hearing or conference where the employee can explain his defenses, present evidence, and rebut evidence; and (c) a written notice of termination indicating that all circumstances were evaluated. While a formal, trial-type hearing is not mandatory in all administrative cases, a hearing or conference is mandatory when: (1) requested by the employee; (2) when substantial issues of fact require clarification; or (3) when mandated by company rules.
+
+2. Meaningful Due Process Violated: Giving an employee an abbreviated 48-hour deadline to explain complex charges covering nine years of employment, and immediately serving a notice of dismissal without examining time cards or providing a conference, deprives the employee of an opportunity to be heard.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The August 28, 2015 Decision and February 10, 2016 Resolution of the Court of Appeals in CA-G.R. SP No. 132479 are AFFIRMED.
+
+
+SO ORDERED.
