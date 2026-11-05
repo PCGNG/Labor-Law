@@ -1,0 +1,27 @@
+PMI-Faculty and Employees Union v. PMI Colleges Bohol
+
+G.R. No. 211526, June 29, 2016
+
+Third Division, Perez, J.
+Facts	The PMI-Faculty and Employees Union and PMI Colleges Bohol entered into a Collective Bargaining Agreement (CBA) providing for a Grievance Machinery to settle disputes arising from contract interpretation. A controversy arose concerning the non-payment of salary increases and holiday pay. The Union submitted the dispute to the National Conciliation and Mediation Board (NCMB) for preventive mediation and subsequently elevated the case to a Voluntary Arbitrator. PMI Colleges challenged the jurisdiction of the Voluntary Arbitrator, arguing that the Union bypassed the intermediate steps of the Grievance Machinery outlined in the CBA, and that technical rules required strict exhaustion of internal grievance ladders before a Voluntary Arbitrator could acquire jurisdiction. The Voluntary Arbitrator resolved the wage dispute on the merits. The Court of Appeals set aside the arbitral decision, ruling that the failure to strictly comply with the multi-step grievance procedure deprived the Voluntary Arbitrator of jurisdiction.
+Issue	Whether the failure to strictly exhaust the preliminary procedural stages of a contractual grievance machinery deprives the Voluntary Arbitrator of jurisdiction to resolve a labor dispute.
+Held	The Voluntary Arbitrator HAS JURISDICTION; rigid adherence to technical procedural stages of a grievance machinery cannot defeat voluntary arbitration, especially where the employer actively participated in conciliation proceedings.
+
+
+Verbatim Legal Basis:
+
+Article 274 [formerly Article 261], Labor Code of the Philippines:
+
+"Art. 274. Jurisdiction of Voluntary Arbitrators and Panel of Voluntary Arbitrators. — The Voluntary Arbitrator or panel of Voluntary Arbitrators shall have original and exclusive jurisdiction to hear and decide all unresolved grievances arising from the interpretation or implementation of the Collective Bargaining Agreement and those arising from the interpretation or enforcement of company personnel policies..."
+
+
+Article 227 [formerly Article 221], Labor Code of the Philippines:
+
+"Art. 227. Technical rules not binding... In any proceeding before the Commission or any of the Labor Arbiters, the rules of evidence prevailing in courts of law or equity shall not be controlling..."
+Ratio Decidendi	1. Plenary Jurisdiction Over CBA Disputes: Under Article 274 of the Labor Code, the law vests original and exclusive jurisdiction in Voluntary Arbitrators to resolve all unresolved grievances arising from CBA interpretation or implementation. Once parties submit their grievances through the NCMB and voluntary arbitration, technical procedural steps within the internal grievance machinery are not jurisdictional bars.
+
+2. Waiver of Procedural Objections: When an employer participates in conciliation meetings and submits issues before an arbitrator, it cannot subsequently invoke procedural omissions in the grievance ladder to nullify an adverse decision on the merits.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision of the Court of Appeals is REVERSED and SET ASIDE, and the Decision of the Voluntary Arbitrator ordering the payment of accrued CBA monetary benefits is REINSTATED.
+
+
+SO ORDERED.
