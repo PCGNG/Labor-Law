@@ -1,0 +1,22 @@
+Philippine International Trading Corporation v. Commission on Audit
+
+G.R. No. 205837, November 21, 2017
+
+En Banc, Peralta, J.
+Facts	The Philippine International Trading Corporation (PITC), a government-owned and controlled corporation (GOCC), established an internal retirement plan in 1988 under its Corporate Charter (P.D. No. 1071), providing a specialized retirement package to its personnel. In 2010, the Commission on Audit (COA) issued a Notice of Disallowance disallowing PITC's disbursement of retirement benefits, citing Republic Act No. 4968 (which amended C.A. No. 186 and barred GOCCs from establishing private or supplementary retirement plans outside the GSIS system). The COA ordered PITC officers and retired beneficiaries to refund the disbursed retirement funds. PITC filed a petition for certiorari, arguing that its charter granted its Board the corporate power to fix terms and compensation, and that the long-standing grant of the benefits had ripened into an unalterable practice protected under the principle of non-diminution of benefits.
+Issue	Whether a government corporation (GOCC) can establish a supplementary retirement plan independent of and superior to the statutory GSIS retirement framework under R.A. No. 4968.
+Held	The retirement plan is VOID; GOCCs are prohibited by R.A. No. 4968 from creating separate, supplementary retirement schemes outside the GSIS, and the principle of non-diminution of benefits does NOT apply to ultra vires acts.
+
+
+Verbatim Legal Basis:
+
+Section 10, Republic Act No. 4968 (amending Section 28 of Commonwealth Act No. 186):
+
+"No government-owned or controlled corporation, agency or its subdivision shall establish, maintain, or contribute to any separate or supplementary retirement, gratuity or pension plan in favor of its officials and employees, other than the retirement systems established by this Act or by general law."
+Ratio Decidendi	1. Prohibition Under R.A. No. 4968: Section 10 of R.A. No. 4968 was enacted to curb the creation of duplicate or bloated pension programs in government entities. GOCCs are restricted to the retirement framework administered by the GSIS or general retirement laws. A broad charter clause granting a GOCC board general corporate power to organize management cannot override an express statutory ban against separate retirement plans.
+
+2. Inapplicability of Non-Diminution to Unlawful Grants: The labor principle of non-diminution of benefits applies only to lawful benefits granted within the valid exercise of corporate prerogative. It cannot be invoked to perpetuate a practice that is prohibited by statute. However, because the recipient retirees and certifying officers acted in good faith reliance on long-standing administrative approvals, they were excused from refunding the amounts received prior to the disallowance.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DISMISSED. Decision No. 2012-212 dated November 29, 2012 of the Commission on Audit is AFFIRMED with MODIFICATION that the recipients and approving officers of petitioner Philippine International Trading Corporation are not required to refund the retirement benefits already disbursed, having acted in good faith.
+
+
+SO ORDERED.
