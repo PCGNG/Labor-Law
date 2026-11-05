@@ -1,0 +1,27 @@
+Adelfa Roberto Malcaba, et al. v. ProHealth Pharma Philippines, Inc., Alberto Carisosa, and Delia Carisosa
+
+G.R. No. 209085, June 06, 2018
+
+Third Division, Leonen, J.
+Facts	Adelfa Roberto Malcaba was an incorporator, stockholder, and the corporate President of ProHealth Pharma Philippines, Inc. (ProHealth). Co-petitioners were sales and medical representatives of the company. Following internal management disagreements regarding fiscal spending and business operations, the Board of Directors passed resolutions terminating Malcaba as President and removing the other petitioners from their sales positions. Malcaba and the other employees jointly filed a complaint for illegal dismissal before the Labor Arbiter. ProHealth filed a motion to dismiss as to Malcaba, asserting that his dismissal was an intra-corporate controversy beyond the jurisdiction of labor tribunals. The Labor Arbiter assumed jurisdiction over all claims and declared petitioners illegally dismissed. The NLRC affirmed the ruling, but the Court of Appeals reversed as to Malcaba, holding that the Labor Arbiter had no jurisdiction over the termination of the corporate President.
+Issue	Whether the Labor Arbiter has jurisdiction over the illegal dismissal complaint of a corporate President who is simultaneously an incorporator and stockholder of the respondent corporation.
+Held	The Labor Arbiter has NO JURISDICTION over the termination of the corporate President; the ouster of a corporate officer is an intra-corporate controversy cognizable exclusively by the Regional Trial Court.
+
+
+Verbatim Legal Basis:
+
+Section 5(c), Presidential Decree No. 902-A:
+
+"Controversies in the election or appointments of directors, trustees, officers or managers of such corporations, partnerships or associations."
+
+
+Section 25, Corporation Code of the Philippines [now Section 24, Revised Corporation Code]:
+
+"Immediately after their election, the directors of a corporation must formally organize by the election of a president, who shall be a director, a treasurer who may or may not be a director, a secretary who shall be a citizen and resident of the Philippines..."
+Ratio Decidendi	1. Distinction Between Corporate Officers and Regular Employees: Corporate officers are those given that character by the Corporation Code or by the corporation's by-laws. A corporate President is explicitly established as a corporate officer by statute. Malcaba was appointed by the Board of Directors and sat as an incorporator and stockholder. His dismissal by the Board is an intra-corporate matter governed by the Corporation Code and Securities Regulation Code, not the Labor Code.
+
+2. Jurisdiction Over Companion Non-Officer Co-Complainants: While the Labor Arbiter had no jurisdiction over President Malcaba, the dismissal of regular sales and medical representatives remains within the jurisdiction of the Labor Arbiter under Article 224 [formerly Art. 217] of the Labor Code.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is PARTIALLY GRANTED. The Decision dated January 29, 2013 and Resolution dated September 17, 2013 of the Court of Appeals in CA-G.R. SP No. 119896 are AFFIRMED with MODIFICATION. The complaint for illegal dismissal filed by petitioner Adelfa Roberto Malcaba is DISMISSED for lack of jurisdiction. The awards in favor of the regular employee co-petitioners are sustained and remanded to the Labor Arbiter for proper execution.
+
+
+SO ORDERED.
