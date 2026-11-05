@@ -1,0 +1,27 @@
+Ramiro Lim & Sons Agricultural Co., Inc., Lim Lopez Agricultural Company, Inc., and Felicisimo Lim v. Armando Guilaran, et al.
+
+G.R. No. 221103, February 06, 2019
+
+Second Division, Carpio, J.
+Facts	Armando Guilaran and several other agricultural workers were regular seasonal pakyaw (piece-rate) workers employed in petitioners' sugarcane plantation in Negros Occidental. In 2000, petitioners refused to allow them to work during the harvest season without valid cause, prompting the workers to file an illegal dismissal complaint. In a previous final decision, the Court affirmed that respondents were regular seasonal employees who were illegally dismissed, entitling them to reinstatement or separation pay, and full backwages. During the execution proceedings before the Labor Arbiter, a controversy arose regarding the computation of backwages for piece-rate/seasonal workers. The Labor Arbiter computed backwages by applying the prevailing statutory daily minimum wage for 313 days across all twelve months of every calendar year. Petitioners opposed, arguing that agricultural sugarcane workers are piece-rate employees whose backwages must reflect actual seasonal periods (milling/harvest season) rather than a fictitious 313 continuous working days at daily minimum rates. The NLRC and CA sustained the daily minimum wage 313-day formula.
+Issue	How should the full backwages of illegally dismissed piece-rate (pakyaw) agricultural workers be computed under Article 294 [formerly Art. 279] of the Labor Code?
+Held	The computation must be based on the AVERAGE DAILY EARNINGS actually received by the piece-rate worker, multiplied by the actual number of working days during the agricultural season, NOT automatically on the full 313-day statutory daily minimum wage.
+
+
+Verbatim Legal Basis:
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
+
+
+Article 124, Labor Code of the Philippines:
+
+"All workers paid by result, including those who are paid on piecework, takay, pakyaw or task basis, shall receive not less than the prescribed minimum wage rates per eight (8) hours work a day, or a proportion thereof for working less than eight (8) hours."
+Ratio Decidendi	1. Base Figure for Piece-Rate Backwages: The base figure in computing full backwages is the wage rate received by the employee at the time of illegal dismissal. For employees paid by result or pakyaw, their compensation fluctuates; hence, their base wage must be computed using their average daily earnings over an established representative period prior to dismissal, or the mandated statutory floor per output if the piece-rate yielded below minimum wage.
+
+2. Seasonal Agricultural Reckoning: Agricultural workers in sugarcane plantations do not render service 313 days a year; operations depend strictly on the cropping and milling seasons (typically 7 to 8 months per year), followed by the off-milling (tiempo muerto) period. In computing backwages for seasonal employees, backwages should correspond only to the periods when work was available and performable during the agricultural season, not continuous work years. Computing backwages as if agricultural piece-rate workers rendered daily full-year work unjustly enriches the workers and distorts the compensatory nature of backwages.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED IN PART. The Decision dated February 25, 2015 and Resolution dated September 17, 2015 of the Court of Appeals in CA-G.R. SP No. 04070 are REVERSED and SET ASIDE. The case is REMANDED to the Labor Arbiter for the recomputation of the backwages and separation pay of respondents Armando Guilaran, et al. in accordance with the formula laid down in this Decision, with legal interest of six percent (6%) per annum from the finality of this Decision until full payment.
+
+
+SO ORDERED.
