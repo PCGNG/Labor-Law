@@ -1,0 +1,22 @@
+Armando Tolentino v. Philippine Airlines, Inc. (PAL)
+
+G.R. No. 218984, January 24, 2018
+
+First Division, Del Castillo, J.
+Facts	Armando Tolentino was a regular commercial airline pilot and member of the Airline Pilots Association of the Philippines (ALPAP). In June 1998, during the pendency of a labor dispute involving PAL’s retrenchment schemes, ALPAP declared and staged an illegal strike, defying the Return-to-Work Order issued by the Secretary of Labor under Article 263(g) [now Art. 278(g)] of the Labor Code. Tolentino joined the strike, refused to fly his scheduled flights, and picketed. When PAL terminated the employment of the striking pilots, Tolentino challenged his dismissal. In previous final jurisprudence (ALPAP v. PAL, G.R. No. 152306, 2008), the Supreme Court affirmed that the strike was illegal and that striking union officers and members who defied the return-to-work order lost their employment status. Years later, Tolentino filed a claim for payment of accrued retirement benefits under the PAL-ALPAP Retirement Plan, arguing that loss of employment status does not strip an employee of vested retirement pay earned during his 20 years of active service. PAL opposed the claim, citing its Retirement Plan which specified that employees dismissed for cause forfeit retirement gratuities. The CA held that Tolentino was disqualified from receiving retirement pay.
+Issue	Whether a commercial airline pilot who was validly dismissed from employment for participating in a prohibited strike and defying a DOLE Return-to-Work Order forfeits his entitlement to retirement benefits under the company retirement plan.
+Held	The pilot is NOT entitled to retirement benefits; dismissal for just cause resulting from participation in an illegal strike and defiance of a lawful Return-to-Work Order entails forfeiture of retirement benefits under the terms of the plan.
+
+
+Verbatim Legal Basis:
+
+Article 278 [formerly Article 264] (a), Labor Code of the Philippines:
+
+"Art. 278. Prohibited activities. — ... Any union officer who knowingly participates in an illegal strike and any worker or union officer who knowingly participates in the commission of illegal acts during a strike may be declared to have lost his employment status: Provided, That any worker or union officer who knowingly defies a return-to-work order issued by the Secretary of Labor and Employment shall be deemed to have committed an illegal act and shall lose his employment status."
+Ratio Decidendi	1. Defiance of Return-to-Work Order: Defiance of a return-to-work order in an industry indispensable to national interest constitutes an illegal act resulting in the loss of employment status under Article 278(a). Dismissal under such circumstances is a termination for just cause.
+
+2. Contractual Terms of Retirement Schemes: While retirement pay is a social benefit intended to assist workers in their old age, eligibility for benefits under a non-contributory private retirement plan is governed by the agreement. Where the plan provides that termination of employment for just cause causes forfeiture of retirement benefits, an employee dismissed for participation in an illegal strike and defiance of government directives cannot claim retirement gratuities.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The January 22, 2015 Decision and June 17, 2015 Resolution of the Court of Appeals in CA-G.R. SP No. 129484 are AFFIRMED.
+
+
+SO ORDERED.
