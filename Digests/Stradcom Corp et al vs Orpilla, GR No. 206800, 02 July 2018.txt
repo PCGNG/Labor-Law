@@ -1,0 +1,31 @@
+Stradcom Corporation and Cezar T. Quiambao v. Joyce Annabelle L. Orpilla
+
+G.R. No. 206800, July 02, 2018
+
+First Division, Del Castillo, J.
+Facts	Joyce Annabelle L. Orpilla was employed as Senior Operations Manager of the Land Transportation Office (LTO) IT Project by Stradcom Corporation (Stradcom), a position of managerial trust. In 2002, internal tensions arose when Orpilla repeatedly bypassed executive channels, authored defamatory circulars against fellow management team members, and leaked confidential operational reports concerning internal disputes to third-party entities and public officials. Stradcom issued multiple administrative notices charging her with insubordination, acts inimical to the interest of the company, and willful breach of trust. Orpilla challenged the authority of the investigating committee, refused to present substantive defenses, and claimed that the company officers were persecuting her. Stradcom terminated her employment for loss of trust and confidence. Orpilla filed a complaint for illegal dismissal against Stradcom and its President/CEO, Cezar T. Quiambao. The Labor Arbiter, NLRC, and Court of Appeals found her illegally dismissed and held Quiambao solidarily liable for full backwages and damages.
+Issues	1. Whether respondent Orpilla was validly dismissed from her managerial position on the ground of loss of trust and confidence under Article 297(c) of the Labor Code.
+
+2. Whether the corporate president may be held solidarily liable for monetary awards absent proof of malice or bad faith.
+Held	1. Orpilla was VALIDLY DISMISSED; leaking confidential operational data and publicly undermining executive colleagues constitutes just cause for loss of trust and confidence.
+
+2. The corporate president CANNOT be held solidarily liable; a corporate director or officer has a separate personality and is not solidarily liable absent clear and convincing proof of malice, gross negligence, or bad faith.
+
+
+Verbatim Legal Basis:
+
+Article 297 [formerly Article 282] (c), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative..."
+
+
+Section 31, Corporation Code of the Philippines [now Section 30, Revised Corporation Code]:
+
+"Sec. 31. Liability of directors, trustees or officers. — Directors or trustees who willfully and knowingly vote for or assent to patently unlawful acts of the corporation or who are guilty of gross negligence or bad faith in directing the affairs of the corporation... shall be liable jointly and severally for all damages resulting therefrom suffered by the corporation, its stockholders or members and other persons."
+Ratio Decidendi	1. Loss of Confidence in High-Tier Management: An employer possesses wide discretion in terminating managerial employees who occupy sensitive posts. Orpilla’s conduct of releasing internal memos, creating friction among executive personnel, and circumventing official directives impaired corporate operations, providing sufficient basis for loss of trust.
+
+2. Doctrine of Separate Corporate Personality and Officer Liability: A corporation is invested by law with a distinct personality from its directors and officers. Corporate directors and officers cannot be held solidarily liable for corporate labor liabilities unless it is established by clear evidence that they acted with bad faith, gross negligence, or participated in patently unlawful acts. Quiambao acted within his official capacity as President when he issued administrative memos; absent proof of malice, holding him personally liable violates the doctrine of separate corporate personality.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The July 23, 2012 Decision and April 17, 2013 Resolution of the Court of Appeals in CA-G.R. SP No. 109673 are REVERSED and SET ASIDE. The complaint for illegal dismissal filed by respondent Joyce Annabelle L. Orpilla is DISMISSED for lack of merit.
+
+
+SO ORDERED.
