@@ -1,0 +1,24 @@
+C.I.C.M. Mission Seminaries (Maryhurst, Maryheights, Maryshore and Maryhill) School of Theology, Inc. and Fr. Romeo Nimez, CICM v. Maria Veronica C. Perez
+
+G.R. No. 220506, January 18, 2017
+
+Second Division, Mendoza, J.
+Facts	Maria Veronica C. Perez was illegally dismissed from her employment by C.I.C.M. Mission Seminaries (Maryhurst, Maryheights, Maryshore and Maryhill) School of Theology, Inc. (CICM). On June 16, 2008, the Labor Arbiter declared the dismissal illegal and awarded her backwages and separation pay in lieu of reinstatement, amounting to P286,670.58. The decision was appealed through the NLRC and Court of Appeals, and finally affirmed with finality by the Supreme Court in G.R. No. 200490 on October 4, 2012. During execution, CICM argued that its liability was limited to the initial amount determined in the 2008 Labor Arbiter decision (P286,670.58), claiming that because Perez herself took an appeal seeking reinstatement, the employer should not bear the financial burden of backwages accrued during appellate delays. The Labor Arbiter, NLRC, and Court of Appeals rejected CICM's contention and ordered a recomputation of backwages and separation pay up to October 4, 2012—the date the Supreme Court’s judgment became final and executory—causing the award to increase to P1,847,088.89. CICM filed a Rule 45 petition assailing the recomputation.
+Issue	Whether backwages and separation pay in lieu of reinstatement should be computed up to the finality of the decision declaring the illegal dismissal, even when the employee's own appeal contributed to the prolonged litigation.
+Held	Backwages and separation pay in lieu of reinstatement MUST BE COMPUTED UP TO THE FINALITY OF THE JUDGMENT; the employment relationship legally subsists until the final decision awarding separation pay terminates it.
+
+
+Verbatim Legal Basis:
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
+Ratio Decidendi	1. Accrual of Backwages During Appellate Proceedings (Bani Rural Bank doctrine applied): The employee remains an employee of the employer pending appeals. When an award of separation pay in lieu of reinstatement is appealed by either party, the employment relationship is legally severed only when the appellate courts affirm the award with finality. Until that date of finality, the employee's entitlement to backwages and tenure credit for separation pay continues to accrue.
+
+2. Risk Borne by the Wrongdoer: An employer cannot escape accrued backwages by arguing that the litigation was delayed by the employee's appeal. The Supreme Court held: "Had they not illegally dismissed respondent, they will not be where they are today. They took the risk and must suffer the consequences." An employee cannot be penalized for exercising her statutory right to litigate for reinstatement.
+
+3. Recomputation Does Not Violate Immutability of Judgment: An order recomputing the monetary awards to include accrued backwages and separation pay up to the date of finality does not alter or modify the substance of the final judgment; it merely gives effect to the statutory mandate under Article 294.
+Fallo	WHEREFORE, the petition is DENIED. The Temporary Restraining Order issued by this Court on February 3, 2016 is hereby LIFTED.
+
+
+SO ORDERED.
