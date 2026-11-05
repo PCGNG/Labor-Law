@@ -1,0 +1,37 @@
+Reynaldo Noblado, et al. v. Princesita K. Alfonso
+
+G.R. No. 189229, November 23, 2015
+
+Third Division, Peralta, J.
+Facts	Petitioners were thirty-eight (38) gardeners, landscapers, designers, and laborers employed by Princesita K. Alfonso in her plant nursery and landscaping business. On January 15, 2001, following wage grievances, respondent abruptly terminated their employment without written notices or administrative investigations. Respondent claimed that petitioners were project workers assigned to client Sta. Lucia Realty, that they engaged in an illegal concerted work stoppage, and that they abandoned their jobs, causing Sta. Lucia to cancel the subcontract. Petitioners filed a complaint for illegal dismissal. During the pendency of the case, eleven (11) complainants executed notarized quitclaims and affidavits of desistance after receiving individual settlements. The Labor Arbiter and NLRC held that petitioners were regular employees who were illegally dismissed and ordered reinstatement with backwages. The Court of Appeals reversed, ruling that petitioners committed gross neglect and abandoned their work, but awarded nominal damages for lack of procedural due process.
+Issues	1. Whether petitioners were illegally dismissed without substantive and procedural due process.
+
+2. What are the proper reliefs (computation of backwages and separation pay) due to illegally dismissed employees where reinstatement is impossible due to business downscaling.
+
+3. Whether the quitclaims executed by eleven of the workers are valid and enforceable.
+Held	1. Petitioners were ILLEGALLY DISMISSED; respondent failed to prove abandonment or compliance with the two-notice rule.
+
+2. Petitioners (except those who signed valid waivers) are entitled to FULL BACKWAGES and SEPARATION PAY in lieu of reinstatement.
+
+3. The quitclaims executed by the eleven workers are VALID and BINDING, having been voluntarily signed for reasonable consideration.
+
+
+Verbatim Legal Basis:
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — ... An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
+
+
+Article 297 [formerly Article 282], Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: ... (b) Gross and habitual neglect by the employee of his duties..."
+Ratio Decidendi	1. Two-Fold Requirements for Lawful Termination: A valid termination requires substantive due process (a just or authorized cause under the Labor Code) and procedural due process (the two-written-notice requirement and an opportunity to be heard). Respondent failed to prove abandonment; petitioners immediately filed an illegal dismissal complaint, refuting any intent to abandon. No notices specifying grounds or notice of termination were ever served on the workers.
+
+2. Computation of Backwages and Separation Pay: Under Article 294, full backwages run from the time of illegal dismissal until actual reinstatement. Where reinstatement is no longer feasible due to business closures, contract cancellations, or strained relations, separation pay is granted in lieu thereof (one month's pay for every year of service) computed up to the finality of the decision, and backwages accrue until that same date.
+
+3. Enforceability of Quitclaims: Notarized quitclaims and release documents freely signed by adult workers who received reasonable financial consideration are valid contracts that extinguish liability as to those individual signatories.
+Fallo	WHEREFORE, the Petition is PARTIALLY GRANTED. The Decision dated February 20, 2009 and the Resolution dated August 18, 2009 of the Court of Appeals in CA-G.R. SP No. 104305 are REVERSED and SET ASIDE. The Decision of the National Labor Relations Commission dated January 31, 2007 is REINSTATED with MODIFICATION in that petitioners (excluding the eleven who executed valid quitclaims) are awarded full backwages and separation pay in lieu of reinstatement, with legal interest of six percent (6%) per annum from finality until fully paid. The case is REMANDED to the Labor Arbiter for computation.
+
+
+SO ORDERED.
