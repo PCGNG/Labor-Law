@@ -1,0 +1,27 @@
+Demetrio L. Ellao v. Batangas I Electric Cooperative, Inc. (BATELEC I) and Raquel Rowena Rodriguez
+
+G.R. No. 209166, July 09, 2018
+
+Third Division, Bersamin, J.
+Facts	Demetrio L. Ellao was hired by Batangas I Electric Cooperative, Inc. (BATELEC I) in 1982 and rose through the ranks to become its General Manager in 2006. In 2009, the Board of Directors of BATELEC I adopted a resolution suspending and thereafter removing Ellao from the post of General Manager on the grounds of gross inefficiency, willful neglect of duties, and loss of confidence. Ellao filed a complaint for illegal dismissal and payment of backwages, damages, and attorney's fees before the Labor Arbiter. BATELEC I filed a motion to dismiss, claiming that electric cooperatives are non-profit corporate entities governed by P.D. No. 269 and the National Electrification Administration (NEA), and that the General Manager is an officer whose removal is an intra-cooperative controversy beyond the jurisdiction of the Labor Arbiter. The Labor Arbiter, NLRC, and Court of Appeals ruled that the dispute was an intra-corporate/intra-cooperative controversy, holding that the Labor Arbiter lacked jurisdiction over the termination of the General Manager.
+Issue	Whether the dismissal of a General Manager of an electric cooperative organized under P.D. No. 269 is an intra-corporate/intra-cooperative controversy falling outside the jurisdiction of the Labor Arbiter.
+Held	The case is an INTRA-COOPERATIVE CONTROVERSY; the Labor Arbiter has NO JURISDICTION over the termination of an officer whose election and appointment are vested by law in the Board of Directors.
+
+
+Verbatim Legal Basis:
+
+Section 24, Presidential Decree No. 269 (National Electrification Administration Decree):
+
+"Sec. 24. Officers. — The officers of a cooperative shall consist of a president, vice-president, secretary and treasurer, who shall be elected annually by and from the board... The board may also choose such other officers, including a general manager, as it deems necessary, who shall have such powers and perform such duties as the board may provide."
+
+
+Section 5(c), Presidential Decree No. 902-A:
+
+"Sec. 5. ... jurisdiction to hear and decide cases involving: ... (c) Controversies in the election or appointments of directors, trustees, officers or managers of such corporations, partnerships or associations."
+Ratio Decidendi	1. Corporate Officer Status of General Manager: Under Section 24 of P.D. No. 269, the General Manager of an electric cooperative is not a mere employee; the position is a statutory corporate office created by the charter, whose appointment, power, compensation, and removal are vested directly in the Board of Directors.
+
+2. Exclusion from Labor Arbiter Jurisdiction: When the position occupied is that of a corporate/cooperative officer created by law or by-laws, the controversy surrounding their removal, tenure, or compensation relates to corporate governance and is not a common labor dispute. Resolving whether Ellao was validly removed requires the interpretation of cooperative governance statutes, board resolutions, and NEA guidelines, divesting the labor tribunals of jurisdiction.
+Fallo	WHEREFORE, the petition is DENIED for lack of merit. The Decision dated August 22, 2012 and the Resolution dated September 3, 2013 of the Court of Appeals in CA-G.R. SP No. 120593 are hereby AFFIRMED. Petitioner Demetrio L. Ellao's complaint is DISMISSED for lack of jurisdiction.
+
+
+SO ORDERED.
