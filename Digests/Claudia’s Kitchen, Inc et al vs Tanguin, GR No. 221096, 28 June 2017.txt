@@ -1,0 +1,27 @@
+Claudia’s Kitchen, Inc. and Enzo Squillantini v. Ma. Realiza S. Tanguin
+
+G.R. No. 221096, June 28, 2017
+
+Second Division, Mendoza, J.
+Facts	Ma. Realiza S. Tanguin was employed as a Billing Supervisor by Claudia’s Kitchen, Inc. (Claudia’s Kitchen), assigned to Manila Jockey Club's Turf Club Building in Cavite. In October 2010, the company placed Tanguin on preventive suspension for allegedly engaging in private business during office hours—specifically selling silver jewelry to co-workers inside company premises—and directed her to submit a written explanation. Tanguin submitted an explanation admitting to the sales but denying she did so during working hours. On October 30, 2010, Tanguin alleged she was barred from entering the company premises by a security guard. Instead of awaiting the outcome of the administrative investigation or responding to two subsequent notices sent to her directing her to report to the head office, Tanguin filed a complaint for illegal dismissal. The Labor Arbiter and NLRC held that Tanguin was not illegally dismissed, that the preventive suspension was a valid measure because her position handled cash funds, and that she did not abandon her job. The NLRC ordered reinstatement without backwages. The Court of Appeals modified the ruling: it held that reinstatement was no longer viable under the doctrine of strained relations and awarded separation pay in lieu of reinstatement.
+Issue	Whether separation pay in lieu of reinstatement may be awarded to an employee who was neither dismissed by the employer nor guilty of abandonment.
+Held	Separation pay in lieu of reinstatement CANNOT be awarded to an employee who was never dismissed; where there is neither dismissal nor abandonment, the only proper relief is REINSTATEMENT to the former position without backwages.
+
+
+Verbatim Legal Basis:
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages..."
+
+
+Section 7, Rule I, Book VI, Omnibus Rules Implementing the Labor Code:
+
+"Sec. 7. Termination of employment by employer. — The just causes for terminating the services of an employee shall be those provided in Article 282 of the Code. The separation from work of an employee for a just cause shall not entitle him to the termination pay provided for in the Code..."
+Ratio Decidendi	1. Dismissal as a Condition Precedent for Separation Pay: Separation pay in lieu of reinstatement is an alternative remedy designed exclusively for instances where an employee has been illegally dismissed and reinstatement is rendered impossible by strained relations, position abolition, or company closure. It presupposes the factual existence of a termination. If there was no dismissal in the first place, an award of separation pay lacks statutory and factual basis.
+
+2. Limits on the Doctrine of Strained Relations: The doctrine of strained relations cannot be applied indiscriminately whenever a labor dispute arises. Every labor dispute naturally engenders some degree of friction; if ordinary workplace litigation were deemed sufficient to establish strained relations, reinstatement would become obsolete. Where an employee was merely placed on valid preventive suspension pending inquiry and filed a premature complaint, the proper remedy is to order the employee to return to work and direct the employer to readmit her, without prejudice to the completion of the disciplinary investigation.
+Fallo	WHEREFORE, the petition is GRANTED. The April 15, 2015 Decision and October 13, 2015 Resolution of the Court of Appeals in CA-G.R. SP No. 131108 are REVERSED and SET ASIDE. The November 29, 2012 Decision of the National Labor Relations Commission in NLRC LAC No. 04-001201-12 is REINSTATED with MODIFICATION that respondent Ma. Realiza S. Tanguin is ORDERED to RETURN TO WORK within fifteen (15) days from receipt of this Decision, and petitioners Claudia's Kitchen, Inc. and Enzo Squillantini are ORDERED to ACCEPT HER, without prejudice to the outcome of the ongoing administrative investigation against her.
+
+
+SO ORDERED.
