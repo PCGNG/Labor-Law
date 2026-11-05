@@ -1,0 +1,26 @@
+Danny Boy C. Monterona, et al. v. Coca-Cola Bottlers Philippines, Inc., et al.
+
+G.R. No. 209116, January 14, 2019
+
+Second Division, Reyes, Jr., J.
+Facts	Danny Boy C. Monterona and several other route helpers were engaged by various contracted agencies to render delivery services for Coca-Cola Bottlers Philippines, Inc. (CCBPI). In 2003, petitioners filed an initial complaint for regularization and statutory labor standards benefits against CCBPI before the Labor Arbiter (first case), which was dismissed upon a finding that their direct employers were legitimate independent contractors. The ruling attained finality after being sustained by the NLRC and the Court of Appeals. Subsequently, when their services were discontinued by the contractor agencies, petitioners filed a second complaint before the Labor Arbiter, this time charging CCBPI with illegal dismissal, full backwages, and separation pay (second case). CCBPI moved to dismiss the second complaint, invoking the doctrine of res judicata in the concept of both "bar by prior judgment" and "conclusiveness of judgment". The Labor Arbiter, NLRC, and Court of Appeals all dismissed the second complaint on the ground of res judicata.
+Issue	Whether the final judgment dismissing an earlier complaint for regularization operates as res judicata to bar a subsequent complaint for illegal dismissal against the same principal company.
+Held	The subsequent illegal dismissal complaint is BARRED by the doctrine of res judicata under the concept of "conclusiveness of judgment."
+
+
+Verbatim Legal Basis:
+
+Rule 39, Section 47 (b) & (c), Rules of Court:
+
+"Sec. 47. Effect of judgments or final orders. — The effect of a judgment or final order rendered by a court of the Philippines, having jurisdiction to pronounce the judgment or final order, may be as follows:
+
+(b) In other cases, the judgment or final order is, with respect to the matter directly adjudged or as to any other matter that could have been raised in relation thereto, conclusive between the parties and their successors in interest by title subsequent to the commencement of the action or special proceeding, litigating for the same thing and under the same title and in the same capacity; and
+
+(c) In any other litigation between the same parties or their successors in interest, that only is deemed to have been adjudged in a former judgment or of the final order which appears upon its face to have been so adjudged, or which was actually and necessarily included therein or necessary thereto."
+Ratio Decidendi	1. Two Concepts of Res Judicata: Jurisprudence distinguishes between bar by prior judgment (which precludes the filing of a second action based on the same claim or cause of action) and conclusiveness of judgment (which bars the relitigation of specific facts or issues already actually and directly resolved in a prior suit between the same parties, even if the subsequent case involves a different cause of action).
+
+2. Absence of Employment Relations Precludes Illegal Dismissal: A prerequisite to an illegal dismissal claim against a principal company is the existence of an employer-employee relationship. In the first case, the labor tribunals settled with finality that petitioners were not employees of CCBPI, but of independent contracting agencies. Under the principle of conclusiveness of judgment, that factual and legal finding binds the parties in all future actions. Since petitioners were already conclusively determined not to be employees of CCBPI, an action for illegal dismissal against CCBPI cannot prosper.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated February 27, 2013 and Resolution dated August 22, 2013 of the Court of Appeals in CA-G.R. SP No. 04323-MIN are AFFIRMED.
+
+
+SO ORDERED.
