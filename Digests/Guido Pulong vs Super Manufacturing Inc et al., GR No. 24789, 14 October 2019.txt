@@ -1,0 +1,22 @@
+Guido B. Pulong v. Super Manufacturing, Inc., Francis Chung, and Philip Chung
+
+G.R. No. 247893 (cited as 24789 in syllabus), October 14, 2019
+
+Second Division, Reyes, Jr., J.
+Facts	Guido B. Pulong worked as a mechanic for Super Manufacturing, Inc. (SMI) starting in 1978. In 2013, upon reaching the age of 60, SMI informed Pulong that under its company handbook and rules, the company's early retirement age was set at 60 years old. SMI processed his compulsory retirement papers, computed his retirement benefits at one-half month salary per year of service under Republic Act No. 7641, and paid him P175,000.00. Pulong accepted the check, signed a release and quitclaim, and left. Shortly thereafter, Pulong filed a complaint for illegal dismissal and underpayment of retirement benefits. He argued that under Article 287 [now Art. 302] of the Labor Code, the compulsory retirement age is 65, and retirement at age 60 is strictly optional on the part of the employee in the absence of a collective bargaining agreement. He maintained that SMI unilaterally imposed the age-60 retirement cap and that his signing of the release paper did not signify voluntary acquiescence. The Labor Arbiter dismissed the complaint. The NLRC reversed, finding illegal dismissal, but the CA set aside the NLRC, holding that Pulong acquiesced to the company plan.
+Issue	Whether an employer can compulsorily retire an employee at age 60 pursuant to an internal company policy/retirement plan without the employee's explicit consent, and whether acceptance of retirement pay constitutes valid acquiescence.
+Held	The retirement was an ILLEGAL DISMISSAL; an employer CANNOT unilaterally impose an early compulsory retirement age below the statutory age of 65 without the explicit, voluntary, and unambiguous consent of the employee.
+
+
+Verbatim Legal Basis:
+
+Article 302 [formerly Article 287], Labor Code of the Philippines (as amended by R.A. No. 7641):
+
+"Art. 302. Retirement. — ... In the absence of a retirement plan or agreement providing for retirement benefits of employees in the establishment, an employee upon reaching the age of sixty (60) years or more, but not beyond sixty-five (65) years which is hereby declared the compulsory retirement age, who has served at least five (5) years in the said establishment, may retire and shall be entitled to retirement pay... Retirement benefits given to humans hereunder shall not be less than those provided herein."
+Ratio Decidendi	1. Statutory Retirement Ages (Optional vs. Compulsory): Article 302 establishes two distinct retirement ages: (a) optional retirement at age 60 (at the option of the employee); and (b) compulsory retirement at age 65. While the law permits the employer and employee to agree on an earlier retirement age via CBA or employment contract, such early retirement age cannot be unilaterally established by management through company handbooks without the employee's explicit written assent.
+
+2. Involuntary Retirement Amounts to Discharge: Forcing an employee to retire at age 60 under a unilateral company policy without proof that he freely consented to the scheme upon hiring or through a CBA constitutes illegal dismissal. Mere receipt of retirement pay and execution of standard quitclaims do not establish voluntary acquiescence, especially where the employee was left with no choice and promptly filed an illegal dismissal suit.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision dated January 28, 2019 and Resolution dated June 10, 2019 of the Court of Appeals in CA-G.R. SP No. 143899 are REVERSED and SET ASIDE. The Decision dated June 30, 2015 of the National Labor Relations Commission in NLRC LAC No. 04-001053-15 is REINSTATED with MODIFICATION that respondents Super Manufacturing, Inc., Francis Chung, and Philip Chung are ordered to pay petitioner Guido B. Pulong full backwages from the date of his illegal retirement at age 60 until he reached the compulsory retirement age of 65, and recomputed retirement pay based on his total length of service up to age 65, less the P175,000.00 previously received, plus legal interest of six percent (6%) per annum from finality until fully paid.
+
+
+SO ORDERED.
