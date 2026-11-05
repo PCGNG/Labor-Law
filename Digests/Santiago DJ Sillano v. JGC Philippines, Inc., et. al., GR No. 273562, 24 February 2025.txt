@@ -1,0 +1,39 @@
+Santiago DJ Sillano v. JGC Philippines, Inc.
+
+G.R. No. 273562, February 24, 2025
+
+Third Division, Gaerlan, J.
+Facts	Santiago DJ Sillano was employed by JGC Philippines, Inc. (JGC) as a Senior Design Engineer. In the course of executing company projects, Sillano created computer programs and scripts designed to streamline plant engineering calculations. A dispute arose regarding the ownership and copyright of the software: Sillano asserted personal intellectual property ownership as the author, whereas JGC claimed employer ownership on the ground that the software was developed during work hours using company computers, facilities, and data. Sillano activated security lockouts and passwords on the software, preventing JGC engineers from accessing the design databases. On January 14, 2004, JGC served Sillano a Notice to Explain and placed him on 30-day preventive suspension, asserting that his continued presence posed an imminent risk of data destruction or tampering with company engineering projects. JGC directed him to unlock the software. Sillano refused to remove the password, claiming ownership. JGC terminated him on February 16, 2004 for willful disobedience and insubordination under Article 282(a) [now Art. 297(a)]. Sillano filed a complaint for illegal dismissal and illegal suspension, and brought copyright proceedings before the Intellectual Property Office (IPO), which ruled that copyright in the underlying code belonged to him as author. The Labor Arbiter upheld the dismissal. The NLRC and CA reversed, ruling that his refusal to unlock the software was grounded on a good-faith assertion of copyright ownership, rendering the dismissal illegal, but sustained the validity of the 30-day preventive suspension. Sillano petitioned the Supreme Court, challenging the validity of his preventive suspension and claiming moral/exemplary damages and unpaid benefits.
+Issues	1. Whether the 30-day preventive suspension meted out to petitioner was lawful.
+
+2. Whether petitioner's dismissal for willful disobedience was valid, or whether a good-faith assertion of intellectual property rights negates the perverse attitude required for serious insubordination.
+
+3. Whether the 30-day period for preventive suspension was violated when termination was served on the next working day.
+Held	1. The preventive suspension was VALID; petitioner's locking out of critical engineering databases posed a serious and imminent threat to company property.
+
+2. The dismissal was ILLEGAL; refusing to obey an order based on a bona fide legal assertion of copyright ownership lacks the wrongful or perverse attitude required for willful disobedience.
+
+3. The 30-day preventive suspension period was NOT breached where the 30th day fell on a weekend and the termination was served on the next business day.
+
+
+Verbatim Legal Basis:
+
+Sections 8 & 9, Rule XXIII, Book V, Omnibus Rules Implementing the Labor Code:
+
+"Sec. 8. Preventive suspension. — The employer may place the worker concerned under preventive suspension if his continued employment poses a serious and imminent threat to the life or property of the employer or of his co-workers.
+
+Sec. 9. Period of suspension. — No preventive suspension shall last longer than thirty (30) days. The employer shall thereafter reinstate the worker in his former or in a substantially equivalent position or the employer may extend the period of suspension provided that during the period of extension, he pays the wages and other benefits due to the worker."
+
+
+Article 297 [formerly Article 282] (a), Labor Code of the Philippines:
+
+"Art. 297. Termination by employer. — An employer may terminate an employment for any of the following causes: (a) Serious misconduct or willful disobedience by the employee of the lawful orders of his employer or representative in connection with his work..."
+Ratio Decidendi	1. Standards for Valid Preventive Suspension: Preventive suspension is an interlocutory protective measure, not a penalty. It is justified when the employee's continued presence on company premises poses an imminent threat to life or property. At the time of suspension, the copyright dispute was unresolved, and petitioner had locked company design systems; JGC had reasonable grounds to prevent potential deletion or tampering with its engineering files during the inquiry.
+
+2. Reckoning the 30-Day Period: When the 30-day maximum suspension period expires on a weekend or non-working day, serving the notice of action on the immediately following business day complies with procedural rules.
+
+3. Good-Faith Legal Assertion Negates Willful Disobedience: For willful disobedience to justify termination under Article 297(a), the refusal must be accompanied by a perverse and wrongful attitude. An employee who refuses to surrender source code under an honest belief of intellectual property ownership—a claim later affirmed by the IPO—acts in defense of a perceived property right, not out of defiant disrespect. Hence, the dismissal was illegal, entitling the employee to separation pay and backwages.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The Decision dated July 13, 2023 and Resolution dated July 16, 2024 of the Court of Appeals in CA-G.R. SP No. 170947 are AFFIRMED with MODIFICATION. The monetary award of separation pay and full backwages in favor of petitioner Santiago DJ Sillano shall earn legal interest of six percent (6%) per annum from the date of finality of this Decision until full satisfaction.
+
+
+SO ORDERED.
