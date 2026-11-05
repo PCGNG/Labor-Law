@@ -1,0 +1,22 @@
+Abbott Laboratories Philippines, Inc., Cecille A. Terrible, Edwin D. Feist, and Maria Olivia T. Yabut-Misa v. Pearlie Ann F. Torralba, et al.
+
+G.R. No. 229746, October 11, 2017
+
+Second Division, Perlas-Bernabe, J.
+Facts	Abbott Laboratories Philippines, Inc. (Abbott) decided to realign its operational sales structure by merging its separate Pharmaceutical Products Division into unified therapeutic units. As a result of the structural reorganization, several managerial and supervisory sales positions—including those held by respondents Pearlie Ann F. Torralba and other product managers—were declared redundant. Abbott issued formal notices of redundancy to respondents and the DOLE one month in advance, offered separation pay exceeding the statutory minimum, and paid out transitional benefits. Respondents filed complaints for illegal dismissal, arguing that Abbott's business was profitable, that realigning product divisions was a pretext to replace senior managers with lower-paid personnel, and that Abbott failed to prove the financial necessity of the abolition. The Labor Arbiter dismissed the complaint, ruling the redundancy valid. The NLRC and CA reversed, holding that Abbott failed to prove actual superfluity and failed to present concrete criteria justifying the termination.
+Issue	Whether the employer's redundancy program satisfied the legal requirements of Article 298 [formerly Art. 283] of the Labor Code, and whether an employer must suffer financial losses to justify redundancy.
+Held	The redundancy program was VALID; redundancy does NOT require financial losses, and the employer presented comprehensive organizational studies proving superfluity alongside fair and objective selection criteria.
+
+
+Verbatim Legal Basis:
+
+Article 298 [formerly Article 283], Labor Code of the Philippines:
+
+"Art. 298. Closure of establishment and reduction of personnel. — The employer may also terminate the employment of any employee due to the installation of labor-saving devices, redundancy, retrenchment to prevent losses or the closing or cessation of operation of the establishment or undertaking... by serving a written notice on the workers and the Ministry of Labor and Employment at least one (1) month before the intended date thereof. In case of termination due to the installation of labor-saving devices or redundancy, the worker affected thereby shall be entitled to a separation pay equivalent to at least his one (1) month pay or to at least one (1) month pay for every year of service, whichever is higher."
+Ratio Decidendi	1. Redundancy vs. Retrenchment: Unlike retrenchment, which is an economic measure adopted to prevent or minimize ongoing business losses, redundancy does not require financial distress. An employer may declare a position redundant when the service of an employee is in excess of what is reasonably demanded by the actual requirements of the enterprise, even while operating profitably.
+
+2. Proof of Substantial Reorganization: Abbott presented management reviews, organizational charts, and consulting studies showing the functional overlap resulting from the merger of separate sales divisions. Abbott evaluated the affected personnel using objective metrics (performance reviews, functional adaptability, and length of service) and complied with the one-month notice rule and payment of enhanced separation benefits. Courts will not substitute their judgment for business management decisions carried out in good faith.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision dated June 29, 2016 and Resolution dated January 23, 2017 of the Court of Appeals in CA-G.R. SP No. 138865 are REVERSED and SET ASIDE. The Decision dated July 31, 2014 of the Labor Arbiter declaring the redundancy program VALID is REINSTATED.
+
+
+SO ORDERED.
