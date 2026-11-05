@@ -1,0 +1,33 @@
+Philippine Airlines, Inc. v. Airline Pilots Association of the Philippines (ALPAP), et al.
+
+G.R. No. 200088, February 26, 2018
+
+First Division, Del Castillo, J.
+Facts	In June 1998, the Airline Pilots Association of the Philippines (ALPAP) staged a strike against Philippine Airlines, Inc. (PAL). The Secretary of Labor immediately assumed jurisdiction over the labor dispute pursuant to Article 263(g) [now Art. 278(g)] of the Labor Code and issued a Return-to-Work Order. Striking pilots defied the order, leading the Secretary to declare the strike illegal and order the termination of striking pilots who defied the directive. That ruling was affirmed by the Supreme Court with finality in G.R. No. 152306. Ten years later, PAL filed a separate complaint for damages against ALPAP and its individual officers before the regular Regional Trial Court (RTC), seeking hundreds of millions in actual, moral, and exemplary damages for financial losses incurred by PAL due to cancelled flights during the illegal strike. ALPAP moved to dismiss, arguing that the RTC lacked jurisdiction because claims for damages arising from a labor strike fall within the exclusive jurisdiction of the labor tribunals (Labor Arbiter / DOLE Secretary). The RTC and CA dismissed PAL's complaint for lack of jurisdiction.
+Issues	1. Which tribunal has original and exclusive jurisdiction over claims for damages arising out of, or connected with, an illegal labor strike: the regular civil courts or the labor tribunals?
+
+2. Can an employer maintain an independent complaint for damages arising from an illegal strike after the main labor dispute has been assumed and resolved with finality by the Secretary of Labor?
+Held	1. Labor tribunals (the Labor Arbiter or the Secretary of Labor assuming jurisdiction) have EXCLUSIVE JURISDICTION over claims for damages arising from or connected with an illegal strike; the regular civil courts have NO JURISDICTION.
+
+2. PAL’s separate claim for damages is BARRED by the doctrine of immutability of final judgment; damages resulting from the strike should have been submitted and resolved in the main labor dispute assumed by the DOLE Secretary.
+
+
+Verbatim Legal Basis:
+
+Article 224 [formerly Article 217] (a) (4), Labor Code of the Philippines:
+
+"Art. 224. Jurisdiction of the Labor Arbiters and the Commission. — (a) Except as otherwise provided under this Code, the Labor Arbiters shall have original and exclusive jurisdiction to hear and decide... the following cases involving all workers:
+
+(4) Claims for actual, moral, exemplary and other forms of damages arising from the employer-employee relations..."
+
+
+Article 278 [formerly Article 263] (g), Labor Code of the Philippines:
+
+"Art. 278. Strikes, picketing and lockouts. — ... (g) When, in his opinion, there exists a labor dispute causing or likely to cause a strike or lockout in an industry indispensable to the national interest, the Secretary of Labor and Employment may assume jurisdiction over the dispute and decide the same or certify the same to the Commission for compulsory arbitration..."
+Ratio Decidendi	1. Exclusive Labor Jurisdiction Over Strike Damages: When damages claimed by an employer arise directly from, or are intertwined with, an illegal strike or picketing, the claim is deeply rooted in the labor dispute. Regular civil courts cannot split jurisdiction or adjudicate strike damages under civil law torts. The Labor Arbiter, or the Secretary of Labor under plenary assumption powers, possesses original and exclusive jurisdiction to award or deny damages arising from strike operations.
+
+2. Bar by Prior Final Judgment: When the Secretary of Labor assumed jurisdiction under Article 263(g), the authority extended to all incidental and collateral issues, including damages arising from the work stoppage. PAL had the obligation to plead and prove its claim for strike damages before the Secretary of Labor during the assumption proceedings. Having failed to do so before that case was resolved with finality, PAL cannot initiate an independent suit for damages; splitting causes of action and relitigating claims violates the doctrine of immutability of judgment.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The August 31, 2011 Decision and January 11, 2012 Resolution of the Court of Appeals in CA-G.R. SP No. 116817 are AFFIRMED.
+
+
+SO ORDERED.
