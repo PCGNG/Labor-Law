@@ -1,0 +1,31 @@
+Kilusang Mayo Uno, represented by its Secretary General Rogelio Soluta, et al. v. Hon. Benigno Simeon C. Aquino III, Social Security Commission, and Social Security System
+
+G.R. No. 210500, April 02, 2019
+
+En Banc, Leonen, J.
+Facts	In 2013, the Social Security Commission (SSC) issued Resolution No. 262-s.2013, approved by President Benigno S. Aquino III under Executive Order No. 2013-010, approving an upward adjustment of the SSS contribution rate from 10.4% to 11% and raising the maximum monthly salary credit ceiling from P15,000.00 to P16,000.00. Petitioners Kilusang Mayo Uno (KMU) and several labor federation leaders filed an original Petition for Certiorari and Prohibition directly before the Supreme Court under Rule 65. Petitioners argued that: (1) the premium increase constituted an unlawful delegation of legislative power under vague standards; (2) it violated Section 4(b)(2) of the Social Security Act because contributions were raised without an immediate increase in benefits; and (3) the hike was an invalid, oppressive exercise of police power. Respondents countered that the petition bypassed the hierarchy of courts, failed to exhaust administrative remedies before the SSC, and improperly impleaded the sitting President who was immune from suit.
+Issues	1. Whether the Supreme Court can exercise judicial review over administrative labor/social security rate adjustments despite non-exhaustion of administrative remedies.
+
+2. Whether the Social Security Commission’s upward adjustment of contribution rates and monthly salary credits is a valid exercise of delegated quasi-legislative authority under the Social Security Act.
+Held	1. The Court may exercise judicial review as an exception to the exhaustion rule because the petition raises purely legal and constitutional questions of transcendental importance; however, President Aquino was improperly impleaded due to presidential immunity from suit.
+
+2. The contribution hike is VALID; the Social Security Act contains sufficient standards, and fixing contributions based on actuarial calculations is reasonably necessary to protect the solvency and actuarial life of the State Insurance Fund.
+
+
+Verbatim Legal Basis:
+
+Article VIII, Section 1, 1987 Philippine Constitution:
+
+"The judicial power shall be vested in one Supreme Court and in such lower courts as may be established by law. Judicial power includes the duty of the courts of justice to settle actual controversies involving rights which are legally demandable and enforceable, and to determine whether or not there has been a grave abuse of discretion amounting to lack or excess of jurisdiction on the part of any branch or instrumentality of the Government."
+
+
+Section 18, Republic Act No. 8282 (Social Security Act of 1997):
+
+"Sec. 18. Employee's Contribution. — (a) Beginning as of the last day of the calendar month when an employee's compulsory coverage takes effect and every month thereafter during his employment, the employer shall deduct and withhold from such employee's monthly salary, wage, compensation or earnings, the employee's contribution in an amount corresponding to his salary, wage, compensation or earnings during the month in accordance with the following schedule... provided, that the Commission shall fix the contribution rate and maximum monthly salary credit based on actuarial calculations and the rate of benefits."
+Ratio Decidendi	1. Exceptions to Exhaustion of Administrative Remedies: While disputes regarding social security coverage and contribution adjustments must ordinarily be initiated before the SSC, the doctrine of exhaustion of administrative remedies is relaxed where: (a) the issue is purely legal and constitutional; (b) the controversy is of transcendental importance to millions of workers; and (c) an administrative appeal to the Commission would be futile since it issued the challenged resolution.
+
+2. Validity of Delegated Power and Police Power: The delegation under Section 18 meets both the completeness test and the sufficient standard test (the standard being "actuarial calculations" and "rate of benefits"). The law does not mandate that every contribution increase be simultaneously tied to an immediate benefit hike; contributions may be adjusted to extend the actuarial lifespan of the fund and ensure future pension viability, which is a legitimate exercise of the police power of the State.
+Fallo	WHEREFORE, the Petition for Certiorari and Prohibition is DENIED for lack of merit. The validity of Social Security Commission Resolution No. 262-s. 2013 and Executive Order No. 2013-010 is UPHELD.
+
+
+SO ORDERED.
