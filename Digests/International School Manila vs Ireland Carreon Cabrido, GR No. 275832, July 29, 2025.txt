@@ -1,0 +1,28 @@
+International School Manila v. Ireland Carreon Cabrido
+
+G.R. No. 275832, July 29, 2025
+
+First Division
+Facts	Ireland Carreon Cabrido was employed as a faculty member by International School Manila (ISM). ISM maintained a private retirement trust plan providing for retirement benefits upon reaching sixty (60) years of age or completing twenty (20) years of service. The plan stipulated that an employee who completes service requirements may retire, with benefits calculated using the highest monthly basic salary multiplied by the factor corresponding to total service years. When Cabrido applied for retirement benefits under the plan, a dispute arose regarding the computation base: Cabrido argued that her retirement pay should include her non-taxable allowances, summer pay prorations, and housing stipends, citing Republic Act No. 7641 which defines the statutory 1/2-month retirement pay as including basic salary plus regular allowances and 1/12 of the 13th-month pay. ISM maintained that because its private plan provided benefits higher than the minimum aggregate statutory formula of R.A. No. 7641, the terms of its private plan (restricting computation to basic monthly salary) governed. The Labor Arbiter and NLRC ruled in favor of ISM, finding its total package superior to the statutory baseline, but the Court of Appeals reversed, holding that statutory components of R.A. No. 7641 must be factored in.
+Issue	Whether an employer with a private retirement plan that provides total benefits superior to the minimum statutory formula under R.A. No. 7641 is required to include allowances and 1/12 of the 13th-month pay in the computation base.
+Held	The employer is NOT required to include allowances; where the total retirement benefit granted under an employer's retirement plan exceeds the minimum benefit required under R.A. No. 7641, the terms of the private retirement agreement govern.
+
+
+Verbatim Legal Basis:
+
+Article 302 [formerly Article 287], Labor Code of the Philippines (as amended by R.A. No. 7641):
+
+"Art. 302. Retirement. — Any employee may be retired upon reaching the retirement age established in the collective bargaining agreement or other applicable employment contract.
+
+In the absence of a retirement plan or agreement providing for retirement benefits of employees in the establishment, an employee upon reaching the age of sixty (60) years or more, but not beyond sixty-five (65) years... shall be entitled to retirement pay equivalent to at least one-half (1/2) month salary for every year of service... Unless the parties provide for broader inclusions, the term one-half (1/2) month salary shall mean fifteen (15) days plus one-twelfth (1/12) of the 13th month pay and the cash equivalent of not more than five (5) days of service incentive leaves.
+
+Retail, service and agricultural establishments or operations employing not more than ten (10) employees or workers are exempted from the coverage of this provision.
+
+Nothing in this Article shall deprive an employee of benefits under any collective bargaining or other agreement or company policy, but the employee shall be entitled to whichever is higher."
+Ratio Decidendi	1. Floor Standard of R.A. No. 7641: Republic Act No. 7641 establishes a statutory floor, not a ceiling. The law applies in the absence of a retirement plan, or where an existing private plan yields benefits below the statutory minimum (which consists of 22.5 days per year of service: 15 days basic + 2.5 days for 13th month + 5 days SIL).
+
+2. Whichever is Higher Test: Under the express wording of Article 302, when an employment contract or company plan provides a formula (e.g., higher multipliers per year of service) that yields a total monetary benefit greater than the 22.5-day statutory baseline, the employee cannot cherry-pick the beneficial multipliers from the private plan while superimposing the allowance components of R.A. No. 7641. Since ISM's plan paid out an aggregate sum higher than what the worker would have received under R.A. No. 7641, the contractual terms of the plan prevail.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision of the Court of Appeals is REVERSED and SET ASIDE. The Decision of the National Labor Relations Commission affirming the Labor Arbiter's computation of retirement benefits under the International School Manila Retirement Plan is REINSTATED.
+
+
+SO ORDERED.
