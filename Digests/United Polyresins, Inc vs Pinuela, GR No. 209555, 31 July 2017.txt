@@ -1,0 +1,27 @@
+United Polyresins, Inc., Ernesto Uy Soon, Jr., and/or Julito Uy Soon v. Marcelino Pinuela
+
+G.R. No. 209555, July 31, 2017
+
+First Division, Del Castillo, J.
+Facts	Marcelino Pinuela was employed by United Polyresins, Inc. (UPI) and served as an officer (Treasurer/President) of the Polyresins Employees and Workers Association (PORFA), the incumbent union. During his tenure, union members accused Pinuela of mismanaging and failing to account for P300,000.00 of union funds that had been advanced or loaned by UPI management to the union during negotiations. Without convening a formal general membership assembly or providing Pinuela an administrative hearing with counsel, the union officers summarily expelled him from PORFA for alleged fund misappropriation under Article XV of the union's constitution. PORFA immediately served a formal demand letter on UPI management demanding Pinuela’s termination pursuant to the union security clause of the CBA. UPI served a termination memo dismissing Pinuela from employment. Pinuela filed a complaint for illegal dismissal. The Labor Arbiter dismissed the complaint, but the NLRC and Court of Appeals reversed, holding the dismissal illegal due to lack of evidence of misappropriation and total deprivation of procedural due process.
+Issue	Whether an employer can validly dismiss an employee under a union security clause based solely on the union's expulsion letter, without the employer independently evaluating the merits of the expulsion and according the employee separate procedural due process.
+Held	The dismissal was ILLEGAL; the employer cannot blindly rely on a union's demand for termination under a union security clause without independently evaluating the charges and according the employee full procedural due process.
+
+
+Verbatim Legal Basis:
+
+Article 294 [formerly Article 279], Labor Code of the Philippines:
+
+"Art. 294. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits..."
+
+
+Article 259 [formerly Article 248] (d), Labor Code of the Philippines:
+
+"Art. 259. Unfair labor practices of employers. — It shall be unlawful for an employer to commit any of the following unfair labor practices: ... (d) To initiate, dominate, assist or otherwise interfere with the formation or administration of any labor organization, including the giving of financial or other support to it or its organizers or supporters..."
+Ratio Decidendi	1. Employer's Independent Duty in Union Security Dismissals: In terminating an employee pursuant to a union security clause, the employer cannot act as a mere rubber stamp for the union. The employer must independently determine: (a) that the union security clause is applicable; (b) that the union is demanding termination pursuant to the clause; and (c) that the union’s decision to expel the member is supported by substantial evidence and complies with fundamental due process. UPI conducted no independent investigation and accorded Pinuela no hearing.
+
+2. Tainted Union Loan: The alleged P300,000.00 fund that Pinuela was accused of misappropriating was money lent or contributed directly by company management to the union treasury. Under Article 259(d), employer financial support to a union is an unfair labor practice. Management cannot use an illicit management loan to a union as a basis to deprive a regular employee of security of tenure.
+Fallo	WHEREFORE, for the foregoing reasons, the Petition is hereby DENIED. The December 11, 2012 Decision and October 10, 2013 Resolution of the Court of Appeals in CA-G.R. SP No. 115402 are AFFIRMED.
+
+
+SO ORDERED.
