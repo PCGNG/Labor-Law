@@ -1,0 +1,27 @@
+Rapid Manpower Consultants, Inc. v. Pamela R. De Guzman
+
+G.R. No. 187418, September 28, 2015
+
+Second Division, Del Castillo, J.
+Facts	Pamela R. De Guzman was recruited by Rapid Manpower Consultants, Inc. (Rapid Manpower) for overseas employment as a medical caregiver in Israel. After paying placement and processing fees, her deployment was cancelled by the foreign principal without valid cause. De Guzman filed a complaint for illegal recruitment, refund of placement fees, and damages before the Labor Arbiter. The Labor Arbiter rendered judgment holding Rapid Manpower liable to refund her placement fees with damages. Rapid Manpower appealed to the NLRC, but the NLRC affirmed the Labor Arbiter. Upon receipt of the adverse NLRC decision, Rapid Manpower did NOT file a Motion for Reconsideration with the NLRC; instead, it filed a Petition for Certiorari under Rule 65 directly with the Court of Appeals. The Court of Appeals summarily dismissed the petition on the ground that the failure to file a Motion for Reconsideration before the NLRC was fatal to the certiorari action. Rapid Manpower appealed to the Supreme Court, claiming that an MR was unnecessary because the issues were purely legal and urgent.
+Issue	Is the filing of a prior Motion for Reconsideration before the NLRC a condition sine qua non to the filing of a Petition for Certiorari under Rule 65 before the Court of Appeals?
+Held	The filing of a Motion for Reconsideration is a MANDATORY and JURISDICTIONAL condition precedent to the filing of a Rule 65 Petition for Certiorari; its omission renders the petition fatal.
+
+
+Verbatim Legal Basis:
+
+Rule 65, Section 1, Rules of Court:
+
+"Sec. 1. Petition for certiorari. — When any tribunal, board or officer exercising judicial or quasi-judicial functions has acted without or in excess its or his jurisdiction, or with grave abuse of discretion amounting to lack or excess of jurisdiction, and there is no appeal, nor any plain, speedy, and adequate remedy in the ordinary course of law, a person aggrieved thereby may file a verified petition in the proper court..."
+
+
+Section 15, Rule VII, 2011 NLRC Rules of Procedure, as amended:
+
+"Sec. 15. Motions for Reconsideration. — Motion for reconsideration of any decision, resolution or order of the Commission shall not be entertained except when based on palpable or patent errors, and provided that the motion is under oath and filed within ten (10) calendar days from receipt of decision, resolution or order..."
+Ratio Decidendi	1. Purpose of Prior Motion for Reconsideration: The plain, speedy, and adequate remedy referred to in Rule 65 is a timely Motion for Reconsideration. The requirement gives the quasi-judicial tribunal (NLRC) the opportunity to review its findings, correct its errors, and prevent premature court intervention.
+
+2. Strictness of the Rule: While exceptions exist (such as where the order is a patent nullity, where urgent relief is indispensable, or in criminal cases), an ordinary appeal from a monetary award does not fall under the exceptions. The failure of Rapid Manpower to file an MR rendered the NLRC decision final, executory, and unassailable via certiorari.
+Fallo	WHEREFORE, the Petition for Review on Certiorari is DENIED. The Resolutions dated November 28, 2008 and April 1, 2009 of the Court of Appeals in CA-G.R. SP No. 106001 are hereby AFFIRMED.
+
+
+SO ORDERED.
