@@ -1,0 +1,29 @@
+Philippine Journalists, Inc. v. Erika Marie De Guzman and the National Labor Relations Commission
+
+G.R. No. 208027, April 01, 2019
+
+Second Division, Caguioa, J.
+Facts	Erika Marie De Guzman was employed as a senior layout artist by Philippine Journalists, Inc. (PJI). Under the company’s collective retirement program and standard operating procedures, employees who had rendered at least ten (10) years of continuous service were eligible to apply for optional early retirement and receive a lump-sum gratuity calculated based on their length of service. Having completed more than eleven (11) years of service, De Guzman submitted a written application for optional early retirement. Management approved her request in writing and formally computed her retirement package. However, after De Guzman cleared her accounts and severed her actual work reporting, PJI refused to disburse the approved retirement check, arguing that the company experienced cash-flow difficulties and that optional early retirement was merely discretionary upon the employer and could be revoked prior to actual payment. De Guzman filed a complaint for non-payment of retirement benefits before the Labor Arbiter. The Labor Arbiter, NLRC, and Court of Appeals ruled in favor of De Guzman, ordering PJI to pay the full retirement benefits.
+Issue	Whether an employer that approved an employee's application for optional early retirement can unilaterally revoke or withhold payment on the ground of financial difficulties or management prerogative.
+Held	The employer CANNOT unilaterally revoke or withhold payment; once an application for optional early retirement under an established plan or CBA is formally approved by the employer, a binding contract is perfected, creating a vested right in favor of the retiree.
+
+
+Verbatim Legal Basis:
+
+Article 302 [formerly Article 287], Labor Code of the Philippines (as amended by R.A. No. 7641):
+
+"Art. 302. Retirement. — Any employee may be retired upon reaching the retirement age established in the collective bargaining agreement or other applicable employment contract.
+
+In the absence of a retirement plan or agreement providing for retirement benefits of employees in the establishment, an employee upon reaching the age of sixty (60) years or more, but not beyond sixty-five (65) years which is hereby declared the compulsory retirement age, who has served at least five (5) years in the said establishment, may retire and shall be entitled to retirement pay equivalent to at least one-half (1/2) month salary for every year of service, a fraction of at least six (6) months being considered as one whole year."
+
+
+Article 1159, Civil Code of the Philippines:
+
+"Art. 1159. Obligations arising from contracts have the force of law between the contracting parties and should be complied with in good faith."
+Ratio Decidendi	1. Perfection and Enforceability of Early Retirement: While early retirement before the statutory age of 60 is optional and non-compulsory under the Labor Code, an employer is bound by its own retirement policies and agreements. When an employer offers an optional retirement scheme and subsequently approves an employee’s application, the arrangement ripens into a perfected consensual contract.
+
+2. Vested Rights of the Retiree: The approved retirement entitlement becomes an enforceable vested property right of the worker. The employer cannot invoke sudden business reversals, liquidity constraints, or unilateral management discretion to cancel or withhold the payment of accrued separation and retirement monies.
+Fallo	WHEREFORE, premises considered, the petition is DENIED. The Decision dated September 27, 2012 and the Resolution dated July 4, 2013 of the Court of Appeals in CA-G.R. SP No. 115456 are hereby AFFIRMED. Petitioner Philippine Journalists, Inc. is ORDERED to PAY respondent Erika Marie De Guzman her full retirement benefits, with legal interest of six percent (6%) per annum from the date of finality of this Decision until full satisfaction.
+
+
+SO ORDERED.
