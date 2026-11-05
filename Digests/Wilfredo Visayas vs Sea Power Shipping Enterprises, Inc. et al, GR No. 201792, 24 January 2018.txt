@@ -1,0 +1,27 @@
+Wilfredo P. Asayas (erroneously titled Visayas in syllabus) v. Sea Power Shipping Enterprises, Inc., Avin International S.A., and Antoniette Guerrero
+
+G.R. No. 201792, January 24, 2018
+
+Third Division, Bersamin, J.
+Facts	Wilfredo P. Asayas was employed as Third Officer on board the vessel M/T Samaria by Sea Power Shipping Enterprises, Inc. (Sea Power) on an approved POEA standard employment contract. Before the contract expired, the shipowner sold the vessel, resulting in Asayas's premature repatriation with an unfulfilled promise of re-engagement to another vessel. Asayas filed an illegal dismissal complaint before the Labor Arbiter. On October 29, 2010, the Labor Arbiter rendered a decision declaring Asayas illegally dismissed and ordering Sea Power to pay US$22,300.00 representing salaries for the unexpired portion of his contract. The Labor Arbiter's copy of the decision was served on respondents' counsel of record via registered mail at his address of record. The postal envelope was returned to the NLRC unclaimed with the postal carrier's notation: "Moved Out." Months later, the Labor Arbiter issued a writ of execution. Respondents moved to quash the writ, claiming they were never served a copy of the decision and that service was incomplete. The Labor Arbiter and NLRC denied the motion to quash, holding that service by registered mail was complete upon return of the unclaimed notice after the party moved without notifying the tribunal. The CA reversed, ruling that respondents were denied procedural due process.
+Issue	Is service by registered mail deemed complete when the mail matter addressed to counsel of record is returned unclaimed with the notation "Moved Out," where counsel failed to formally notify the labor tribunal of a change of address?
+Held	Service by registered mail is DEEMED COMPLETE; when counsel moves from his address of record without notifying the labor tribunal, service is deemed effected upon the return of the unclaimed registered mail.
+
+
+Verbatim Legal Basis:
+
+Section 6, Rule III, 2011 NLRC Rules of Procedure, as amended:
+
+"Sec. 6. Service of Notices, Resolutions, Orders and Decisions. — Notices and copies of orders and decisions shall be served personally upon the parties by the registered mail or by accredited private courier... In case of change of address, the counsel or party shall file a notice of change of address within five (5) days from such change."
+
+
+Section 8, Rule 13, Rules of Court (Substituted Service / Completeness of Service):
+
+"Sec. 8. Completeness of service. — ... Service by registered mail is complete upon actual receipt by the addressee, or after five (5) calendar days from the date he or she received the first notice of the postmaster, whichever date is earlier."
+Ratio Decidendi	1. Presumption of Regularity of Registered Mail: Service by registered mail enjoys the presumption that it was delivered in the regular course of post. The burden falls on the addressee to disprove regular delivery by clear evidence.
+
+2. Duty of Counsel to Inform Tribunal of Address Change: Parties and their counsel of record are obligated to notify the Labor Arbiter and NLRC of any change of address. If counsel relocates without filing a formal notice of change of address, service sent to the address of record that is returned with the notation "Moved Out" or "Unclaimed" is deemed complete and effective after the lapse of the statutory period. A party cannot benefit from its own neglect or use a change of office to stall finality and defeat the execution of a final labor judgment.
+Fallo	WHEREFORE, the Court GRANTS the petition for review on certiorari; REVERSES and SET ASIDE the decision promulgated on November 28, 2011 by the Court of Appeals in CA-G.R. SP No. 120175; and REINSTATES the Decision of the National Labor Relations Commission dated May 9, 2011 in NLRC LAC No. (M) 02-000102-11 affirming the execution of the Labor Arbiter's decision.
+
+
+SO ORDERED.
