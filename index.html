@@ -95,6 +95,31 @@
     .btn-primary { background: var(--gold-accent); color: #000; font-weight: 700; }
     .btn-primary:hover { background: #d97706; }
 
+    /* Read Toggle Buttons */
+    .btn-read-toggle {
+      padding: 3px 10px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      border-radius: 5px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: all 0.2s ease;
+      background: #1e293b;
+      color: #94a3b8;
+      border: 1px solid #334155;
+    }
+    .btn-read-toggle:hover {
+      background: #28374d;
+      color: #fff;
+    }
+    .btn-read-toggle.is-read {
+      background: rgba(16, 185, 129, 0.2);
+      color: #34d399;
+      border-color: rgba(16, 185, 129, 0.5);
+    }
+
     .three-pane-container {
       flex: 1;
       display: flex;
@@ -117,7 +142,7 @@
       flex-shrink: 0;
     }
 
-    /* PANE 1: LEFT SYLLABUS TREE (COLLAPSIBLE ACCORDION) */
+    /* PANE 1: LEFT SYLLABUS TREE */
     .pane-left-tree {
       width: 410px;
       background: var(--bg-sidebar);
@@ -172,7 +197,6 @@
       transition: transform 0.2s ease;
     }
 
-    /* Collapsed & Expanded states */
     .topic-card.collapsed .topic-content {
       display: none;
     }
@@ -200,6 +224,14 @@
       background: rgba(56, 189, 248, 0.08);
     }
 
+    /* Subtopic & Case Checked (Read) Visual Badges */
+    .read-check-indicator {
+      color: #10b981;
+      font-weight: 800;
+      margin-left: 6px;
+      font-size: 0.78rem;
+    }
+
     .case-sub-list {
       padding: 6px 8px 8px 16px;
       display: flex;
@@ -219,7 +251,10 @@
       transition: all 0.15s ease;
       white-space: normal;
       word-break: break-word;
-      display: block;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 6px;
     }
 
     .case-node:hover { background: rgba(255, 255, 255, 0.06); color: #fff; }
@@ -230,7 +265,7 @@
       border-left: 3px solid var(--gold-accent);
     }
 
-    /* PANE 2: MIDDLE (FULL WIDTH OVERVIEW CARDS) */
+    /* PANE 2: MIDDLE (OVERVIEW) */
     .pane-middle-overview {
       flex: 1.15;
       background: var(--bg-middle);
@@ -306,7 +341,7 @@
       margin: 0;
     }
 
-    /* PANE 3: RIGHT CASE DIGEST */
+    /* PANE 3: RIGHT DIGEST */
     .pane-right-digest {
       flex: 1.35;
       background: var(--bg-right);
@@ -431,20 +466,26 @@
       <div class="tree-scroll-area" id="syllabusTreeContainer"></div>
     </aside>
 
+    <!-- MIDDLE PANE WITH READ TOGGLE -->
     <section class="pane-middle-overview">
       <div class="pane-header-strip">
         <span>● Topic & Sub-Topic Overview</span>
-        <span id="middleTag" style="color: var(--gold-accent);">Doctrine Focus</span>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <span id="middleTag" style="color: var(--gold-accent); margin-right: 4px;">Doctrine Focus</span>
+          <button id="overviewReadBtn" class="btn-read-toggle" onclick="toggleOverviewRead()">Mark Read</button>
+        </div>
       </div>
       <div class="middle-scroll-area">
         <div class="infographic-sheet" id="overviewCanvas"></div>
       </div>
     </section>
 
+    <!-- RIGHT PANE WITH READ TOGGLE & COPY RATIO -->
     <section class="pane-right-digest">
       <div class="pane-header-strip">
         <span>⚖ Case Digest</span>
-        <div style="display: flex; gap: 6px;">
+        <div style="display: flex; gap: 6px; align-items: center;">
+          <button id="caseReadBtn" class="btn-read-toggle" onclick="toggleCaseRead()">Mark Read</button>
           <button class="btn btn-secondary" style="padding: 2px 8px; font-size: 0.72rem;" onclick="copyRatio()">Copy Ratio</button>
         </div>
       </div>
@@ -456,9 +497,28 @@
     let syllabusData = [];
     let selectedIndex = 0;
     const fileCache = {};
-    
-    // Store collapsed states for topics (persists while navigating)
     const topicCollapseState = {};
+
+    // Persistent read progress via LocalStorage
+    let readRecords = {
+      overviews: {},
+      cases: {}
+    };
+
+    try {
+      const stored = localStorage.getItem('labor_reviewer_read_status');
+      if (stored) readRecords = JSON.parse(stored);
+    } catch (e) {
+      console.error("Could not parse saved read status:", e);
+    }
+
+    function saveReadRecords() {
+      try {
+        localStorage.setItem('labor_reviewer_read_status', JSON.stringify(readRecords));
+      } catch (e) {
+        console.error("Could not save read status:", e);
+      }
+    }
 
     const cardPalette = [
       'var(--card-color-1)',
@@ -477,14 +537,13 @@
       .then(data => {
         syllabusData = data;
         
-        // Default: Open the topic containing the first selected entry, collapse other topics initially
         if (syllabusData.length > 0) {
           const activeTopic = syllabusData[0].topic;
           syllabusData.forEach(item => {
             if (item.topic !== activeTopic && topicCollapseState[item.topic] === undefined) {
-              topicCollapseState[item.topic] = true; // collapsed
+              topicCollapseState[item.topic] = true;
             } else if (topicCollapseState[item.topic] === undefined) {
-              topicCollapseState[item.topic] = false; // expanded
+              topicCollapseState[item.topic] = false;
             }
           });
         }
@@ -507,6 +566,7 @@
       renderLeftTree();
       renderMiddleOverview();
       renderRightDigest();
+      updateReadButtons();
     }
 
     function toggleTopicCollapse(topicName) {
@@ -545,10 +605,11 @@
         for (const [subtopicName, entries] of Object.entries(subtopics)) {
           const isSubActive = entries.some(e => e.index === selectedIndex);
           const hasMultiple = entries.length > 1;
+          const isOverviewRead = !!readRecords.overviews[subtopicName];
 
           html += `
             <div class="subtopic-item ${isSubActive ? 'active-subtopic' : ''}" onclick="selectCase(${entries[0].index})">
-              <span>• ${subtopicName}</span>
+              <span>• ${subtopicName} ${isOverviewRead ? '<span class="read-check-indicator" title="Overview Read">✓</span>' : ''}</span>
               ${hasMultiple ? `<span style="font-size: 0.7rem; color: #64748b;">${entries.length} cases</span>` : ''}
             </div>
           `;
@@ -558,9 +619,12 @@
             entries.forEach(e => {
               const isCaseActive = e.index === selectedIndex;
               const displayName = e.entry.title || e.entry.id.replace(/-/g, ' ');
+              const isCaseRead = !!readRecords.cases[e.entry.id];
+              
               html += `
                 <div class="case-node ${isCaseActive ? 'active-case' : ''}" onclick="selectCase(${e.index})" title="${displayName}">
-                  ⚖ ${displayName}
+                  <span style="overflow: hidden; text-overflow: ellipsis;">⚖ ${displayName}</span>
+                  ${isCaseRead ? '<span class="read-check-indicator" title="Digest Read">✓</span>' : ''}
                 </div>
               `;
             });
@@ -806,14 +870,61 @@
       }
     }
 
+    /* TOGGLE FUNCTIONS FOR READ STATUS */
+    function toggleOverviewRead() {
+      if (syllabusData.length === 0) return;
+      const subtopicKey = syllabusData[selectedIndex].subtopic;
+      readRecords.overviews[subtopicKey] = !readRecords.overviews[subtopicKey];
+      saveReadRecords();
+      renderLeftTree();
+      updateReadButtons();
+    }
+
+    function toggleCaseRead() {
+      if (syllabusData.length === 0) return;
+      const caseId = syllabusData[selectedIndex].id;
+      readRecords.cases[caseId] = !readRecords.cases[caseId];
+      saveReadRecords();
+      renderLeftTree();
+      updateReadButtons();
+    }
+
+    function updateReadButtons() {
+      if (syllabusData.length === 0) return;
+      const curItem = syllabusData[selectedIndex];
+
+      // Update Overview Button
+      const isOverviewRead = !!readRecords.overviews[curItem.subtopic];
+      const overviewBtn = document.getElementById('overviewReadBtn');
+      if (overviewBtn) {
+        if (isOverviewRead) {
+          overviewBtn.classList.add('is-read');
+          overviewBtn.innerHTML = '✓ Read';
+        } else {
+          overviewBtn.classList.remove('is-read');
+          overviewBtn.innerHTML = 'Mark Read';
+        }
+      }
+
+      // Update Case Digest Button
+      const isCaseRead = !!readRecords.cases[curItem.id];
+      const caseBtn = document.getElementById('caseReadBtn');
+      if (caseBtn) {
+        if (isCaseRead) {
+          caseBtn.classList.add('is-read');
+          caseBtn.innerHTML = '✓ Read';
+        } else {
+          caseBtn.classList.remove('is-read');
+          caseBtn.innerHTML = 'Mark Read';
+        }
+      }
+    }
+
     function selectCase(index) {
       selectedIndex = index;
-      
-      // Automatically expand the topic of the selected case so it's visible
       if (syllabusData[index]) {
         topicCollapseState[syllabusData[index].topic] = false;
       }
-      
       renderApp();
     }
 
