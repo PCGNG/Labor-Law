@@ -2,6 +2,7 @@
   {
     "id": "slu-subtopic-a",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "a. Coverage and Exemptions",
     "title": "Coverage and Exemptions",
     "overviewFile": "Overviews/a. Coverage and Exemptions.txt",
@@ -10,6 +11,7 @@
   {
     "id": "slu-subtopic-b",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "b. Normal Hours of Work",
     "title": "Normal Hours of Work",
     "overviewFile": "Overviews/b. Normal Hours of Work.txt",
@@ -18,6 +20,7 @@
   {
     "id": "slu-subtopic-c",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "c. Meal Periods",
     "title": "Meal Periods",
     "overviewFile": "Overviews/c. Meal Periods.txt",
@@ -26,6 +29,7 @@
   {
     "id": "slu-subtopic-d",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "d. Night Shift Differential",
     "title": "Night Shift Differential",
     "overviewFile": "Overviews/d. Night Shift Differential.txt",
@@ -34,6 +38,7 @@
   {
     "id": "slu-subtopic-e",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "e. Overtime Work",
     "title": "Overtime Work",
     "overviewFile": "Overviews/e. Overtime Work.txt",
@@ -42,6 +47,7 @@
   {
     "id": "slu-subtopic-f",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "f. Undertime not offset by overtime",
     "title": "Undertime not offset by overtime",
     "overviewFile": "Overviews/f. Undertime not offset by overtime.txt",
@@ -50,6 +56,7 @@
   {
     "id": "slu-subtopic-g",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "g. Weekly Rest periods",
     "title": "Weekly Rest periods",
     "overviewFile": "Overviews/g. Weekly Rest periods.txt",
@@ -58,6 +65,7 @@
   {
     "id": "slu-subtopic-h",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "h. Holiday Pay",
     "title": "Holiday Pay",
     "overviewFile": "Overviews/h. Holiday Pay.txt",
@@ -66,6 +74,7 @@
   {
     "id": "slu-subtopic-i",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "i. Service Incentive Leave",
     "title": "Service Incentive Leave",
     "overviewFile": "Overviews/i. Service Incentive Leave.txt",
@@ -74,6 +83,7 @@
   {
     "id": "teologo-v-people",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
     "title": "Janice L. Teologo and Jennifer Delos Santos v. People of the Philippines",
     "overviewFile": "Overviews/j. Service Charges.txt",
@@ -82,6 +92,7 @@
   {
     "id": "royal-plant-v-coca-cola",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
     "title": "Royal Plant Workers Union (ROPWU) v. Coca-Cola Bottlers Philippines, Inc. - Cebu Plant, G.R. No. 198783, April 15, 2013",
     "overviewFile": "Overviews/j. Service Charges.txt",
@@ -90,6 +101,7 @@
   {
     "id": "rodriguez-v-park-n-ride",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
     "title": "Lourdes C. Rodriguez v. Park N Ride Inc., Vicest (Phils) Inc., Grand Leisure Corp., and Spouses Vicente & Estelita B. Javier, G.R. No. 222980, March 20, 2017",
     "overviewFile": "Overviews/j. Service Charges.txt",
@@ -98,6 +110,7 @@
   {
     "id": "dela-rosa-liner-v-borela",
     "topic": "IX. CONDITIONS OF EMPLOYMENT",
+    "topicPdf": "PDFs/IX. CONDITIONS OF EMPLOYMENT.pdf",
     "subtopic": "j. Service Charges, RA No. 11360, DO No. 242-24",
     "title": "Dela Rosa Liner, Inc. and or Rosauro Dela Rosa, Sr. and Nora Dela Rosa v. Calixto B. Borela and Estelo A. Amarille, G.R. No. 207286, July 29, 2015",
     "overviewFile": "Overviews/j. Service Charges.txt",
@@ -106,6 +119,7 @@
   {
     "id": "cosue-v-ferritz",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "a. Basic Principles",
     "title": "Felipe O. Cosue, Jr. v. Ferritz Integrated Development Corporation and Antonio Longa G.R. No. 230664, July 24, 2017",
     "overviewFile": "Overviews/a. Basic Principles.txt",
@@ -114,6 +128,7 @@
   {
     "id": "wesleyan-university-v-faculty",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "a. Basic Principles",
     "title": "Wesleyan University-Philippines v. Wesleyan University-Philippines Faculty and Staff Association (WUPFSA) G.R. No. 181806, March 12, 2014",
     "overviewFile": "Overviews/a. Basic Principles.txt",
@@ -122,6 +137,7 @@
   {
     "id": "isae-v-quisumbing",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "a. Basic Principles",
     "title": "International School Alliance of Educators (ISAE) v. Hon. Leonardo A. Quisumbing, in his capacity as the Secretary of Labor and Employment; Norberto Quisumbing, Jr.; and International School, Inc. G.R. No. 128845, June 1, 2000",
     "overviewFile": "Overviews/a. Basic Principles.txt",
@@ -130,6 +146,7 @@
   {
     "id": "mariano-v-gv-florida",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "a. Basic Principles",
     "title": "Wilfredo Mariano v. G.V. Florida Transport, Inc. and or Virgilio Florida G.R. No. 240882, September 16, 2020",
     "overviewFile": "Overviews/a. Basic Principles.txt",
@@ -138,6 +155,7 @@
   {
     "id": "pal-v-ahmee",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "a. Basic Principles",
     "title": "Philippine Airlines, Inc. v. Bernard Ahmee, et al. / Bernard Ahmee, et al. v. Philippine Airlines, Inc. G.R. Nos. 221065 & 221164, April 07, 2025",
     "overviewFile": "Overviews/a. Basic Principles.txt",
@@ -146,6 +164,7 @@
   {
     "id": "pnb-v-cruz",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "b. Worker's Preference in case of bankruptcy",
     "title": "PNB v. Cruz, 180 SCRA 206",
     "overviewFile": "Overviews/b. Worker's Preference in case of bankruptcy.txt",
@@ -154,6 +173,7 @@
   {
     "id": "dbp-v-nlrc",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "b. Worker's Preference in case of bankruptcy",
     "title": "DBP v. NLRC, 218 SCRA 183",
     "overviewFile": "Overviews/b. Worker's Preference in case of bankruptcy.txt",
@@ -162,6 +182,7 @@
   {
     "id": "republic-v-peralta",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "b. Worker's Preference in case of bankruptcy",
     "title": "Republic v. Peralta, 150 SCRA 37",
     "overviewFile": "Overviews/b. Worker's Preference in case of bankruptcy.txt",
@@ -170,6 +191,7 @@
   {
     "id": "banco-filipino-v-bsp",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "b. Worker's Preference in case of bankruptcy",
     "title": "Banco Filipino Savings and Mortgage Bank v. BSP, G.R. No. 200678, June 4, 2018",
     "overviewFile": "Overviews/b. Worker's Preference in case of bankruptcy.txt",
@@ -178,6 +200,7 @@
   {
     "id": "allied-banking-v-steel-corp",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "b. Worker's Preference in case of bankruptcy",
     "title": "Allied Banking Corporation, In the Matter of the Petition to have Steel Corporation of the Philippines Placed under Corporate Rehabilitation, G.R. No. 191939, March 14, 2018",
     "overviewFile": "Overviews/b. Worker's Preference in case of bankruptcy.txt",
@@ -186,6 +209,7 @@
   {
     "id": "abs-cbn-supervisors-v-corp",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "c. Prohibition regarding wages",
     "title": "ABS-CBN Supervisors Employees Union v. ABS-CBN Broadcasting Corporation, Union Officers, and Members G.R. No. 106518, March 11, 1999 (304 SCRA 489)",
     "overviewFile": "Overviews/c. Prohibition regarding wages.txt",
@@ -194,6 +218,7 @@
   {
     "id": "pldt-v-estranero",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "c. Prohibition regarding wages",
     "title": "Philippine Long Distance Telephone Company v. Henry Estranero G.R. No. 192518, October 15, 2014",
     "overviewFile": "Overviews/c. Prohibition regarding wages.txt",
@@ -202,6 +227,7 @@
   {
     "id": "coca-cola-v-ccbpi-sta-rosa",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "c. Prohibition regarding wages",
     "title": "Coca-Cola Bottlers Philippines, Inc. v. CCBPI Sta. Rosa Plant Employees Union G.R. No. 197494, March 25, 2019",
     "overviewFile": "Overviews/c. Prohibition regarding wages.txt",
@@ -210,6 +236,7 @@
   {
     "id": "phil-geothermal-v-chevron",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "d. Wage Studies, Wage Agreements, and Wage Determination",
     "title": "Philippine Geothermal, Inc. Employees Union v. Chevron Geothermal Phils. Holdings, Inc. G.R. No. 207252, January 24, 2018",
     "overviewFile": "Overviews/d. Wage Studies, Wage Agreements, and Wage Determination.txt",
@@ -218,6 +245,7 @@
   {
     "id": "home-credit-v-prudente",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "d. Wage Studies, Wage Agreements, and Wage Determination",
     "title": "Home Credit Mutual Building and Loan Association v. Ma. Rollette Prudente G.R. No. 200010, August 27, 2020",
     "overviewFile": "Overviews/d. Wage Studies, Wage Agreements, and Wage Determination.txt",
@@ -226,6 +254,7 @@
   {
     "id": "pablico-v-cerro",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "d. Wage Studies, Wage Agreements, and Wage Determination",
     "title": "Manuel B. Pablico and Master’s Pab Resto Bar v. Numeriano B. Cerro, Jr., et al. G.R. No. 227200, June 10, 2019",
     "overviewFile": "Overviews/d. Wage Studies, Wage Agreements, and Wage Determination.txt",
@@ -234,6 +263,7 @@
   {
     "id": "del-monte-v-armenta",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "e. Visitorial, Enforcement, and Adjudicatory Power of the DOLE",
     "title": "Del Monte Land Transport Bus, Co. v. Gener Armenta G.R. No. 240144, February 03, 2021",
     "overviewFile": "Overviews/e. Visitorial, Enforcement, and Adjudicatory Power of the DOLE.txt",
@@ -242,6 +272,7 @@
   {
     "id": "mkp-v-pldt-visitorial",
     "topic": "X. WAGES",
+    "topicPdf": "PDFs/X. WAGES.pdf",
     "subtopic": "e. Visitorial, Enforcement, and Adjudicatory Power of the DOLE",
     "title": "Manggagawa sa Komunikasyon ng Pilipinas v. Philippine Long Distance Telephone Company, Inc. G.R. Nos. 244695, 244752 & 245294, February 14, 2024",
     "overviewFile": "Overviews/e. Visitorial, Enforcement, and Adjudicatory Power of the DOLE.txt",
@@ -250,6 +281,7 @@
   {
     "id": "benguet-v-sss",
     "topic": "XI. SOCIAL SECURITY",
+    "topicPdf": "PDFs/XI. SOCIAL SECURITY.pdf",
     "subtopic": "a. The Social Security Act",
     "title": "Benguet Consolidated, Inc. v. Social Security System G.R. No. L-19254, March 31, 1964 (10 SCRA 618)",
     "overviewFile": "Overviews/a. The Social Security Act.txt",
@@ -258,6 +290,7 @@
   {
     "id": "coca-cola-v-ccbpi-sss",
     "topic": "XI. SOCIAL SECURITY",
+    "topicPdf": "PDFs/XI. SOCIAL SECURITY.pdf",
     "subtopic": "a. The Social Security Act",
     "title": "Coca-Cola Bottlers Philippines v. CCBPI Sta. Rosa Plant Employees Union, G.R. No. 197494, 25 March 2019",
     "overviewFile": "Overviews/a. The Social Security Act.txt",
@@ -266,6 +299,7 @@
   {
     "id": "sss-v-simacas",
     "topic": "XI. SOCIAL SECURITY",
+    "topicPdf": "PDFs/XI. SOCIAL SECURITY.pdf",
     "subtopic": "a. The Social Security Act",
     "title": "Social Security System v. Violeta A. Simacas G.R. No. 217866, June 20, 2022",
     "overviewFile": "Overviews/a. The Social Security Act.txt",
@@ -274,6 +308,7 @@
   {
     "id": "gsis-v-pauig-xi",
     "topic": "XI. SOCIAL SECURITY",
+    "topicPdf": "PDFs/XI. SOCIAL SECURITY.pdf",
     "subtopic": "b. The GSIS Act",
     "title": "Government Service Insurance System v. Apolinario Pauig G.R. No. 210328, January 30, 2017",
     "overviewFile": "Overviews/b. The GSIS Act.txt",
@@ -282,6 +317,7 @@
   {
     "id": "aninon-v-gsis",
     "topic": "XI. SOCIAL SECURITY",
+    "topicPdf": "PDFs/XI. SOCIAL SECURITY.pdf",
     "subtopic": "b. The GSIS Act",
     "title": "Quirico Aniñon v. Government Service Insurance System G.R. No. 190410, April 10, 2019",
     "overviewFile": "Overviews/b. The GSIS Act.txt",
@@ -290,6 +326,7 @@
   {
     "id": "ismael-v-people",
     "topic": "XI. SOCIAL SECURITY",
+    "topicPdf": "PDFs/XI. SOCIAL SECURITY.pdf",
     "subtopic": "b. The GSIS Act",
     "title": "Radzpal A. Ismael and Nursi Ajijon v. People of the Philippines G.R. Nos. 234435-36, February 06, 2023",
     "overviewFile": "Overviews/b. The GSIS Act.txt",
@@ -298,6 +335,7 @@
   {
     "id": "osh-subtopic-a",
     "topic": "XII. OCCUPATIONAL HEALTH AND SAFETY",
+    "topicPdf": "PDFs/XII. OCCUPATIONAL HEALTH AND SAFETY.pdf",
     "subtopic": "a. Safety and Health Standards",
     "title": "Safety and Health Standards",
     "overviewFile": "Overviews/a. Safety and Health Standards.txt",
@@ -306,6 +344,7 @@
   {
     "id": "osh-subtopic-b",
     "topic": "XII. OCCUPATIONAL HEALTH AND SAFETY",
+    "topicPdf": "PDFs/XII. OCCUPATIONAL HEALTH AND SAFETY.pdf",
     "subtopic": "b. Research",
     "title": "Research on Safety and Health",
     "overviewFile": "Overviews/b. Research.txt",
@@ -314,6 +353,7 @@
   {
     "id": "osh-subtopic-c",
     "topic": "XII. OCCUPATIONAL HEALTH AND SAFETY",
+    "topicPdf": "PDFs/XII. OCCUPATIONAL HEALTH AND SAFETY.pdf",
     "subtopic": "c. Training Programs",
     "title": "Training Programs",
     "overviewFile": "Overviews/c. Training Programs.txt",
@@ -322,6 +362,7 @@
   {
     "id": "osh-subtopic-d",
     "topic": "XII. OCCUPATIONAL HEALTH AND SAFETY",
+    "topicPdf": "PDFs/XII. OCCUPATIONAL HEALTH AND SAFETY.pdf",
     "subtopic": "d. Administration of Safety and Health Laws",
     "title": "Administration of Safety and Health Laws",
     "overviewFile": "Overviews/d. Administration of Safety and Health Laws.txt",
@@ -330,6 +371,7 @@
   {
     "id": "osh-subtopic-e",
     "topic": "XII. OCCUPATIONAL HEALTH AND SAFETY",
+    "topicPdf": "PDFs/XII. OCCUPATIONAL HEALTH AND SAFETY.pdf",
     "subtopic": "e. Strengthening Compliance with Occupational Safety and Health Standards (RA No. 11058)",
     "title": "Strengthening Compliance with OSHS (RA No. 11058)",
     "overviewFile": "Overviews/e. Strengthening Compliance with Occupational Safety and Health Standards (RA No. 11058).txt",
@@ -338,6 +380,7 @@
   {
     "id": "osh-subtopic-f",
     "topic": "XII. OCCUPATIONAL HEALTH AND SAFETY",
+    "topicPdf": "PDFs/XII. OCCUPATIONAL HEALTH AND SAFETY.pdf",
     "subtopic": "f. Eddie Garcia Law (RA No. 11996)",
     "title": "Eddie Garcia Law (RA No. 11996)",
     "overviewFile": "Overviews/f. Eddie Garcia Law (RA No. 11996).txt",
@@ -346,6 +389,7 @@
   {
     "id": "osh-subtopic-g",
     "topic": "XII. OCCUPATIONAL HEALTH AND SAFETY",
+    "topicPdf": "PDFs/XII. OCCUPATIONAL HEALTH AND SAFETY.pdf",
     "subtopic": "g. Guidelines on 2019 Novel Corona Virus (nCOV-19)",
     "title": "Guidelines on 2019 Novel Corona Virus (nCOV-19)",
     "overviewFile": "Overviews/g. Guidelines on 2019 Novel Corona Virus (nCOV-19).txt",
@@ -354,6 +398,7 @@
   {
     "id": "osh-subtopic-h",
     "topic": "XII. OCCUPATIONAL HEALTH AND SAFETY",
+    "topicPdf": "PDFs/XII. OCCUPATIONAL HEALTH AND SAFETY.pdf",
     "subtopic": "h. EO No. 184, Series of 2017",
     "title": "EO No. 184, Series of 2017",
     "overviewFile": "Overviews/h. EO No. 184, Series of 2017.txt",
@@ -362,6 +407,7 @@
   {
     "id": "osh-subtopic-i",
     "topic": "XII. OCCUPATIONAL HEALTH AND SAFETY",
+    "topicPdf": "PDFs/XII. OCCUPATIONAL HEALTH AND SAFETY.pdf",
     "subtopic": "i. DO No. 78, Series of 2017",
     "title": "DO No. 78, Series of 2017",
     "overviewFile": "Overviews/i. DO No. 78, Series of 2017.txt",
@@ -370,6 +416,7 @@
   {
     "id": "barsolo-v-sss",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "a. Employees Compensation Program, Commission, and Contributions",
     "title": "Barsolo v. SSS, G.R. No. 187950, January 11, 2017",
     "overviewFile": "Overviews/a. Employees Compensation Program.txt",
@@ -378,6 +425,7 @@
   {
     "id": "ranises-v-ecc",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "a. Employees Compensation Program, Commission, and Contributions",
     "title": "Ranises v. ECC, 504 Phil. 340 (2005)",
     "overviewFile": "Overviews/a. Employees Compensation Program.txt",
@@ -386,6 +434,7 @@
   {
     "id": "gsis-v-tanedo",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "a. Employees Compensation Program, Commission, and Contributions",
     "title": "GSIS v. Tanedo, G.R. No. 193500, November 20, 2017",
     "overviewFile": "Overviews/a. Employees Compensation Program.txt",
@@ -394,6 +443,7 @@
   {
     "id": "gsis-v-capacite",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "a. Employees Compensation Program, Commission, and Contributions",
     "title": "GSIS v. Capacite, 744 Phil. 170 (2014)",
     "overviewFile": "Overviews/a. Employees Compensation Program.txt",
@@ -402,6 +452,7 @@
   {
     "id": "ambassador-hotel-v-sss",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "a. Employees Compensation Program, Commission, and Contributions",
     "title": "Ambassador Hotel Inc. v. SSS, G.R. No. 194137, June 21, 2017",
     "overviewFile": "Overviews/a. Employees Compensation Program.txt",
@@ -410,6 +461,7 @@
   {
     "id": "navarra-v-people",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "a. Employees Compensation Program, Commission, and Contributions",
     "title": "Navarra v. People, G.R. No. 224943, March 20, 2017",
     "overviewFile": "Overviews/a. Employees Compensation Program.txt",
@@ -418,6 +470,7 @@
   {
     "id": "gsis-v-esteves",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "a. Employees Compensation Program, Commission, and Contributions",
     "title": "GSIS v. Esteves, G.R. No. 182297, June 21, 2017",
     "overviewFile": "Overviews/a. Employees Compensation Program.txt",
@@ -426,6 +479,7 @@
   {
     "id": "gsis-v-calumpiano",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "a. Employees Compensation Program, Commission, and Contributions",
     "title": "GSIS v. Calumpiano, G.R. No. 196102, November 26, 2014",
     "overviewFile": "Overviews/a. Employees Compensation Program.txt",
@@ -434,6 +488,7 @@
   {
     "id": "verzonilla-v-ecc",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "a. Employees Compensation Program, Commission, and Contributions",
     "title": "Julieta Verzonilla v. Employee’s Compensation Commission, G.R. No. 232888, August 14, 2019",
     "overviewFile": "Overviews/a. Employees Compensation Program.txt",
@@ -442,6 +497,7 @@
   {
     "id": "ecp-subtopic-d",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "d. Concealment of Pre-Existing Illness",
     "title": "Concealment of Pre-Existing Illness",
     "overviewFile": "Overviews/d. Concealment of Pre-Existing Illness.txt",
@@ -450,6 +506,7 @@
   {
     "id": "ecp-subtopic-e",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "e. The Bunkhouse Rule",
     "title": "The Bunkhouse Rule",
     "overviewFile": "Overviews/e. The Bunkhouse Rule.txt",
@@ -458,6 +515,7 @@
   {
     "id": "ecp-subtopic-f",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "f. The Personal Comfort Doctrine",
     "title": "The Personal Comfort Doctrine",
     "overviewFile": "Overviews/f. The Personal Comfort Doctrine.txt",
@@ -466,6 +524,7 @@
   {
     "id": "ecp-subtopic-g",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "g. Portability Law (RA No. 7699)",
     "title": "Portability Law (RA No. 7699)",
     "overviewFile": "Overviews/g. Portability Law (RA No. 7699).txt",
@@ -474,6 +533,7 @@
   {
     "id": "ecp-subtopic-h",
     "topic": "XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW",
+    "topicPdf": "PDFs/XIII. EMPLOYEES COMPENSATION AND PORTABILITY LAW.pdf",
     "subtopic": "h. Universal Health Care (RA No. 11223)",
     "title": "Universal Health Care (RA No. 11223)",
     "overviewFile": "Overviews/h. Universal Health Care (RA No. 11223).txt",
@@ -482,6 +542,7 @@
   {
     "id": "concept-security-of-tenure",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "a. Concept of Security of Tenure",
     "title": "Concept of Security of Tenure Overview",
     "overviewFile": "Overviews/a. Concept of Security of Tenure.txt",
@@ -490,6 +551,7 @@
   {
     "id": "airborne-v-egos",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "b. Termination of Employment Relations by Employee",
     "title": "Airborne Maintenance and Allied Services, Inc. vs Arnulfo Egos, GR 222748, 03 April 2019 (Constructive Dismissal)",
     "overviewFile": "Overviews/b. Termination of Employment Relations by Employee.txt",
@@ -498,6 +560,7 @@
   {
     "id": "rodriguez-v-sintron",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "b. Termination of Employment Relations by Employee",
     "title": "Rodessa Rodriguez vs Sintron Systems, Inc et al, GR 240254, 24 July 2019 (Constructive Dismissal)",
     "overviewFile": "Overviews/b. Termination of Employment Relations by Employee.txt",
@@ -506,6 +569,7 @@
   {
     "id": "union-school-v-dagdag",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "b. Termination of Employment Relations by Employee",
     "title": "Union School International vs Charley Jane Dagdag, GR No. 234186, 21 November 2018 (CD)",
     "overviewFile": "Overviews/b. Termination of Employment Relations by Employee.txt",
@@ -514,6 +578,7 @@
   {
     "id": "span-asia-v-pelayo",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "b. Termination of Employment Relations by Employee",
     "title": "Philippine Span Asia Carriers Corp vs Heidi Pelayo, GR No. 212003, 28 February 2018 (CD)",
     "overviewFile": "Overviews/b. Termination of Employment Relations by Employee.txt",
@@ -522,6 +587,7 @@
   {
     "id": "spcp-v-mancol",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "b. Termination of Employment Relations by Employee",
     "title": "Saint Paul College Pasig vs Anna Liza Mancol et al, GR 222317, 24 January 2018 (CD)",
     "overviewFile": "Overviews/b. Termination of Employment Relations by Employee.txt",
@@ -530,6 +596,7 @@
   {
     "id": "carolinas-lace-v-maquilan",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "b. Termination of Employment Relations by Employee",
     "title": "Carolina’s Lace Shoppe et al vs Gloria Maquilan et al, GR 219419, 10 April 2019 (Voluntary Resignation)",
     "overviewFile": "Overviews/b. Termination of Employment Relations by Employee.txt",
@@ -538,6 +605,7 @@
   {
     "id": "pascua-v-bank-wise",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "b. Termination of Employment Relations by Employee",
     "title": "Perfecto Pascua vs Bank Wise, Inc. et al, GR 191460, 31 January 2018 (Voluntary Resignation)",
     "overviewFile": "Overviews/b. Termination of Employment Relations by Employee.txt",
@@ -546,6 +614,7 @@
   {
     "id": "rodriguez-v-park-n-ride-xiv",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "b. Termination of Employment Relations by Employee",
     "title": "Rodriguez vs Park N Ride, Inc. GR 222980, 20 March 2017",
     "overviewFile": "Overviews/b. Termination of Employment Relations by Employee.txt",
@@ -554,6 +623,7 @@
   {
     "id": "amor-v-constant-packaging",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Amor, et al. vs Constant Packaging Corporation, G.R. No. 259988, 19 May 2025 (Illegal Dismissal)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -562,6 +632,7 @@
   {
     "id": "mamaril-v-red-system",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Samuel Mamaril vs The Red System Company, GR No. 229920, 04 July 2018 (Preventive Suspension)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -570,6 +641,7 @@
   {
     "id": "maula-v-ximex",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Leo Maula vs Ximex Delivery Express, Inc., GR 207838, 25 January 2017 (SM, Totality of Infractions Rule)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -578,6 +650,7 @@
   {
     "id": "jmarketing-v-iguiz",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "J’Marketing Corp et al vs Fernando Iguiz, GR 211522, 04 September 2019 (Past Offenses)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -586,6 +659,7 @@
   {
     "id": "stanfilco-v-tequillo",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Stanfilco et al vs Jose Tequillo et al, GR 209735, 17 July 2019 (Mauling)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -594,6 +668,7 @@
   {
     "id": "iso-v-salcon-power",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Iso and Tolentino vs Salcon Power Corporation, G.R. No. 219059, February 12, 2020 (Serious Misconduct)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -602,6 +677,7 @@
   {
     "id": "bookmedia-v-sinajon",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Bookmedia Press, Inc. et al vs Leonardo Sinajon et al, GR 213009, 17 July 2019 (Dishonesty; Disobedience)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -610,6 +686,7 @@
   {
     "id": "ue-v-masangkay",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "University of the East et al vs Veronica Masangkay et al, GR No. 226727, 28 April 2018 (Dishonesty)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -618,6 +695,7 @@
   {
     "id": "mamaril-v-red-system-wd",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Mamaril vs The Red System Co. Inc. et al, GR No. 229920, 04 July 2018 (WD; double penalty)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -626,6 +704,7 @@
   {
     "id": "st-lukes-v-sanchez",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "St. Luke’s Medical Center, Inc. vs Maria Theresa Sanchez, GR 212054, 11 March 2015 (WD)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -634,6 +713,7 @@
   {
     "id": "japos-v-first-agrarian",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Japos vs First Agrarian Reform Multi-Purpose Cooperative et al, GR No. 208000, 26 July 2017 (Habitual Absenteeism)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -642,6 +722,7 @@
   {
     "id": "alaska-milk-v-ponce",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Alaska Milk Corp et al vs Ponce, GR No. 228412_228439, 26 July 2017 (Gross and Habitual Neglect of Duties)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -650,6 +731,7 @@
   {
     "id": "telephilippines-v-jacolbe",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Telephilippines Inc vs Ferrando Jacolbe, GR No. 233999, 18 February 2019 (Gross Inefficiency)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -658,6 +740,7 @@
   {
     "id": "maria-de-leon-v-macuray",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Maria de Leon Transportation, Inc vs Daniel Macuray, GR No. 214940 06 June 2018, (Abandonment)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -666,6 +749,7 @@
   {
     "id": "casco-v-nlrc",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Josephine Casco vs NLRC, GR No. 200571, 19 February 2018 (Neglect of Duty)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -674,6 +758,7 @@
   {
     "id": "protective-max-v-fuentes",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Protective Maximum Security Agency, Inc. vs Celso E. Fuentes, GR No. 169303, 11 February 2015 (Abandonment; Backwages)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -682,6 +767,7 @@
   {
     "id": "cmp-federal-v-reyes",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "CMP Federal Security Agency, Inc. et al vs Noel Reyes, Sr., GR 223082, 26 June 2019 (Gross Neglect vs Inefficiency)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -690,6 +776,7 @@
   {
     "id": "dup-sound-v-ca",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "DUP Sound Phils et al vs CA, GR No. 168317, 21 November 2011 (Abandonment; Notice to Return to Work)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -698,6 +785,7 @@
   {
     "id": "cadavas-v-ca",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Minda Topinio Cadavas vs Court of Appeals, et al, GR 228765, 20 March 2019 (Loss of Trust & Confidence)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -706,6 +794,7 @@
   {
     "id": "del-rosario-v-cw-marketing",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Ruby del Rosario vs CW Marketing & Devt Corp et al, GR No. 211105, 20 February 2019 (Breach of Company Policy)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -714,6 +803,7 @@
   {
     "id": "peninsula-manila-v-jara",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "The Peninsula Manila et al vs Edwin Jara, GR No. 225586, 29 July 2019 (LTC, Unreported Overage)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -722,6 +812,7 @@
   {
     "id": "first-glory-v-lumantao",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "First Glory Philippines, Inc. vs Brian Lumantao, GR No. 237116, 06 March 2019 (Fraud - Willful Breach)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -730,6 +821,7 @@
   {
     "id": "lepanto-v-mamaril-xiv",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Lepanto Consolidated Mining Company vs Mamaril et al, GR No. 225725, 16 January 2019 (LTC, Security Guard)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -738,6 +830,7 @@
   {
     "id": "smdc-v-qua",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "SM Development Corp et al vs Teodore Gilbert Qua, GR 220434, 22 July 2019 (LTC)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -746,6 +839,7 @@
   {
     "id": "gaite-v-filscap",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Gaite vs FILSCAP et al, GR No. 219324, 08 August 2018 (LTC)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -754,6 +848,7 @@
   {
     "id": "central-azucarera-v-apostol",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Central Azucarera de Bais et al vs Heirs of Zuelo Apostol, GR No. 215314, 14 March 2018 (LTC)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -762,6 +857,7 @@
   {
     "id": "stradcom-v-orpilla",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Stradcom Corp et al vs Orpilla, GR No. 206800, 02 July 2018 (LTC; Officer Liability)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -770,6 +866,7 @@
   {
     "id": "united-polyresins-v-pinuela",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "United Polyresins, Inc vs Pinuela, GR No. 209555, 31 July 2017 (Union Security Clause)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -778,6 +875,7 @@
   {
     "id": "son-v-ust",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Raymond Son vs University of Sto. Tomas, GR No. 211273, 18 April 2018 (Non-possession of a Master’s Degree)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -786,6 +884,7 @@
   {
     "id": "tolentino-v-pal",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Armando Tolentino vs PAL, Inc., GR No. 218984, 24 January 2018 (Illegal Strike Participation)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -794,6 +893,7 @@
   {
     "id": "yulo-v-concentrix",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Enrique Marco Yulo vs Concentrix Daksh Services Philippines, Inc., GR No. 235873, 21 January 2019 (Redundancy; Requisites)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -802,6 +902,7 @@
   {
     "id": "abbott-v-torralba",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Abbott Laboratories Phils, Inc vs Torralba, GR No. 229746, 11 October 2017 (Redundancy)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -810,6 +911,7 @@
   {
     "id": "que-v-asia-brewery",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Elpidio Que vs Asia Brewery, Inc et al, GR 202388, 10 April 2019 (Redundancy)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -818,6 +920,7 @@
   {
     "id": "sacoru-v-ccbpi",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "San Fernando Coca-Cola Rank-and-File Union (SACORU) vs CCBPI, GR No. 200499, 04 October 2017 (Redundancy)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -826,6 +929,7 @@
   {
     "id": "pnb-v-dalmacio",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "PNB vs Dalmacio, GR No. 202308, 05 July 2017 (Redundancy)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -834,6 +938,7 @@
   {
     "id": "mkp-v-pldt-redundancy",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Manggagawa ng Komunikasyon sa Pilipinas vs PLDT, GR Nos. 190389-90, 19 April 2017 (Redundancy)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -842,6 +947,7 @@
   {
     "id": "la-consolacion-v-pascua",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "La Consolacion College of Manila et al vs Virginia Pascua, GR No. 214744, 16 May 2018 (Retrenchment)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -850,6 +956,7 @@
   {
     "id": "fasap-v-pal",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "FASAP vs PAL, Inc., GR No. 178083, 22 July 2008 & 13 March 2018 (Retrenchment)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -858,6 +965,7 @@
   {
     "id": "abs-cbn-v-hilario",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "ABS-CBN Broadcasting Corp vs Honorato Hilario, GR No. 193136, 10 July 2019 (Cessation of Business)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -866,6 +974,7 @@
   {
     "id": "veterans-v-montenejo",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Veterans Federation of the Phils vs Montenejo et al, GR No. 184819, 29 November 2017 (Closure of Business)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -874,6 +983,7 @@
   {
     "id": "zambrano-v-carpet",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Zambrano et al vs Philippine Carpet Manufacturing Corp et al, GR No. 224099, 21 June 2017 (Closure of Business)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -882,6 +992,7 @@
   {
     "id": "slord-v-noya",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "SLORD Development Corp. vs Benerando Noya, GR No. 232687, 04 February 2019 (Enforcement of Union Security Clause)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -890,6 +1001,7 @@
   {
     "id": "rodriguez-v-sintron-strained",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Rodessa Quitevis Rodriguez vs Sintron Systems, Inc et al, GR No. 2420254, 24 July 2019 (Strained Relations)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -898,6 +1010,7 @@
   {
     "id": "remoticado-v-typical",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Remoticado vs Typical Construction Trading Corp et al, GR No. 206529, 23 April 2018 (No Dismissal Proved)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -906,6 +1019,7 @@
   {
     "id": "doctor-v-nii-enterprises",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Doctor et al vs NII Enterprises et al, GR No. 194001, 22 November 2017 (No Dismissal, No Abandonment)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -914,6 +1028,7 @@
   {
     "id": "claudias-kitchen-v-tanguin",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Claudia’s Kitchen, Inc et al vs Tanguin, GR No. 221096, 28 June 2017 (No Dismissal; Separation Pay)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -922,6 +1037,7 @@
   {
     "id": "advan-motor-v-veneracion",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Advan Motor, Inc. vs Veneracion, GR No. 190944, 13 December 2017 (Strained Relations)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -930,6 +1046,7 @@
   {
     "id": "condistillers-v-zaragoza",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Consolidated Distillers of the Far East, Inc vs Rogel Zaragoza, GR 229302, 20 June 2018 (Backwages)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -938,6 +1055,7 @@
   {
     "id": "noblado-v-alfonso",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Noblado et al vs Alfonso, GR No. 189229, 23 November 2015 (Backwages and Separation Pay)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -946,6 +1064,7 @@
   {
     "id": "cicm-v-perez",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "C.I.C.M. Mission Seminaries School of Theology, Inc., et al vs Perez, GR No. 220506, 18 January 2017",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -954,6 +1073,7 @@
   {
     "id": "ramiro-lim-v-guilaran",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Ramiro Lim & Sons Agricultural Co., Inc. et al vs Armando Guilaran et al, 06 February 2019 (Piece-Rate Backwages)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -962,6 +1082,7 @@
   {
     "id": "unichem-v-valmores",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "United Coconut Chemicals Inc. vs Valmores, GR No. 201018, 12 July 2017 (Backwages)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -970,6 +1091,7 @@
   {
     "id": "coca-cola-v-magno",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Coca-Cola Bottlers Phils, Inc. vs Antonio Magno, Jr. et al, GR 212520, 03 July 2019 (Backwages Period)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -978,6 +1100,7 @@
   {
     "id": "campol-v-balao-as",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Campol vs Mayor Balao-as et al, GR 197634, 28 November 2016 (Government Employee Backwages)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -986,6 +1109,7 @@
   {
     "id": "npc-drivers-v-npc",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "NPC Drivers and Mechanics Association et al vs The NPC et al, GR No. 156208, 21 November 2017 (Execution)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -994,6 +1118,7 @@
   {
     "id": "pncc-skyway-v-sole",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "PNCC Skyway Corp vs The SOLE et al, GR 196110, 06 February 2017 (Nominal Damages)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -1002,6 +1127,7 @@
   {
     "id": "cdm-federal-v-reyes-jr",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "CDM Federal Security Agency, Inc et al vs Noel Reyes, Jr., GR No. 223082, 26 June 2019 (Due Process)",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -1010,6 +1136,7 @@
   {
     "id": "sillano-v-jgc",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "c. Termination of Employment Relations by Employer",
     "title": "Santiago DJ Sillano v. JGC Philippines, Inc., et. al., GR No. 273562, 24 February 2025",
     "overviewFile": "Overviews/c. Termination of Employment Relations by Employer.txt",
@@ -1018,6 +1145,7 @@
   {
     "id": "pji-v-de-guzman",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "d. Retirement: Benefits and Conditions for Entitlement",
     "title": "Philippine Journalists, Inc et al vs Erika Marie de Guzman, et al, GR 208027, 01 April 2019",
     "overviewFile": "Overviews/d. Retirement Benefits.txt",
@@ -1026,6 +1154,7 @@
   {
     "id": "pnb-v-bulatao",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "d. Retirement: Benefits and Conditions for Entitlement",
     "title": "PNB vs Manuel Bulatao, GR No. 200972, 11 December 2019 (Promissory Estoppel)",
     "overviewFile": "Overviews/d. Retirement Benefits.txt",
@@ -1034,6 +1163,7 @@
   {
     "id": "pulong-v-super-mfg",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "d. Retirement: Benefits and Conditions for Entitlement",
     "title": "Guido Pulong vs Super Manufacturing Inc et al., GR No. 24789, 14 October 2019",
     "overviewFile": "Overviews/d. Retirement Benefits.txt",
@@ -1042,6 +1172,7 @@
   {
     "id": "sita-v-huliganga-ret",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "d. Retirement: Benefits and Conditions for Entitlement",
     "title": "Societe Internationale de Telecommunications Aeronautiques vs Huliganga, GR No. 215504, 20 August 2018",
     "overviewFile": "Overviews/d. Retirement Benefits.txt",
@@ -1050,6 +1181,7 @@
   {
     "id": "arcaj-v-abad",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "d. Retirement: Benefits and Conditions for Entitlement",
     "title": "Association of Retired Court of Appeals Justices, Inc. vs Hon. Abad, GR No. 210204, 10 July 2018",
     "overviewFile": "Overviews/d. Retirement Benefits.txt",
@@ -1058,6 +1190,7 @@
   {
     "id": "mpsta-v-garcia",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "d. Retirement: Benefits and Conditions for Entitlement",
     "title": "Manila Public School Teachers Association et al vs Garcia, GR No. 192708, 02 October 2017",
     "overviewFile": "Overviews/d. Retirement Benefits.txt",
@@ -1066,6 +1199,7 @@
   {
     "id": "pitc-v-coa",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "d. Retirement: Benefits and Conditions for Entitlement",
     "title": "Philippine International Trading Corp. vs COA, GR No. 205837, 21 November 2017 (En Banc)",
     "overviewFile": "Overviews/d. Retirement Benefits.txt",
@@ -1074,6 +1208,7 @@
   {
     "id": "gsis-v-pauig-xiv",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "d. Retirement: Benefits and Conditions for Entitlement",
     "title": "GSIS vs Pauig, GR No. 210328, 30 January 2017",
     "overviewFile": "Overviews/d. Retirement Benefits.txt",
@@ -1082,6 +1217,7 @@
   {
     "id": "divine-word-v-mina",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "d. Retirement: Benefits and Conditions for Entitlement",
     "title": "Divine Word College of Laoag vs Mina, GR No. 195155, 13 April 2016",
     "overviewFile": "Overviews/d. Retirement Benefits.txt",
@@ -1090,6 +1226,7 @@
   {
     "id": "ism-v-cabrido",
     "topic": "XIV. SECURITY OF TENURE",
+    "topicPdf": "PDFs/XIV. SECURITY OF TENURE.pdf",
     "subtopic": "d. Retirement: Benefits and Conditions for Entitlement",
     "title": "International School Manila vs Ireland Carreon Cabrido, GR No. 275832, July 29, 2025",
     "overviewFile": "Overviews/d. Retirement Benefits.txt",
@@ -1098,6 +1235,7 @@
   {
     "id": "cacho-v-balagtas",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "a. Labor Dispute",
     "title": "Norma Cacho et al vs Virginia Balagtas, GR No. 202974, 07 February 2018",
     "overviewFile": "Overviews/a. Labor Dispute.txt",
@@ -1106,6 +1244,7 @@
   {
     "id": "ellao-v-barelco",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "a. Labor Dispute",
     "title": "Demetrio Ellao vs Batangas Electric Cooperative, Inc., GR No. 209166, 09 July 2018",
     "overviewFile": "Overviews/a. Labor Dispute.txt",
@@ -1114,6 +1253,7 @@
   {
     "id": "wesleyan-v-maglaya",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "a. Labor Dispute",
     "title": "Wesleyan University vs Maglaya, GR 212774, 23 January 2017",
     "overviewFile": "Overviews/a. Labor Dispute.txt",
@@ -1122,6 +1262,7 @@
   {
     "id": "malcaba-v-prohealth",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "a. Labor Dispute",
     "title": "Malcaba et al vs ProHealth Pharma Philippines, Inc. et al, GR 209085, 06 June 2018",
     "overviewFile": "Overviews/a. Labor Dispute.txt",
@@ -1130,6 +1271,7 @@
   {
     "id": "de-roca-v-dabuyan",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "b. Nature of Proceedings before Labor Tribunals",
     "title": "De Roca vs Dabuyan, et al, GR No. 215281, 05 March 2018",
     "overviewFile": "Overviews/b. Nature of Proceedings before Labor Tribunals.txt",
@@ -1138,6 +1280,7 @@
   {
     "id": "fernandez-v-meralco",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "b. Nature of Proceedings before Labor Tribunals",
     "title": "Lino Fernandez Jr vs MERALCO, GR 226002, 25 June 2018",
     "overviewFile": "Overviews/b. Nature of Proceedings before Labor Tribunals.txt",
@@ -1146,6 +1289,7 @@
   {
     "id": "pmi-faculty-v-pmi",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "b. Nature of Proceedings before Labor Tribunals",
     "title": "PMI-Faculty and Employees Union vs PMI Colleges Bohol, GR No. 211526, 29 June 2016",
     "overviewFile": "Overviews/b. Nature of Proceedings before Labor Tribunals.txt",
@@ -1154,6 +1298,7 @@
   {
     "id": "kmu-v-aquino",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "c. Jurisdiction and Venue of Labor Disputes",
     "title": "Kilusang Mayo Uno et al vs Benigno Simeon Aquino et al, GR 210500, 02 April 2019 (Judicial Review)",
     "overviewFile": "Overviews/c. Jurisdiction and Venue of Labor Disputes.txt",
@@ -1162,6 +1307,7 @@
   {
     "id": "pal-v-alpap-xv",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "c. Jurisdiction and Venue of Labor Disputes",
     "title": "PAL, Inc. vs ALPAP, GR No. 200088, 26 February 2018 (Money Claims)",
     "overviewFile": "Overviews/c. Jurisdiction and Venue of Labor Disputes.txt",
@@ -1170,6 +1316,7 @@
   {
     "id": "mkp-v-pldt-parties",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "d. Parties in Labor Relations and Labor Dispute",
     "title": "Manggagawa ng Komunikasyon sa Pilipinas vs PLDT, GR Nos. 190389-90, 19 April 2017 (RTW Order)",
     "overviewFile": "Overviews/d. Parties in Labor Relations.txt",
@@ -1178,6 +1325,7 @@
   {
     "id": "philtranco-v-union",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "d. Parties in Labor Relations and Labor Dispute",
     "title": "Philtranco Service Enterprises, Inc. vs Philtranco Workers Union, GR No. 180962, 26 February 2014",
     "overviewFile": "Overviews/d. Parties in Labor Relations.txt",
@@ -1186,6 +1334,7 @@
   {
     "id": "uic-v-sole",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "d. Parties in Labor Relations and Labor Dispute",
     "title": "University of the Immaculate Conception vs SOLE, et al, GR No. 178085-178086, 14 September 2015",
     "overviewFile": "Overviews/d. Parties in Labor Relations.txt",
@@ -1194,6 +1343,7 @@
   {
     "id": "lepanto-v-mamaril-ca",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Lepanto Consolidated Mining Company vs Maximo Mamaril et al, GR 225725, 16 January 2019",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1202,6 +1352,7 @@
   {
     "id": "visayas-v-sea-power",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Wilfredo Visayas vs Sea Power Shipping Enterprises, Inc. et al, GR No. 201792, 24 January 2018",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1210,6 +1361,7 @@
   {
     "id": "dee-jays-v-raneses",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Dee Jay’s Inn and Café vs Rañeses, GR 191825, 04 October 2016",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1218,6 +1370,7 @@
   {
     "id": "monterona-v-ccbpi",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Danny Boy Monterona et al vs Coca Cola Bottlers Phils, Inc et al, GR 209116, 14 January 2019",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1226,6 +1379,7 @@
   {
     "id": "turks-v-pajaron",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Turks Shawarma Co. vs Pajaron et al, GR 207156, 16 January 2017 (Appeal Bond Reduction)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1234,6 +1388,7 @@
   {
     "id": "diamond-drilling-v-crescent",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Diamond Drilling Corp vs Crescent Mining and Dev’t Corp, GR 201785 & 207360, 10 April 2019",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1242,6 +1397,7 @@
   {
     "id": "almagro-v-pal",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Almagro et al vs PAL, Inc. et al, GR No. 204803, 12 September 2018 (Rule 45; Res Judicata)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1250,6 +1406,7 @@
   {
     "id": "rapid-manpower-v-de-guzman",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Rapid Manpower Consultants vs De Guzman, GR No. 187418, 28 September 2015 (Certiorari)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1258,6 +1415,7 @@
   {
     "id": "de-ocampo-v-rpn9",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "De Ocampo vs RPN-9, GR No. 192947, 09 December 2015 (Execution Pending Certiorari)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1266,6 +1424,7 @@
   {
     "id": "dole-v-kentex",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "DOLE vs Kentex Manufacturing Corp. et al, GR 233781, 08 July 2019 (Finality of Judgment)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1274,6 +1433,7 @@
   {
     "id": "ibm-daksh-v-ribas",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "IBM Daksh Business Process Services Phils., Inc. et al vs Rosalie Ribas, GR No. 223125, 11 July 2018",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1282,6 +1442,7 @@
   {
     "id": "la-savoie-v-buenavista",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "La Savoie Development Corp vs Buenavista Properties, Inc., GR 200934-35, 19 June 2019",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1290,6 +1451,7 @@
   {
     "id": "montealegre-v-de-vera",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Jaime Montealegre et al vs Spouses de Vera, GR 208920, 12 July 2019 (Writ of Execution)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1298,6 +1460,7 @@
   {
     "id": "kho-v-magbanua",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Hayden Kho, Sr vs Dolores Magbanua, et al, GR 237246, 29 July 2019 (Piercing Veil)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1306,6 +1469,7 @@
   {
     "id": "maricalum-v-florentino",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Maricalum Mining Corp vs Florentino et al, GR 221813, 23 July 2018 (Separate Personality)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1314,6 +1478,7 @@
   {
     "id": "jorge-v-marcelo",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Rufina Jorge vs Alberto Marcelo et al, GR No. 232989, 18 March 2019 (Third Party Claim)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1322,6 +1487,7 @@
   {
     "id": "cio-alu-v-ca",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Congress of Independent Organizations-ALU vs Court of Appeals et al, GR 204971, 10 April 2019",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1330,6 +1496,7 @@
   {
     "id": "carolinas-lace-v-maquilan-xv",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Carolina’s Lace Shoppe et al vs Gloria Maquilan et al, GR 219419, 10 April 2019 (Valid Quitclaim)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1338,6 +1505,7 @@
   {
     "id": "ff-cruz-v-galandez",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "F.F. Cruz & Co., Inc vs Jose Galandez et al, GR 236496, 08 July 2019 (Quitclaim)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1346,6 +1514,7 @@
   {
     "id": "mirandilla-v-calma",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Ramon Mirandilla et al vs Jose Calma Dev’t Corp et al, GR No. 242834, 06 June 2019 (Quitclaim)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1354,6 +1523,7 @@
   {
     "id": "ombudsman-v-espina",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Office of the Ombudsman et al vs PS Supt Rainier Espina, GR No. 213500, 12 September 2018",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1362,6 +1532,7 @@
   {
     "id": "lee-v-sales",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "e. Compulsory Arbitration",
     "title": "Elmer Lee vs Estela Sales, GR No. 205294, 04 July 2018 (Execution Pending MR)",
     "overviewFile": "Overviews/e. Compulsory Arbitration.txt",
@@ -1370,6 +1541,7 @@
   {
     "id": "guagua-v-ca",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "f. Voluntary Arbitration and the Grievance Machinery",
     "title": "Guagua National Colleges vs CA et al, GR No. 1888492, 28 August 2018 (Rule 43 Appeal Period)",
     "overviewFile": "Overviews/f. Voluntary Arbitration.txt",
@@ -1378,6 +1550,7 @@
   {
     "id": "7k-corp-v-albarico",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "f. Voluntary Arbitration and the Grievance Machinery",
     "title": "7K Corp vs Albarico, GR No. 182295, 26 June 2015 (Termination Dispute)",
     "overviewFile": "Overviews/f. Voluntary Arbitration.txt",
@@ -1386,6 +1559,7 @@
   {
     "id": "boronda-v-ca",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "f. Voluntary Arbitration and the Grievance Machinery",
     "title": "Boronda vs CA, GR No. 161006, 14 October 2015 (Reinstatement Order)",
     "overviewFile": "Overviews/f. Voluntary Arbitration.txt",
@@ -1394,6 +1568,7 @@
   {
     "id": "dpwh-v-cmc",
     "topic": "XV. JURISDICTION AND VENUE OF LABOR DISPUTES",
+    "topicPdf": "PDFs/XV. JURISDICTION AND VENUE OF LABOR DISPUTES.pdf",
     "subtopic": "f. Voluntary Arbitration and the Grievance Machinery",
     "title": "DPWH vs CMC/Monark/Pacific/Hi-Tri Joint Venture, GR No. 179732, 13 September 2017",
     "overviewFile": "Overviews/f. Voluntary Arbitration.txt",
@@ -1402,6 +1577,7 @@
   {
     "id": "davao-water-v-aranjuez",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "a. The Law on Right to Self-Organization and Regulations",
     "title": "Davao City Water District vs Aranjuez, GR No. 194192, 16 July 2015 (Concerted Action)",
     "overviewFile": "Overviews/a. Right to Self Organization.txt",
@@ -1410,6 +1586,7 @@
   {
     "id": "hanjin-v-blr",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "a. The Law on Right to Self-Organization and Regulations",
     "title": "Samahan ng Manggagawa sa Hanjin Shipyard vs BLR, et al, GR No. 211145, 14 October 2015",
     "overviewFile": "Overviews/a. Right to Self Organization.txt",
@@ -1418,6 +1595,7 @@
   {
     "id": "sita-v-huliganga-org",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "a. The Law on Right to Self-Organization and Regulations",
     "title": "Societe Internationale De Telecommunications Aeronautiques vs Huliganga, GR No. 215504, 20 August 2018",
     "overviewFile": "Overviews/a. Right to Self Organization.txt",
@@ -1426,6 +1604,7 @@
   {
     "id": "miranda-v-ati",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "a. The Law on Right to Self-Organization and Regulations",
     "title": "Miranda, Jr. vs Asian Terminals, Inc. et al, GR 174316, 23 June 2009 (Shop Steward)",
     "overviewFile": "Overviews/a. Right to Self Organization.txt",
@@ -1434,6 +1613,7 @@
   {
     "id": "de-ocampo-v-bigkis",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "a. The Law on Right to Self-Organization and Regulations",
     "title": "De Ocampo Schools, Inc vs Bigkis Manggagawa sa De Ocampo Memorial School, Inc., GR No. 192468, 15 March 2017",
     "overviewFile": "Overviews/a. Right to Self Organization.txt",
@@ -1442,6 +1622,7 @@
   {
     "id": "aim-v-faculty",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "a. The Law on Right to Self-Organization and Regulations",
     "title": "Asian Institute of Management vs AIM Faculty Association, GR 207971, 23 January 2017",
     "overviewFile": "Overviews/a. Right to Self Organization.txt",
@@ -1450,6 +1631,7 @@
   {
     "id": "palea-v-cacdac",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "a. The Law on Right to Self-Organization and Regulations",
     "title": "PALEA vs Cacdac, GR No. 155097, 27 September 2010 (Union Officer Election)",
     "overviewFile": "Overviews/a. Right to Self Organization.txt",
@@ -1458,6 +1640,7 @@
   {
     "id": "coca-cola-v-ipteu-unit",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "b. Determination of Appropriate Bargaining Unit",
     "title": "Coca Cola Bottlers Phils vs Ilocos Professional & Technical Employees Union, GR No. 193798, 08 September 2015",
     "overviewFile": "Overviews/b. Bargaining Unit.txt",
@@ -1466,6 +1649,7 @@
   {
     "id": "lepanto-v-capataz",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "b. Determination of Appropriate Bargaining Unit",
     "title": "Lepanto Consolidated Mining Company vs The Lepanto Capataz Union, GR No. 157086, 18 February 2013",
     "overviewFile": "Overviews/b. Bargaining Unit.txt",
@@ -1474,6 +1658,7 @@
   {
     "id": "republic-v-kawashima",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "c. Determination of Majority Representation Status",
     "title": "Republic vs Kawashima Textile Manufacturing, GR No. 160352, 23 July 2008 (Commingling)",
     "overviewFile": "Overviews/c. Majority Representation Status.txt",
@@ -1482,6 +1667,7 @@
   {
     "id": "picop-v-dequilla",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "c. Determination of Majority Representation Status",
     "title": "Picop Resources vs Dequilla, GR No. 172666, 07 December 2011 (Freedom Period)",
     "overviewFile": "Overviews/c. Majority Representation Status.txt",
@@ -1490,6 +1676,7 @@
   {
     "id": "nuwhrain-v-sole",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "c. Determination of Majority Representation Status",
     "title": "NUWHRAIN vs SOLE et al, GR 181531, 31 July 2009 (Probationary Votes in CE)",
     "overviewFile": "Overviews/c. Majority Representation Status.txt",
@@ -1498,6 +1685,7 @@
   {
     "id": "coca-cola-v-ipteu-confidential",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "c. Determination of Majority Representation Status",
     "title": "Coca-Cola Bottlers Phils, Inc vs IPTEU, GR 193798, 08 September 2015 (Confidential Employees)",
     "overviewFile": "Overviews/c. Majority Representation Status.txt",
@@ -1506,6 +1694,7 @@
   {
     "id": "arabit-v-jardine",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "d. Unfair Labor Practice",
     "title": "Arabit et al vs Jardine Pacific Finance, Inc., GR No. 181719, 21 April 2014 (Redundancy ULP)",
     "overviewFile": "Overviews/d. Unfair Labor Practice.txt",
@@ -1514,6 +1703,7 @@
   {
     "id": "sacoru-v-ccbpi-ulp",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "d. Unfair Labor Practice",
     "title": "San Fernando Coca-Cola Rank-and-File Union vs CCBPI, GR No. 200499, 04 October 2017 (Status Quo)",
     "overviewFile": "Overviews/d. Unfair Labor Practice.txt",
@@ -1522,6 +1712,7 @@
   {
     "id": "pepsi-cola-v-molon",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "d. Unfair Labor Practice",
     "title": "Pepsi-Cola Products Phils, Inc vs Molon, GR No. 175002, 18 February 2013 (Retrenchment ULP)",
     "overviewFile": "Overviews/d. Unfair Labor Practice.txt",
@@ -1530,6 +1721,7 @@
   {
     "id": "mendoza-v-mweu",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "d. Unfair Labor Practice",
     "title": "Mendoza vs MWEU, GR No. 201595, 25 January 2016 (Union Action on Appeal)",
     "overviewFile": "Overviews/d. Unfair Labor Practice.txt",
@@ -1538,6 +1730,7 @@
   {
     "id": "dlsu-v-dlsu-ea",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "d. Unfair Labor Practice",
     "title": "De La Salle University vs De La Salle Employees Association, GR 169254, 23 August 2012 (Union Dues)",
     "overviewFile": "Overviews/d. Unfair Labor Practice.txt",
@@ -1546,6 +1739,7 @@
   {
     "id": "ren-transport-v-nlrc",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "d. Unfair Labor Practice",
     "title": "Ren Transport Corp vs NLRC et al, GR No. 188020, 20 July 2016 (Duty to Bargain; Dues)",
     "overviewFile": "Overviews/d. Unfair Labor Practice.txt",
@@ -1554,6 +1748,7 @@
   {
     "id": "bayer-v-bayer",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "d. Unfair Labor Practice",
     "title": "Bayer Phils vs Bayer Phils, Inc., GR No. 162943, 06 December 2010 (Non-remittance)",
     "overviewFile": "Overviews/d. Unfair Labor Practice.txt",
@@ -1562,6 +1757,7 @@
   {
     "id": "zambrano-v-carpet-ulp",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "d. Unfair Labor Practice",
     "title": "Zambrano et al vs Philippine Carpet Manufacturing Corp et al, GR 224099, 21 June 2017 (Mass Dismissal)",
     "overviewFile": "Overviews/d. Unfair Labor Practice.txt",
@@ -1570,6 +1766,7 @@
   {
     "id": "guagua-v-faculty-union",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "d. Unfair Labor Practice",
     "title": "Guagua National Colleges v. Guagua National Colleges Faculty Labor Union, et. al., GR No. 252101, 05 March 2025",
     "overviewFile": "Overviews/d. Unfair Labor Practice.txt",
@@ -1578,6 +1775,7 @@
   {
     "id": "lord-v-noya-sec",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "e. Union Security Clauses",
     "title": "SLORD Development Corp vs Benerando Noya, 04 February 2019 (Closed Shop Agreement)",
     "overviewFile": "Overviews/e. Union Security Clauses.txt",
@@ -1586,6 +1784,7 @@
   {
     "id": "ergonomics-v-enaje",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "e. Union Security Clauses",
     "title": "Ergonomics Systems Philippines, Inc et al vs Emerito Enaje, et al, GR 195163, 13 December 2017",
     "overviewFile": "Overviews/e. Union Security Clauses.txt",
@@ -1594,6 +1793,7 @@
   {
     "id": "rivera-v-espiritu",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "Rivera et al vs Hon. Espiritu et al, GR No. 135547, 23 January 2002 (Suspension of PAL-PALEA CBA)",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1602,6 +1802,7 @@
   {
     "id": "digitel-v-union",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "Digital Communications Phils, Inc. vs Digitel Employees Union, et al, GR No. 184903, 10 October 2012",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1610,6 +1811,7 @@
   {
     "id": "gsis-bank-v-villanueva",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "GSIS Family Bank Employees Union vs Secretary Cesar Villanueva, GR 210773, 23 January 2019",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1618,6 +1820,7 @@
   {
     "id": "sita-v-huliganga-cba",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "Societe Internationale de Telecommunications Aeronautiques vs Huliganga, GR No. 215504, 20 August 2018 (CBA Retirement)",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1626,6 +1829,7 @@
   {
     "id": "manila-hotel-v-de-leon",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "Manila Hotel Corporation vs De Leon, GR 219774, 23 July 2018 (Managerial CBA Benefits)",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1634,6 +1838,7 @@
   {
     "id": "sonedco-v-urc",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "Sonedco Workers Free Labor Union et al vs Universal Robina Corp et al, GR No. 220383, 05 July 2017",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1642,6 +1847,7 @@
   {
     "id": "bdo-v-nerbes",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "BDO Unibank, Inc vs Nerbes et al, GR No. 208735, 19 July 2017 (Union Leave)",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1650,6 +1856,7 @@
   {
     "id": "benson-v-benson",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "Benson Industries Employees Union et al vs Benson Industries, Inc., GR 200746, 06 August 2014",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1658,6 +1865,7 @@
   {
     "id": "zuellig-v-sibal",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "Zuellig Pharma Corp vs Alice Sibal et al, GR 173587, 15 July 2013 (Retirement & Severance Pay)",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1666,6 +1874,7 @@
   {
     "id": "unichem-v-valmores-cba",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "United Coconut Chemicals vs Victoriano Valmores, GR 201018, 12 July 2017 (CBA in Backwages)",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1674,6 +1883,7 @@
   {
     "id": "goya-v-goya-union",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "Goya, Inc vs Goya, Inc Employees Union-FFW, GR No. 170054, 21 January 2013 (CBA Terms)",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1682,6 +1892,7 @@
   {
     "id": "hsbc-v-union",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "Hongkong Bank Independent Labor Union vs HSBC Ltd., GR 218390, 28 February 2018",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1690,6 +1901,7 @@
   {
     "id": "pgieu-v-chevron-cba",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "f. Collective Bargaining: Duty, Process, Issues, and the CBA",
     "title": "Philippine Geothermal, Inc. Employees Union vs Chevron, GR 207252, 24 January 2018",
     "overviewFile": "Overviews/f. Collective Bargaining.txt",
@@ -1698,6 +1910,7 @@
   {
     "id": "biggs-v-boncacas",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "g. Concerted Activities, Strikes, Lockouts, and Picketing",
     "title": "Bigg’s Inc vs Joy Boncacas et al, GR No. 200487, 06 March 2019 (No Backwages Rule)",
     "overviewFile": "Overviews/g. Concerted Activities.txt",
@@ -1706,6 +1919,7 @@
   {
     "id": "pal-v-alpap-strike",
     "topic": "XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS",
+    "topicPdf": "PDFs/XVI. RIGHT TO SELF-ORGANIZATION AND LABOR ORGANIZATIONS.pdf",
     "subtopic": "g. Concerted Activities, Strikes, Lockouts, and Picketing",
     "title": "PAL, Inc vs Airline Pilots Association of the Philippines, et al, GR No. 200088, 26 February 2018 (Strike Damages)",
     "overviewFile": "Overviews/g. Concerted Activities.txt",
@@ -1714,6 +1928,7 @@
   {
     "id": "pantollano-v-korphil",
     "topic": "XVII. SPECIAL AND OTHER PROVISIONS",
+    "topicPdf": "PDFs/XVII. SPECIAL AND OTHER PROVISIONS.pdf",
     "subtopic": "a. Statutory Provisions and Prescription (Arts. 288-307 LC)",
     "title": "Pantollano vs Korphil Ship Management and Manning Corp, GR No. 169575, 30 March 2011 (Prescription)",
     "overviewFile": "Overviews/a. Special and Other Provisions.txt",
@@ -1722,6 +1937,7 @@
   {
     "id": "auto-bus-v-bautista",
     "topic": "XVII. SPECIAL AND OTHER PROVISIONS",
+    "topicPdf": "PDFs/XVII. SPECIAL AND OTHER PROVISIONS.pdf",
     "subtopic": "a. Statutory Provisions and Prescription (Arts. 288-307 LC)",
     "title": "Auto Bus Transport Systems, Inc. vs Bautista, GR No. 156367, 06 May 2005 (Prescription)",
     "overviewFile": "Overviews/a. Special and Other Provisions.txt",
@@ -1730,6 +1946,7 @@
   {
     "id": "ilaw-buklod-v-nestle",
     "topic": "XVII. SPECIAL AND OTHER PROVISIONS",
+    "topicPdf": "PDFs/XVII. SPECIAL AND OTHER PROVISIONS.pdf",
     "subtopic": "a. Statutory Provisions and Prescription (Arts. 288-307 LC)",
     "title": "Ilaw Buklod ng Manggagawa vs Nestle Phils, GR No. 198675, 23 September 2015 (Prescription; Execution)",
     "overviewFile": "Overviews/a. Special and Other Provisions.txt",
@@ -1738,6 +1955,7 @@
   {
     "id": "agrarian-acquisition",
     "topic": "XVIII. AGRARIAN LAW",
+    "topicPdf": "PDFs/XVIII. AGRARIAN LAW.pdf",
     "subtopic": "a. Land Acquisition, Retention, Exemptions, and Exclusions",
     "title": "Land Acquisition, Retention, Exemptions, and Exclusions",
     "overviewFile": "Overviews/a. Land Acquisition.txt",
@@ -1746,6 +1964,7 @@
   {
     "id": "agrarian-redistribution",
     "topic": "XVIII. AGRARIAN LAW",
+    "topicPdf": "PDFs/XVIII. AGRARIAN LAW.pdf",
     "subtopic": "b. Land Valuation, Redistribution, and Tenure Improvement",
     "title": "Land Valuation, Redistribution, and Tenure Improvement",
     "overviewFile": "Overviews/b. Land Valuation and Redistribution.txt",
@@ -1754,6 +1973,7 @@
   {
     "id": "agrarian-conversion",
     "topic": "XVIII. AGRARIAN LAW",
+    "topicPdf": "PDFs/XVIII. AGRARIAN LAW.pdf",
     "subtopic": "c. Conversion of Agricultural Lands",
     "title": "Conversion of Agricultural Lands",
     "overviewFile": "Overviews/c. Conversion of Agricultural Lands.txt",
@@ -1762,6 +1982,7 @@
   {
     "id": "agrarian-justice",
     "topic": "XVIII. AGRARIAN LAW",
+    "topicPdf": "PDFs/XVIII. AGRARIAN LAW.pdf",
     "subtopic": "d. Resolution of Agrarian Disputes and Support Services",
     "title": "Resolution of Agrarian Disputes and Support Services",
     "overviewFile": "Overviews/d. Agrarian Disputes and Support Services.txt",
