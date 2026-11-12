@@ -1,28 +1,67 @@
-Rodessa Quitevis Rodriguez v. Sintron Systems, Inc. and/or Joselito Capaque
+### Case Title
 
-G.R. No. 240254, July 24, 2019
+**Rodessa Quitevis Rodriguez v. Sintron Systems, Inc. and/or Joselito Capaque**
+G.R. No. 240254, July 24, 2019 (Supreme Court, Second Division, Ponente: Caguioa, *J.*)
 
-Second Division, Caguioa, J.
-Facts	Rodessa Quitevis Rodriguez was employed as a Sales Coordinator by Sintron Systems, Inc. (SSI). Following an internal evaluation and product training abroad, SSI required Rodriguez to sign a post-training employment bond. Believing the stipulations were unfair and oppressive, Rodriguez refused to sign. An altercation ensued with company president Joselito Capaque, during which harsh words were exchanged. Rodriguez walked out of the office and did not return. She filed a complaint for constructive illegal dismissal, claiming that Capaque verbally abused, humiliated, and constructively forced her out. SSI countered that Rodriguez was never dismissed; instead, she abandoned her post following an administrative disagreement, leaving pending transactions unresolved.
-Issues	1. Whether petitioner Rodriguez was constructively dismissed or voluntarily abandoned her employment.
+---
 
-2. Whether reinstatement or separation pay is proper where both dismissal and abandonment are disproved.
-Held	1. There was NEITHER constructive illegal dismissal NOR abandonment of employment.
+### Facts
 
-2. Reinstatement without backwages is the proper relief; the doctrine of strained relations cannot be mechanically applied without concrete factual basis.
+Rodriguez worked as a Sales Coordinator for Sintron Systems, Inc. (SSI), whose president was Capaque. Following a company-sponsored local training, SSI required Rodriguez to sign a training agreement binding her to stay with the company for three years under penalty of a bond. Rodriguez refused to sign because she was not informed of this condition prior to the training.
+
+Claiming that Capaque subjected her to humiliation, hostile treatment, and unfounded accusations of client sabotage as a result of her refusal, Rodriguez went on absences and filed an action for constructive illegal dismissal against SSI and Capaque. SSI and Capaque countered that Rodriguez was never dismissed; rather, she abandoned her employment and committed gross insubordination and neglect by going on unauthorized absences, failing to turn over vital client files, and wiping data from her company-issued computer.
+
+---
+
+### Issues
+
+1. Did Rodriguez establish that she was constructively dismissed from employment, or conversely, did SSI prove that she abandoned her job?
+2. What are the legal consequences and proper remedies when neither dismissal by the employer nor abandonment by the employee is substantiated?
+
+---
+
+### Ruling
+
+#### Verbatim Legal Basis of the Supreme Court
+
+> **On Burden of Proof in Dismissal Cases:**
+> "In illegal dismissal cases, before the employer must bear the burden of proving that the dismissal was legal, the employee must first establish by substantial evidence the fact of his dismissal from service. Obviously, if there is no dismissal, then there can be no question as to its legality or illegality."
+
+> **On Constructive Dismissal:**
+> "Constructive dismissal is defined as quitting or cessation of work because continued employment is rendered impossible, unreasonable or unlikely; when there is a demotion in rank and/or a diminution in pay; or when a clear discrimination, insensibility, or disdain by an employer becomes unbearable to the employee. The test of constructive dismissal is whether a reasonable person in the employee's position would have felt compelled to give up his position under the circumstances."
+
+> **On Abandonment of Work:**
+> "Abandonment of employment is defined as the deliberate and unjustified refusal of an employee to resume his employment. It requires the concurrence of two elements: 1) failure to report for work or absence without valid or justifiable reason, and 2) a clear intention to sever the employer-employee relationship."
+
+> **On Non-Dismissal, Non-Abandonment, and Doctrine of Strained Relations:**
+> "As discussed, there having been no abandonment nor dismissal, the employee-employer relationship between the parties subsists. Hence, there is no need for reinstatement. Hence, too, there can be no payment of separation pay. Separation pay is generally not awarded to an employee whose employment was not terminated."
+> "Under the doctrine of strained relations, such payment of separation pay is considered an acceptable alternative to reinstatement when the latter option is no longer desirable or viable... The doctrine of strained relations, however, should not be used recklessly or applied loosely nor be based on impression alone."
+> "Article 279 provides for the payment of full backwages, among others, to unjustly dismissed employees. The grant of backwages allows the employee to recover from the employer that which he had lost by way of wages as a result of his dismissal. Moreover, the Court has held that where the employee's failure to work was occasioned neither by his abandonment nor by a termination, the burden of economic loss is not. Each party must bear his own loss."
+
+#### Provisions of Law and Doctrines Cited
+
+* **Article 294 [formerly Art. 279] of the Labor Code** (Security of Tenure, Reinstatement, and Backwages).
+* **Article 297 [formerly Art. 282] of the Labor Code** (Termination by Employer; Just Causes).
+* **Doctrine of Strained Relations** (*Claudia’s Kitchen, Inc. v. Tanguin*, G.R. No. 221096; *Tenazas v. R. Villegas Taxi Transport*, G.R. No. 192298).
+* **"No Work, No Pay" / "Each Party Bears His Own Loss" Principle** (*Danilo Leonardo v. NLRC*, G.R. Nos. 125303 & 126937).
+
+---
+
+### Ratio Decidendi
+
+1. **Absence of Both Constructive Dismissal and Abandonment:**
+Before an employer assumes the burden of justifying a termination under the Labor Code, the employee must first establish the actual fact of dismissal by substantial evidence. Rodriguez presented only bare and uncorroborated allegations of hostility, harassment, and humiliation, which fall short of the objective test of constructive dismissal. Conversely, SSI failed to prove abandonment because Rodriguez filed an immediate complaint for illegal dismissal and sought back wages and reinstatement, negating any deliberate and clear intent to sever the employment relationship.
+2. **Remedy When Neither Dismissal Nor Abandonment Exists:**
+When neither constructive dismissal nor abandonment is established, the employment relation is deemed never to have been severed and continues to subsist. As a consequence:
+* **Reinstatement / Return to Work:** The employee is ordered to return to work, and the employer is bound to readmit the worker to her former position.
+* **Inapplicability of Strained Relations and Separation Pay:** Separation pay in lieu of reinstatement cannot be awarded because the employment was never lawfully or unlawfully terminated. The doctrine of strained relations cannot be loosely applied where the employee did not occupy a position of trust and confidence and no serious animosity was demonstrated as a fact on record.
+* **Denial of Backwages (Each Party Bears Own Loss):** Under Article 294 [279] of the Labor Code, backwages are granted only to unjustly dismissed employees. Because Rodriguez was not dismissed and SSI did not unlawfully prevent her from working, neither party is at legal fault for the period of non-performance; each party must bear their own economic loss under the principle of "no work, no pay". If Rodriguez voluntarily refuses to return to work, she is considered to have resigned.
 
 
-Verbatim Legal Basis:
 
-Article 279 [now Article 294], Labor Code of the Philippines:
+---
 
-"Art. 279. Security of tenure. — In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement."
-Ratio Decidendi	1. Failure to Prove Constructive Dismissal: Constructive dismissal requires clear evidence of unbearable conditions, discrimination, or offensive acts rendering continued employment impossible. An employer's heated words during an isolated dispute regarding training agreements do not constitute constructive dismissal.
+### Fallo
 
-2. Failure to Prove Abandonment: Abandonment requires: (a) failure to report for work without valid reason; and (b) clear, unequivocal intent to sever the employer-employee relationship. The immediate filing of a complaint for illegal dismissal negates any intent to abandon employment.
-
-3. Effect When Neither Dismissal nor Abandonment Exists: Where neither dismissal nor abandonment is established, the remedy is reinstatement to the former position without backwages. The doctrine of strained relations must be applied with caution; mere litigation or standard workplace friction does not automatically justify the award of separation pay in lieu of reinstatement.
-Fallo	WHEREFORE, the Petition for Review on Certiorari is GRANTED. The Decision dated February 26, 2018 and Resolution dated June 20, 2018 of the Court of Appeals in CA-G.R. SP Nos. 145853 and 145922 are REVERSED and SET ASIDE. A new judgment is hereby rendered ORDERING respondent Sintron Systems, Inc. to REINSTATE petitioner Rodessa Quitevis Rodriguez to her former position without payment of backwages. If reinstatement is no longer feasible due to the passage of time, respondent is ordered to pay petitioner separation pay equivalent to one (1) month salary for every year of service.
-
-
-SO ORDERED.
+> "WHEREFORE, premises considered, the petition is DENIED. The Assailed Decision dated February 26, 2018 and Assailed Resolution dated June 22, 2018 of the Court of Appeals in CA-G.R. SP Nos. 145853 and 145922 are PARTIALLY AFFIRMED. Respondents are ORDERED TO REINSTATE petitioner Rodessa Quitevis Rodriguez to her former position without payment of backwages, in accordance with this Decision.
+> SO ORDERED."
