@@ -1,12 +1,10 @@
-### Case Title
-
 **Rodessa Quitevis Rodriguez v. Sintron Systems, Inc. and/or Joselito Capaque**
 
 G.R. No. 240254, July 24, 2019 (Supreme Court, Second Division, Ponente: Caguioa, *J.*)
 
 ---
 
-### Facts
+Facts
 
 Rodriguez worked as a Sales Coordinator for Sintron Systems, Inc. (SSI), whose president was Capaque. Following a company-sponsored local training, SSI required Rodriguez to sign a training agreement binding her to stay with the company for three years under penalty of a bond. Rodriguez refused to sign because she was not informed of this condition prior to the training.
 
@@ -14,16 +12,16 @@ Claiming that Capaque subjected her to humiliation, hostile treatment, and unfou
 
 ---
 
-### Issues
+Issues
 
 1. Did Rodriguez establish that she was constructively dismissed from employment, or conversely, did SSI prove that she abandoned her job?
 2. What are the legal consequences and proper remedies when neither dismissal by the employer nor abandonment by the employee is substantiated?
 
 ---
 
-### Ruling
+Ruling
 
-#### Verbatim Legal Basis of the Supreme Court
+Verbatim Legal Basis of the Supreme Court
 
 > **On Burden of Proof in Dismissal Cases:**
 > "In illegal dismissal cases, before the employer must bear the burden of proving that the dismissal was legal, the employee must first establish by substantial evidence the fact of his dismissal from service. Obviously, if there is no dismissal, then there can be no question as to its legality or illegality."
@@ -39,7 +37,7 @@ Claiming that Capaque subjected her to humiliation, hostile treatment, and unfou
 > "Under the doctrine of strained relations, such payment of separation pay is considered an acceptable alternative to reinstatement when the latter option is no longer desirable or viable... The doctrine of strained relations, however, should not be used recklessly or applied loosely nor be based on impression alone."
 > "Article 279 provides for the payment of full backwages, among others, to unjustly dismissed employees. The grant of backwages allows the employee to recover from the employer that which he had lost by way of wages as a result of his dismissal. Moreover, the Court has held that where the employee's failure to work was occasioned neither by his abandonment nor by a termination, the burden of economic loss is not. Each party must bear his own loss."
 
-#### Provisions of Law and Doctrines Cited
+Provisions of Law and Doctrines Cited
 
 * **Article 294 [formerly Art. 279] of the Labor Code** (Security of Tenure, Reinstatement, and Backwages).
 * **Article 297 [formerly Art. 282] of the Labor Code** (Termination by Employer; Just Causes).
@@ -48,7 +46,7 @@ Claiming that Capaque subjected her to humiliation, hostile treatment, and unfou
 
 ---
 
-### Ratio Decidendi
+Ratio Decidendi
 
 1. **Absence of Both Constructive Dismissal and Abandonment:**
 Before an employer assumes the burden of justifying a termination under the Labor Code, the employee must first establish the actual fact of dismissal by substantial evidence. Rodriguez presented only bare and uncorroborated allegations of hostility, harassment, and humiliation, which fall short of the objective test of constructive dismissal. Conversely, SSI failed to prove abandonment because Rodriguez filed an immediate complaint for illegal dismissal and sought back wages and reinstatement, negating any deliberate and clear intent to sever the employment relationship.
@@ -62,7 +60,7 @@ When neither constructive dismissal nor abandonment is established, the employme
 
 ---
 
-### Fallo
+Fallo
 
 > "WHEREFORE, premises considered, the petition is DENIED. The Assailed Decision dated February 26, 2018 and Assailed Resolution dated June 22, 2018 of the Court of Appeals in CA-G.R. SP Nos. 145853 and 145922 are PARTIALLY AFFIRMED. Respondents are ORDERED TO REINSTATE petitioner Rodessa Quitevis Rodriguez to her former position without payment of backwages, in accordance with this Decision.
 > SO ORDERED."
