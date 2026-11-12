@@ -550,11 +550,12 @@
       </div>
     </section>
 
-    <!-- RIGHT PANE (CASE DIGEST) -->
+    <!-- RIGHT PANE (CASE DIGEST WITH NEXT BUTTON) -->
     <section class="pane-right-digest">
       <div class="pane-header-strip">
         <span>⚖ Case Digest</span>
         <div style="display: flex; gap: 6px; align-items: center;">
+          <button id="nextCaseBtn" class="btn btn-secondary" style="padding: 2px 9px; font-size: 0.72rem;" onclick="nextCase()">Next →</button>
           <button id="caseReadBtn" class="btn-read-toggle" onclick="toggleCaseRead()">Mark Read</button>
           <button class="btn btn-secondary" style="padding: 2px 8px; font-size: 0.72rem;" onclick="copyRatio()">Copy Ratio</button>
         </div>
@@ -747,7 +748,6 @@
       return paragraphs.length > 0 ? paragraphs : [rawText.trim()];
     }
 
-    /* MIDDLE PANE VIEW SWITCHERS */
     function showOverviewView() {
       document.getElementById('overviewScrollArea').style.display = 'flex';
       document.getElementById('pdfFrameContainer').style.display = 'none';
@@ -764,7 +764,6 @@
     }
 
     async function renderMiddleOverview() {
-      // Always revert back to default Outline view when a topic or case changes
       showOverviewView();
 
       const canvas = document.getElementById('overviewCanvas');
@@ -1027,12 +1026,28 @@
       }
     }
 
+    function nextCase() {
+      if (syllabusData.length === 0) return;
+      if (selectedIndex < syllabusData.length - 1) {
+        selectCase(selectedIndex + 1);
+      } else {
+        alert("You have reached the last entry in the syllabus.");
+      }
+    }
+
     function selectCase(index) {
       selectedIndex = index;
       if (syllabusData[index]) {
         topicCollapseState[syllabusData[index].topic] = false;
       }
       renderApp();
+
+      setTimeout(() => {
+        const activeItem = document.querySelector('.case-node.active-case, .subtopic-item.active-subtopic');
+        if (activeItem) {
+          activeItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+      }, 80);
     }
 
     function copyRatio() {
