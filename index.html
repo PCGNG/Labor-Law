@@ -7,7 +7,7 @@
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&family=JetBrains+Mono:wght@400;500;600&family=Kalam:wght@400;700&display=swap" rel="stylesheet">
 
   <style>
     :root {
@@ -21,8 +21,8 @@
       --gold-accent: #f59e0b;
       --emerald-accent: #10b981;
       --sky-accent: #38bdf8;
+      --rose-accent: #fb7185;
       
-      /* Visual Infographic Pastel Tone Palette */
       --info-bg: #eceae3;
       --info-text: #1e293b;
       --card-color-1: #e2ede5;
@@ -116,6 +116,12 @@
       color: #000;
     }
 
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
     .btn {
       padding: 7px 14px;
       font-size: 0.82rem;
@@ -134,6 +140,17 @@
     .btn-secondary:hover { background: #334155; color: #fff; }
     .btn-primary { background: var(--gold-accent); color: #000; font-weight: 700; }
     .btn-primary:hover { background: #d97706; }
+
+    /* Jump to Bookmark button in Top Bar */
+    .btn-jump-bookmark {
+      background: rgba(251, 113, 133, 0.16);
+      color: #fda4af;
+      border: 1px solid rgba(251, 113, 133, 0.45);
+    }
+    .btn-jump-bookmark:hover {
+      background: #f43f5e;
+      color: #fff;
+    }
 
     .btn-read-toggle {
       padding: 3px 10px;
@@ -154,6 +171,73 @@
       background: rgba(16, 185, 129, 0.2);
       color: #34d399;
       border-color: rgba(16, 185, 129, 0.5);
+    }
+
+    /* Star & Bookmark Header Toggle Buttons */
+    .btn-star-toggle {
+      padding: 3px 9px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      border-radius: 5px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.2s ease;
+      background: #1e293b;
+      color: #94a3b8;
+      border: 1px solid #334155;
+    }
+    .btn-star-toggle:hover { background: #28374d; color: #fff; }
+    .btn-star-toggle.is-starred {
+      background: rgba(245, 158, 11, 0.22);
+      color: #fbbf24;
+      border-color: rgba(245, 158, 11, 0.55);
+    }
+
+    .btn-bookmark-toggle {
+      padding: 3px 9px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      border-radius: 5px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.2s ease;
+      background: #1e293b;
+      color: #94a3b8;
+      border: 1px solid #334155;
+    }
+    .btn-bookmark-toggle:hover { background: #28374d; color: #fff; }
+    .btn-bookmark-toggle.is-bookmarked {
+      background: rgba(244, 63, 94, 0.22);
+      color: #fda4af;
+      border-color: rgba(244, 63, 94, 0.55);
+    }
+
+    .btn-postit-toggle {
+      padding: 3px 10px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      border-radius: 5px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: all 0.2s ease;
+      background: rgba(254, 240, 138, 0.12);
+      color: #fef08a;
+      border: 1px solid rgba(254, 240, 138, 0.35);
+    }
+    .btn-postit-toggle:hover {
+      background: rgba(254, 240, 138, 0.25);
+      color: #fff;
+    }
+    .btn-postit-toggle.has-note {
+      background: #fef08a;
+      color: #1e293b;
+      border-color: #eab308;
     }
 
     .three-pane-container {
@@ -180,7 +264,7 @@
 
     /* PANE 1: LEFT SYLLABUS TREE */
     .pane-left-tree {
-      width: 410px;
+      width: 420px;
       background: var(--bg-sidebar);
       border-right: 1px solid var(--border-color);
       display: flex;
@@ -198,8 +282,13 @@
       overflow: hidden;
     }
 
+    .topic-card.bookmarked-topic {
+      border-color: rgba(244, 63, 94, 0.55);
+      box-shadow: 0 0 0 1px rgba(244, 63, 94, 0.25);
+    }
+
     .topic-title {
-      padding: 10px 14px;
+      padding: 10px 12px;
       background: rgba(30, 41, 59, 0.6);
       font-size: 0.84rem;
       font-weight: 800;
@@ -208,6 +297,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
+      gap: 8px;
       cursor: pointer;
       user-select: none;
       transition: background 0.15s ease, color 0.15s ease;
@@ -225,6 +315,13 @@
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
+    }
+
+    .topic-title-right {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      flex-shrink: 0;
     }
 
     .topic-arrow {
@@ -247,6 +344,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
+      gap: 6px;
       transition: all 0.15s ease;
     }
 
@@ -255,24 +353,63 @@
       background: rgba(56, 189, 248, 0.08);
     }
 
+    .subtopic-item.bookmarked-row {
+      background: rgba(244, 63, 94, 0.12);
+      border-left: 3px solid #f43f5e;
+    }
+
+    /* Inline Sidebar Action Icons (Star & Bookmark) */
+    .sidebar-icon-btn {
+      background: transparent;
+      border: none;
+      cursor: pointer;
+      font-size: 0.86rem;
+      line-height: 1;
+      padding: 2px 3px;
+      border-radius: 4px;
+      color: #475569;
+      transition: transform 0.12s ease, color 0.15s ease, opacity 0.15s ease;
+      opacity: 0.55;
+    }
+    .sidebar-icon-btn:hover {
+      opacity: 1;
+      transform: scale(1.15);
+      color: #cbd5e1;
+    }
+    .sidebar-icon-btn.star-active {
+      opacity: 1;
+      color: #fbbf24;
+      text-shadow: 0 0 8px rgba(245, 158, 11, 0.45);
+    }
+    .sidebar-icon-btn.bookmark-active {
+      opacity: 1;
+      color: #f43f5e;
+      filter: drop-shadow(0 0 4px rgba(244, 63, 94, 0.5));
+    }
+
     .read-check-indicator {
       color: #10b981;
       font-weight: 800;
-      margin-left: 6px;
+      margin-left: 3px;
       font-size: 0.78rem;
     }
 
+    .note-pin-indicator {
+      margin-left: 3px;
+      font-size: 0.74rem;
+    }
+
     .case-sub-list {
-      padding: 6px 8px 8px 16px;
+      padding: 6px 8px 8px 14px;
       display: flex;
       flex-direction: column;
       gap: 4px;
       border-left: 2px solid #1e293b;
-      margin: 4px 0 6px 16px;
+      margin: 4px 0 6px 14px;
     }
 
     .case-node {
-      padding: 7px 10px;
+      padding: 7px 9px;
       border-radius: 6px;
       font-size: 0.8rem;
       line-height: 1.45;
@@ -293,6 +430,10 @@
       color: var(--gold-accent);
       font-weight: 700;
       border-left: 3px solid var(--gold-accent);
+    }
+    .case-node.bookmarked-row {
+      box-shadow: inset 0 0 0 1px rgba(244, 63, 94, 0.5);
+      background: rgba(244, 63, 94, 0.1);
     }
 
     /* PANE 2: MIDDLE */
@@ -434,6 +575,85 @@
       border-bottom: 1px solid var(--border-color);
     }
 
+    /* POST-IT STICKY NOTE CARD */
+    .postit-note-wrapper {
+      background: linear-gradient(135deg, #fef08a 0%, #fde047 100%);
+      color: #1e293b;
+      border-radius: 4px 4px 16px 4px;
+      padding: 14px 18px 16px 18px;
+      margin-bottom: 26px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35), 0 2px 4px rgba(0, 0, 0, 0.2);
+      border-top: 8px solid rgba(202, 138, 4, 0.35);
+      position: relative;
+      transition: all 0.2s ease;
+    }
+
+    .postit-note-wrapper.hidden {
+      display: none;
+    }
+
+    .postit-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 8px;
+      border-bottom: 1px dashed rgba(133, 77, 14, 0.3);
+      padding-bottom: 6px;
+    }
+
+    .postit-title {
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.7px;
+      color: #854d0e;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .postit-status {
+      font-size: 0.7rem;
+      font-weight: 700;
+      color: #a16207;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .postit-clear-btn {
+      background: transparent;
+      border: 1px solid rgba(133, 77, 14, 0.35);
+      color: #854d0e;
+      font-size: 0.66rem;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    .postit-clear-btn:hover {
+      background: rgba(133, 77, 14, 0.12);
+    }
+
+    .postit-textarea {
+      width: 100%;
+      min-height: 85px;
+      background: transparent;
+      border: none;
+      outline: none;
+      resize: vertical;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-size: 0.98rem;
+      font-weight: 500;
+      line-height: 1.6;
+      color: #1e293b;
+    }
+
+    .postit-textarea::placeholder {
+      color: rgba(113, 63, 18, 0.55);
+      font-style: italic;
+    }
+
     .digest-section { margin-bottom: 28px; }
     
     .section-label {
@@ -508,6 +728,10 @@
       <span class="badge-pill">3-Pane Syllabus View</span>
     </div>
     <div class="nav-actions">
+      <button id="jumpBookmarkBtn" class="btn btn-jump-bookmark" style="display: none;" onclick="jumpToBookmark()">🔖 Jump to Bookmark</button>
+      <button class="btn btn-secondary" onclick="exportProgressBackup()" title="Download your stars, bookmarks, sticky notes, and read progress">⬇ Export Backup</button>
+      <button class="btn btn-secondary" onclick="document.getElementById('importBackupInput').click()" title="Load a previously exported backup JSON file">⬆ Import Backup</button>
+      <input type="file" id="importBackupInput" accept=".json" style="display: none;" onchange="importProgressBackup(event)">
       <button class="btn btn-primary" onclick="window.print()">Print / PDF</button>
     </div>
   </header>
@@ -526,8 +750,9 @@
     <section class="pane-middle-overview">
       <div class="pane-header-strip">
         <span>● Topic & Sub-Topic Overview</span>
-        <div style="display: flex; align-items: center; gap: 8px;">
-          <span id="middleTag" style="color: var(--gold-accent); margin-right: 4px;">Doctrine Focus</span>
+        <div style="display: flex; align-items: center; gap: 6px;">
+          <span id="middleTag" style="color: var(--gold-accent); margin-right: 4px; max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Doctrine Focus</span>
+          <button id="overviewBookmarkBtn" class="btn-bookmark-toggle" onclick="toggleCurrentSubtopicBookmark()" title="Bookmark this subtopic overview">🔖 Bookmark</button>
           <button id="overviewReadBtn" class="btn-read-toggle" onclick="toggleOverviewRead()">Mark Read</button>
         </div>
       </div>
@@ -550,14 +775,17 @@
       </div>
     </section>
 
-    <!-- RIGHT PANE (CASE DIGEST WITH NEXT BUTTON) -->
+    <!-- RIGHT PANE (CASE DIGEST WITH STAR, BOOKMARK, STICKY NOTE, NEXT CASE & READ) -->
     <section class="pane-right-digest">
       <div class="pane-header-strip">
         <span>⚖ Case Digest</span>
-        <div style="display: flex; gap: 6px; align-items: center;">
-          <button id="nextCaseBtn" class="btn btn-secondary" style="padding: 2px 9px; font-size: 0.72rem;" onclick="nextCase()">Next →</button>
+        <div style="display: flex; gap: 5px; align-items: center;">
+          <button id="caseStarBtn" class="btn-star-toggle" onclick="toggleCurrentCaseStar()" title="Mark case as important">☆ Star</button>
+          <button id="caseBookmarkBtn" class="btn-bookmark-toggle" onclick="toggleCurrentCaseBookmark()" title="Bookmark this case as where you left off">🔖 Bookmark</button>
+          <button id="postitToggleBtn" class="btn-postit-toggle" onclick="togglePostitVisibility()">📌 Note</button>
+          <button id="nextCaseBtn" class="btn btn-secondary" style="padding: 3px 8px; font-size: 0.72rem;" onclick="nextCase()">Next →</button>
           <button id="caseReadBtn" class="btn-read-toggle" onclick="toggleCaseRead()">Mark Read</button>
-          <button class="btn btn-secondary" style="padding: 2px 8px; font-size: 0.72rem;" onclick="copyRatio()">Copy Ratio</button>
+          <button class="btn btn-secondary" style="padding: 3px 8px; font-size: 0.72rem;" onclick="copyRatio()">Copy Ratio</button>
         </div>
       </div>
       <div class="digest-scroll-area" id="digestCanvas"></div>
@@ -569,25 +797,109 @@
     let selectedIndex = 0;
     const fileCache = {};
     const topicCollapseState = {};
+    let isPostitForceOpen = false;
 
     let readRecords = {
       overviews: {},
       cases: {}
     };
 
+    let stickyNotes = {};
+    let starredCases = {};
+    // activeBookmark format: { type: 'topic' | 'subtopic' | 'case', key: string, index: number, label: string } | null
+    let activeBookmark = null;
+
     try {
-      const stored = localStorage.getItem('labor_reviewer_read_status');
-      if (stored) readRecords = JSON.parse(stored);
-    } catch (e) {
-      console.error("Could not parse saved read status:", e);
-    }
+      const storedRead = localStorage.getItem('labor_reviewer_read_status');
+      if (storedRead) readRecords = JSON.parse(storedRead);
+    } catch (e) { console.error(e); }
+
+    try {
+      const storedNotes = localStorage.getItem('labor_reviewer_sticky_notes');
+      if (storedNotes) stickyNotes = JSON.parse(storedNotes);
+    } catch (e) { console.error(e); }
+
+    try {
+      const storedStars = localStorage.getItem('labor_reviewer_starred_cases');
+      if (storedStars) starredCases = JSON.parse(storedStars);
+    } catch (e) { console.error(e); }
+
+    try {
+      const storedBookmark = localStorage.getItem('labor_reviewer_active_bookmark');
+      if (storedBookmark) activeBookmark = JSON.parse(storedBookmark);
+    } catch (e) { console.error(e); }
 
     function saveReadRecords() {
-      try {
-        localStorage.setItem('labor_reviewer_read_status', JSON.stringify(readRecords));
-      } catch (e) {
-        console.error("Could not save read status:", e);
-      }
+      try { localStorage.setItem('labor_reviewer_read_status', JSON.stringify(readRecords)); } catch (e) {}
+    }
+
+    function saveStickyNotes() {
+      try { localStorage.setItem('labor_reviewer_sticky_notes', JSON.stringify(stickyNotes)); } catch (e) {}
+    }
+
+    function saveStarredCases() {
+      try { localStorage.setItem('labor_reviewer_starred_cases', JSON.stringify(starredCases)); } catch (e) {}
+    }
+
+    function saveActiveBookmark() {
+      try { localStorage.setItem('labor_reviewer_active_bookmark', JSON.stringify(activeBookmark)); } catch (e) {}
+    }
+
+    /* EXPORT & IMPORT BACKUP FUNCTIONS */
+    function exportProgressBackup() {
+      const payload = {
+        app: "Labor Law Reviewer by PCGNG",
+        exportedAt: new Date().toISOString(),
+        readRecords: readRecords,
+        stickyNotes: stickyNotes,
+        starredCases: starredCases,
+        activeBookmark: activeBookmark
+      };
+      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      const dateStr = new Date().toISOString().slice(0, 10);
+      a.href = url;
+      a.download = `LaborLaw_Notes_Backup_${dateStr}.json`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    }
+
+    function importProgressBackup(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        try {
+          const imported = JSON.parse(e.target.result);
+          if (imported.readRecords) {
+            readRecords.overviews = { ...readRecords.overviews, ...(imported.readRecords.overviews || {}) };
+            readRecords.cases = { ...readRecords.cases, ...(imported.readRecords.cases || {}) };
+            saveReadRecords();
+          }
+          if (imported.stickyNotes) {
+            stickyNotes = { ...stickyNotes, ...imported.stickyNotes };
+            saveStickyNotes();
+          }
+          if (imported.starredCases) {
+            starredCases = { ...starredCases, ...imported.starredCases };
+            saveStarredCases();
+          }
+          if (imported.activeBookmark !== undefined) {
+            activeBookmark = imported.activeBookmark;
+            saveActiveBookmark();
+          }
+          renderApp();
+          alert("Backup imported successfully! Your stars, bookmarks, sticky notes, and read checkmarks are now synced.");
+        } catch (err) {
+          alert("Invalid backup file. Please select a valid LaborLaw_Notes_Backup JSON file.");
+        }
+        event.target.value = "";
+      };
+      reader.readAsText(file);
     }
 
     const cardPalette = [
@@ -598,6 +910,14 @@
       'var(--card-color-5)',
       'var(--card-color-6)'
     ];
+
+    function isActualCaseEntry(item) {
+      if (!item || !item.digestFile) return false;
+      if (item.digestFile.includes('General Provisions and Statutory Principles.txt')) return false;
+      if (item.id && item.id.startsWith('slu-subtopic-')) return false;
+      if (item.id === 'concept-security-of-tenure') return false;
+      return true;
+    }
 
     fetch('cases.json?t=' + Date.now())
       .then(res => {
@@ -636,7 +956,7 @@
       renderLeftTree();
       renderMiddleOverview();
       renderRightDigest();
-      updateReadButtons();
+      updateActionButtons();
     }
 
     function toggleTopicCollapse(topicName) {
@@ -644,9 +964,69 @@
       renderLeftTree();
     }
 
+    /* STAR & BOOKMARK HANDLERS */
+    function toggleCaseStarById(caseId, event) {
+      if (event) event.stopPropagation();
+      starredCases[caseId] = !starredCases[caseId];
+      if (!starredCases[caseId]) delete starredCases[caseId];
+      saveStarredCases();
+      renderLeftTree();
+      updateActionButtons();
+    }
+
+    function toggleCurrentCaseStar() {
+      if (syllabusData.length === 0) return;
+      toggleCaseStarById(syllabusData[selectedIndex].id);
+    }
+
+    function setOrToggleBookmark(type, key, index, label, event) {
+      if (event) event.stopPropagation();
+      if (activeBookmark && activeBookmark.type === type && activeBookmark.key === key) {
+        activeBookmark = null;
+      } else {
+        activeBookmark = { type, key, index, label };
+      }
+      saveActiveBookmark();
+      renderLeftTree();
+      updateActionButtons();
+    }
+
+    function toggleCurrentCaseBookmark() {
+      if (syllabusData.length === 0) return;
+      const item = syllabusData[selectedIndex];
+      setOrToggleBookmark('case', item.id, selectedIndex, item.title);
+    }
+
+    function toggleCurrentSubtopicBookmark() {
+      if (syllabusData.length === 0) return;
+      const item = syllabusData[selectedIndex];
+      setOrToggleBookmark('subtopic', item.subtopic, selectedIndex, item.subtopic);
+    }
+
+    function jumpToBookmark() {
+      if (!activeBookmark || syllabusData.length === 0) return;
+      let targetIndex = activeBookmark.index;
+
+      if (activeBookmark.type === 'case') {
+        const found = syllabusData.findIndex(item => item.id === activeBookmark.key);
+        if (found !== -1) targetIndex = found;
+      } else if (activeBookmark.type === 'subtopic') {
+        const found = syllabusData.findIndex(item => item.subtopic === activeBookmark.key);
+        if (found !== -1) targetIndex = found;
+      } else if (activeBookmark.type === 'topic') {
+        const found = syllabusData.findIndex(item => item.topic === activeBookmark.key);
+        if (found !== -1) targetIndex = found;
+      }
+
+      if (targetIndex >= 0 && targetIndex < syllabusData.length) {
+        selectCase(targetIndex);
+      }
+    }
+
     function renderLeftTree() {
       const tree = document.getElementById('syllabusTreeContainer');
-      document.getElementById('caseCountBadge').textContent = `${syllabusData.length} Entries`;
+      const totalActualCases = syllabusData.filter(isActualCaseEntry).length;
+      document.getElementById('caseCountBadge').textContent = `${totalActualCases} Cases`;
 
       const structure = {};
       syllabusData.forEach((item, idx) => {
@@ -659,42 +1039,77 @@
       for (const [topicName, subtopics] of Object.entries(structure)) {
         const isCollapsed = !!topicCollapseState[topicName];
         const safeTopicId = encodeURIComponent(topicName);
+        const firstTopicIdx = Object.values(subtopics)[0][0].index;
+        const isTopicBookmarked = activeBookmark && activeBookmark.type === 'topic' && activeBookmark.key === topicName;
 
         html += `
-          <div class="topic-card ${isCollapsed ? 'collapsed' : ''}">
+          <div class="topic-card ${isCollapsed ? 'collapsed' : ''} ${isTopicBookmarked ? 'bookmarked-topic' : ''}">
             <div class="topic-title" onclick="toggleTopicCollapse(decodeURIComponent('${safeTopicId}'))">
               <div class="topic-title-left">
                 <span>📁</span>
                 <span>${topicName}</span>
               </div>
-              <span class="topic-arrow">▼</span>
+              <div class="topic-title-right">
+                <button 
+                  class="sidebar-icon-btn ${isTopicBookmarked ? 'bookmark-active' : ''}" 
+                  onclick="setOrToggleBookmark('topic', decodeURIComponent('${safeTopicId}'), ${firstTopicIdx}, decodeURIComponent('${safeTopicId}'), event)" 
+                  title="${isTopicBookmarked ? 'Remove Topic Bookmark' : 'Bookmark Topic (Where I Left Off)'}"
+                >🔖</button>
+                <span class="topic-arrow">▼</span>
+              </div>
             </div>
             <div class="topic-content">
         `;
 
         for (const [subtopicName, entries] of Object.entries(subtopics)) {
           const isSubActive = entries.some(e => e.index === selectedIndex);
-          const hasMultiple = entries.length > 1;
+          const actualCases = entries.filter(e => isActualCaseEntry(e.entry));
           const isOverviewRead = !!readRecords.overviews[subtopicName];
+          const isSubBookmarked = activeBookmark && activeBookmark.type === 'subtopic' && activeBookmark.key === subtopicName;
+          const safeSubId = encodeURIComponent(subtopicName);
 
           html += `
-            <div class="subtopic-item ${isSubActive ? 'active-subtopic' : ''}" onclick="selectCase(${entries[0].index})">
-              <span>• ${subtopicName} ${isOverviewRead ? '<span class="read-check-indicator" title="Overview Read">✓</span>' : ''}</span>
-              ${hasMultiple ? `<span style="font-size: 0.7rem; color: #64748b;">${entries.length} cases</span>` : ''}
+            <div class="subtopic-item ${isSubActive ? 'active-subtopic' : ''} ${isSubBookmarked ? 'bookmarked-row' : ''}" onclick="selectCase(${entries[0].index})">
+              <span style="overflow: hidden; text-overflow: ellipsis;">• ${subtopicName} ${isOverviewRead ? '<span class="read-check-indicator" title="Overview Read">✓</span>' : ''}</span>
+              <span style="display: inline-flex; align-items: center; gap: 5px; flex-shrink: 0;">
+                ${actualCases.length > 0 ? `<span style="font-size: 0.7rem; color: #64748b;">${actualCases.length} ${actualCases.length === 1 ? 'case' : 'cases'}</span>` : ''}
+                <button 
+                  class="sidebar-icon-btn ${isSubBookmarked ? 'bookmark-active' : ''}" 
+                  onclick="setOrToggleBookmark('subtopic', decodeURIComponent('${safeSubId}'), ${entries[0].index}, decodeURIComponent('${safeSubId}'), event)" 
+                  title="${isSubBookmarked ? 'Remove Subtopic Bookmark' : 'Bookmark Subtopic'}"
+                >🔖</button>
+              </span>
             </div>
           `;
 
-          if (hasMultiple) {
+          if (actualCases.length > 0) {
             html += `<div class="case-sub-list">`;
-            entries.forEach(e => {
+            actualCases.forEach(e => {
               const isCaseActive = e.index === selectedIndex;
               const displayName = e.entry.title || e.entry.id.replace(/-/g, ' ');
               const isCaseRead = !!readRecords.cases[e.entry.id];
+              const isStarred = !!starredCases[e.entry.id];
+              const isCaseBookmarked = activeBookmark && activeBookmark.type === 'case' && activeBookmark.key === e.entry.id;
+              const hasNote = !!(stickyNotes[e.entry.id] && stickyNotes[e.entry.id].trim().length > 0);
+              const safeCaseTitle = encodeURIComponent(displayName);
               
               html += `
-                <div class="case-node ${isCaseActive ? 'active-case' : ''}" onclick="selectCase(${e.index})" title="${displayName}">
+                <div class="case-node ${isCaseActive ? 'active-case' : ''} ${isCaseBookmarked ? 'bookmarked-row' : ''}" onclick="selectCase(${e.index})" title="${displayName}">
                   <span style="overflow: hidden; text-overflow: ellipsis;">⚖ ${displayName}</span>
-                  ${isCaseRead ? '<span class="read-check-indicator" title="Digest Read">✓</span>' : ''}
+                  <span style="display: inline-flex; align-items: center; gap: 2px; flex-shrink: 0;">
+                    <button 
+                      class="sidebar-icon-btn ${isStarred ? 'star-active' : ''}" 
+                      onclick="toggleCaseStarById('${e.entry.id}', event)" 
+                      title="${isStarred ? 'Unstar Case' : 'Mark Case Important'}"
+                    >${isStarred ? '★' : '☆'}</button>
+                    <button 
+                      class="sidebar-icon-btn ${isCaseBookmarked ? 'bookmark-active' : ''}" 
+                      onclick="setOrToggleBookmark('case', '${e.entry.id}', ${e.index}, decodeURIComponent('${safeCaseTitle}'), event)" 
+                      title="${isCaseBookmarked ? 'Remove Case Bookmark' : 'Bookmark Case (Where I Left Off)'}"
+                    >🔖</button>
+                    ${hasNote ? '<span class="note-pin-indicator" title="Has Sticky Note">📌</span>' : ''}
+                    ${isCaseRead ? '<span class="read-check-indicator" title="Digest Read">✓</span>' : ''}
+                  </span>
                 </div>
               `;
             });
@@ -925,11 +1340,52 @@
       return /^(?:#{1,4}\s*)?(?:Facts|Issue|Held|Ruling|Ratio|Fallo|Dispositive\s+Portion)/i.test(str.trim());
     }
 
+    function handlePostitInput(textarea) {
+      if (syllabusData.length === 0) return;
+      const caseId = syllabusData[selectedIndex].id;
+      stickyNotes[caseId] = textarea.value;
+      saveStickyNotes();
+      
+      const statusEl = document.getElementById('postitSaveStatus');
+      if (statusEl) statusEl.textContent = 'Saved ✓';
+      
+      renderLeftTree();
+      updateActionButtons();
+    }
+
+    function clearCurrentPostit() {
+      if (syllabusData.length === 0) return;
+      const caseId = syllabusData[selectedIndex].id;
+      delete stickyNotes[caseId];
+      saveStickyNotes();
+      const ta = document.getElementById('postitTextarea');
+      if (ta) ta.value = '';
+      renderLeftTree();
+      updateActionButtons();
+    }
+
+    function togglePostitVisibility() {
+      const box = document.getElementById('postitCardBox');
+      if (!box) return;
+      const currentlyHidden = box.classList.contains('hidden');
+      if (currentlyHidden) {
+        box.classList.remove('hidden');
+        isPostitForceOpen = true;
+        const ta = document.getElementById('postitTextarea');
+        if (ta) ta.focus();
+      } else {
+        box.classList.add('hidden');
+        isPostitForceOpen = false;
+      }
+    }
+
     async function renderRightDigest() {
       const canvas = document.getElementById('digestCanvas');
       if (syllabusData.length === 0) return;
 
       const item = syllabusData[selectedIndex];
+      const existingNote = stickyNotes[item.id] || '';
+      const shouldShowPostit = existingNote.trim().length > 0 || isPostitForceOpen;
 
       if (item.digestFile) {
         canvas.innerHTML = '<div style="padding: 20px; text-align: center; color: #64748b;">Loading case brief from file...</div>';
@@ -941,6 +1397,22 @@
             <div class="digest-meta-tag">${item.topic} › ${item.subtopic}</div>
             <h2 class="digest-case-heading">${parsed.title}</h2>
             ${parsed.citation ? `<div class="digest-citation">${parsed.citation}</div>` : `<div style="margin-bottom: 20px;"></div>`}
+
+            <div id="postitCardBox" class="postit-note-wrapper ${shouldShowPostit ? '' : 'hidden'}">
+              <div class="postit-header">
+                <span class="postit-title">📌 Personal Bar Review Sticky Note</span>
+                <div class="postit-status">
+                  <span id="postitSaveStatus">${existingNote.trim() ? 'Saved ✓' : 'Auto-saves as you type'}</span>
+                  <button class="postit-clear-btn" onclick="clearCurrentPostit()" title="Clear Note">Clear</button>
+                </div>
+              </div>
+              <textarea 
+                id="postitTextarea" 
+                class="postit-textarea" 
+                placeholder="Write your quick doctrinal takeaways, exam tips, or mnemonics for this case..."
+                oninput="handlePostitInput(this)"
+              ></textarea>
+            </div>
 
             <div class="digest-section">
               <div class="section-label facts-label">📋 RELEVANT FACTS (BAR EXAMINATION STYLE)</div>
@@ -967,6 +1439,10 @@
               <div class="fallo-box">${parsed.fallo}</div>
             </div>
           `;
+
+          const ta = document.getElementById('postitTextarea');
+          if (ta) ta.value = existingNote;
+
         } catch (err) {
           canvas.innerHTML = `
             <div style="padding: 24px; color: #ef4444; font-size: 0.9rem; line-height: 1.6;">
@@ -985,7 +1461,7 @@
       readRecords.overviews[subtopicKey] = !readRecords.overviews[subtopicKey];
       saveReadRecords();
       renderLeftTree();
-      updateReadButtons();
+      updateActionButtons();
     }
 
     function toggleCaseRead() {
@@ -994,49 +1470,90 @@
       readRecords.cases[caseId] = !readRecords.cases[caseId];
       saveReadRecords();
       renderLeftTree();
-      updateReadButtons();
+      updateActionButtons();
     }
 
-    function updateReadButtons() {
+    function updateActionButtons() {
       if (syllabusData.length === 0) return;
       const curItem = syllabusData[selectedIndex];
 
+      // Overview Read Button
       const isOverviewRead = !!readRecords.overviews[curItem.subtopic];
       const overviewBtn = document.getElementById('overviewReadBtn');
       if (overviewBtn) {
-        if (isOverviewRead) {
-          overviewBtn.classList.add('is-read');
-          overviewBtn.innerHTML = '✓ Read';
-        } else {
-          overviewBtn.classList.remove('is-read');
-          overviewBtn.innerHTML = 'Mark Read';
-        }
+        overviewBtn.classList.toggle('is-read', isOverviewRead);
+        overviewBtn.innerHTML = isOverviewRead ? '✓ Read' : 'Mark Read';
       }
 
+      // Overview Bookmark Button
+      const isSubBookmarked = activeBookmark && activeBookmark.type === 'subtopic' && activeBookmark.key === curItem.subtopic;
+      const overviewBookmarkBtn = document.getElementById('overviewBookmarkBtn');
+      if (overviewBookmarkBtn) {
+        overviewBookmarkBtn.classList.toggle('is-bookmarked', !!isSubBookmarked);
+        overviewBookmarkBtn.innerHTML = isSubBookmarked ? '🔖 Bookmarked' : '🔖 Bookmark';
+      }
+
+      // Case Star Button
+      const isStarred = !!starredCases[curItem.id];
+      const caseStarBtn = document.getElementById('caseStarBtn');
+      if (caseStarBtn) {
+        caseStarBtn.classList.toggle('is-starred', isStarred);
+        caseStarBtn.innerHTML = isStarred ? '★ Starred' : '☆ Star';
+      }
+
+      // Case Bookmark Button
+      const isCaseBookmarked = activeBookmark && activeBookmark.type === 'case' && activeBookmark.key === curItem.id;
+      const caseBookmarkBtn = document.getElementById('caseBookmarkBtn');
+      if (caseBookmarkBtn) {
+        caseBookmarkBtn.classList.toggle('is-bookmarked', !!isCaseBookmarked);
+        caseBookmarkBtn.innerHTML = isCaseBookmarked ? '🔖 Bookmarked' : '🔖 Bookmark';
+      }
+
+      // Case Read Button
       const isCaseRead = !!readRecords.cases[curItem.id];
       const caseBtn = document.getElementById('caseReadBtn');
       if (caseBtn) {
-        if (isCaseRead) {
-          caseBtn.classList.add('is-read');
-          caseBtn.innerHTML = '✓ Read';
+        caseBtn.classList.toggle('is-read', isCaseRead);
+        caseBtn.innerHTML = isCaseRead ? '✓ Read' : 'Mark Read';
+      }
+
+      // Sticky Note Button
+      const hasNote = !!(stickyNotes[curItem.id] && stickyNotes[curItem.id].trim().length > 0);
+      const postitBtn = document.getElementById('postitToggleBtn');
+      if (postitBtn) {
+        postitBtn.classList.toggle('has-note', hasNote);
+        postitBtn.innerHTML = hasNote ? '📌 Note •' : '📌 Note';
+      }
+
+      // Top App Bar Jump to Bookmark Button
+      const jumpBtn = document.getElementById('jumpBookmarkBtn');
+      if (jumpBtn) {
+        if (activeBookmark) {
+          jumpBtn.style.display = 'inline-flex';
+          jumpBtn.title = `Jump to bookmarked ${activeBookmark.type}: ${activeBookmark.label}`;
         } else {
-          caseBtn.classList.remove('is-read');
-          caseBtn.innerHTML = 'Mark Read';
+          jumpBtn.style.display = 'none';
         }
       }
     }
 
     function nextCase() {
       if (syllabusData.length === 0) return;
-      if (selectedIndex < syllabusData.length - 1) {
-        selectCase(selectedIndex + 1);
+      let nextIdx = selectedIndex + 1;
+      while (nextIdx < syllabusData.length && !isActualCaseEntry(syllabusData[nextIdx])) {
+        nextIdx++;
+      }
+
+      if (nextIdx < syllabusData.length) {
+        selectCase(nextIdx);
       } else {
-        alert("You have reached the last entry in the syllabus.");
+        alert("You have reached the last case in the syllabus.");
       }
     }
 
     function selectCase(index) {
       selectedIndex = index;
+      isPostitForceOpen = false;
       if (syllabusData[index]) {
         topicCollapseState[syllabusData[index].topic] = false;
       }
