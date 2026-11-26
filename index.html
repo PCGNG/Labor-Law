@@ -21,7 +21,6 @@
       --gold-accent: #f59e0b;
       --emerald-accent: #10b981;
       --sky-accent: #38bdf8;
-      --rose-accent: #fb7185;
       
       --info-bg: #eceae3;
       --info-text: #1e293b;
@@ -141,14 +140,14 @@
     .btn-primary { background: var(--gold-accent); color: #000; font-weight: 700; }
     .btn-primary:hover { background: #d97706; }
 
-    /* Jump to Bookmark button in Top Bar */
+    /* Jump to Bookmark button in Top Bar (Bright Blue Accent) */
     .btn-jump-bookmark {
-      background: rgba(251, 113, 133, 0.16);
-      color: #fda4af;
-      border: 1px solid rgba(251, 113, 133, 0.45);
+      background: rgba(56, 189, 248, 0.15);
+      color: #38bdf8;
+      border: 1px solid rgba(56, 189, 248, 0.5);
     }
     .btn-jump-bookmark:hover {
-      background: #f43f5e;
+      background: #0ea5e9;
       color: #fff;
     }
 
@@ -203,7 +202,7 @@
       cursor: pointer;
       display: inline-flex;
       align-items: center;
-      gap: 4px;
+      gap: 5px;
       transition: all 0.2s ease;
       background: #1e293b;
       color: #94a3b8;
@@ -211,9 +210,12 @@
     }
     .btn-bookmark-toggle:hover { background: #28374d; color: #fff; }
     .btn-bookmark-toggle.is-bookmarked {
-      background: rgba(244, 63, 94, 0.22);
-      color: #fda4af;
-      border-color: rgba(244, 63, 94, 0.55);
+      background: rgba(56, 189, 248, 0.2);
+      color: #38bdf8;
+      border-color: rgba(56, 189, 248, 0.6);
+    }
+    .btn-bookmark-toggle.is-bookmarked svg {
+      fill: #38bdf8;
     }
 
     .btn-postit-toggle {
@@ -283,8 +285,8 @@
     }
 
     .topic-card.bookmarked-topic {
-      border-color: rgba(244, 63, 94, 0.55);
-      box-shadow: 0 0 0 1px rgba(244, 63, 94, 0.25);
+      border-color: rgba(56, 189, 248, 0.55);
+      box-shadow: 0 0 0 1px rgba(56, 189, 248, 0.25);
     }
 
     .topic-title {
@@ -354,11 +356,11 @@
     }
 
     .subtopic-item.bookmarked-row {
-      background: rgba(244, 63, 94, 0.12);
-      border-left: 3px solid #f43f5e;
+      background: rgba(56, 189, 248, 0.12);
+      border-left: 3px solid #38bdf8;
     }
 
-    /* Inline Sidebar Action Icons (Star & Bookmark) */
+    /* Inline Sidebar Action Icons (Star & Transparent-to-Blue Bookmark) */
     .sidebar-icon-btn {
       background: transparent;
       border: none;
@@ -368,6 +370,9 @@
       padding: 2px 3px;
       border-radius: 4px;
       color: #475569;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
       transition: transform 0.12s ease, color 0.15s ease, opacity 0.15s ease;
       opacity: 0.55;
     }
@@ -383,8 +388,12 @@
     }
     .sidebar-icon-btn.bookmark-active {
       opacity: 1;
-      color: #f43f5e;
-      filter: drop-shadow(0 0 4px rgba(244, 63, 94, 0.5));
+      color: #38bdf8;
+      filter: drop-shadow(0 0 6px rgba(56, 189, 248, 0.75));
+    }
+    .sidebar-icon-btn.bookmark-active svg {
+      fill: #38bdf8;
+      stroke: #38bdf8;
     }
 
     .read-check-indicator {
@@ -432,8 +441,8 @@
       border-left: 3px solid var(--gold-accent);
     }
     .case-node.bookmarked-row {
-      box-shadow: inset 0 0 0 1px rgba(244, 63, 94, 0.5);
-      background: rgba(244, 63, 94, 0.1);
+      box-shadow: inset 0 0 0 1px rgba(56, 189, 248, 0.55);
+      background: rgba(56, 189, 248, 0.1);
     }
 
     /* PANE 2: MIDDLE */
@@ -728,7 +737,10 @@
       <span class="badge-pill">3-Pane Syllabus View</span>
     </div>
     <div class="nav-actions">
-      <button id="jumpBookmarkBtn" class="btn btn-jump-bookmark" style="display: none;" onclick="jumpToBookmark()">🔖 Jump to Bookmark</button>
+      <button id="jumpBookmarkBtn" class="btn btn-jump-bookmark" style="display: none;" onclick="jumpToBookmark()">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+        Jump to Bookmark
+      </button>
       <button class="btn btn-secondary" onclick="exportProgressBackup()" title="Download your stars, bookmarks, sticky notes, and read progress">⬇ Export Backup</button>
       <button class="btn btn-secondary" onclick="document.getElementById('importBackupInput').click()" title="Load a previously exported backup JSON file">⬆ Import Backup</button>
       <input type="file" id="importBackupInput" accept=".json" style="display: none;" onchange="importProgressBackup(event)">
@@ -752,7 +764,10 @@
         <span>● Topic & Sub-Topic Overview</span>
         <div style="display: flex; align-items: center; gap: 6px;">
           <span id="middleTag" style="color: var(--gold-accent); margin-right: 4px; max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Doctrine Focus</span>
-          <button id="overviewBookmarkBtn" class="btn-bookmark-toggle" onclick="toggleCurrentSubtopicBookmark()" title="Bookmark this subtopic overview">🔖 Bookmark</button>
+          <button id="overviewBookmarkBtn" class="btn-bookmark-toggle" onclick="toggleCurrentSubtopicBookmark()" title="Bookmark this subtopic overview">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+            Bookmark
+          </button>
           <button id="overviewReadBtn" class="btn-read-toggle" onclick="toggleOverviewRead()">Mark Read</button>
         </div>
       </div>
@@ -781,7 +796,10 @@
         <span>⚖ Case Digest</span>
         <div style="display: flex; gap: 5px; align-items: center;">
           <button id="caseStarBtn" class="btn-star-toggle" onclick="toggleCurrentCaseStar()" title="Mark case as important">☆ Star</button>
-          <button id="caseBookmarkBtn" class="btn-bookmark-toggle" onclick="toggleCurrentCaseBookmark()" title="Bookmark this case as where you left off">🔖 Bookmark</button>
+          <button id="caseBookmarkBtn" class="btn-bookmark-toggle" onclick="toggleCurrentCaseBookmark()" title="Bookmark this case as where you left off">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+            Bookmark
+          </button>
           <button id="postitToggleBtn" class="btn-postit-toggle" onclick="togglePostitVisibility()">📌 Note</button>
           <button id="nextCaseBtn" class="btn btn-secondary" style="padding: 3px 8px; font-size: 0.72rem;" onclick="nextCase()">Next →</button>
           <button id="caseReadBtn" class="btn-read-toggle" onclick="toggleCaseRead()">Mark Read</button>
@@ -799,6 +817,8 @@
     const topicCollapseState = {};
     let isPostitForceOpen = false;
 
+    const bookmarkSvgHtml = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>`;
+
     let readRecords = {
       overviews: {},
       cases: {}
@@ -806,7 +826,6 @@
 
     let stickyNotes = {};
     let starredCases = {};
-    // activeBookmark format: { type: 'topic' | 'subtopic' | 'case', key: string, index: number, label: string } | null
     let activeBookmark = null;
 
     try {
@@ -845,7 +864,6 @@
       try { localStorage.setItem('labor_reviewer_active_bookmark', JSON.stringify(activeBookmark)); } catch (e) {}
     }
 
-    /* EXPORT & IMPORT BACKUP FUNCTIONS */
     function exportProgressBackup() {
       const payload = {
         app: "Labor Law Reviewer by PCGNG",
@@ -964,7 +982,6 @@
       renderLeftTree();
     }
 
-    /* STAR & BOOKMARK HANDLERS */
     function toggleCaseStarById(caseId, event) {
       if (event) event.stopPropagation();
       starredCases[caseId] = !starredCases[caseId];
@@ -1054,7 +1071,7 @@
                   class="sidebar-icon-btn ${isTopicBookmarked ? 'bookmark-active' : ''}" 
                   onclick="setOrToggleBookmark('topic', decodeURIComponent('${safeTopicId}'), ${firstTopicIdx}, decodeURIComponent('${safeTopicId}'), event)" 
                   title="${isTopicBookmarked ? 'Remove Topic Bookmark' : 'Bookmark Topic (Where I Left Off)'}"
-                >🔖</button>
+                >${bookmarkSvgHtml}</button>
                 <span class="topic-arrow">▼</span>
               </div>
             </div>
@@ -1077,7 +1094,7 @@
                   class="sidebar-icon-btn ${isSubBookmarked ? 'bookmark-active' : ''}" 
                   onclick="setOrToggleBookmark('subtopic', decodeURIComponent('${safeSubId}'), ${entries[0].index}, decodeURIComponent('${safeSubId}'), event)" 
                   title="${isSubBookmarked ? 'Remove Subtopic Bookmark' : 'Bookmark Subtopic'}"
-                >🔖</button>
+                >${bookmarkSvgHtml}</button>
               </span>
             </div>
           `;
@@ -1106,7 +1123,7 @@
                       class="sidebar-icon-btn ${isCaseBookmarked ? 'bookmark-active' : ''}" 
                       onclick="setOrToggleBookmark('case', '${e.entry.id}', ${e.index}, decodeURIComponent('${safeCaseTitle}'), event)" 
                       title="${isCaseBookmarked ? 'Remove Case Bookmark' : 'Bookmark Case (Where I Left Off)'}"
-                    >🔖</button>
+                    >${bookmarkSvgHtml}</button>
                     ${hasNote ? '<span class="note-pin-indicator" title="Has Sticky Note">📌</span>' : ''}
                     ${isCaseRead ? '<span class="read-check-indicator" title="Digest Read">✓</span>' : ''}
                   </span>
@@ -1490,7 +1507,7 @@
       const overviewBookmarkBtn = document.getElementById('overviewBookmarkBtn');
       if (overviewBookmarkBtn) {
         overviewBookmarkBtn.classList.toggle('is-bookmarked', !!isSubBookmarked);
-        overviewBookmarkBtn.innerHTML = isSubBookmarked ? '🔖 Bookmarked' : '🔖 Bookmark';
+        overviewBookmarkBtn.innerHTML = `${bookmarkSvgHtml} ${isSubBookmarked ? 'Bookmarked' : 'Bookmark'}`;
       }
 
       // Case Star Button
@@ -1506,7 +1523,7 @@
       const caseBookmarkBtn = document.getElementById('caseBookmarkBtn');
       if (caseBookmarkBtn) {
         caseBookmarkBtn.classList.toggle('is-bookmarked', !!isCaseBookmarked);
-        caseBookmarkBtn.innerHTML = isCaseBookmarked ? '🔖 Bookmarked' : '🔖 Bookmark';
+        caseBookmarkBtn.innerHTML = `${bookmarkSvgHtml} ${isCaseBookmarked ? 'Bookmarked' : 'Bookmark'}`;
       }
 
       // Case Read Button
